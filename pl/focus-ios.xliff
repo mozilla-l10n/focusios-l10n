@@ -33,11 +33,6 @@
     <target>%@ wzmacnia prywatność i może przyspieszyć czas wczytywania stron i zmniejszyć ilość przesyłanych danych.</target>
     <note>Label displayed above toggles</note>
    </trans-unit>
-   <trans-unit id="%@ is enabled!">
-    <source>%@ is enabled!</source>
-    <target>%@ został włączony!</target>
-    <note>Text displayed at the final step of the intro screen</note>
-   </trans-unit>
    <trans-unit id="%@ is not enabled.">
     <source>%@ is not enabled.</source>
     <target>%@ nie został włączony.</target>
@@ -47,11 +42,6 @@
     <source>%@ is produced by Mozilla, the people behind the Firefox Web browser.</source>
     <target>%@ jest tworzony przez Mozillę, organizację stojącą za przeglądarką Firefox.</target>
     <note>About copy on the about page</note>
-   </trans-unit>
-   <trans-unit id="%@ must be enabled in Settings to work.">
-    <source>%@ must be enabled in Settings to work.</source>
-    <target>%@ musi zostać włączony w Ustawieniach, aby zadziałać.</target>
-    <note>Notice label show on second introduction screen</note>
    </trans-unit>
    <trans-unit id="%@ puts you in control and brings added privacy and performance to your mobile browsing experience.">
     <source>%@ puts you in control and brings added privacy and performance to your mobile browsing experience.</source>
@@ -94,20 +84,10 @@
     <target>Blokowanie pozostałych elementów śledzących może uniemożliwiać oglądanie niektórych filmów i stron WWW.</target>
     <note>Alert message shown when toggling the Content blocker</note>
    </trans-unit>
-   <trans-unit id="Checking installation…">
-    <source>Checking installation…</source>
-    <target>Sprawdzanie instalacji…</target>
-    <note>Text displayed at the final step of the intro screen</note>
-   </trans-unit>
    <trans-unit id="Enable %@">
     <source>Enable %@</source>
     <target>Włącz %@</target>
     <note>Label for instructions to enable shown on the second introduction screen</note>
-   </trans-unit>
-   <trans-unit id="Get Started">
-    <source>Get Started</source>
-    <target>Zamknij</target>
-    <note>Button to close the intro screen</note>
    </trans-unit>
    <trans-unit id="Help">
     <source>Help</source>
@@ -122,7 +102,7 @@
    <trans-unit id="May break some videos and Web pages">
     <source>May break some videos and Web pages</source>
     <target>Może uniemożliwiać oglądanie niektórych filmów i stron WWW.</target>
-    <note>Label for toggle on main screen</note>
+    <note>Label subtitle for toggle on main screen</note>
    </trans-unit>
    <trans-unit id="No, Thanks">
     <source>No, Thanks</source>
@@ -160,20 +140,20 @@
     <target>Więcej informacji</target>
     <note>Button on the about page</note>
    </trans-unit>
+   <trans-unit id="Settings.sectionIntegration">
+    <source>INTEGRATION</source>
+    <target>Integracja</target>
+    <note>Label for Safari integration section</note>
+   </trans-unit>
    <trans-unit id="Settings.title">
     <source>Settings</source>
     <target>Ustawienia</target>
     <note>Title for settings screen</note>
    </trans-unit>
-   <trans-unit id="Setup Instructions">
-    <source>Setup Instructions</source>
-    <target>Instrukcje konfiguracji</target>
-    <note>Label in About screen</note>
-   </trans-unit>
-   <trans-unit id="Skip">
-    <source>Skip</source>
-    <target>Pomiń</target>
-    <note>Button at top of the last intro screen when the app is not enabled</note>
+   <trans-unit id="Settings.toggleSafari">
+    <source>Safari</source>
+    <target>Safari</target>
+    <note>Safari toggle label on settings screen</note>
    </trans-unit>
    <trans-unit id="Tap Safari, then select Content Blockers">
     <source>Tap Safari, then select Content Blockers</source>
