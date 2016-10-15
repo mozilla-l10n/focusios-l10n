@@ -99,11 +99,6 @@
     <target>Sprawdzanie instalacji…</target>
     <note>Text displayed at the final step of the intro screen</note>
    </trans-unit>
-   <trans-unit id="Done">
-    <source>Done</source>
-    <target>Gotowe</target>
-    <note>Button at top of app that goes to the About screen</note>
-   </trans-unit>
    <trans-unit id="Enable %@">
     <source>Enable %@</source>
     <target>Włącz %@</target>
@@ -164,6 +159,11 @@
     <source>Read more.</source>
     <target>Więcej informacji</target>
     <note>Button on the about page</note>
+   </trans-unit>
+   <trans-unit id="Settings.title">
+    <source>Settings</source>
+    <target>Ustawienia</target>
+    <note>Title for settings screen</note>
    </trans-unit>
    <trans-unit id="Setup Instructions">
     <source>Setup Instructions</source>
