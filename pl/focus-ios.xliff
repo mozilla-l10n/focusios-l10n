@@ -180,6 +180,11 @@
     <target>Stuknij Safari a następnie Blokady zawartości</target>
     <note>Label for instructions to enable shown on the second introduction screen</note>
    </trans-unit>
+   <trans-unit id="URL.cancelLabel">
+    <source>Cancel</source>
+    <target>Anuluj</target>
+    <note>Label for cancel button shown when entering a URL or search</note>
+   </trans-unit>
    <trans-unit id="URL.placeholderText">
     <source>Search or enter address</source>
     <target>Wprowadź adres lub szukaj</target>
