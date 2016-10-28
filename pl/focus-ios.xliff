@@ -165,6 +165,11 @@
     <target>Anuluj</target>
     <note>Label for cancel button shown when entering a URL or search</note>
    </trans-unit>
+   <trans-unit id="URL.deleteButton">
+    <source>DELETE</source>
+    <target>Usuń</target>
+    <note>Delete button in the URL bar</note>
+   </trans-unit>
    <trans-unit id="URL.placeholderText">
     <source>Search or enter address</source>
     <target>Wprowadź adres lub szukaj</target>
