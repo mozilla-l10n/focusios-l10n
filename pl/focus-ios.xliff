@@ -154,10 +154,10 @@
     <target>Integracja</target>
     <note>Label for Safari integration section</note>
    </trans-unit>
-   <trans-unit id="Settings.supportSectionLabel">
-    <source>SUPPORT</source>
-    <target>Wsparcie</target>
-    <note>Section label for support toggles</note>
+   <trans-unit id="Settings.sectionMozilla">
+    <source>MOZILLA</source>
+    <target>Mozilla</target>
+    <note>Section label for Mozilla toggles</note>
    </trans-unit>
    <trans-unit id="Settings.title">
     <source>Settings</source>
@@ -175,8 +175,8 @@
     <note>Label for Send Anonymous Usage Data toggle on main screen</note>
    </trans-unit>
    <trans-unit id="Settings.toggleSendAnonymousUsageDataSubtitle">
-    <source>More info…</source>
-    <target>Więcej informacji…</target>
+    <source>Learn more</source>
+    <target>Więcej informacji</target>
     <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
    </trans-unit>
    <trans-unit id="Tap Safari, then select Content Blockers">
@@ -188,11 +188,6 @@
     <source>Cancel</source>
     <target>Anuluj</target>
     <note>Label for cancel button shown when entering a URL or search</note>
-   </trans-unit>
-   <trans-unit id="URL.clearButton">
-    <source>CLEAR</source>
-    <target>Usuń</target>
-    <note>Clear button in the URL bar</note>
    </trans-unit>
    <trans-unit id="URL.placeholderText">
     <source>Search or enter address</source>
@@ -208,6 +203,11 @@
     <source>Your Rights</source>
     <target>O prawach użytkownika</target>
     <note>Label in About screen</note>
+   </trans-unit>
+   <trans-unit id="eraseButton">
+    <source>ERASE</source>
+    <target>Usuń</target>
+    <note>Erase button in the URL bar</note>
    </trans-unit>
   </body>
  </file>
