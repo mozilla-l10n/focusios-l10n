@@ -84,6 +84,21 @@
     <target>Blokowanie pozostałych elementów śledzących może uniemożliwiać oglądanie niektórych filmów i stron WWW.</target>
     <note>Alert message shown when toggling the Content blocker</note>
    </trans-unit>
+   <trans-unit id="Delete.alertCancel">
+    <source>Cancel</source>
+    <target>Anuluj</target>
+    <note>Button label for cancelling the delete alert</note>
+   </trans-unit>
+   <trans-unit id="Delete.alertDelete">
+    <source>Delete</source>
+    <target>Usuń</target>
+    <note>Button label for deleting the session from the alert</note>
+   </trans-unit>
+   <trans-unit id="Delete.alertMessage">
+    <source>Delete your browsing history and data?</source>
+    <target>Czy usunąć dane i historię przeglądania?</target>
+    <note>Message for the alert shown after pressing Delete</note>
+   </trans-unit>
    <trans-unit id="Enable %@">
     <source>Enable %@</source>
     <target>Włącz %@</target>
