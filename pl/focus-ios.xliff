@@ -13,8 +13,8 @@
     <target>$(PRODUCT_NAME)</target>
    </trans-unit>
    <trans-unit id="CFBundleShortVersionString">
-    <source>1.0</source>
-    <target>1.0</target>
+    <source>1.1</source>
+    <target>1.1</target>
    </trans-unit>
   </body>
  </file>
@@ -192,8 +192,8 @@
     <target>$(PRODUCT_NAME)</target>
    </trans-unit>
    <trans-unit id="CFBundleShortVersionString">
-    <source>1.0</source>
-    <target>1.0</target>
+    <source>1.1</source>
+    <target>1.1</target>
    </trans-unit>
   </body>
  </file>
