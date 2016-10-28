@@ -154,6 +154,11 @@
     <target>Integracja</target>
     <note>Label for Safari integration section</note>
    </trans-unit>
+   <trans-unit id="Settings.supportSectionLabel">
+    <source>SUPPORT</source>
+    <target>Wsparcie</target>
+    <note>Section label for support toggles</note>
+   </trans-unit>
    <trans-unit id="Settings.title">
     <source>Settings</source>
     <target>Ustawienia</target>
@@ -163,6 +168,16 @@
     <source>Safari</source>
     <target>Safari</target>
     <note>Safari toggle label on settings screen</note>
+   </trans-unit>
+   <trans-unit id="Settings.toggleSendAnonymousUsageData">
+    <source>Send anonymous usage data</source>
+    <target>Przesyłanie anonimowych danych o użyciu</target>
+    <note>Label for Send Anonymous Usage Data toggle on main screen</note>
+   </trans-unit>
+   <trans-unit id="Settings.toggleSendAnonymousUsageDataSubtitle">
+    <source>More info…</source>
+    <target>Więcej informacji…</target>
+    <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
    </trans-unit>
    <trans-unit id="Tap Safari, then select Content Blockers">
     <source>Tap Safari, then select Content Blockers</source>
