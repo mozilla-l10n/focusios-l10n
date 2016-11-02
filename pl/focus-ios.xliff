@@ -99,6 +99,16 @@
     <target>Pomoc</target>
     <note>Label in About screen</note>
    </trans-unit>
+   <trans-unit id="Home.descriptionLabel1">
+    <source>Private browsing made easy.</source>
+    <target>Proste i łatwe przeglądanie prywatne.</target>
+    <note>First label for product description on the home screen</note>
+   </trans-unit>
+   <trans-unit id="Home.descriptionLabel2">
+    <source>Search. Browse. Erase. Repeat.</source>
+    <target>Szukaj. Przeglądaj. Usuwaj. Powtórz.</target>
+    <note>Second label for product description on the home screen</note>
+   </trans-unit>
    <trans-unit id="I Understand">
     <source>I Understand</source>
     <target>Rozumiem</target>
