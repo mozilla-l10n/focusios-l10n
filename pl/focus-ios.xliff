@@ -23,11 +23,6 @@
    <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
   </header>
   <body>
-   <trans-unit id="%@ helps you improve the privacy and performance of your mobile browsing experience. You control what types of page content are allowed.">
-    <source>%@ helps you improve the privacy and performance of your mobile browsing experience. You control what types of page content are allowed.</source>
-    <target>%@ pomaga wzmocnić prywatność i zwiększyć wydajność przeglądania stron na urządzeniach przenośnych, dając kontrolę nad wczytywanymi typami treści.</target>
-    <note>Description text shown on the welcome slide of the tour</note>
-   </trans-unit>
    <trans-unit id="%@ is not enabled.">
     <source>%@ is not enabled.</source>
     <target>%@ nie został włączony.</target>
@@ -208,11 +203,6 @@
     <source>Search or enter address</source>
     <target>Wprowadź adres lub szukaj</target>
     <note>Placeholder text shown in the URL bar before the user navigates to a page</note>
-   </trans-unit>
-   <trans-unit id="Welcome">
-    <source>Welcome</source>
-    <target>Witamy</target>
-    <note>Text displayed under the wave on the first intro slide at launch</note>
    </trans-unit>
    <trans-unit id="Your Rights">
     <source>Your Rights</source>
