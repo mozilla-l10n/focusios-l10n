@@ -28,22 +28,57 @@
     <target>%@ nie został włączony.</target>
     <note>Error label when the blocker is not enabled, shown in the intro and main app when disabled</note>
    </trans-unit>
-   <trans-unit id="%@ is produced by Mozilla, the people behind the Firefox Web browser.">
-    <source>%@ is produced by Mozilla, the people behind the Firefox Web browser.</source>
-    <target>%@ jest tworzony przez Mozillę, organizację stojącą za przeglądarką Firefox.</target>
-    <note>About copy on the about page</note>
-   </trans-unit>
-   <trans-unit id="%@ puts you in control and brings added privacy and performance to your mobile browsing experience.">
-    <source>%@ puts you in control and brings added privacy and performance to your mobile browsing experience.</source>
-    <target>%@ daje większą kontrolę, zwiększa prywatność i wydajność przeglądania stron na urządzeniach przenośnych.</target>
-    <note>About copy on the about page</note>
-   </trans-unit>
    <trans-unit id="About">
     <source>About</source>
     <target>O programie</target>
     <note>Button at top of app that goes to the About screen
           Title for the About screen</note>
    </trans-unit>
+   <trans-unit id="About.missionLabel">
+    <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
+    <target>%@ jest tworzony przez Mozillę. Naszą misją jest wspieranie zdrowego i otwartego Internetu.</target>
+    <note>Label on About screen</note>
+   </trans-unit>
+   <trans-unit id="About.privateBullet1">
+    <source>Search and browse right in the app</source>
+    <target>szukać i przeglądać prosto z aplikacji</target>
+    <note>Label on About screen</note>
+   </trans-unit>
+   <trans-unit id="About.privateBullet2">
+    <source>Block trackers (or update settings to allow trackers)</source>
+    <target>blokować śledzące elementy (można zmienić w ustawieniach)</target>
+    <note>Label on About screen</note>
+   </trans-unit>
+   <trans-unit id="About.privateBullet3">
+    <source>Erase to delete cookies as well as search and browsing history</source>
+    <target>usuwać ciasteczka i historię przeglądania</target>
+    <note>Label on About screen</note>
+   </trans-unit>
+   <trans-unit id="About.privateBulletHeader">
+    <source>Use it as a private browser:</source>
+    <target>Jako prywatna przeglądarka pozwala:</target>
+    <note>Label on About screen</note>
+   </trans-unit>
+   <trans-unit id="About.safariBullet1">
+    <source>Block trackers for improved privacy</source>
+    <target>blokować śledzące elementy dla większej prywatności</target>
+    <note>Label on About screen</note>
+   </trans-unit>
+   <trans-unit id="About.safariBullet2">
+    <source>Block Web fonts to reduce page size</source>
+    <target>blokować czcionki siecowe i pobierać mniej danych</target>
+    <note>Label on About screen</note>
+   </trans-unit>
+   <trans-unit id="About.safariBulletHeader">
+    <source>Use it as a Safari extension:</source>
+    <target>Jako rozszerzenie blokad zawartości Safari pozwala:</target>
+    <note>Label on About screen</note>
+   </trans-unit>
+   <trans-unit id="About.topLabel">
+    <source>%@ puts you in control.</source>
+    <target>%@ daje większą kontrolę.</target>
+    <note>Label on About screen</note>
+   </trans-unit> 
    <trans-unit id="Block Web fonts">
     <source>Block Web fonts</source>
     <target>Blokowanie czcionek siecowych</target>
@@ -124,11 +159,6 @@
     <target>Otwórz aplikację Ustawienia</target>
     <note>Label for instructions to enable shown on the second introduction screen</note>
    </trans-unit>
-   <trans-unit id="Our mission is to foster a healthy, open Internet.">
-    <source>Our mission is to foster a healthy, open Internet.</source>
-    <target>Naszą misją jest wspieranie zdrowego i otwartego Internetu.</target>
-    <note>About copy on the about page</note>
-   </trans-unit>
    <trans-unit id="PERFORMANCE">
     <source>PERFORMANCE</source>
     <target>Wydajność</target>
@@ -138,11 +168,6 @@
     <source>PRIVACY</source>
     <target>Prywatność</target>
     <note>Section label for privacy toggles</note>
-   </trans-unit>
-   <trans-unit id="Read more.">
-    <source>Read more.</source>
-    <target>Więcej informacji</target>
-    <note>Button on the about page</note>
    </trans-unit>
    <trans-unit id="Search for %@">
     <source>Search for %@</source>
