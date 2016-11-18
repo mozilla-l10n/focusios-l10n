@@ -16,6 +16,22 @@
     <source>2.0</source>
     <target>2.0</target>
    </trans-unit>
+   <trans-unit id="NSCameraUsageDescription">
+    <source>This lets you take and upload photos.</source>
+    <target>Pozwala robić i wgrywać zdjęcia.</target>
+   </trans-unit>
+    <trans-unit id="NSLocationWhenInUseUsageDescription">
+    <source>Websites you visit may request your location.</source>
+    <target>Odwiedzane strony mogą żądać informacji o położeniu.</target>
+   </trans-unit>
+   <trans-unit id="NSMicrophoneUsageDescription">
+    <source>This lets you take and upload videos.</source>
+    <target>Pozwala kręcić i wgrywać filmy.</target>
+   </trans-unit>
+   <trans-unit id="NSPhotoLibraryUsageDescription">
+    <source>This lets you save and upload photos.</source>
+    <target>Pozwala zachowywać i wgrywać zdjęcia.</target>
+   </trans-unit>
   </body>
  </file>
  <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="pl">
