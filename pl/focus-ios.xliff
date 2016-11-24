@@ -39,6 +39,11 @@
    <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
   </header>
   <body>
+   <trans-unit id="About.learnMoreButton">
+    <source>Learn more</source>
+    <target>Więcej informacji</target>
+    <note>Button on About screen</note>
+   </trans-unit>
    <trans-unit id="About.missionLabel">
     <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
     <target>%@ jest tworzony przez Mozillę. Naszą misją jest wspieranie zdrowego i otwartego Internetu.</target>
