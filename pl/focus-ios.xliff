@@ -179,6 +179,16 @@
     <target>Ustawienia</target>
     <note>Title for settings screen</note>
    </trans-unit>
+   <trans-unit id="Settings.searchSection">
+    <source>SEARCH ENGINE</source>
+    <target>Wyszukiwanie</target>
+    <note>Title for the search engine row</note>
+   </trans-unit>
+   <trans-unit id="Settings.searchTitle">
+    <source>Search Engine</source>
+    <target>Wyszukiwanie</target>
+    <note>Title for the search engine selection screen</note>
+   </trans-unit>
    <trans-unit id="Settings.sectionIntegration">
     <source>INTEGRATION</source>
     <target>Integracja</target>
