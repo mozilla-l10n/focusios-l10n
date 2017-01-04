@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="Browser.backLabel">
         <source>Back</source>
-        <target>Reculer d’une page</target>
+        <target>Retour</target>
         <note>Accessibility label for the back button</note>
       </trans-unit>
       <trans-unit id="Browser.forwardLabel">
@@ -201,6 +201,7 @@
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
         <source>Blocking other content trackers may break some videos and Web pages.</source>
+        <target>Bloquer les autres traqueurs de contenu peut empêcher certaines vidéos et certaines pages web de s’afficher correctement.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo">
@@ -275,6 +276,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
+        <target>Peut empêcher certaines vidéos et certaines pages web de s’afficher correctement.</target>
         <note>Label subtitle for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSafari">
