@@ -53,6 +53,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet2">
         <source>Block trackers (or update settings to allow trackers)</source>
+        <target>Blokujte sledovací prvky (nebo aktualizujte nastavení pro povolení sledovacích prvků)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3">
@@ -77,6 +78,7 @@
       </trans-unit>
       <trans-unit id="About.safariBullet1">
         <source>Block trackers for improved privacy</source>
+        <target>Blokovat sledovací prvky pro vylepšení soukromí</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2">
@@ -141,6 +143,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
+        <target>Automaticky blokuje sledovací prvky zatímco prohlížíte. Poté klepněte pro vymazání zobrazených stránek, vyhledávání, souborů cookie a hesel z vašeho zařízení.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
@@ -200,6 +203,7 @@
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
         <source>Blocking other content trackers may break some videos and Web pages.</source>
+        <target>Blokování ostatních sledovacích prvků může rozbít některá videa a webové stránky.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo">
@@ -249,58 +253,72 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
         <source>Block ad trackers</source>
+        <target>Blokovat sledující reklamy</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
         <source>Block analytics trackers</source>
+        <target>Blokovat analytické prvky</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
         <source>Block Web fonts</source>
+        <target>Blokovat webové fonty</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther">
         <source>Block other content trackers</source>
+        <target>Blokovat ostatní sledující prvky</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
         <source>Block social trackers</source>
+        <target>Blokovat sledující prvky sociálních sítí</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
+        <target>Může rozbít některá videa a webové stránky</target>
         <note>Label subtitle for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSafari">
         <source>Safari</source>
+        <target>Safari</target>
         <note>Safari toggle label on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSendAnonymousUsageData">
         <source>Send anonymous usage data</source>
+        <target>Odesílat anonymní data o používání</target>
         <note>Label for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSendAnonymousUsageDataSubtitle">
         <source>Learn more</source>
+        <target>Zjistit více</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
         <source>Cancel</source>
+        <target>Zrušit</target>
         <note>Label for cancel button shown when entering a URL or search</note>
       </trans-unit>
       <trans-unit id="URL.eraseButtonLabel">
         <source>ERASE</source>
+        <target>VYMAZAT</target>
         <note>Erase button in the URL bar</note>
       </trans-unit>
       <trans-unit id="URL.eraseMessageLabel">
         <source>Your browsing history has been erased.</source>
+        <target>Vaše historie procházení byla vymazána.</target>
         <note>Message shown after pressing the Erase button</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText">
         <source>Search or enter address</source>
+        <target>Zadejte hledání nebo adresu</target>
         <note>Placeholder text shown in the URL bar before the user navigates to a page</note>
       </trans-unit>
       <trans-unit id="URL.searchLabel">
         <source>Search for %@</source>
+        <target>Hledat %@</target>
         <note>Label displayed for search button when typing in the URL bar</note>
       </trans-unit>
     </body>
