@@ -139,6 +139,26 @@
     <target>Przeglądaj. Usuwaj. Powtórz.</target>
     <note>Second label for product description on the home screen</note>
    </trans-unit>
+   <trans-unit id="Open.Cancel">
+    <source>Cancel</source>
+    <target>Anuluj</target>
+    <note>Label in share alert to cancel the alert</note>
+   </trans-unit>
+   <trans-unit id="Open.Firefox">
+    <source>Firefox</source>
+    <target>Firefox</target>
+    <note>Label in share alert to open the URL in Firefox</note>
+   </trans-unit>
+   <trans-unit id="Open.Safari">
+    <source>Safari</source>
+    <target>Safari</target>
+    <note>Label in share alert to open the URL in Safari</note>
+   </trans-unit>
+   <trans-unit id="Open.Share">
+    <source>Share…</source>
+    <target>Udostępnij…</target>
+    <note>Label in share alert to open the system share menu</note>
+   </trans-unit>
    <trans-unit id="Safari.instructionsContentBlockers">
     <source>Tap Safari, then select Content Blockers</source>
     <target>Stuknij Safari a następnie Blokady zawartości</target>
