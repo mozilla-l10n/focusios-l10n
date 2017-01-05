@@ -76,7 +76,7 @@
       </trans-unit>
       <trans-unit id="About.safariBullet1">
         <source>Block trackers for improved privacy</source>
-        <target>Block spårare för förbättrad integritet</target>
+        <target>Blockera trackers för förbättrad integritet</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2">
