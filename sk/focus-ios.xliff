@@ -163,6 +163,7 @@
       </trans-unit>
       <trans-unit id="Open.More">
         <source>More</source>
+        <target>Viac</target>
         <note>Label in share alert to open the full system share menu</note>
       </trans-unit>
       <trans-unit id="Open.Safari">
