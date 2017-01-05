@@ -104,6 +104,36 @@
     <target>%@ daje większą kontrolę.</target>
     <note>Label on About screen</note>
    </trans-unit>
+   <trans-unit id="Browser.backLabel">
+    <source>Back</source>
+    <target>Wstecz</target>
+    <note>Accessibility label for the back button</note>
+   </trans-unit>
+   <trans-unit id="Browser.forwardLabel">
+    <source>Forward</source>
+    <target>Naprzód</target>
+    <note>Accessibility label for the forward button</note>
+   </trans-unit>
+   <trans-unit id="Browser.reloadLabel">
+    <source>Reload</source>
+    <target>Wczytaj ponownie</target>
+    <note>Accessibility label for the reload button</note>
+   </trans-unit>
+   <trans-unit id="Browser.settingsLabel">
+    <source>Settings</source>
+    <target>Ustawienia</target>
+    <note>Accessibility label for the settings button</note>
+   </trans-unit>
+   <trans-unit id="Browser.shareLabel">
+    <source>Share</source>
+    <target>Udostępnij</target>
+    <note>Accessibility label for the share button</note>
+   </trans-unit>
+   <trans-unit id="Browser.stopLabel">
+    <source>Stop</source>
+    <target>Zatrzymaj</target>
+    <note>Accessibility label for the stop button</note>
+   </trans-unit>
    <trans-unit id="Error.tryAgainButton">
     <source>Try again</source>
     <target>Spróbuj ponownie</target>
