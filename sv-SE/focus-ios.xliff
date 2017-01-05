@@ -158,6 +158,7 @@
       </trans-unit>
       <trans-unit id="Open.Firefox">
         <source>Firefox (Private Browsing)</source>
+        <target>Firefox (Privat surfning)</target>
         <note>Label in share alert to open the URL in Firefox</note>
       </trans-unit>
       <trans-unit id="Open.More">
@@ -247,6 +248,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
         <source>Block Web fonts</source>
+        <target>Blockera webbteckensnitt</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther">
