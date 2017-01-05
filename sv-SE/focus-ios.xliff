@@ -43,6 +43,7 @@
       </trans-unit>
       <trans-unit id="About.missionLabel">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
+        <target>%@ produceras av Mozilla. Vårt uppdrag är att främja ett hälsosamt, öppet Internet.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet1">
@@ -52,6 +53,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet2">
         <source>Block trackers (or update settings to allow trackers)</source>
+        <target>Blockera trackers (eller uppdatera inställningar för att tillåta trackers)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3">
@@ -136,14 +138,17 @@
       </trans-unit>
       <trans-unit id="FirstRun.buttonLabel">
         <source>OK, GOT IT!</source>
+        <target>OK, FÖRSTÅTT!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
+        <target>Blockera automatiskt online-trackers när du surfar. Tryck på radera för att ta bort besökta sidor, sökningar, kakor och lösenord från din enhet.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
         <source>Browse like no one’s watching.</source>
+        <target>Surfa utan att vara övervakad.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
@@ -153,6 +158,7 @@
       </trans-unit>
       <trans-unit id="Home.descriptionLabel2">
         <source>Browse. Erase. Repeat.</source>
+        <target>Surfa. Radera. Upprepa.</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Open.Cancel">
@@ -192,10 +198,12 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsOpen">
         <source>Open Settings App</source>
+        <target>Öppna appen Inställningar</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
         <source>Blocking other content trackers may break some videos and Web pages.</source>
+        <target>Blockering av andra innehållstrackers kan störa vissa videor och webbsidor.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo">
@@ -260,6 +268,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther">
         <source>Block other content trackers</source>
+        <target>Blockera andra innehållstrackers</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
