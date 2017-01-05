@@ -15,15 +15,19 @@
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
+        <target>Esto te permite tomar y subir fotos.</target>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
+        <target>Las páginas que visites podrían solicitarte tu ubicación.</target>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription">
         <source>This lets you take and upload videos.</source>
+        <target>Esto te permite tomar y subir videos.</target>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription">
         <source>This lets you save and upload photos.</source>
+        <target>Esto te permite guardar y subir fotos.</target>
       </trans-unit>
     </body>
   </file>
@@ -34,114 +38,142 @@
     <body>
       <trans-unit id="About.learnMoreButton">
         <source>Learn more</source>
+        <target>Aprender más</target>
         <note>Button on About screen</note>
       </trans-unit>
       <trans-unit id="About.missionLabel">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
+        <target>%@ es producido por Mozilla. Nuestra misión es promover un Internet sano y abierto.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet1">
         <source>Search and browse right in the app</source>
+        <target>Busca y navega directo desde la app</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet2">
         <source>Block trackers (or update settings to allow trackers)</source>
+        <target>Bloquea rastreadores (o actualiza los ajustes para permitirlos)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3">
         <source>Erase to delete cookies as well as search and browsing history</source>
+        <target>Limpia para eliminar cookies junto al historial de búsqueda y navegación</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
         <source>Use it as a private browser:</source>
+        <target>Úsalo como un navegador privado:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp">
         <source>Help</source>
+        <target>Ayuda</target>
         <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.rowRights">
         <source>Your Rights</source>
+        <target>Tus derechos</target>
         <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet1">
         <source>Block trackers for improved privacy</source>
+        <target>Bloquea rastreadores para una privacidad mejorada</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2">
         <source>Block Web fonts to reduce page size</source>
+        <target>Bloquea fuentes Web para reducir el peso de las páginas</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
         <source>Use it as a Safari extension:</source>
+        <target>Úsalo como una extensión de Safari:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.screenTitle">
         <source>About</source>
+        <target>Acerca de</target>
         <note>Title for the About screen</note>
       </trans-unit>
       <trans-unit id="About.topLabel">
         <source>%@ puts you in control.</source>
+        <target>%@ te pone al control.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel">
         <source>Back</source>
+        <target>Atrás</target>
         <note>Accessibility label for the back button</note>
       </trans-unit>
       <trans-unit id="Browser.forwardLabel">
         <source>Forward</source>
+        <target>Adelante</target>
         <note>Accessibility label for the forward button</note>
       </trans-unit>
       <trans-unit id="Browser.reloadLabel">
         <source>Reload</source>
+        <target>Recargar</target>
         <note>Accessibility label for the reload button</note>
       </trans-unit>
       <trans-unit id="Browser.settingsLabel">
         <source>Settings</source>
+        <target>Ajustes</target>
         <note>Accessibility label for the settings button</note>
       </trans-unit>
       <trans-unit id="Browser.shareLabel">
         <source>Share</source>
+        <target>Compartir</target>
         <note>Accessibility label for the share button</note>
       </trans-unit>
       <trans-unit id="Browser.stopLabel">
         <source>Stop</source>
+        <target>Detener</target>
         <note>Accessibility label for the stop button</note>
       </trans-unit>
       <trans-unit id="Error.tryAgainButton">
         <source>Try again</source>
+        <target>Volver a intentarlo</target>
         <note>Button label to reload the error page</note>
       </trans-unit>
       <trans-unit id="FirstRun.buttonLabel">
         <source>OK, GOT IT!</source>
+        <target>OK, ¡ENTENDIDO!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
+        <target>Bloquea automáticamente rastreadores en línea mientras navegas. Luego toca para eliminar las páginas visitadas, búsquedas, cookies y contraseñas de tu dispositivo.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
         <source>Browse like no one’s watching.</source>
+        <target>Navega como si nadie te estuviese mirando.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
         <source>Automatic private browsing.</source>
+        <target>Navegación privada automática.</target>
         <note>First label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel2">
         <source>Browse. Erase. Repeat.</source>
+        <target>Navega. Limpia. Repite.</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Open.Cancel">
         <source>Cancel</source>
+        <target>Cancelar</target>
         <note>Label in share alert to cancel the alert</note>
       </trans-unit>
       <trans-unit id="Open.Firefox">
         <source>Firefox (Private Browsing)</source>
+        <target>Firefox (Navegación privada)</target>
         <note>Label in share alert to open the URL in Firefox</note>
       </trans-unit>
       <trans-unit id="Open.More">
         <source>More</source>
+        <target>Más</target>
         <note>Label in share alert to open the full system share menu</note>
       </trans-unit>
       <trans-unit id="Open.Safari">
@@ -151,34 +183,42 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers">
         <source>Tap Safari, then select Content Blockers</source>
+        <target>Toca Safari, luego selecciona Bloqueadores de contenido</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsEnable">
         <source>Enable %@</source>
+        <target>Activar %@</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsNotEnabled">
         <source>%@ is not enabled.</source>
+        <target>%@ no está activado.</target>
         <note>Error label when the blocker is not enabled, shown in the intro and main app when disabled</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsOpen">
         <source>Open Settings App</source>
+        <target>Abre la app de Ajustes</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
         <source>Blocking other content trackers may break some videos and Web pages.</source>
+        <target>Bloquear otros rastreadores de contenido puede interferir con algunos videos y páginas Web.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo">
         <source>No, Thanks</source>
+        <target>No, gracias</target>
         <note>Button label for declining Content blocker alert</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherYes">
         <source>I Understand</source>
+        <target>Entendido</target>
         <note>Button label for accepting Content blocker alert</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
         <source>Settings</source>
+        <target>Ajustes</target>
         <note>Title for settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.searchSection">
@@ -188,6 +228,7 @@
       </trans-unit>
       <trans-unit id="Settings.searchTitle">
         <source>Search Engine</source>
+        <target>Motor de búsqueda</target>
         <note>Title for the search engine selection screen</note>
       </trans-unit>
       <trans-unit id="Settings.sectionIntegration">
@@ -212,26 +253,32 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
         <source>Block ad trackers</source>
+        <target>Bloquear rastreadores de publicidad</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
         <source>Block analytics trackers</source>
+        <target>Bloquear rastreadores de analíticas</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
         <source>Block Web fonts</source>
+        <target>Bloquear fuentes Web</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther">
         <source>Block other content trackers</source>
+        <target>Bloquear otros rastreadores de contenido</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
         <source>Block social trackers</source>
+        <target>Bloquear rastreadores sociales</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
+        <target>Puede interferir con algunos videos y páginas Web</target>
         <note>Label subtitle for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSafari">
@@ -241,10 +288,12 @@
       </trans-unit>
       <trans-unit id="Settings.toggleSendAnonymousUsageData">
         <source>Send anonymous usage data</source>
+        <target>Enviar datos de uso anónimos</target>
         <note>Label for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSendAnonymousUsageDataSubtitle">
         <source>Learn more</source>
+        <target>Aprender más</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
@@ -259,14 +308,17 @@
       </trans-unit>
       <trans-unit id="URL.eraseMessageLabel">
         <source>Your browsing history has been erased.</source>
+        <target>Tu historial de navegación ha sido limpiado.</target>
         <note>Message shown after pressing the Erase button</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText">
         <source>Search or enter address</source>
+        <target>Buscar o ingresar dirección</target>
         <note>Placeholder text shown in the URL bar before the user navigates to a page</note>
       </trans-unit>
       <trans-unit id="URL.searchLabel">
         <source>Search for %@</source>
+        <target>Buscar  por %@</target>
         <note>Label displayed for search button when typing in the URL bar</note>
       </trans-unit>
     </body>
