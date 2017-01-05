@@ -175,19 +175,19 @@
     <note>Label in share alert to cancel the alert</note>
    </trans-unit>
    <trans-unit id="Open.Firefox">
-    <source>Firefox</source>
-    <target>Firefox</target>
+    <source>Firefox (Private Browsing)</source>
+    <target>Firefox (tryb prywatny)</target>
     <note>Label in share alert to open the URL in Firefox</note>
+   </trans-unit>
+   <trans-unit id="Open.More">
+    <source>More</source>
+    <target>Więcej</target>
+    <note>Label in share alert to open the full system share menu</note>
    </trans-unit>
    <trans-unit id="Open.Safari">
     <source>Safari</source>
     <target>Safari</target>
     <note>Label in share alert to open the URL in Safari</note>
-   </trans-unit>
-   <trans-unit id="Open.Share">
-    <source>Share…</source>
-    <target>Udostępnij…</target>
-    <note>Label in share alert to open the system share menu</note>
    </trans-unit>
    <trans-unit id="Safari.instructionsContentBlockers">
     <source>Tap Safari, then select Content Blockers</source>
