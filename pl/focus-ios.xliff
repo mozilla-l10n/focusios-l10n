@@ -149,14 +149,14 @@
     <target>Strony i serwisy których używasz, nadal mogą zdobywać informacje o Tobie podczas przeglądania.</target>
     <note>Message label shown under the button in the first run UI</note>
    </trans-unit>
-   <trans-unit id="FirstRun.messageLabel1">
-    <source>Browse like no one’s watching.</source>
-    <target>Przeglądaj jak gdyby nikt nie patrzył.</target>
+   <trans-unit id="FirstRun.messageLabelDescription">
+    <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
+    <target>Automatycznie blokuj śledzące elementy podczas przeglądania stron. Wystarczy stuknąć, aby usunąć z urządzenia odwiedzone strony, wyszukiwania i hasła.</target>
     <note>Message label on the first run screen</note>
    </trans-unit>
-   <trans-unit id="FirstRun.messageLabel2">
-    <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device. </source>
-    <target>Automatycznie blokuj śledzące elementy podczas przeglądania stron. Wystarczy stuknąć, aby usunąć z urządzenia odwiedzone strony, wyszukiwania i hasła.</target>
+   <trans-unit id="FirstRun.messageLabelTagline">
+    <source>Browse like no one’s watching.</source>
+    <target>Przeglądaj jak gdyby nikt nie patrzył.</target>
     <note>Message label on the first run screen</note>
    </trans-unit>
    <trans-unit id="Home.descriptionLabel1">
