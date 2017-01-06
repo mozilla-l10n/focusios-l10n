@@ -1,0 +1,361 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="ar">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>2.0</source>
+        <target>2.0</target>
+      </trans-unit>
+      <trans-unit id="NSCameraUsageDescription">
+        <source>This lets you take and upload photos.</source>
+        <target>يتيح لك هذا أخذ الصور و رفعها.</target>
+      </trans-unit>
+      <trans-unit id="NSLocationWhenInUseUsageDescription">
+        <source>Websites you visit may request your location.</source>
+        <target>المواقع التي تزورها يمكن أن تطلب معرفة مكانك.</target>
+      </trans-unit>
+      <trans-unit id="NSMicrophoneUsageDescription">
+        <source>This lets you take and upload videos.</source>
+        <target>يتيح لك هذا تصوير الڤديو و رفعه.</target>
+      </trans-unit>
+      <trans-unit id="NSPhotoLibraryUsageDescription">
+        <source>This lets you save and upload photos.</source>
+        <target>يتيح لك هذا حفظ الصور و رفعها.</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="ar">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="About.learnMoreButton">
+        <source>Learn more</source>
+        <target>اطّلع على المزيد</target>
+        <note>Button on About screen</note>
+      </trans-unit>
+      <trans-unit id="About.missionLabel">
+        <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
+        <target>%@ منتج من موزيلا. مهمتنا تشجيع إنترنت مفتوح و صحي.</target>
+        <note>Label on About screen</note>
+      </trans-unit>
+      <trans-unit id="About.privateBullet1">
+        <source>Search and browse right in the app</source>
+        <target>ابحث و تصفح مباشرة في التطبيق</target>
+        <note>Label on About screen</note>
+      </trans-unit>
+      <trans-unit id="About.privateBullet2">
+        <source>Block trackers (or update settings to allow trackers)</source>
+        <target>احظر المتعقبات (أو حدّث الإعدادات للسماح بالمتعقبات)</target>
+        <note>Label on About screen</note>
+      </trans-unit>
+      <trans-unit id="About.privateBullet3">
+        <source>Erase to delete cookies as well as search and browsing history</source>
+        <target>امسح أو احذف الكعكات بالإضافة إلى حذف تأريخ البحث و التصفح</target>
+        <note>Label on About screen</note>
+      </trans-unit>
+      <trans-unit id="About.privateBulletHeader">
+        <source>Use it as a private browser:</source>
+        <target>استخدمه كمتصفح خاص:</target>
+        <note>Label on About screen</note>
+      </trans-unit>
+      <trans-unit id="About.rowHelp">
+        <source>Help</source>
+        <target>مساعدة</target>
+        <note>Label for row in About screen</note>
+      </trans-unit>
+      <trans-unit id="About.rowRights">
+        <source>Your Rights</source>
+        <target>حقوقك</target>
+        <note>Label for row in About screen</note>
+      </trans-unit>
+      <trans-unit id="About.safariBullet1">
+        <source>Block trackers for improved privacy</source>
+        <target>احظر المتعقبات لتحسين الخصوصية</target>
+        <note>Label on About screen</note>
+      </trans-unit>
+      <trans-unit id="About.safariBullet2">
+        <source>Block Web fonts to reduce page size</source>
+        <target>احظر خطوط الوب لتقليل حجم الصفحات</target>
+        <note>Label on About screen</note>
+      </trans-unit>
+      <trans-unit id="About.safariBulletHeader">
+        <source>Use it as a Safari extension:</source>
+        <target>استخدمه كامتداد لمتصفح سفاري:</target>
+        <note>Label on About screen</note>
+      </trans-unit>
+      <trans-unit id="About.screenTitle">
+        <source>About</source>
+        <target>عن</target>
+        <note>Title for the About screen</note>
+      </trans-unit>
+      <trans-unit id="About.topLabel">
+        <source>%@ puts you in control.</source>
+        <target>يعطيك %@ الدفة.</target>
+        <note>Label on About screen</note>
+      </trans-unit>
+      <trans-unit id="Browser.backLabel">
+        <source>Back</source>
+        <target>السابق</target>
+        <note>Accessibility label for the back button</note>
+      </trans-unit>
+      <trans-unit id="Browser.forwardLabel">
+        <source>Forward</source>
+        <target>التالي</target>
+        <note>Accessibility label for the forward button</note>
+      </trans-unit>
+      <trans-unit id="Browser.reloadLabel">
+        <source>Reload</source>
+        <target>أعد التحميل</target>
+        <note>Accessibility label for the reload button</note>
+      </trans-unit>
+      <trans-unit id="Browser.settingsLabel">
+        <source>Settings</source>
+        <target>الإعدادات</target>
+        <note>Accessibility label for the settings button</note>
+      </trans-unit>
+      <trans-unit id="Browser.shareLabel">
+        <source>Share</source>
+        <target>شارك</target>
+        <note>Accessibility label for the share button</note>
+      </trans-unit>
+      <trans-unit id="Browser.stopLabel">
+        <source>Stop</source>
+        <target>أوقف</target>
+        <note>Accessibility label for the stop button</note>
+      </trans-unit>
+      <trans-unit id="Error.tryAgainButton">
+        <source>Try again</source>
+        <target>أعِد المحاولة</target>
+        <note>Button label to reload the error page</note>
+      </trans-unit>
+      <trans-unit id="FirstRun.buttonLabel">
+        <source>OK, GOT IT!</source>
+        <target>حسنا، فهمت!</target>
+        <note>Label on button to dismiss first run UI</note>
+      </trans-unit>
+      <trans-unit id="FirstRun.messageLabelDescription">
+        <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
+        <target>احظر متعقبات الإنترنت تلقائيًا أثناء التصفح. ثم انقر لمسح الصفحات التي زرتها، و تأريخ البحث، و الكعكات، و كلمات السر من جهازك.</target>
+        <note>Message label on the first run screen</note>
+      </trans-unit>
+      <trans-unit id="FirstRun.messageLabelTagline">
+        <source>Browse like no one’s watching.</source>
+        <target>تصفح و لا أحد يراقبك.</target>
+        <note>Message label on the first run screen</note>
+      </trans-unit>
+      <trans-unit id="Home.descriptionLabel1">
+        <source>Automatic private browsing.</source>
+        <target>تصفح خاص تلقائي.</target>
+        <note>First label for product description on the home screen</note>
+      </trans-unit>
+      <trans-unit id="Home.descriptionLabel2">
+        <source>Browse. Erase. Repeat.</source>
+        <target>تصفح. امسح. كرر.</target>
+        <note>Second label for product description on the home screen</note>
+      </trans-unit>
+      <trans-unit id="Open.Cancel">
+        <source>Cancel</source>
+        <target>ألغِ</target>
+        <note>Label in share alert to cancel the alert</note>
+      </trans-unit>
+      <trans-unit id="Open.Firefox">
+        <source>Firefox (Private Browsing)</source>
+        <target>فَيَرفُكس (التصفح الخاص)</target>
+        <note>Label in share alert to open the URL in Firefox</note>
+      </trans-unit>
+      <trans-unit id="Open.More">
+        <source>More</source>
+        <target>المزيد</target>
+        <note>Label in share alert to open the full system share menu</note>
+      </trans-unit>
+      <trans-unit id="Open.Safari">
+        <source>Safari</source>
+        <target>سفاري</target>
+        <note>Label in share alert to open the URL in Safari</note>
+      </trans-unit>
+      <trans-unit id="Safari.instructionsContentBlockers">
+        <source>Tap Safari, then select Content Blockers</source>
+        <target>انقر على سفاري ثم اختر ”أدوات حظر المحتوى“</target>
+        <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
+      </trans-unit>
+      <trans-unit id="Safari.instructionsEnable">
+        <source>Enable %@</source>
+        <target>فعّل %@</target>
+        <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
+      </trans-unit>
+      <trans-unit id="Safari.instructionsNotEnabled">
+        <source>%@ is not enabled.</source>
+        <target>‏%@ ليس مفعّلا.</target>
+        <note>Error label when the blocker is not enabled, shown in the intro and main app when disabled</note>
+      </trans-unit>
+      <trans-unit id="Safari.instructionsOpen">
+        <source>Open Settings App</source>
+        <target>افتح تطبيق الإعدادات</target>
+        <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
+      </trans-unit>
+      <trans-unit id="Settings.blockOtherMessage">
+        <source>Blocking other content trackers may break some videos and Web pages.</source>
+        <target>حظر متعقبات المحتوى الأخرى قد يعطل بعض الڤديو و صفحات الوب.</target>
+        <note>Alert message shown when toggling the Content blocker</note>
+      </trans-unit>
+      <trans-unit id="Settings.blockOtherNo">
+        <source>No, Thanks</source>
+        <target>لا، شكرًا</target>
+        <note>Button label for declining Content blocker alert</note>
+      </trans-unit>
+      <trans-unit id="Settings.blockOtherYes">
+        <source>I Understand</source>
+        <target>أفهم هذا</target>
+        <note>Button label for accepting Content blocker alert</note>
+      </trans-unit>
+      <trans-unit id="Settings.screenTitle">
+        <source>Settings</source>
+        <target>الإعدادات</target>
+        <note>Title for settings screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.searchSection">
+        <source>SEARCH ENGINE</source>
+        <target>محرك البحث</target>
+        <note>Title for the search engine row</note>
+      </trans-unit>
+      <trans-unit id="Settings.searchTitle">
+        <source>Search Engine</source>
+        <target>محرك البحث</target>
+        <note>Title for the search engine selection screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.sectionIntegration">
+        <source>INTEGRATION</source>
+        <target>التكامل</target>
+        <note>Label for Safari integration section</note>
+      </trans-unit>
+      <trans-unit id="Settings.sectionMozilla">
+        <source>MOZILLA</source>
+        <target>موزيلا</target>
+        <note>Section label for Mozilla toggles</note>
+      </trans-unit>
+      <trans-unit id="Settings.sectionPerformance">
+        <source>PERFORMANCE</source>
+        <target>الأداء</target>
+        <note>Section label for performance toggles</note>
+      </trans-unit>
+      <trans-unit id="Settings.sectionPrivacy">
+        <source>PRIVACY</source>
+        <target>الخصوصية</target>
+        <note>Section label for privacy toggles</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleBlockAds">
+        <source>Block ad trackers</source>
+        <target>احظر متعقبات الإعلانات</target>
+        <note>Label for toggle on main screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleBlockAnalytics">
+        <source>Block analytics trackers</source>
+        <target>احظر متعقبات التحليلات</target>
+        <note>Label for toggle on main screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleBlockFonts">
+        <source>Block Web fonts</source>
+        <target>احظر خطوط الوب</target>
+        <note>Label for toggle on main screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleBlockOther">
+        <source>Block other content trackers</source>
+        <target>احظر متعقبات المحتوى الأخرى</target>
+        <note>Label for toggle on main screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleBlockSocial">
+        <source>Block social trackers</source>
+        <target>احظر المتعقبات الاجتماعية</target>
+        <note>Label for toggle on main screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleOtherSubtitle">
+        <source>May break some videos and Web pages</source>
+        <target>قد يعطل بعض الڤديو و صفحات الوب</target>
+        <note>Label subtitle for toggle on main screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleSafari">
+        <source>Safari</source>
+        <target>سفاري</target>
+        <note>Safari toggle label on settings screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleSendAnonymousUsageData">
+        <source>Send anonymous usage data</source>
+        <target>أرسل بيانات استخدام مجهّلة</target>
+        <note>Label for Send Anonymous Usage Data toggle on main screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleSendAnonymousUsageDataSubtitle">
+        <source>Learn more</source>
+        <target>اطّلع على المزيد</target>
+        <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
+      </trans-unit>
+      <trans-unit id="URL.cancelLabel">
+        <source>Cancel</source>
+        <target>ألغِ</target>
+        <note>Label for cancel button shown when entering a URL or search</note>
+      </trans-unit>
+      <trans-unit id="URL.eraseButtonLabel">
+        <source>ERASE</source>
+        <target>امسح</target>
+        <note>Erase button in the URL bar</note>
+      </trans-unit>
+      <trans-unit id="URL.eraseMessageLabel">
+        <source>Your browsing history has been erased.</source>
+        <target>لقد مسح تأريخ تصفحك.</target>
+        <note>Message shown after pressing the Erase button</note>
+      </trans-unit>
+      <trans-unit id="URL.placeholderText">
+        <source>Search or enter address</source>
+        <target>ابحث أو أدخل عنوانا</target>
+        <note>Placeholder text shown in the URL bar before the user navigates to a page</note>
+      </trans-unit>
+      <trans-unit id="URL.searchLabel">
+        <source>Search for %@</source>
+        <target>ابحث عن %@</target>
+        <note>Label displayed for search button when typing in the URL bar</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="ContentBlocker/Info.plist" source-language="en" datatype="plaintext" target-language="ar">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>2.0</source>
+        <target>2.0</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="XCUITest/Info.plist" source-language="en" datatype="plaintext" target-language="ar">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+        <target>1.0</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
+
