@@ -23,9 +23,11 @@
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription">
         <source>This lets you take and upload videos.</source>
+        <target>Woo nda war ga widewo zaa k'a zijandi.</target>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription">
         <source>This lets you save and upload photos.</source>
+        <target>Woo nda war ga biyey gaabu nd'i zijandi.</target>
       </trans-unit>
     </body>
   </file>
@@ -36,14 +38,17 @@
     <body>
       <trans-unit id="About.learnMoreButton">
         <source>Learn more</source>
+        <target>Ka bay ka tonton</target>
         <note>Button on About screen</note>
       </trans-unit>
       <trans-unit id="About.missionLabel">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
+        <target>Mozilla ma %@ tee. Ir anniya ti ka interneti baanoo nda feeriyanoo sahãndi.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet1">
         <source>Search and browse right in the app</source>
+        <target>Ceeci nda naaru porogaramoo hunday ra</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet2">
