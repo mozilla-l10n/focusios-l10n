@@ -136,6 +136,30 @@
         <target>Volver a intentarlo</target>
         <note>Button label to reload the error page</note>
       </trans-unit>
+      <trans-unit id="ExternalLink.callButton">
+        <source>Call</source>
+        <note>Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
+      </trans-unit>
+      <trans-unit id="ExternalLink.cancelButton">
+        <source>Cancel</source>
+        <note>Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
+      </trans-unit>
+      <trans-unit id="ExternalLink.emailButton">
+        <source>Email</source>
+        <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
+      </trans-unit>
+      <trans-unit id="ExternalLink.messageTitle">
+        <source>You are now leaving Firefox Focus.</source>
+        <note>Dialog title used for Maps/App Store links. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
+      </trans-unit>
+      <trans-unit id="ExternalLink.openAppStoreButton">
+        <source>Open App Store</source>
+        <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
+      </trans-unit>
+      <trans-unit id="ExternalLink.openMapsButton">
+        <source>Open Maps</source>
+        <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
+      </trans-unit>
       <trans-unit id="FirstRun.buttonLabel">
         <source>OK, GOT IT!</source>
         <target>OK, ¡ENTENDIDO!</target>
