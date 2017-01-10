@@ -163,6 +163,7 @@
       </trans-unit>
       <trans-unit id="ExternalLink.openMapsButton">
         <source>Open Maps</source>
+        <target>Térképek megnyitása</target>
         <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="FirstRun.buttonLabel">
