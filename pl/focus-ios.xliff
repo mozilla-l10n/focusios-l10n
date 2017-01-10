@@ -139,6 +139,36 @@
     <target>Spróbuj ponownie</target>
     <note>Button label to reload the error page</note>
    </trans-unit>
+   <trans-unit id="ExternalLink.callButton">
+    <source>Call</source>
+    <target>Połącz</target>
+    <note>Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
+   </trans-unit>
+   <trans-unit id="ExternalLink.cancelButton">
+    <source>Cancel</source>
+    <target>Anuluj</target>
+    <note>Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
+   </trans-unit>
+   <trans-unit id="ExternalLink.emailButton">
+    <source>Email</source>
+    <target>Nowa wiadomość</target>
+    <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
+   </trans-unit>
+   <trans-unit id="ExternalLink.messageTitle">
+    <source>You are now leaving Firefox Focus.</source>
+    <target>Opuszczasz Firefox Focus.</target>
+    <note>Dialog title used for Maps/App Store links. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
+   </trans-unit>
+   <trans-unit id="ExternalLink.openAppStoreButton">
+    <source>Open App Store</source>
+    <target>Otwórz w „App Store”</target>
+    <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
+   </trans-unit>
+   <trans-unit id="ExternalLink.openMapsButton">
+    <source>Open Maps</source>
+    <target>Otwórz w „Mapy”</target>
+    <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
+   </trans-unit>
    <trans-unit id="FirstRun.buttonLabel">
     <source>OK, GOT IT!</source>
     <target>OK!</target>
