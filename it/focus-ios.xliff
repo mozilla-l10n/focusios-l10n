@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet1">
         <source>Search and browse right in the app</source>
-        <target>Cerca e naviga direttamente nell’app</target>
+        <target>Cerca e naviga direttamente nell’app.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet2">
@@ -58,12 +58,12 @@
       </trans-unit>
       <trans-unit id="About.privateBullet3">
         <source>Erase to delete cookies as well as search and browsing history</source>
-        <target>Elimina tutto per rimuovere i cookie così come la cronologia di ricerca e navigazione.</target>
+        <target>Utilizza “Elimina” per rimuovere i cookie così come la cronologia di ricerca e navigazione.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
         <source>Use it as a private browser:</source>
-        <target>Utilizzalo per una navigazione anonima:</target>
+        <target>Utilizzalo per la navigazione anonima:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp">
@@ -78,12 +78,12 @@
       </trans-unit>
       <trans-unit id="About.safariBullet1">
         <source>Block trackers for improved privacy</source>
-        <target>Blocca gli elementi traccianti per una privacy migliore.</target>
+        <target>Blocca gli elementi traccianti per una maggiore privacy.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2">
         <source>Block Web fonts to reduce page size</source>
-        <target>Blocca i font scaricati dal Web per ridurre la dimensione della pagina.</target>
+        <target>Blocca i font scaricati dal Web per ridurre la dimensione delle pagine.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
@@ -233,17 +233,17 @@
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
         <source>Blocking other content trackers may break some videos and Web pages.</source>
-        <target>Il blocco di altri contenuti traccianti potrebbe causare il malfunzionamento di alcuni video e pagine Web.</target>
+        <target>Il blocco di questi contenuti traccianti potrebbe causare il malfunzionamento di alcuni video e pagine web.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo">
         <source>No, Thanks</source>
-        <target>No grazie</target>
+        <target>No, grazie</target>
         <note>Button label for declining Content blocker alert</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherYes">
         <source>I Understand</source>
-        <target>Ho capito</target>
+        <target>Comprendo il rischio</target>
         <note>Button label for accepting Content blocker alert</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
@@ -388,4 +388,3 @@
     </body>
   </file>
 </xliff>
-
