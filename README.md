@@ -4,6 +4,8 @@ Localization for the Focus by Firefox project for iOS.
 The application code with build instructions can be found
 at <https://github.com/mozilla-mobile/focus>.
 
+L10N Status Dashboard at https://l10n.mozilla-community.org/webstatus/?product=focus-ios
+
 IRC channel: #mobile.
 
 # License
