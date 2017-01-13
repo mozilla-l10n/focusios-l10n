@@ -181,7 +181,7 @@
    </trans-unit>
    <trans-unit id="FirstRun.messageLabelTagline">
     <source>Browse like no one’s watching.</source>
-    <target>Przeglądaj jak gdyby nikt nie patrzył.</target>
+    <target>Przeglądaj jak gdyby nikt nie patrzył</target>
     <note>Message label on the first run screen</note>
    </trans-unit>
    <trans-unit id="Home.descriptionLabel1">
