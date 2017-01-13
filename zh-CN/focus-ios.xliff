@@ -53,12 +53,12 @@
       </trans-unit>
       <trans-unit id="About.privateBullet2">
         <source>Block trackers (or update settings to allow trackers)</source>
-        <target>屏蔽跟踪器（或更新设置以允许跟踪器）</target>
+        <target>屏蔽跟踪器（或设置为允许跟踪器）</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3">
         <source>Erase to delete cookies as well as search and browsing history</source>
-        <target>擦除以删除 Cookie 以及搜索和浏览记录</target>
+        <target>自动删除 Cookie 及搜索和浏览记录</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="About.topLabel">
         <source>%@ puts you in control.</source>
-        <target>%@ 让您掌控。</target>
+        <target>%@ 让您掌控线上生活。</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel">
@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
-        <target>在您浏览时自动屏蔽在线跟踪器。点按即可清除已访问的网页、搜索、Cookie 和来自您设备的密码。</target>
+        <target>在您浏览时自动屏蔽在线跟踪器。点按即可清除您的设备上的访问记录、搜索记录、Cookie 以及保存的密码。</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
