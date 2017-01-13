@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="About.safariBullet2">
         <source>Block Web fonts to reduce page size</source>
-        <target>Blockera webbteckensnitt för att minska sidstorlek</target>
+        <target>Blockera webbtypsnitt för att minska sidstorlek</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
@@ -293,7 +293,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
         <source>Block Web fonts</source>
-        <target>Blockera webbteckensnitt</target>
+        <target>Blockera webbtypsnitt</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther">
