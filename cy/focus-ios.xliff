@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet3">
         <source>Erase to delete cookies as well as search and browsing history</source>
-        <target>Dileu er mwyn dileu cwcis yn ogystal â hanes chwilio a phori.</target>
+        <target>Dileu er mwyn dileu cwcis yn ogystal â hanes chwilio a phori</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
@@ -78,7 +78,7 @@
       </trans-unit>
       <trans-unit id="About.safariBullet1">
         <source>Block trackers for improved privacy</source>
-        <target>Rhwystro tracwyr i well preifatrwydd</target>
+        <target>Rhwystro tracwyr ar gyfer gwell preifatrwydd</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2">
@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="About.topLabel">
         <source>%@ puts you in control.</source>
-        <target>Chi sy'n rheoli gyda %@</target>
+        <target>Chi sy'n rheoli gyda %@.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel">
@@ -153,7 +153,7 @@
       </trans-unit>
       <trans-unit id="ExternalLink.messageTitle">
         <source>You are now leaving Firefox Focus.</source>
-        <target>Rydych nawr yn gadael Firefox Focus</target>
+        <target>Rydych nawr yn gadael Firefox Focus.</target>
         <note>Dialog title used for Maps/App Store links. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreButton">
@@ -168,27 +168,27 @@
       </trans-unit>
       <trans-unit id="FirstRun.buttonLabel">
         <source>OK, GOT IT!</source>
-        <target>IAWRN, RWY'N DEALL!</target>
+        <target>IAWN, RWY'N DEALL!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
-        <target>Rhwystrwch tracwyr ar-lein yn awtomatig wrthi chi bori. Yna tapiwch i ddileu tudalennau, chwilio, cwcis a chyfrineiriau oddi ar eich dyfais</target>
+        <target>Rhwystrwch tracwyr ar-lein yn awtomatig wrth i chi bori. Gallwch dapio i ddileu tudalennau, chwilio, cwcis a chyfrineiriau oddi ar eich dyfais.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
         <source>Browse like no one’s watching.</source>
-        <target>Pori fel petai neb yn eich gwylio</target>
+        <target>Pori fel petai neb yn eich gwylio.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
         <source>Automatic private browsing.</source>
-        <target>Pori preifat awtomatig</target>
+        <target>Pori preifat awtomatig.</target>
         <note>First label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel2">
         <source>Browse. Erase. Repeat.</source>
-        <target>Pori. Dileu. Eto.</target>
+        <target>Pori. Dileu. Ailadrodd.</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Open.Cancel">
@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsOpen">
         <source>Open Settings App</source>
-        <target>Agor Ap Gosodiadau</target>
+        <target>Agor Gosodiadau'r Ap</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
@@ -263,7 +263,7 @@
       </trans-unit>
       <trans-unit id="Settings.sectionIntegration">
         <source>INTEGRATION</source>
-        <target>INTIGREIDDIO</target>
+        <target>INTEGREIDDIO</target>
         <note>Label for Safari integration section</note>
       </trans-unit>
       <trans-unit id="Settings.sectionMozilla">
@@ -318,7 +318,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleSendAnonymousUsageData">
         <source>Send anonymous usage data</source>
-        <target>Anfon data defnydd dienw:</target>
+        <target>Anfon data defnydd dienw</target>
         <note>Label for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSendAnonymousUsageDataSubtitle">
