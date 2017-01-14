@@ -156,10 +156,12 @@
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreButton">
         <source>Open App Store</source>
+        <target>アプリストアを開く</target>
         <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openMapsButton">
         <source>Open Maps</source>
+        <target>マップを開く</target>
         <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="FirstRun.buttonLabel">
@@ -168,10 +170,12 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
+        <target>ブラウジング中のオンライン追跡を自動的にブロックします。タップするだけで、訪問したページ、検索履歴、Cookie、パスワードを端末から消去できます。</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
         <source>Browse like no one’s watching.</source>
+        <target>誰にも監視されないブラウジング。</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
@@ -203,22 +207,27 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers">
         <source>Tap Safari, then select Content Blockers</source>
+        <target>Safari をタップし、コンテンツブロッカーを選択してください</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsEnable">
         <source>Enable %@</source>
+        <target>%@ を有効化する</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsNotEnabled">
         <source>%@ is not enabled.</source>
+        <target>%@ が有効化されていません。</target>
         <note>Error label when the blocker is not enabled, shown in the intro and main app when disabled</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsOpen">
         <source>Open Settings App</source>
+        <target>環境設定アプリを開く</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
         <source>Blocking other content trackers may break some videos and Web pages.</source>
+        <target>他の追跡コンテンツをブロックすると、動画やウェブページが正常に表示されない場合があります。</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo">
@@ -246,10 +255,12 @@
       </trans-unit>
       <trans-unit id="Settings.sectionIntegration">
         <source>INTEGRATION</source>
+        <target>統合</target>
         <note>Label for Safari integration section</note>
       </trans-unit>
       <trans-unit id="Settings.sectionMozilla">
         <source>MOZILLA</source>
+        <target>MOZILLA</target>
         <note>Section label for Mozilla toggles</note>
       </trans-unit>
       <trans-unit id="Settings.sectionPerformance">
@@ -258,30 +269,37 @@
       </trans-unit>
       <trans-unit id="Settings.sectionPrivacy">
         <source>PRIVACY</source>
+        <target>プライバシー</target>
         <note>Section label for privacy toggles</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
         <source>Block ad trackers</source>
+        <target>追跡広告をブロック</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
         <source>Block analytics trackers</source>
+        <target>アクセス解析をブロック</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
         <source>Block Web fonts</source>
+        <target>ウェブフォントをブロック</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther">
         <source>Block other content trackers</source>
+        <target>他の追跡コンテンツをブロック</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
         <source>Block social trackers</source>
+        <target>ソーシャル追跡をブロック</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
+        <target>動画やウェブページが正常に表示されない場合があります</target>
         <note>Label subtitle for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSafari">
@@ -291,11 +309,12 @@
       </trans-unit>
       <trans-unit id="Settings.toggleSendAnonymousUsageData">
         <source>Send anonymous usage data</source>
+        <target>利用データを匿名で送信する</target>
         <note>Label for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSendAnonymousUsageDataSubtitle">
         <source>Learn more</source>
-        <target>詳しくはこちら</target>
+        <target>詳細情報</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
@@ -305,10 +324,12 @@
       </trans-unit>
       <trans-unit id="URL.eraseButtonLabel">
         <source>ERASE</source>
+        <target>消去</target>
         <note>Erase button in the URL bar</note>
       </trans-unit>
       <trans-unit id="URL.eraseMessageLabel">
         <source>Your browsing history has been erased.</source>
+        <target>ページの表示履歴が消去されました。</target>
         <note>Message shown after pressing the Erase button</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText">
@@ -318,6 +339,7 @@
       </trans-unit>
       <trans-unit id="URL.searchLabel">
         <source>Search for %@</source>
+        <target>%@ を検索</target>
         <note>Label displayed for search button when typing in the URL bar</note>
       </trans-unit>
     </body>
