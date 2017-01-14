@@ -343,7 +343,7 @@
       </trans-unit>
       <trans-unit id="URL.placeholderText">
         <source>Search or enter address</source>
-        <target>Zadajte adresu alebo výraz vyhľadávania</target>
+        <target>Zadajte vyhľadávanie alebo adresu</target>
         <note>Placeholder text shown in the URL bar before the user navigates to a page</note>
       </trans-unit>
       <trans-unit id="URL.searchLabel">
