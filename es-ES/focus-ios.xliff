@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet1">
         <source>Search and browse right in the app</source>
-        <target>Buscar y navegar directamente desde la app</target>
+        <target>Busca y navega directamente desde la app</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet2">
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
         <source>Use it as a private browser:</source>
-        <target>Usarlo como navegador privado:</target>
+        <target>Úsalo como navegador privado:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp">
@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
         <source>Use it as a Safari extension:</source>
-        <target>Usarlo como extensión de Safari:</target>
+        <target>Úsalo como extensión de Safari:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.screenTitle">
@@ -218,7 +218,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsEnable">
         <source>Enable %@</source>
-        <target>Activar %@</target>
+        <target>Activa %@</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsNotEnabled">
@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsOpen">
         <source>Open Settings App</source>
-        <target>Abrir app de Ajustes</target>
+        <target>Abre la app de Ajustes</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
