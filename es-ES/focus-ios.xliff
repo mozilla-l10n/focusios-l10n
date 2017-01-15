@@ -53,12 +53,12 @@
       </trans-unit>
       <trans-unit id="About.privateBullet2">
         <source>Block trackers (or update settings to allow trackers)</source>
-        <target>Bloquear rastreadores (o cambiar los ajustes para permitirlos)</target>
+        <target>Bloquea rastreadores (o cambia los ajustes para permitirlos)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3">
         <source>Erase to delete cookies as well as search and browsing history</source>
-        <target>Eliminar cookies y el historial de búsqueda y navegación</target>
+        <target>Elimina cookies y el historial de búsqueda y navegación</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
@@ -78,12 +78,12 @@
       </trans-unit>
       <trans-unit id="About.safariBullet1">
         <source>Block trackers for improved privacy</source>
-        <target>Bloquear rastreadores para una privacidad mejorada</target>
+        <target>Bloquea rastreadores para una privacidad mejorada</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2">
         <source>Block Web fonts to reduce page size</source>
-        <target>Bloquear fuentes web para reducir el peso de las páginas</target>
+        <target>Bloquea fuentes web para reducir el peso de las páginas</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
