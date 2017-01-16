@@ -188,7 +188,7 @@
       </trans-unit>
       <trans-unit id="Home.descriptionLabel2">
         <source>Browse. Erase. Repeat.</source>
-        <target>結束瀏覽後自動清除紀錄。</target>
+        <target>無痕瀏覽，不留足跡。</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Open.Cancel">
