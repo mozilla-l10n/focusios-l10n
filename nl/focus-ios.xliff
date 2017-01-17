@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="About.missionLabel">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
-        <target>%@ wordt gemaakt door Mozilla. Onze missie is het verzorgen van een gezond, open internet.</target>
+        <target>%@ wordt gemaakt door Mozilla. Onze missie is het verzorgen van een gezond en open internet.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet1">
