@@ -35,6 +35,7 @@
     <body>
       <trans-unit id="About.learnMoreButton">
         <source>Learn more</source>
+        <target>ຮຽນຮູ້ເພີ່ມເຕີມ</target>
         <note>Button on About screen</note>
       </trans-unit>
       <trans-unit id="About.missionLabel">
@@ -79,6 +80,7 @@
       </trans-unit>
       <trans-unit id="About.screenTitle">
         <source>About</source>
+        <target>ກ່ຽວກັບ</target>
         <note>Title for the About screen</note>
       </trans-unit>
       <trans-unit id="About.topLabel">
@@ -87,18 +89,22 @@
       </trans-unit>
       <trans-unit id="Browser.backLabel">
         <source>Back</source>
+        <target>ກັບຄືນ</target>
         <note>Accessibility label for the back button</note>
       </trans-unit>
       <trans-unit id="Browser.forwardLabel">
         <source>Forward</source>
+        <target>ໄປໜ້າ</target>
         <note>Accessibility label for the forward button</note>
       </trans-unit>
       <trans-unit id="Browser.reloadLabel">
         <source>Reload</source>
+        <target>ໂຫລດຄືນໃຫມ່</target>
         <note>Accessibility label for the reload button</note>
       </trans-unit>
       <trans-unit id="Browser.settingsLabel">
         <source>Settings</source>
+        <target>ການຕັ້ງຄ່າ</target>
         <note>Accessibility label for the settings button</note>
       </trans-unit>
       <trans-unit id="Browser.shareLabel">
@@ -107,6 +113,7 @@
       </trans-unit>
       <trans-unit id="Browser.stopLabel">
         <source>Stop</source>
+        <target>ຢຸດ</target>
         <note>Accessibility label for the stop button</note>
       </trans-unit>
       <trans-unit id="Error.tryAgainButton">
@@ -119,10 +126,12 @@
       </trans-unit>
       <trans-unit id="ExternalLink.cancelButton">
         <source>Cancel</source>
+        <target>ຍົກເລີກ</target>
         <note>Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.emailButton">
         <source>Email</source>
+        <target>ອີເມວ</target>
         <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.messageTitle">
@@ -131,6 +140,7 @@
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreButton">
         <source>Open App Store</source>
+        <target>ເປີດໃນ App Store</target>
         <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openMapsButton">
@@ -159,6 +169,7 @@
       </trans-unit>
       <trans-unit id="Open.Cancel">
         <source>Cancel</source>
+        <target>ຍົກເລີກ</target>
         <note>Label in share alert to cancel the alert</note>
       </trans-unit>
       <trans-unit id="Open.Firefox">
@@ -167,10 +178,12 @@
       </trans-unit>
       <trans-unit id="Open.More">
         <source>More</source>
+        <target>ເພີ່ມເຕີມ</target>
         <note>Label in share alert to open the full system share menu</note>
       </trans-unit>
       <trans-unit id="Open.Safari">
         <source>Safari</source>
+        <target>Safari</target>
         <note>Label in share alert to open the URL in Safari</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers">
@@ -179,14 +192,17 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsEnable">
         <source>Enable %@</source>
+        <target>ເປີດໃຊ້ງານ %@</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsNotEnabled">
         <source>%@ is not enabled.</source>
+        <target>%@ ຍັງບໍ່ທັນໄດ້ເປີດໃຊ້ງານ.</target>
         <note>Error label when the blocker is not enabled, shown in the intro and main app when disabled</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsOpen">
         <source>Open Settings App</source>
+        <target>ເປີດການຕັ້ງຄ່າ App</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
@@ -203,10 +219,12 @@
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
         <source>Settings</source>
+        <target>ການຕັ້ງຄ່າ</target>
         <note>Title for settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.searchSection">
         <source>SEARCH ENGINE</source>
+        <target>SEARCH ENGINE</target>
         <note>Title for the search engine row</note>
       </trans-unit>
       <trans-unit id="Settings.searchTitle">
@@ -215,18 +233,22 @@
       </trans-unit>
       <trans-unit id="Settings.sectionIntegration">
         <source>INTEGRATION</source>
+        <target>INTEGRATION</target>
         <note>Label for Safari integration section</note>
       </trans-unit>
       <trans-unit id="Settings.sectionMozilla">
         <source>MOZILLA</source>
+        <target>MOZILLA</target>
         <note>Section label for Mozilla toggles</note>
       </trans-unit>
       <trans-unit id="Settings.sectionPerformance">
         <source>PERFORMANCE</source>
+        <target>PERFORMANCE</target>
         <note>Section label for performance toggles</note>
       </trans-unit>
       <trans-unit id="Settings.sectionPrivacy">
         <source>PRIVACY</source>
+        <target>PRIVACY</target>
         <note>Section label for privacy toggles</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
@@ -306,6 +328,7 @@
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
         <source>2.0</source>
+        <target>2.0</target>
       </trans-unit>
     </body>
   </file>
@@ -316,9 +339,11 @@
     <body>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
         <source>1.0</source>
+        <target>1.0</target>
       </trans-unit>
     </body>
   </file>
