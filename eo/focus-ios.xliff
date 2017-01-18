@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="eo">
     <header>
@@ -233,82 +233,102 @@
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
         <source>Blocking other content trackers may break some videos and Web pages.</source>
+        <target>Blokado de aliaj spuriloj de enhavo povus paneigi filmetojn kaj retpaĝojn.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo">
         <source>No, Thanks</source>
+        <target>Ne, dankon</target>
         <note>Button label for declining Content blocker alert</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherYes">
         <source>I Understand</source>
+        <target>Mi komprenas</target>
         <note>Button label for accepting Content blocker alert</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
         <source>Settings</source>
+        <target>Agordoj</target>
         <note>Title for settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.searchSection">
         <source>SEARCH ENGINE</source>
+        <target>SERĈILO</target>
         <note>Title for the search engine row</note>
       </trans-unit>
       <trans-unit id="Settings.searchTitle">
         <source>Search Engine</source>
+        <target>Serĉilo</target>
         <note>Title for the search engine selection screen</note>
       </trans-unit>
       <trans-unit id="Settings.sectionIntegration">
         <source>INTEGRATION</source>
+        <target>INTEGRO</target>
         <note>Label for Safari integration section</note>
       </trans-unit>
       <trans-unit id="Settings.sectionMozilla">
         <source>MOZILLA</source>
+        <target>MOZILLA</target>
         <note>Section label for Mozilla toggles</note>
       </trans-unit>
       <trans-unit id="Settings.sectionPerformance">
         <source>PERFORMANCE</source>
+        <target>EFIKECO</target>
         <note>Section label for performance toggles</note>
       </trans-unit>
       <trans-unit id="Settings.sectionPrivacy">
         <source>PRIVACY</source>
+        <target>PRIVATECO</target>
         <note>Section label for privacy toggles</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
         <source>Block ad trackers</source>
+        <target>Bloki reklamajn spurilojn</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
         <source>Block analytics trackers</source>
+        <target>Bloki retanalizajn spurilojn</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
         <source>Block Web fonts</source>
+        <target>Bloki Teksaĵajn tiparojn</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther">
         <source>Block other content trackers</source>
+        <target>Bloki aliajn spurilojn de enhavo</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
         <source>Block social trackers</source>
+        <target>Bloki retsociajn spurilojn</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
+        <target>Tio ĉi povas paneigi kelkajn filmetojn kaj retpaĝojn</target>
         <note>Label subtitle for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSafari">
         <source>Safari</source>
+        <target>Safari</target>
         <note>Safari toggle label on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSendAnonymousUsageData">
         <source>Send anonymous usage data</source>
+        <target>Send anonimigitajn datumojn pri uzo</target>
         <note>Label for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSendAnonymousUsageDataSubtitle">
         <source>Learn more</source>
+        <target>Pli da informo</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
         <source>Cancel</source>
+        <target>Nuligi</target>
         <note>Label for cancel button shown when entering a URL or search</note>
       </trans-unit>
       <trans-unit id="URL.eraseButtonLabel">
