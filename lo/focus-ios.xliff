@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="About.rowHelp">
         <source>Help</source>
-        <target>ຊ່ວຍເຫຼືອ</target>
+        <target>ວິທີໃຊ້</target>
         <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.rowRights">
