@@ -48,22 +48,22 @@
       </trans-unit>
       <trans-unit id="About.privateBullet1">
         <source>Search and browse right in the app</source>
-        <target>Serĉi kaj retumi rekte en la programo</target>
+        <target>Serĉu kaj retumi rekte en la programo</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet2">
         <source>Block trackers (or update settings to allow trackers)</source>
-        <target>Bloki spurilojn (aŭ agordi por permesi spurilojn)</target>
+        <target>Bloku spurilojn (aŭ agordu por permesi spurilojn)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3">
         <source>Erase to delete cookies as well as search and browsing history</source>
-        <target>Forigi por viŝi kuketojn kaj historion, kaj serĉan kaj retuman</target>
+        <target>Viŝu por forigi kuketojn kaj historion, kaj serĉan kaj retuman</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
         <source>Use it as a private browser:</source>
-        <target>Uzi ĝin kiel privatan retumilon:</target>
+        <target>Uzu ĝin kiel privatan retumilon:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp">
@@ -78,17 +78,17 @@
       </trans-unit>
       <trans-unit id="About.safariBullet1">
         <source>Block trackers for improved privacy</source>
-        <target>Bloki spurilojn por plibonigita privateco</target>
+        <target>Bloku spurilojn por plibonigita privateco</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2">
         <source>Block Web fonts to reduce page size</source>
-        <target>Bloki teksaĵajn tiparojn por etigi la grandon de paĝo</target>
+        <target>Bloku teksaĵajn tiparojn por malgrandigi la paĝon</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
         <source>Use it as a Safari extension:</source>
-        <target>Uzi kiel etendaĵon de Safari:</target>
+        <target>Uzu ĝin kiel etendaĵon de Safari:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.screenTitle">
@@ -158,7 +158,7 @@
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreButton">
         <source>Open App Store</source>
-        <target>Malfermi vendejon de programoj</target>
+        <target>Malfermi programvendejon</target>
         <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openMapsButton">
@@ -173,12 +173,12 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
-        <target>Aŭtomate bloki retajn spurilojn dum vi retumas. Poste tuŝetu por forigi vizititajn paĝojn, serĉojn, kuketojn kaj pasvortojn el via aparato.</target>
+        <target>Aŭtomate bloku retajn spurilojn dum vi retumas. Poste tuŝetu por forigi vizititajn paĝojn, serĉojn, kuketojn kaj pasvortojn el via aparato.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
         <source>Browse like no one’s watching.</source>
-        <target>Retumi, kvazaŭ neniu vin rigardus.</target>
+        <target>Retumu, kvazaŭ neniu vin rigardus.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
@@ -188,7 +188,7 @@
       </trans-unit>
       <trans-unit id="Home.descriptionLabel2">
         <source>Browse. Erase. Repeat.</source>
-        <target>Retumi. Viŝi. Ripeti.</target>
+        <target>Retumu. Viŝu. Ripetu.</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Open.Cancel">
@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsOpen">
         <source>Open Settings App</source>
-        <target>Malfermi la agordan programon</target>
+        <target>Malfermu la agordan programon</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
@@ -293,7 +293,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
         <source>Block Web fonts</source>
-        <target>Bloki Teksaĵajn tiparojn</target>
+        <target>Bloki teksaĵajn tiparojn</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther">
@@ -303,7 +303,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
         <source>Block social trackers</source>
-        <target>Bloki retsociajn spurilojn</target>
+        <target>Bloki spurilojn de interkonaj retejoj</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
@@ -318,7 +318,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleSendAnonymousUsageData">
         <source>Send anonymous usage data</source>
-        <target>Send anonimigitajn datumojn pri uzo</target>
+        <target>Sendi anonimigitajn datumojn pri uzo</target>
         <note>Label for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSendAnonymousUsageDataSubtitle">
