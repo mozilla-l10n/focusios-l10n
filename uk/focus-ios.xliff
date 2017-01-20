@@ -53,12 +53,12 @@
       </trans-unit>
       <trans-unit id="About.privateBullet2">
         <source>Block trackers (or update settings to allow trackers)</source>
-        <target>Блокувати стеження (або оновіть наштування, щоб дозволити стеження)</target>
+        <target>Блокуйте стеження (або оновіть налаштування, щоб дозволити стеження)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3">
         <source>Erase to delete cookies as well as search and browsing history</source>
-        <target>Очистіть для видалення куків, разом з історією пошуку і перегляду</target>
+        <target>Стирайте для видалення куків, а також історії пошуку й перегляду</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
@@ -78,12 +78,12 @@
       </trans-unit>
       <trans-unit id="About.safariBullet1">
         <source>Block trackers for improved privacy</source>
-        <target>Блокувати стеження для покращення приватності</target>
+        <target>Блокуйте стеження для покращення приватності</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2">
         <source>Block Web fonts to reduce page size</source>
-        <target>Блокувати веб-шрифти для зменшення розміру сторінки</target>
+        <target>Блокуйте веб-шрифти для зменшення розміру сторінок</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
