@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
         <source>Use it as a private browser:</source>
-        <target>Використовувати як приватний браузер:</target>
+        <target>Використовуйте в якості приватного браузера:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp">
@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
         <source>Use it as a Safari extension:</source>
-        <target>Використовувати в якості розширення для Safari:</target>
+        <target>Використовуйте в якості розширення для Safari:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.screenTitle">
@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
-        <target>Автоматично блокувати стеження онлайн під час перегляду. Потім торкніться, щоб стерти відвідані сторінки, пошукові запити, куки й паролі з вашого пристрою.</target>
+        <target>Автоматично блокуйте стеження онлайн під час перегляду. Потім торкніться, щоб стерти відвідані сторінки, пошукові запити, куки й паролі з вашого пристрою.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
