@@ -168,12 +168,11 @@
       </trans-unit>
       <trans-unit id="FirstRun.buttonLabel">
         <source>OK, GOT IT!</source>
-        <target>IH, GZIƔ!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
-        <target>Sewḥel s wudem awurman inedfaṛen ticki tettinigeḍ. Senned ɣef tqeffalt Sfeḍ akken ad tekkseḍ isebtar yettwarzan, inadiyen, inagan n tuqqna akked wawalen uffiren.</target>
+        <target>Sqqam s wudem awurman inedfaṛen mara tettinigeḍ. Senned ɣef tqeffalt Sfeḍ akken ad tekkseḍ isebtar yettwarzan, inadiyen, inagan n tuqqna akked wawalen uffiren.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
@@ -208,12 +207,11 @@
       </trans-unit>
       <trans-unit id="Open.Safari">
         <source>Safari</source>
-        <target>Safari</target>
         <note>Label in share alert to open the URL in Safari</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers">
         <source>Tap Safari, then select Content Blockers</source>
-        <target>Senned ɣef Safari, saki nfern Imsewḥal n ugbur</target>
+        <target>Senned ɣef Safari, sakin fren Imsewḥal n ugbur</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsEnable">
