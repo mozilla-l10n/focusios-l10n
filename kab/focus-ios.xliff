@@ -168,6 +168,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.buttonLabel">
         <source>OK, GOT IT!</source>
+        <target>IH, GZIƔ!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
@@ -207,6 +208,7 @@
       </trans-unit>
       <trans-unit id="Open.Safari">
         <source>Safari</source>
+        <target>Safari</target>
         <note>Label in share alert to open the URL in Safari</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers">
@@ -251,15 +253,17 @@
       </trans-unit>
       <trans-unit id="Settings.searchSection">
         <source>SEARCH ENGINE</source>
+        <target>AMSEDDAY N UNADI</target>
         <note>Title for the search engine row</note>
       </trans-unit>
       <trans-unit id="Settings.searchTitle">
         <source>Search Engine</source>
-        <target>Amsedday  unadi</target>
+        <target>Amsedday unadi</target>
         <note>Title for the search engine selection screen</note>
       </trans-unit>
       <trans-unit id="Settings.sectionIntegration">
         <source>INTEGRATION</source>
+        <target>ASLEƔ</target>
         <note>Label for Safari integration section</note>
       </trans-unit>
       <trans-unit id="Settings.sectionMozilla">
@@ -269,6 +273,7 @@
       </trans-unit>
       <trans-unit id="Settings.sectionPerformance">
         <source>PERFORMANCE</source>
+        <target>TIMELLIT</target>
         <note>Section label for performance toggles</note>
       </trans-unit>
       <trans-unit id="Settings.sectionPrivacy">
@@ -308,6 +313,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleSafari">
         <source>Safari</source>
+        <target>Safari</target>
         <note>Safari toggle label on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSendAnonymousUsageData">
