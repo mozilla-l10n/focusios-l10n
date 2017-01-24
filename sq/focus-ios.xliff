@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="sq">
     <header>
@@ -15,19 +15,19 @@
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
-        <target>This lets you take and upload photos.</target>
+        <target>Kjo ju lejon të bëni dhe ngarkoni foto.</target>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
-        <target>Websites you visit may request your location.</target>
+        <target>Sajtet që vizitoni mund të kërkojmë të dinë vendndodhjen tuaj.</target>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription">
         <source>This lets you take and upload videos.</source>
-        <target>This lets you take and upload videos.</target>
+        <target>Kjo ju lejon të xhironi dhe ngarkoni video.</target>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription">
         <source>This lets you save and upload photos.</source>
-        <target>This lets you save and upload photos.</target>
+        <target>Kjo ju lejon të ruani dhe ngarkoni foto.</target>
       </trans-unit>
     </body>
   </file>
@@ -38,112 +38,112 @@
     <body>
       <trans-unit id="About.learnMoreButton">
         <source>Learn more</source>
-        <target>Learn more</target>
+        <target>Mësoni më tepër</target>
         <note>Button on About screen</note>
       </trans-unit>
       <trans-unit id="About.missionLabel">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
-        <target>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</target>
+        <target>%@ prodhohet nga Mozilla. Misioni ynë është të përkujdesemi për një Internet të shëndetshëm, të hapur.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet1">
         <source>Search and browse right in the app</source>
-        <target>Search and browse right in the app</target>
+        <target>Kërkoni dhe shfletoni drejt e nga aplikacioni</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet2">
         <source>Block trackers (or update settings to allow trackers)</source>
-        <target>Block trackers (or update settings to allow trackers)</target>
+        <target>Bllokoni gjurmues (ose përditësoni rregullimet që të lejoni gjurmues)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3">
         <source>Erase to delete cookies as well as search and browsing history</source>
-        <target>Erase to delete cookies as well as search and browsing history</target>
+        <target>Fshijeni që të fshihen cookie-t, si dhe historik kërkimesh dhe shfletimesh</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
         <source>Use it as a private browser:</source>
-        <target>Use it as a private browser:</target>
+        <target>Përdoreni si shfletues privat:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp">
         <source>Help</source>
-        <target>Help</target>
+        <target>Ndihmë</target>
         <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.rowRights">
         <source>Your Rights</source>
-        <target>Your Rights</target>
+        <target>Të drejtat Tuaja</target>
         <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet1">
         <source>Block trackers for improved privacy</source>
-        <target>Block trackers for improved privacy</target>
+        <target>Për përmirësim të privatësisë, bllokoni gjurmuesit</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2">
         <source>Block Web fonts to reduce page size</source>
-        <target>Block Web fonts to reduce page size</target>
+        <target>Bllokoni shkronja Web që të zvogëlohet madhësia e faqes</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
         <source>Use it as a Safari extension:</source>
-        <target>Use it as a Safari extension:</target>
+        <target>Përdoreni si nja zgjerim të Safari-t:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.screenTitle">
         <source>About</source>
-        <target>About</target>
+        <target>Rreth</target>
         <note>Title for the About screen</note>
       </trans-unit>
       <trans-unit id="About.topLabel">
         <source>%@ puts you in control.</source>
-        <target>%@ puts you in control.</target>
+        <target>%@ jua lë juve kontrollin.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel">
         <source>Back</source>
-        <target>Back</target>
+        <target>Mbrapsht</target>
         <note>Accessibility label for the back button</note>
       </trans-unit>
       <trans-unit id="Browser.forwardLabel">
         <source>Forward</source>
-        <target>Forward</target>
+        <target>Përpara</target>
         <note>Accessibility label for the forward button</note>
       </trans-unit>
       <trans-unit id="Browser.reloadLabel">
         <source>Reload</source>
-        <target>Reload</target>
+        <target>Ringarkoje</target>
         <note>Accessibility label for the reload button</note>
       </trans-unit>
       <trans-unit id="Browser.settingsLabel">
         <source>Settings</source>
-        <target>Settings</target>
+        <target>Rregullime</target>
         <note>Accessibility label for the settings button</note>
       </trans-unit>
       <trans-unit id="Browser.shareLabel">
         <source>Share</source>
-        <target>Share</target>
+        <target>Ndajeni me të tjerë</target>
         <note>Accessibility label for the share button</note>
       </trans-unit>
       <trans-unit id="Browser.stopLabel">
         <source>Stop</source>
-        <target>Stop</target>
+        <target>Ndale</target>
         <note>Accessibility label for the stop button</note>
       </trans-unit>
       <trans-unit id="Error.tryAgainButton">
         <source>Try again</source>
-        <target>Try again</target>
+        <target>Riprovoni</target>
         <note>Button label to reload the error page</note>
       </trans-unit>
       <trans-unit id="ExternalLink.callButton">
         <source>Call</source>
-        <target>Call</target>
+        <target>Thirrje</target>
         <note>Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.cancelButton">
         <source>Cancel</source>
-        <target>Cancel</target>
+        <target>Anuloje</target>
         <note>Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.emailButton">
@@ -153,22 +153,22 @@
       </trans-unit>
       <trans-unit id="ExternalLink.messageTitle">
         <source>You are now leaving Firefox Focus.</source>
-        <target>You are now leaving Firefox Focus.</target>
+        <target>Po dilni nga Firefox Focus.</target>
         <note>Dialog title used for Maps/App Store links. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreButton">
         <source>Open App Store</source>
-        <target>Open App Store</target>
+        <target>Hapni Shitoren e Aplikacioneve</target>
         <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openMapsButton">
         <source>Open Maps</source>
-        <target>Open Maps</target>
+        <target>Hapni Harta</target>
         <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="FirstRun.buttonLabel">
         <source>OK, GOT IT!</source>
-        <target>OK, GOT IT!</target>
+        <target>OK, E MORA VESH!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
