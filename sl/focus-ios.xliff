@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="About.missionLabel">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
-        <target>%@ razvija Mozilla. Naše poslanstvo je spodbujati zdrav, odprt internet.</target>
+        <target>%@ razvija Mozilla. Naše poslanstvo je spodbujati zdrav in odprt internet.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet1">
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
         <source>Use it as a private browser:</source>
-        <target>Uporabljajte kot zaseben brskalnik:</target>
+        <target>Uporabljajte ga kot zaseben brskalnik:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp">
@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
         <source>Use it as a Safari extension:</source>
-        <target>Uporabljajte kot razširitev za Safari:</target>
+        <target>Uporabljajte ga kot razširitev za Safari:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.screenTitle">
@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
-        <target>Samodejno zavrača spletne sledilce, medtem ko brskate. Nato z enim dotikom izbrišete zgodovino, iskanja, piškotke in gesla z naprave.</target>
+        <target>Samodejno zavračajte spletne sledilce med brskanjem. Nato z enim dotikom izbrišite obiskane strani, iskanja, piškotke in gesla z naprave.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
