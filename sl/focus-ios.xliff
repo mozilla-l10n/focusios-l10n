@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet3">
         <source>Erase to delete cookies as well as search and browsing history</source>
-        <target>Izbrišite piškotke ter zgodovino strani in iskanja</target>
+        <target>Brišite piškotke ter zgodovino strani in iskanja</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
@@ -78,12 +78,12 @@
       </trans-unit>
       <trans-unit id="About.safariBullet1">
         <source>Block trackers for improved privacy</source>
-        <target>Zavračaj sledilce za večjo zasebnost</target>
+        <target>Zavračajte sledilce za več zasebnosti</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2">
         <source>Block Web fonts to reduce page size</source>
-        <target>Zavračaj spletne pisave za zmanjšanje velikosti strani</target>
+        <target>Zavračajte spletne pisave za hitrejše nalaganje strani</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="About.topLabel">
         <source>%@ puts you in control.</source>
-        <target>%@ vam daje nadzor.</target>
+        <target>%@ daje nadzor v vaše roke.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel">
@@ -218,7 +218,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsEnable">
         <source>Enable %@</source>
-        <target>Omogoči %@</target>
+        <target>Omogočite %@</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsNotEnabled">
@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsOpen">
         <source>Open Settings App</source>
-        <target>Odpri nastavitve naprave</target>
+        <target>Odprite nastavitve naprave</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
@@ -288,7 +288,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
         <source>Block analytics trackers</source>
-        <target>Zavračaj sledilce za analitiko</target>
+        <target>Zavračaj sledilce analitike</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
