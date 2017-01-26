@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription">
         <source>This lets you take and upload videos.</source>
-        <target>אפשרות זו מאפשרת לצלם ולהעלות וידאו.</target>
+        <target>אפשרות זו מאפשרת להסריט ולהעלות וידאו.</target>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription">
         <source>This lets you save and upload photos.</source>
@@ -151,6 +151,7 @@
       </trans-unit>
       <trans-unit id="ExternalLink.messageTitle">
         <source>You are now leaving Firefox Focus.</source>
+        <target>אתם עוזבים כעת את Firefox Focus.</target>
         <note>Dialog title used for Maps/App Store links. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreButton">
