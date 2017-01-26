@@ -15,6 +15,7 @@
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
+        <target>אפשרות זו מאפשרת לצלם ולהעלות תמונות.</target>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
@@ -26,6 +27,7 @@
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription">
         <source>This lets you save and upload photos.</source>
+        <target>אפשרות זו מאפשרת לשמור ולהעלות תמונות.</target>
       </trans-unit>
     </body>
   </file>
@@ -41,6 +43,7 @@
       </trans-unit>
       <trans-unit id="About.missionLabel">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
+        <target>%@ פותח על־ידי Mozilla. המשימה שלנו היא לטפח רשת אינטרנט פתוחה ובריאה.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet1">
@@ -49,6 +52,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet2">
         <source>Block trackers (or update settings to allow trackers)</source>
+        <target>חסימת רכיבי מעקב (או עדכון הגדרות לצורך אפשור רכיבי מעקב)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3">
@@ -72,6 +76,7 @@
       </trans-unit>
       <trans-unit id="About.safariBullet1">
         <source>Block trackers for improved privacy</source>
+        <target>חסימת רכיבי מעקב, לפרטיות מוגברת</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2">
@@ -223,6 +228,7 @@
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
         <source>Blocking other content trackers may break some videos and Web pages.</source>
+        <target>חסימת רכיבי מעקב אחרים עלולה לשבש את פעילותם של דפי אינטרנט ומספר סרטונים.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo">
@@ -291,10 +297,12 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
         <source>Block social trackers</source>
+        <target>חסימת רכיבי מעקב חברתיים</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
+        <target>עלולה לשבש את פעילותם של דפי אינטרנט ומספר סרטונים</target>
         <note>Label subtitle for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSafari">
@@ -304,6 +312,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleSendAnonymousUsageData">
         <source>Send anonymous usage data</source>
+        <target>שליחת נתוני שימוש אנונימיים</target>
         <note>Label for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSendAnonymousUsageDataSubtitle">
