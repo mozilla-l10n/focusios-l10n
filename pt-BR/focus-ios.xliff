@@ -38,7 +38,7 @@
     <body>
       <trans-unit id="About.learnMoreButton">
         <source>Learn more</source>
-        <target>Saiba mais</target>
+        <target>Saber mais</target>
         <note>Button on About screen</note>
       </trans-unit>
       <trans-unit id="About.missionLabel">
@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet3">
         <source>Erase to delete cookies as well as search and browsing history</source>
-        <target>Apagar para excluir cookies, o histórico de pesquisa e navegação</target>
+        <target>Apagar para excluir cookies, bem como o histórico de pesquisa e navegação</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
@@ -153,7 +153,7 @@
       </trans-unit>
       <trans-unit id="ExternalLink.messageTitle">
         <source>You are now leaving Firefox Focus.</source>
-        <target>Você está deixando o Firefox Focus.</target>
+        <target>Agora você está deixando o Firefox Focus.</target>
         <note>Dialog title used for Maps/App Store links. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreButton">
@@ -308,7 +308,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
-        <target>Pode quebrar alguns vídeos e páginas da Web</target>
+        <target>Pode quebrar alguns vídeos e páginas Web</target>
         <note>Label subtitle for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSafari">
@@ -318,12 +318,12 @@
       </trans-unit>
       <trans-unit id="Settings.toggleSendAnonymousUsageData">
         <source>Send anonymous usage data</source>
-        <target>Enviar dados de uso anônimos</target>
+        <target>Enviar dados de uso anonimamente</target>
         <note>Label for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSendAnonymousUsageDataSubtitle">
         <source>Learn more</source>
-        <target>Saiba mais</target>
+        <target>Saber mais</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
