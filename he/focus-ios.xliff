@@ -284,6 +284,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
         <source>Block analytics trackers</source>
+        <target>חסימת מעקב של כלי ניתוח</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
