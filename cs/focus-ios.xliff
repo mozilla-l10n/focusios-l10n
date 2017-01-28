@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet3">
         <source>Erase to delete cookies as well as search and browsing history</source>
-        <target>Vymažte pro smazání cookies a historie vyhledávání a prohlížení</target>
+        <target>Pro smazání cookies a historie vyhledávání a prohlížení použijte tlačítko vymazat</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
@@ -178,7 +178,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
         <source>Browse like no one’s watching.</source>
-        <target>Procházejte, jako když se nikdo nedivá.</target>
+        <target>Procházejte, jako když se nikdo nedívá.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
