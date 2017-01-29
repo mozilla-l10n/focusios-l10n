@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="th">
     <header>
@@ -34,6 +34,7 @@
     <body>
       <trans-unit id="About.learnMoreButton">
         <source>Learn more</source>
+        <target>เรียนรู้เพิ่มเติม</target>
         <note>Button on About screen</note>
       </trans-unit>
       <trans-unit id="About.missionLabel">
@@ -58,10 +59,12 @@
       </trans-unit>
       <trans-unit id="About.rowHelp">
         <source>Help</source>
+        <target>ช่วยเหลือ</target>
         <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.rowRights">
         <source>Your Rights</source>
+        <target>สิทธิของคุณ</target>
         <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet1">
@@ -78,6 +81,7 @@
       </trans-unit>
       <trans-unit id="About.screenTitle">
         <source>About</source>
+        <target>เกี่ยวกับ</target>
         <note>Title for the About screen</note>
       </trans-unit>
       <trans-unit id="About.topLabel">
@@ -86,42 +90,52 @@
       </trans-unit>
       <trans-unit id="Browser.backLabel">
         <source>Back</source>
+        <target>ย้อนกลับ</target>
         <note>Accessibility label for the back button</note>
       </trans-unit>
       <trans-unit id="Browser.forwardLabel">
         <source>Forward</source>
+        <target>เดินหน้า</target>
         <note>Accessibility label for the forward button</note>
       </trans-unit>
       <trans-unit id="Browser.reloadLabel">
         <source>Reload</source>
+        <target>โหลดใหม่</target>
         <note>Accessibility label for the reload button</note>
       </trans-unit>
       <trans-unit id="Browser.settingsLabel">
         <source>Settings</source>
+        <target>การตั้งค่า</target>
         <note>Accessibility label for the settings button</note>
       </trans-unit>
       <trans-unit id="Browser.shareLabel">
         <source>Share</source>
+        <target>แบ่งปัน</target>
         <note>Accessibility label for the share button</note>
       </trans-unit>
       <trans-unit id="Browser.stopLabel">
         <source>Stop</source>
+        <target>หยุด</target>
         <note>Accessibility label for the stop button</note>
       </trans-unit>
       <trans-unit id="Error.tryAgainButton">
         <source>Try again</source>
+        <target>ลองอีกครั้ง</target>
         <note>Button label to reload the error page</note>
       </trans-unit>
       <trans-unit id="ExternalLink.callButton">
         <source>Call</source>
+        <target>โทร</target>
         <note>Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.cancelButton">
         <source>Cancel</source>
+        <target>ยกเลิก</target>
         <note>Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.emailButton">
         <source>Email</source>
+        <target>อีเมล</target>
         <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.messageTitle">
@@ -130,10 +144,12 @@
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreButton">
         <source>Open App Store</source>
+        <target>เปิด App Store</target>
         <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openMapsButton">
         <source>Open Maps</source>
+        <target>เปิดแผนที่</target>
         <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="FirstRun.buttonLabel">
@@ -158,10 +174,12 @@
       </trans-unit>
       <trans-unit id="Open.Cancel">
         <source>Cancel</source>
+        <target>ยกเลิก</target>
         <note>Label in share alert to cancel the alert</note>
       </trans-unit>
       <trans-unit id="Open.Firefox">
         <source>Firefox (Private Browsing)</source>
+        <target>Firefox (การท่องเว็บแบบส่วนตัว)</target>
         <note>Label in share alert to open the URL in Firefox</note>
       </trans-unit>
       <trans-unit id="Open.More">
@@ -278,10 +296,12 @@
       </trans-unit>
       <trans-unit id="URL.placeholderText">
         <source>Search or enter address</source>
+        <target>ค้นหาหรือป้อนที่อยู่</target>
         <note>Placeholder text shown in the URL bar before the user navigates to a page</note>
       </trans-unit>
       <trans-unit id="URL.searchLabel">
         <source>Search for %@</source>
+        <target>ค้นหาสำหรับ %@</target>
         <note>Label displayed for search button when typing in the URL bar</note>
       </trans-unit>
     </body>
