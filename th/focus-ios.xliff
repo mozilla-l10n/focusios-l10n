@@ -59,6 +59,7 @@
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
         <source>Use it as a private browser:</source>
+        <target>ใช้เป็นเบราว์เซอร์ที่เป็นส่วนตัว:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp">
@@ -81,6 +82,7 @@
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
         <source>Use it as a Safari extension:</source>
+        <target>ใช้เป็นส่วนขยายของ Safari:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.screenTitle">
@@ -144,6 +146,7 @@
       </trans-unit>
       <trans-unit id="ExternalLink.messageTitle">
         <source>You are now leaving Firefox Focus.</source>
+        <target>คุณกำลังออกจาก Firefox Focus</target>
         <note>Dialog title used for Maps/App Store links. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreButton">
@@ -175,6 +178,7 @@
       </trans-unit>
       <trans-unit id="Home.descriptionLabel2">
         <source>Browse. Erase. Repeat.</source>
+        <target>ท่องเว็บ ลบทิ้ง ทำซ้ำ</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Open.Cancel">
@@ -212,6 +216,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsOpen">
         <source>Open Settings App</source>
+        <target>เปิดแอป การตั้งค่า</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
