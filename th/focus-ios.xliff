@@ -47,6 +47,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet1">
         <source>Search and browse right in the app</source>
+        <target>ค้นหาและท่องเว็บจากในแอป</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet2">
@@ -59,7 +60,7 @@
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
         <source>Use it as a private browser:</source>
-        <target>ใช้เป็นเบราว์เซอร์ที่เป็นส่วนตัว:</target>
+        <target>ใช้เป็นเบราว์เซอร์ส่วนตัว:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp">
@@ -82,7 +83,7 @@
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
         <source>Use it as a Safari extension:</source>
-        <target>ใช้เป็นส่วนขยายของ Safari:</target>
+        <target>ใช้เป็นส่วนขยาย Safari:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.screenTitle">
