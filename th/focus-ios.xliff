@@ -180,12 +180,12 @@
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
         <source>Automatic private browsing.</source>
-        <target>ท่องเว็บแบบส่วนตัวอัตโนมัติ</target>
+        <target>การท่องเว็บแบบส่วนตัวอัตโนมัติ</target>
         <note>First label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel2">
         <source>Browse. Erase. Repeat.</source>
-        <target>ท่องเว็บ ลบทิ้ง ทำซ้ำ</target>
+        <target>ท่องเว็บ ล้าง ทำซ้ำ</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Open.Cancel">
@@ -332,7 +332,7 @@
       </trans-unit>
       <trans-unit id="URL.eraseMessageLabel">
         <source>Your browsing history has been erased.</source>
-        <target>ประวัติการท่องเว็บคุณถูกลบออกไปแล้ว</target>
+        <target>ล้างประวัติการท่องเว็บของคุณแล้ว</target>
         <note>Message shown after pressing the Erase button</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText">
