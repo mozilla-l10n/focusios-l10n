@@ -52,6 +52,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet2">
         <source>Block trackers (or update settings to allow trackers)</source>
+        <target>ปิดกั้นตัวติดตาม (หรืออัปเดตการตั้งค่าเพื่ออนุญาตตัวติดตาม)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3">
@@ -75,6 +76,7 @@
       </trans-unit>
       <trans-unit id="About.safariBullet1">
         <source>Block trackers for improved privacy</source>
+        <target>ปิดกั้นตัวติดตามเพื่อความเป็นส่วนตัวที่เพิ่มขึ้น</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2">
