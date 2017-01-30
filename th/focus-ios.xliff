@@ -81,6 +81,7 @@
       </trans-unit>
       <trans-unit id="About.safariBullet2">
         <source>Block Web fonts to reduce page size</source>
+        <target>ปิดกั้นแบบอักษรเว็บเพื่อลดขนาดหน้า</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
@@ -275,22 +276,27 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
         <source>Block ad trackers</source>
+        <target>ปิดกั้นตัวติดตามของโฆษณา</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
         <source>Block analytics trackers</source>
+        <target>ปิดกั้นตัวติดตามของการวิเคราะห์</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
         <source>Block Web fonts</source>
+        <target>ปิดกั้นแบบอักษรเว็บ</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther">
         <source>Block other content trackers</source>
+        <target>ปิดกั้นตัวติดตามของเนื้อหาอื่น ๆ</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
         <source>Block social trackers</source>
+        <target>ปิดกั้นตัวติดตามทางสังคม</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
