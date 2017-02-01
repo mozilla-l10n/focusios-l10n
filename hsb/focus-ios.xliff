@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet2">
         <source>Block trackers (or update settings to allow trackers)</source>
-        <target>Blokujće přesćěhowaki (abo aktualizujće nastajenja, zo byšće přesćěhowarjow dowolił)</target>
+        <target>Blokujće přesćěhowaki (abo aktualizujće nastajenja, zo byšće přesćěhowaki dowolił)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3">
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
         <source>Use it as a private browser:</source>
-        <target>Wužijće jón jako priwatny wobhladowak:</target>
+        <target>Wužiwajće jón jako priwatny wobhladowak:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp">
@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
         <source>Use it as a Safari extension:</source>
-        <target>Wužijće jón jako rozšěrjenje za Safari:</target>
+        <target>Wužiwajće jón jako rozšěrjenje za Safari:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.screenTitle">
@@ -133,12 +133,12 @@
       </trans-unit>
       <trans-unit id="Error.tryAgainButton">
         <source>Try again</source>
-        <target>Spytajće hišće raz</target>
+        <target>Hišće raz spytać</target>
         <note>Button label to reload the error page</note>
       </trans-unit>
       <trans-unit id="ExternalLink.callButton">
         <source>Call</source>
-        <target>Zawołać</target>
+        <target>Zazwonić</target>
         <note>Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.cancelButton">
@@ -213,7 +213,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers">
         <source>Tap Safari, then select Content Blockers</source>
-        <target>Podótkńće so Safari a wubjerće potom wobsahowe blokowary</target>
+        <target>Podótkńće so Safari a wubjerće potom wobsahowe blokowaki</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsEnable">
@@ -233,7 +233,7 @@
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
         <source>Blocking other content trackers may break some videos and Web pages.</source>
-        <target>blokowanje druhe přesćěhowaki móže někotrym widejam a webstronam haćić.</target>
+        <target>Blokowanje drugich přesćěhowakow móže někotrym widejam a webstronam haćić.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo">
@@ -298,12 +298,12 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther">
         <source>Block other content trackers</source>
-        <target>Druhe přesćěhowaki blokować</target>
+        <target>Druhe wobsahowe přesćěhowaki blokować</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
         <source>Block social trackers</source>
-        <target>Specialne přesćěhowaki blokować</target>
+        <target>Socialne přesćěhowaki blokować</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
