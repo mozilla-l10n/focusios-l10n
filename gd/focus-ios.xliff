@@ -188,7 +188,7 @@
       </trans-unit>
       <trans-unit id="Home.descriptionLabel2">
         <source>Browse. Erase. Repeat.</source>
-        <target>Dèan brabhsadh. Dèan suathadh às. Agus a-rithist.</target>
+        <target>Dèan brabhsadh. Dèan suathadh às. Agus a&amp;#8209;rithist.</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Open.Cancel">
@@ -238,12 +238,12 @@
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo">
         <source>No, Thanks</source>
-        <target>Chan eil, mòran taing</target>
+        <target>Na bac iad, mòran taing</target>
         <note>Button label for declining Content blocker alert</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherYes">
         <source>I Understand</source>
-        <target>Tha mi agaibh</target>
+        <target>Bac iad co-dhiù</target>
         <note>Button label for accepting Content blocker alert</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
