@@ -188,7 +188,7 @@
       </trans-unit>
       <trans-unit id="Home.descriptionLabel2">
         <source>Browse. Erase. Repeat.</source>
-        <target>Dèan brabhsadh. Dèan suathadh às. Agus a&amp;#8209;rithist.</target>
+        <target>Dèan brabhsadh. Dèan suathadh às. Agus a‑rithist.</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Open.Cancel">
