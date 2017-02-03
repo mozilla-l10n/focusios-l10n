@@ -308,7 +308,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
-        <target>อาจทำให้วิดีโอและหน้าเว็บไม่สมบูรณ์</target>
+        <target>อาจทำให้บางวิดีโอและหน้าเว็บไม่สมบูรณ์</target>
         <note>Label subtitle for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSafari">
