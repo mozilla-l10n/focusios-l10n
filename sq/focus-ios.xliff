@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
         <source>Use it as a Safari extension:</source>
-        <target>Përdoreni si nja zgjerim të Safari-t:</target>
+        <target>Përdoreni si një zgjerim të Safari-t:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.screenTitle">
@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
-        <target>Bllokojini vetvetiu gjurmuesi në internet, teksa shfletoni. Mandej prekeni, që të fshihen nga pajisja juaj faqe të vizituara, kërkime, cookies dhe fjalëkalime.</target>
+        <target>Bllokojini vetvetiu gjurmuesit në internet, teksa shfletoni. Mandej prekeni, që të fshihen nga pajisja juaj faqe të vizituara, kërkime, cookies dhe fjalëkalime.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
