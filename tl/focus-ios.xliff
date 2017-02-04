@@ -333,12 +333,12 @@
       </trans-unit>
       <trans-unit id="URL.eraseButtonLabel">
         <source>ERASE</source>
-        <target>ERASE</target>
+        <target>BURAHIN</target>
         <note>Erase button in the URL bar</note>
       </trans-unit>
       <trans-unit id="URL.eraseMessageLabel">
         <source>Your browsing history has been erased.</source>
-        <target>Ang iyong kasaysayan sa pag-browse ay tinanggal.</target>
+        <target>Ang iyong kasaysayan sa pag-browse ay nabura na.</target>
         <note>Message shown after pressing the Erase button</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText">
