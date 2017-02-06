@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet2">
         <source>Block trackers (or update settings to allow trackers)</source>
-        <target>Blokker sporfølgjarar(eller oppdater innstillingane for å tillata sporfølgjarar)</target>
+        <target>Blokker sporfølgjarar (eller oppdater innstillingane for å tillata sporfølgjarar)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3">
@@ -283,12 +283,12 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
         <source>Block ad trackers</source>
-        <target>Blokker reklamesporfølgjarar</target>
+        <target>Blokker sporfølgjarar for reklame</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
         <source>Block analytics trackers</source>
-        <target>Blokker analysesporfølgjarar</target>
+        <target>Blokker sporfølgjarar for analyser</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
