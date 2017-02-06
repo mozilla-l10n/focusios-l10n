@@ -178,7 +178,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
         <source>Browse like no one’s watching.</source>
-        <target>Surf utan å vera overvaka.</target>
+        <target>Surf som om ingen ser på.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
@@ -223,7 +223,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsNotEnabled">
         <source>%@ is not enabled.</source>
-        <target>%@ er ikkje påslått.</target>
+        <target>%@ er ikkje slått på.</target>
         <note>Error label when the blocker is not enabled, shown in the intro and main app when disabled</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsOpen">
@@ -343,7 +343,7 @@
       </trans-unit>
       <trans-unit id="URL.placeholderText">
         <source>Search or enter address</source>
-        <target>Søk eller skriv inn adresse</target>
+        <target>Søk eller skriv inn ei adresse</target>
         <note>Placeholder text shown in the URL bar before the user navigates to a page</note>
       </trans-unit>
       <trans-unit id="URL.searchLabel">
