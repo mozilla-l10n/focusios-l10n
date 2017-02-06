@@ -43,17 +43,17 @@
       </trans-unit>
       <trans-unit id="About.missionLabel">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
-        <target>%@ توسط موزیلا تولید شده است. ماموریت ما پرورش اینترنتی سالم و باز می باشد.</target>
+        <target>%@ توسط موزیلا تولید شده است. ماموریت ما پرورش اینترنتی سالم و باز می‌باشد.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet1">
         <source>Search and browse right in the app</source>
-        <target>جست و جو و مرور درست در داخل برنامه</target>
+        <target>جستجو و مرور دقیقا در داخل برنامه</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet2">
         <source>Block trackers (or update settings to allow trackers)</source>
-        <target>مسدود کردن دنبال کننده ها (یا بروز رسانی تنظیمات برای اجازه به دنبال کننده ها )</target>
+        <target>مسدود کردن دنبال کننده‌ها (یا به‌روزرسانی تنظیمات برای اجازه دادن به دنبال کننده‌ها)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3">
