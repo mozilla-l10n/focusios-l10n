@@ -133,7 +133,7 @@
       </trans-unit>
       <trans-unit id="Error.tryAgainButton">
         <source>Try again</source>
-        <target>Feuch ris a-rithist</target>
+        <target>Feuch ris a‑rithist</target>
         <note>Button label to reload the error page</note>
       </trans-unit>
       <trans-unit id="ExternalLink.callButton">
@@ -343,7 +343,7 @@
       </trans-unit>
       <trans-unit id="URL.placeholderText">
         <source>Search or enter address</source>
-        <target>Lorg no seòladh an-seo</target>
+        <target>Lorg no seòladh an‑seo</target>
         <note>Placeholder text shown in the URL bar before the user navigates to a page</note>
       </trans-unit>
       <trans-unit id="URL.searchLabel">
