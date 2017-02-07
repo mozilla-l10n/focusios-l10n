@@ -58,6 +58,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet3">
         <source>Erase to delete cookies as well as search and browsing history</source>
+        <target>מחיקת עוגיות כמו גם חיפוש והיסטורית גלישה</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
@@ -172,6 +173,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
+        <target>חסימת מעקב מקוון אוטומטית במהלך הגלישה שלך, ואז מחיקת רשימת האתרים שביקרת בהם, חיפושים, עוגיות וססמאות מההתקן שלך.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
