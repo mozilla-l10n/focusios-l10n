@@ -151,10 +151,9 @@
         <target>Email</target>
         <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.messageTitle">
-        <source>You are now leaving Firefox Focus.</source>
-        <target>Anda meninggalkan Firefox Focus.</target>
-        <note>Dialog title used for Maps/App Store links. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
+      <trans-unit id="ExternalLink.messageTitleWithPlaceholder">
+        <source>You are now leaving %@.</source>
+        <note>Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreButton">
         <source>Open App Store</source>
