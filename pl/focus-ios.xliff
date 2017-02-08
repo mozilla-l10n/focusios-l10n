@@ -13,8 +13,8 @@
     <target>$(PRODUCT_NAME)</target>
    </trans-unit>
    <trans-unit id="CFBundleShortVersionString">
-    <source>3.0.1</source>
-    <target>3.0.1</target>
+    <source>3.1</source>
+    <target>3.1</target>
    </trans-unit>
    <trans-unit id="NSCameraUsageDescription">
     <source>This lets you take and upload photos.</source>
@@ -154,10 +154,11 @@
     <target>Nowa wiadomość</target>
     <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
    </trans-unit>
-      <trans-unit id="ExternalLink.messageTitleWithPlaceholder">
-        <source>You are now leaving %@.</source>
-        <note>Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
-      </trans-unit>
+   <trans-unit id="ExternalLink.messageTitleWithPlaceholder">
+    <source>You are now leaving %@.</source>
+    <target>Opuszczasz aplikację %@.</target>
+    <note>Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
+   </trans-unit>
    <trans-unit id="ExternalLink.openAppStoreButton">
     <source>Open App Store</source>
     <target>Otwórz w „App Store”</target>
@@ -369,8 +370,8 @@
     <target>$(PRODUCT_NAME)</target>
    </trans-unit>
    <trans-unit id="CFBundleShortVersionString">
-    <source>3.0.1</source>
-    <target>3.0.1</target>
+    <source>3.1</source>
+    <target>3.1</target>
    </trans-unit>
   </body>
  </file>
