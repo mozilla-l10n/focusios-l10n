@@ -155,8 +155,8 @@
     <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
    </trans-unit>
    <trans-unit id="ExternalLink.messageTitle">
-    <source>You are now leaving Firefox Focus.</source>
-    <target>Opuszczasz Firefox Focus.</target>
+    <source>You are now leaving %@.</source>
+    <target>Opuszczasz aplikację %@.</target>
     <note>Dialog title used for Maps/App Store links. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
    </trans-unit>
    <trans-unit id="ExternalLink.openAppStoreButton">
