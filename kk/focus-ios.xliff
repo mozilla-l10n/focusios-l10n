@@ -53,6 +53,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet2">
         <source>Block trackers (or update settings to allow trackers)</source>
+        <target>Трекерлерді блоктаңыз (немесе, оларды рұқсат ету үшін, баптауларды жаңартыңыз)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3">
