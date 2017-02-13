@@ -15,19 +15,19 @@
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
-        <target>Ito ay hinahayaan kang makakuha at mag-upload ng mga larawan.</target>
+        <target>Maaari kang kumuha at mag-upload ng mga larawan dito.</target>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
-        <target>Ang website na binibisita mo ay maaaring humiling ng iyong lokasyon.</target>
+        <target>Maaaring hingin ng mga website na binibisita mo ang iyon lokasyon.</target>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription">
         <source>This lets you take and upload videos.</source>
-        <target>Ito hinahayaan kang makakuha at mag-upload ng mga videos.</target>
+        <target>Maaari kang kumuha at mag-upload ng mga larawan dito.</target>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription">
         <source>This lets you save and upload photos.</source>
-        <target>Ito hinahayaan kang mag-save at mag-upload ng mga larawan.</target>
+        <target>Maaari kang kumuha at mag-upload ng mga larawan dito.</target>
       </trans-unit>
     </body>
   </file>
@@ -38,7 +38,7 @@
     <body>
       <trans-unit id="About.learnMoreButton">
         <source>Learn more</source>
-        <target>Matuto ng higit pa</target>
+        <target>Alamin</target>
         <note>Button on About screen</note>
       </trans-unit>
       <trans-unit id="About.missionLabel">
@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="About.rowRights">
         <source>Your Rights</source>
-        <target>Ang iyong mga karapatan</target>
+        <target>Ang Iyong mga Karapatan</target>
         <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet1">
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="Browser.stopLabel">
         <source>Stop</source>
-        <target>Itigil</target>
+        <target>Huminto</target>
         <note>Accessibility label for the stop button</note>
       </trans-unit>
       <trans-unit id="Error.tryAgainButton">
@@ -138,12 +138,12 @@
       </trans-unit>
       <trans-unit id="ExternalLink.callButton">
         <source>Call</source>
-        <target>Tawagan</target>
+        <target>Tumawag</target>
         <note>Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.cancelButton">
         <source>Cancel</source>
-        <target>Kanselahin</target>
+        <target>I-cancel</target>
         <note>Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.emailButton">
@@ -193,7 +193,7 @@
       </trans-unit>
       <trans-unit id="Open.Cancel">
         <source>Cancel</source>
-        <target>Kanselahin</target>
+        <target>I-cancel</target>
         <note>Label in share alert to cancel the alert</note>
       </trans-unit>
       <trans-unit id="Open.Firefox">
@@ -328,7 +328,7 @@
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
         <source>Cancel</source>
-        <target>Kanselahin</target>
+        <target>I-cancel</target>
         <note>Label for cancel button shown when entering a URL or search</note>
       </trans-unit>
       <trans-unit id="URL.eraseButtonLabel">
