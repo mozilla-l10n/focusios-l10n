@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
-        <target>Stankit an heulierien en linenn ent emgefreek pa verdeit. Stokit evit dilemel ar pajennoù gweladennet, an toupinoù, an enklaskoù hag ar gerioù-tremen eus ho trevnad.</target>
+        <target>Stankit an heulierien enlinenn ent emgefreek pa verdeit. Stokit evit dilemel ar pajennoù gweladennet, an toupinoù, an enklaskoù hag ar gerioù-tremen eus ho trevnad.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
@@ -233,7 +233,7 @@
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
         <source>Blocking other content trackers may break some videos and Web pages.</source>
-        <target>Stankañ heulierien endalc'had ouzhpenn a c'hall mirout videoioù ha pajennadoù web da vont en-dro en un doare dereat.</target>
+        <target>Stankañ heulierien endalc'hadoù all a c'hall mirout videoioù ha pajennadoù web da vont en-dro en un doare dereat.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo">
@@ -308,7 +308,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
-        <target>Gallout a ra mirout videoioù ga pajennadoù web da vont en-dro en un doare dereat</target>
+        <target>Gallout a ra mirout videoioù ha pajennadoù web da vont en-dro en un doare dereat</target>
         <note>Label subtitle for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSafari">
