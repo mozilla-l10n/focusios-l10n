@@ -53,10 +53,12 @@
       </trans-unit>
       <trans-unit id="About.privateBullet2">
         <source>Block trackers (or update settings to allow trackers)</source>
+        <target>ট্রাকারদেরকে অবরুদ্ধ করুন(অথবা ট্রাকারদের অনুমতি দিতে সেটিংস আপডেট করুন)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3">
         <source>Erase to delete cookies as well as search and browsing history</source>
+        <target>সেইসাথে অনুসন্ধান এবং ব্রাউজিং-র পূর্ববর্তী তথ্যক কুকির সাথে সরাতে মুছুন</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
