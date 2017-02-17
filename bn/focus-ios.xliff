@@ -61,6 +61,7 @@
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
         <source>Use it as a private browser:</source>
+        <target>একটি ব্যক্তিগত ব্রাউজার হিসাবে এটিকে ব্যবহার করুন:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp">
@@ -75,14 +76,17 @@
       </trans-unit>
       <trans-unit id="About.safariBullet1">
         <source>Block trackers for improved privacy</source>
+        <target>গোপনীয়তাকে আরো উন্নত করতে ট্রাকারদেরকে অবরুদ্ধ করুন</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2">
         <source>Block Web fonts to reduce page size</source>
+        <target>পাতা আকার হ্রাস করতে ওয়েব ফন্টকে অবরুদ্ধ করুন</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
         <source>Use it as a Safari extension:</source>
+        <target>Safari-র এক্সটেনশন হিসাবে এটিকে ব্যবহার করুন:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.screenTitle">
@@ -92,106 +96,132 @@
       </trans-unit>
       <trans-unit id="About.topLabel">
         <source>%@ puts you in control.</source>
+        <target>%@ আপানকে নিয়ন্ত্রণে রাখে।</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel">
         <source>Back</source>
+        <target>পূর্ববর্তী</target>
         <note>Accessibility label for the back button</note>
       </trans-unit>
       <trans-unit id="Browser.forwardLabel">
         <source>Forward</source>
+        <target>পরবর্তী</target>
         <note>Accessibility label for the forward button</note>
       </trans-unit>
       <trans-unit id="Browser.reloadLabel">
         <source>Reload</source>
+        <target>পুনরায় লোড করুন</target>
         <note>Accessibility label for the reload button</note>
       </trans-unit>
       <trans-unit id="Browser.settingsLabel">
         <source>Settings</source>
+        <target>সেটিংস</target>
         <note>Accessibility label for the settings button</note>
       </trans-unit>
       <trans-unit id="Browser.shareLabel">
         <source>Share</source>
+        <target>শেয়ার করুন</target>
         <note>Accessibility label for the share button</note>
       </trans-unit>
       <trans-unit id="Browser.stopLabel">
         <source>Stop</source>
+        <target>থামুন</target>
         <note>Accessibility label for the stop button</note>
       </trans-unit>
       <trans-unit id="Error.tryAgainButton">
         <source>Try again</source>
+        <target>আবার চেষ্টা করুন</target>
         <note>Button label to reload the error page</note>
       </trans-unit>
       <trans-unit id="ExternalLink.callButton">
         <source>Call</source>
+        <target>কল</target>
         <note>Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.cancelButton">
         <source>Cancel</source>
+        <target>বাতিল</target>
         <note>Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.emailButton">
         <source>Email</source>
+        <target>ইমেইল</target>
         <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.messageTitleWithPlaceholder">
         <source>You are now leaving %@.</source>
+        <target>এখন আপনি %@ থেকে বেরিয়ে যাচ্ছেন।</target>
         <note>Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreButton">
         <source>Open App Store</source>
+        <target>অ্যাপ ষ্টোর খুলুন</target>
         <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openMapsButton">
         <source>Open Maps</source>
+        <target>মানচিত্র খুলুন</target>
         <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="FirstRun.buttonLabel">
         <source>OK, GOT IT!</source>
+        <target>ঠিক আছে, বুঝেছি!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
+        <target>আপনার ব্রাউজ করার সময় স্বয়ংক্রিয়ভাবে অনলাইন ট্রাকারদেরকে অবরুদ্ধ করা হয়। তারপর আপনার ডিভাইস থেকে দেখা পৃষ্ঠাগুলি, অনুসন্ধান, কুকি এবং পাসওয়ার্ড মুছতে ট্যাপ করুন।</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
         <source>Browse like no one’s watching.</source>
+        <target>কেউ দেখছেন না-র মত ব্রাউজ করুন।</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
         <source>Automatic private browsing.</source>
+        <target>স্বয়ংক্রিয় ব্যক্তিগত ব্রাউজিং।</target>
         <note>First label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel2">
         <source>Browse. Erase. Repeat.</source>
+        <target>ব্রাউজ করুন। মুছে দিন। পুনরাবৃত্তি করুন।</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Open.Cancel">
         <source>Cancel</source>
+        <target>বাতিল</target>
         <note>Label in share alert to cancel the alert</note>
       </trans-unit>
       <trans-unit id="Open.Firefox">
         <source>Firefox (Private Browsing)</source>
+        <target>Firefox (ব্যক্তিগত ব্রাউজিং)</target>
         <note>Label in share alert to open the URL in Firefox</note>
       </trans-unit>
       <trans-unit id="Open.More">
         <source>More</source>
+        <target>আরো</target>
         <note>Label in share alert to open the full system share menu</note>
       </trans-unit>
       <trans-unit id="Open.Safari">
         <source>Safari</source>
+        <target>Safari</target>
         <note>Label in share alert to open the URL in Safari</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers">
         <source>Tap Safari, then select Content Blockers</source>
+        <target>Safari তে ট্যাপ করুন, তারপর কন্টেন্ট ব্লকার নির্বাচন করুন</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsEnable">
         <source>Enable %@</source>
+        <target>%@ কে সক্রিয় করুন</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsNotEnabled">
         <source>%@ is not enabled.</source>
+        <target>%@ কে সক্রিয় করা হয়নি।</target>
         <note>Error label when the blocker is not enabled, shown in the intro and main app when disabled</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsOpen">
