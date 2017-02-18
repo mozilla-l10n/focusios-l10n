@@ -283,7 +283,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
         <source>Block ad trackers</source>
-        <target>Loka á auglýsingar rekjara</target>
+        <target>Loka á auglýsinga rekjara</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
