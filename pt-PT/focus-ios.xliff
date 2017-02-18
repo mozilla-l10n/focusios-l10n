@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
-        <target>Bloqueia trackers online automaticamente enquanto navega. Depois toque para apagar as páginas visitadas, pesquisas, cookies e palavras-passe do seu dispositivo.</target>
+        <target>Bloqueie trackers online automaticamente enquanto navega. Depois toque para apagar as páginas visitadas, pesquisas, cookies e palavras-passe do seu dispositivo.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
