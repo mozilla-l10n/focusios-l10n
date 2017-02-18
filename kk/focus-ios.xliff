@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet1">
         <source>Search and browse right in the app</source>
-        <target>Тура қолданба ішінен іздеу және шолу</target>
+        <target>Қолданба ішінен тікелей іздеу және шолу</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet2">
@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
-        <target>Интернетті шолу кезінде онлайн трекерлерді автоматты түрдеу блоктаңыз. Одан кейін құрылғыңыздан қаралған парақтар, іздеулер, cookies және парольдерді өшіру үшін батырманы басыңыз.</target>
+        <target>Интернетті шолу кезінде онлайн трекерлерді автоматты түрде блоктаңыз. Одан кейін құрылғыңыздан қаралған парақтар, іздеулер, cookies және парольдерді өшіру үшін батырманы басыңыз.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
@@ -223,7 +223,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsNotEnabled">
         <source>%@ is not enabled.</source>
-        <target>%@ рұқсат етілмеген</target>
+        <target>%@ іске қосылмаған.</target>
         <note>Error label when the blocker is not enabled, shown in the intro and main app when disabled</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsOpen">
@@ -338,7 +338,7 @@
       </trans-unit>
       <trans-unit id="URL.eraseMessageLabel">
         <source>Your browsing history has been erased.</source>
-        <target>Сіз шолу тарихыңыз өшірілді.</target>
+        <target>Сіздің шолу тарихыңыз өшірілді.</target>
         <note>Message shown after pressing the Erase button</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText">
