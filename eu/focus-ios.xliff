@@ -83,6 +83,7 @@
       </trans-unit>
       <trans-unit id="About.safariBullet2">
         <source>Block Web fonts to reduce page size</source>
+        <target>Blokeatu webeko letra-tipoak orrien pisua gutxiagotzeko</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
@@ -97,6 +98,7 @@
       </trans-unit>
       <trans-unit id="About.topLabel">
         <source>%@ puts you in control.</source>
+        <target>%@(e)k agintea ematen dizu.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel">
@@ -171,14 +173,17 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
+        <target>Automatikoki blokeatu jarraipena nabigatu ahala. Ondoren sakatu zure gailutik ezabatzeko bisitatutako orriak, bilaketak, cookieak eta pasahitzak.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
         <source>Browse like no one’s watching.</source>
+        <target>Nabigatu inor begira ez balego bezala.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
         <source>Automatic private browsing.</source>
+        <target>Nabigatze pribatu automatikoa.</target>
         <note>First label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel2">
@@ -208,6 +213,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers">
         <source>Tap Safari, then select Content Blockers</source>
+        <target>Sakatu Safari-n eta ondoren hautatu edukien blokeatzaileak</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsEnable">
@@ -227,6 +233,7 @@
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
         <source>Blocking other content trackers may break some videos and Web pages.</source>
+        <target>Bestelako jarraipen-elementuak blokeatzean zenbait bideo eta web orri apur litezke.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo">
@@ -276,26 +283,32 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
         <source>Block ad trackers</source>
+        <target>Blokeatu publizitatearen jarraipena</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
         <source>Block analytics trackers</source>
+        <target>Blokeatu analitiken jarraipena</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
         <source>Block Web fonts</source>
+        <target>Blokeatu webeko letra-tipoak</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther">
         <source>Block other content trackers</source>
+        <target>Blokeatu bestelako edukien jarraipena</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
         <source>Block social trackers</source>
+        <target>Blokeatu sare sozialetako jarraipena</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
+        <target>Zenbait bideo eta web orri apur litzake</target>
         <note>Label subtitle for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSafari">
