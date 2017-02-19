@@ -253,12 +253,12 @@
       </trans-unit>
       <trans-unit id="Settings.searchSection">
         <source>SEARCH ENGINE</source>
-        <target>ІЗДЕУ ТЕТІГІ</target>
+        <target>ІЗДЕУ ЖҮЙЕСІ</target>
         <note>Title for the search engine row</note>
       </trans-unit>
       <trans-unit id="Settings.searchTitle">
         <source>Search Engine</source>
-        <target>Іздеу тетігі</target>
+        <target>Іздеу жүйесі</target>
         <note>Title for the search engine selection screen</note>
       </trans-unit>
       <trans-unit id="Settings.sectionIntegration">
