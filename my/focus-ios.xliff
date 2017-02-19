@@ -233,6 +233,7 @@
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
         <source>Blocking other content trackers may break some videos and Web pages.</source>
+        <target>အခြား အကြောင်းအရာနောက်ယောင်ခံကိရိယာများကို ပိတ်ခြင်းသည် အချို့သော ဗီဒီယိုများနှင့် ဝဘ်စာမျက်နှာများကို ကောင်းမွန်စွာ လုပ်ဆောင်နိုင်စေမည် မဟုတ်ပါ။</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo">
@@ -242,6 +243,7 @@
       </trans-unit>
       <trans-unit id="Settings.blockOtherYes">
         <source>I Understand</source>
+        <target>ကျွန်ုပ် နားလည်သဘောပေါက်ပါသည်</target>
         <note>Button label for accepting Content blocker alert</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
@@ -251,6 +253,7 @@
       </trans-unit>
       <trans-unit id="Settings.searchSection">
         <source>SEARCH ENGINE</source>
+        <target>SEARCH ENGINE</target>
         <note>Title for the search engine row</note>
       </trans-unit>
       <trans-unit id="Settings.searchTitle">
@@ -260,6 +263,7 @@
       </trans-unit>
       <trans-unit id="Settings.sectionIntegration">
         <source>INTEGRATION</source>
+        <target>INTEGRATION</target>
         <note>Label for Safari integration section</note>
       </trans-unit>
       <trans-unit id="Settings.sectionMozilla">
@@ -269,34 +273,42 @@
       </trans-unit>
       <trans-unit id="Settings.sectionPerformance">
         <source>PERFORMANCE</source>
+        <target>PERFORMANCE</target>
         <note>Section label for performance toggles</note>
       </trans-unit>
       <trans-unit id="Settings.sectionPrivacy">
         <source>PRIVACY</source>
+        <target>PRIVACY</target>
         <note>Section label for privacy toggles</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
         <source>Block ad trackers</source>
+        <target>ကြော်ငြာနောက်ယောက်ခံ ကိရိယာများကို ပိတ်ပင်ပါ</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
         <source>Block analytics trackers</source>
+        <target>သရုပ်ခွဲလေ့လာသည့် နောက်ယောင်ခံကိရိယာများကို ပိတ်ပင်ပါ</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
         <source>Block Web fonts</source>
+        <target>ဝဘ်ဖောင့်များကို ပိတ်ပင်ပါ</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther">
         <source>Block other content trackers</source>
+        <target>အခြားသော အကြောင်းအရာနောက်ယောက်ခံကိရိယာများကို ပိတ်ပင်ပါ</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
         <source>Block social trackers</source>
+        <target>လူမှုမီဒီယာ နောက်ယောင်ခံကိရိယာများကို ပိတ်ပင်ပါ</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
+        <target>အချို့သော ဗီဒီယိုများနှင့် ဝဘ်စာမျက်နှာများကို ထိခိုက်စေသည်</target>
         <note>Label subtitle for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSafari">
@@ -306,6 +318,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleSendAnonymousUsageData">
         <source>Send anonymous usage data</source>
+        <target>အမျိုးအမည်မဲ့အသုံးပြုမှုအချက်အလက်များကို ပေးပို့ရန်</target>
         <note>Label for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSendAnonymousUsageDataSubtitle">
@@ -320,7 +333,7 @@
       </trans-unit>
       <trans-unit id="URL.eraseButtonLabel">
         <source>ERASE</source>
-        <target>ရှင်းလင်းပါ</target>
+        <target>ERASE</target>
         <note>Erase button in the URL bar</note>
       </trans-unit>
       <trans-unit id="URL.eraseMessageLabel">
