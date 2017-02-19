@@ -47,10 +47,12 @@
       </trans-unit>
       <trans-unit id="About.privateBullet1">
         <source>Search and browse right in the app</source>
+        <target>အက်ပ်ထဲမှာ အင်တာနက်ကို ရှာဖွေကြည့်ရှုအသုံးပြုပါ</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet2">
         <source>Block trackers (or update settings to allow trackers)</source>
+        <target>နောက်ယောင်ခံကိရိယာများကို ပိတ်ပါ (သို့မဟုတ် နောက်ယောင်ခံကိရိယာများကို ဆောင်ရွက်ခွင့်ပေးရန် အပြင်အဆင်များကို ပြောင်းလဲပါ)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3">
