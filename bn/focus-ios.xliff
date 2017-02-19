@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="bn">
     <header>
@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="About.safariBullet2">
         <source>Block Web fonts to reduce page size</source>
-        <target>পাতা আকার হ্রাস করতে ওয়েব ফন্টকে অবরুদ্ধ করুন</target>
+        <target>পাতার আকার হ্রাস করতে ওয়েব ফন্টকে অবরুদ্ধ করুন</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="About.topLabel">
         <source>%@ puts you in control.</source>
-        <target>%@ আপানকে নিয়ন্ত্রণে রাখে।</target>
+        <target>%@ আপনাকে নিয়ন্ত্রণে রাখে।</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel">
@@ -178,7 +178,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
         <source>Browse like no one’s watching.</source>
-        <target>কেউ দেখছেন না-র মত ব্রাউজ করুন।</target>
+        <target>কেউ দেখছেন না - এমন ভেবে ব্রাউজ করুন।</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
@@ -283,7 +283,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
         <source>Block ad trackers</source>
-        <target>বিজ্ঞাপনের ট্রাকারদের অবরুদ্ধ করুন</target>
+        <target>বিজ্ঞাপন সম্বন্ধিত ট্রাকারদেরকে অবরুদ্ধ করুন</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
