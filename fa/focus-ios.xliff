@@ -11,7 +11,7 @@
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
         <source>2.0</source>
-        <target>2.0</target>
+        <target>۲٫۰</target>
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
@@ -288,37 +288,37 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
         <source>Block analytics trackers</source>
-        <target>مسدود کردن دنبال کنندگان تجزیه و تحلیل آماری</target>
+        <target>مسدود کردن ردیاب‌های پایشگر ترافیک</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
         <source>Block Web fonts</source>
-        <target>انسداد قلم‌های وب</target>
+        <target>مسدود کردن قلم‌ها وب</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther">
         <source>Block other content trackers</source>
-        <target>انسداد دنبال کنندگان محتوا‌های دیگر</target>
+        <target>مسدود کردن سایر ردیاب‌های محتوا</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
         <source>Block social trackers</source>
-        <target>انسداد دنبال‌ کنندگان شبکه های اجتماعی</target>
+        <target>مسدود کردن ردیاب‌های شبکه‌های اجتماعی</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
-        <target>ممکن است باعث خراب شدن تعدادی فیلم و صفحات وب شود</target>
+        <target>ممکن است باعث خرابی برخی فیلم‌ها و صفحات وب شود</target>
         <note>Label subtitle for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSafari">
         <source>Safari</source>
-        <target>سافاری</target>
+        <target>Safari</target>
         <note>Safari toggle label on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSendAnonymousUsageData">
         <source>Send anonymous usage data</source>
-        <target>ارسال ناشناس داده مصرفی</target>
+        <target>ارسالِ ناشناسِ اطلاعات مربوط به نحوه استفاده</target>
         <note>Label for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSendAnonymousUsageDataSubtitle">
@@ -383,7 +383,7 @@
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
         <source>1.0</source>
-        <target>۱.۰</target>
+        <target>۱٫۰</target>
       </trans-unit>
     </body>
   </file>
