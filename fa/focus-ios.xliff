@@ -15,7 +15,7 @@
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
-        <target>به شما اجازه گرفتن و بارگذاری عکس‌ها را می‌دهد.</target>
+        <target>به شما اجازه گرفتن و بارگذاری تصاویر را می‌دهد.</target>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
@@ -48,22 +48,22 @@
       </trans-unit>
       <trans-unit id="About.privateBullet1">
         <source>Search and browse right in the app</source>
-        <target>جست‌وجو و مرور کنید، تنها در این برنامه</target>
+        <target>جست‌وجو و مرور تنها با استفاده از این برنامه</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet2">
         <source>Block trackers (or update settings to allow trackers)</source>
-        <target>مسدود کردن دنبال کننده‌ها (یا به‌روزرسانی تنظیمات برای اجازه دادن به دنبال کننده‌ها)</target>
+        <target>ردیاب‌ها را مسدود کنید (یا اینکه تنظیمات خود را برای اجازه دادن به ردیاب‌ها تغییر دهید)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3">
         <source>Erase to delete cookies as well as search and browsing history</source>
-        <target>پاک کردن کوکی ها و همچنین جست و جو و تاریخچه مرورگر</target>
+        <target>پاک کنید تا اطلاعاتی مانند کوکی‌ها و همچنین جست‌وجوها و تاریخچه مرور حذف شوند</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
         <source>Use it as a private browser:</source>
-        <target>استفاده به عنوان مرورگر خصوصی:</target>
+        <target>از آن به عنوان یک مرورگر ناشناس استفاده کنید:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp">
@@ -78,17 +78,17 @@
       </trans-unit>
       <trans-unit id="About.safariBullet1">
         <source>Block trackers for improved privacy</source>
-        <target>مسدود کردن دنبال کننده ها برای بهبود حریم شخصی</target>
+        <target>ردیاب‌ها را برای بهبود حریم‌خصوصی خود مسدود کنید</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2">
         <source>Block Web fonts to reduce page size</source>
-        <target>مسدود کردن قلم‌های وب برای کاهش اندازه صفحات</target>
+        <target>قلم‌های وب را برای کاهش حجم صفحه‌ها مسدود کنید</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
         <source>Use it as a Safari extension:</source>
-        <target>استفاده از این به عنوان افزونه Safari:</target>
+        <target>از آن به عنوان یک افزونه برای Safari استفاده کنید:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.screenTitle">
@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="About.topLabel">
         <source>%@ puts you in control.</source>
-        <target>%@ را در کنترل خود بگیرید.</target>
+        <target>برنامهٔ %@ شما را در کنترل قرار می‌دهد.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel">
@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="Browser.reloadLabel">
         <source>Reload</source>
-        <target>بارگذاری مجدد</target>
+        <target>بارگیری دوباره</target>
         <note>Accessibility label for the reload button</note>
       </trans-unit>
       <trans-unit id="Browser.settingsLabel">
@@ -123,7 +123,7 @@
       </trans-unit>
       <trans-unit id="Browser.shareLabel">
         <source>Share</source>
-        <target>به اشتراک گذاشتن</target>
+        <target>اشتراک‌گذاری</target>
         <note>Accessibility label for the share button</note>
       </trans-unit>
       <trans-unit id="Browser.stopLabel">
@@ -133,7 +133,7 @@
       </trans-unit>
       <trans-unit id="Error.tryAgainButton">
         <source>Try again</source>
-        <target>تلاش مجدد</target>
+        <target>تلاش دوباره</target>
         <note>Button label to reload the error page</note>
       </trans-unit>
       <trans-unit id="ExternalLink.callButton">
@@ -158,7 +158,7 @@
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreButton">
         <source>Open App Store</source>
-        <target>بازکردن فروشگاه برنامه‌ها</target>
+        <target>باز کردن فروشگاه برنامه‌ها</target>
         <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openMapsButton">
@@ -173,22 +173,22 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
-        <target>به صورت خودکار دنبال کنندگان آنلاین را در زمان مرورگر مسدود کن. سپس برای پاک کردن صفحات بازدید شده،‌جست‌و‌جو ها،‌ کوکی ها و رمزهای عبور از روی دستگاه ضربه بزنید.</target>
+        <target>به طور خودکار ردیاب‌های آنلاین را هنگام مرورِ خود مسدود کنید. سپس تنها با یک ضربه صفحه‌های بازدید کرده، جست‌وجوها، کوکی‌ها و گذرواژه‌های خود را از روی دستگاه حذف کنید.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
         <source>Browse like no one’s watching.</source>
-        <target>مرورکردن بدون مشاهده کسی.</target>
+        <target>طوری مرور کنید، انگار که کسی شما را تحت نظر ندارد.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
         <source>Automatic private browsing.</source>
-        <target>مرورکردن خصوصی به صورت خودکار.</target>
+        <target>مرورِ خودکارِ ناشناس.</target>
         <note>First label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel2">
         <source>Browse. Erase. Repeat.</source>
-        <target>مرور،‌ پاک کردن، تکرار.</target>
+        <target>مرور کنید. پاک کنید. تکرار کنید.</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Open.Cancel">
@@ -198,7 +198,7 @@
       </trans-unit>
       <trans-unit id="Open.Firefox">
         <source>Firefox (Private Browsing)</source>
-        <target>فایرفاکس ( مرور به صورت خصوصی)</target>
+        <target>فایرفاکس (مرور ناشناس)</target>
         <note>Label in share alert to open the URL in Firefox</note>
       </trans-unit>
       <trans-unit id="Open.More">
@@ -208,37 +208,37 @@
       </trans-unit>
       <trans-unit id="Open.Safari">
         <source>Safari</source>
-        <target>سافاری</target>
+        <target>Safari</target>
         <note>Label in share alert to open the URL in Safari</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers">
         <source>Tap Safari, then select Content Blockers</source>
-        <target>بر روی سافاری ضربه بزنید،‌ سپس محتوا مسدود شما را انتخاب کنید</target>
+        <target>بر روی Safari بزنید و سپس Content Blockers را انتخاب کنید</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsEnable">
         <source>Enable %@</source>
-        <target>فعالسازی %@</target>
+        <target>فعال‌سازی %@</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsNotEnabled">
         <source>%@ is not enabled.</source>
-        <target>%@ فعال نیست.</target>
+        <target>گزینه %@ فعال نیست.</target>
         <note>Error label when the blocker is not enabled, shown in the intro and main app when disabled</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsOpen">
         <source>Open Settings App</source>
-        <target>بازکردن تنظیمات برنامه</target>
+        <target>باز کردن برنامهٔ تنظیمات</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
         <source>Blocking other content trackers may break some videos and Web pages.</source>
-        <target>مسدود کردن سایر دنبال کنندگان محتوا ممکن است باعث خراب شدن تعدادی فیلم و صفحه وب شود.</target>
+        <target>مسدود کردن سایر ردیاب‌های محتوا ممکن است باعث خراب شدن تعدادی از فیلم‌ها و صفحات وب شود.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo">
         <source>No, Thanks</source>
-        <target>نه، تشکر</target>
+        <target>خیر، ممنون</target>
         <note>Button label for declining Content blocker alert</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherYes">
@@ -263,7 +263,7 @@
       </trans-unit>
       <trans-unit id="Settings.sectionIntegration">
         <source>INTEGRATION</source>
-        <target>یک پارچگی</target>
+        <target>یکپارچگی</target>
         <note>Label for Safari integration section</note>
       </trans-unit>
       <trans-unit id="Settings.sectionMozilla">
@@ -278,12 +278,12 @@
       </trans-unit>
       <trans-unit id="Settings.sectionPrivacy">
         <source>PRIVACY</source>
-        <target>حریم شخصی</target>
+        <target>حریم‌خصوصی</target>
         <note>Section label for privacy toggles</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
         <source>Block ad trackers</source>
-        <target>مسدود کردن دنبال کنندگان تبلیغ</target>
+        <target>مسدود کردن ردیاب‌های تبلیغاتی</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
