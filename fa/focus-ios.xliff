@@ -15,19 +15,19 @@
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
-        <target>این اجازه را به شما می‌دهد تا تصاویر خود را ثبت و بارگذاری کنید.</target>
+        <target>به شما اجازه گرفتن و بارگذاری عکس‌ها را می‌دهد.</target>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
-        <target>وب سایت‌هایی که شما بازدید میکنید ممکن است مکان شما را درخواست کنند.</target>
+        <target>وب‌سایت‌هایی که بازدید می‌کنید ممکن است مکان شما را درخواست کنند.</target>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription">
         <source>This lets you take and upload videos.</source>
-        <target>این به شما اجازه گرفتن و آپلود فیلم را می‌دهد.</target>
+        <target>به شما اجازه گرفتن و بارگذاری ویدئوها را می‌دهد.</target>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription">
         <source>This lets you save and upload photos.</source>
-        <target>این اجازه را به شما می‌دهد تا تصاویر خود را ثبت و بارگذاری کنید.</target>
+        <target>به شما اجازه گرفتن و بارگذاری تصاویر را می‌دهد.</target>
       </trans-unit>
     </body>
   </file>
@@ -38,17 +38,17 @@
     <body>
       <trans-unit id="About.learnMoreButton">
         <source>Learn more</source>
-        <target>اطلاعات بیشتر</target>
+        <target>بیشتر بدانید</target>
         <note>Button on About screen</note>
       </trans-unit>
       <trans-unit id="About.missionLabel">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
-        <target>%@ توسط موزیلا تولید شده است. ماموریت ما پرورش اینترنتی سالم و باز می‌باشد.</target>
+        <target>برنامهٔ %@ توسط موزیلا تولید شده است. ماموریت ما پرورشِ اینترنتی سالم و باز می‌باشد.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet1">
         <source>Search and browse right in the app</source>
-        <target>جستجو و مرور دقیقا در داخل برنامه</target>
+        <target>جست‌وجو و مرور کنید، تنها در این برنامه</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet2">
