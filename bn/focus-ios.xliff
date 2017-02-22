@@ -178,7 +178,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
         <source>Browse like no one’s watching.</source>
-        <target>কেউ দেখছেন না - এমন ভেবে ব্রাউজ করুন।</target>
+        <target>ব্রাউজ করুন এমন ভাবে, যেনো কেউ দেখছে না।</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
@@ -303,7 +303,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
         <source>Block social trackers</source>
-        <target>সামাজিক ট্রাকারদের অবরুদ্ধ করুন</target>
+        <target>সোসাল-নেটওয়ার্ক ট্রাকারদের অবরুদ্ধ করুন</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
@@ -348,7 +348,7 @@
       </trans-unit>
       <trans-unit id="URL.searchLabel">
         <source>Search for %@</source>
-        <target>%@ -র অনুসন্ধান করুন</target>
+        <target>%@ এর জন্যে অনুসন্ধান করুন</target>
         <note>Label displayed for search button when typing in the URL bar</note>
       </trans-unit>
     </body>
