@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet3">
         <source>Erase to delete cookies as well as search and browsing history</source>
-        <target>ລົບລ້າງຄຸກກີ້ລວມທັງປະຫວັດການຄົ້ນຫາ ແລະ ການທອງເວັບ</target>
+        <target>ລົບລ້າງຄຸກກີ້ລວມທັງປະຫວັດການຄົ້ນຫາ ແລະ ການທ່ອງເວັບ</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="About.topLabel">
         <source>%@ puts you in control.</source>
-        <target>%@ ເຮັດໃຫ້ທ່ານຄວບຄຸມໄດ້:</target>
+        <target>%@ ເຮັດໃຫ້ທ່ານສາມາດຄວບຄຸມໄດ້ດັ່ງລຸ່ມນີ້:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel">
@@ -153,7 +153,7 @@
       </trans-unit>
       <trans-unit id="ExternalLink.messageTitleWithPlaceholder">
         <source>You are now leaving %@.</source>
-        <target>ຕອນນີ້ທ່ານກຳລັງອອກໄປຈາກ %@.</target>
+        <target>ຕອນນີ້ທ່ານກຳລັງຈະອອກໄປຈາກ %@.</target>
         <note>Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreButton">
@@ -168,7 +168,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.buttonLabel">
         <source>OK, GOT IT!</source>
-        <target>ຕົກລົງ, ເຂົ້າໃຈແລ້ວ!</target>
+        <target>ຕົກລົງ, ຮັບຮູ້ແລ້ວ!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
@@ -188,7 +188,7 @@
       </trans-unit>
       <trans-unit id="Home.descriptionLabel2">
         <source>Browse. Erase. Repeat.</source>
-        <target>ທ່ອງເວັບ. ລົບລ້າງ. ເຮັດຄືນໃຫມ່.</target>
+        <target>ທ່ອງເວັບ ແລະ ລຶບຂໍ້ມູນການທ່ອງເວັບຕ່າງໆອອກ.</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Open.Cancel">
@@ -333,7 +333,7 @@
       </trans-unit>
       <trans-unit id="URL.eraseButtonLabel">
         <source>ERASE</source>
-        <target>ERASE</target>
+        <target>ລຶບອອກ</target>
         <note>Erase button in the URL bar</note>
       </trans-unit>
       <trans-unit id="URL.eraseMessageLabel">
@@ -343,7 +343,7 @@
       </trans-unit>
       <trans-unit id="URL.placeholderText">
         <source>Search or enter address</source>
-        <target>ຄົ້ນຫາ ຫລື ປ້ອນທີ່ຢູ່</target>
+        <target>ຄົ້ນຫາ ຫລື ປ້ອນທີ່ຢູ່ໃສ່ນີ້</target>
         <note>Placeholder text shown in the URL bar before the user navigates to a page</note>
       </trans-unit>
       <trans-unit id="URL.searchLabel">
