@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="About.missionLabel">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
-        <target>%@ ကို Mozilla က ထုတ်လုပ်ပါသည်။ ကျွန်ုပ်တို့၏ ရည်မှန်းချက်မှာ ကောင်းမွန်ပွင့်လင်းသော အင်တာနက်ဖြစ်လာစေရန် ဖြစ်သည်။</target>
+        <target>%@ ကို Mozilla က ထုတ်လုပ်ပါသည်။ ရည်မှန်းချက်မှာ ကောင်းမွန်ပွင့်လင်းသော အင်တာနက်ဖြစ်လာစေရန် ဖြစ်သည်။</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet1">
@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
-        <target>သင်ကြည့်ရှုနေစဉ်အတွင်း အွန်လိုင်းနောက်ယောက်ခံ ကိရိယာများကို အလိုအလျောက် ပိတ်ပင်ပါသည်။ လည်ပတ်ကြည့်ရှုခဲ့သော ဝဘ်စာမျက်နှာများ၊ ရှာဖွေမှုများ၊ ကွတ်ကီးများနှင့် စကားဝှက်များကို တို့ထိပြီး ဖယ်ရှားရှင်းလင်းနိုင်သည်။</target>
+        <target>သင်ကြည့်ရှုနေစဉ်အတွင်း အွန်လိုင်းနောက်ယောက်ခံ ကိရိယာများကို အလိုအလျောက် ပိတ်ပင်ပါသည်။ လည်ပတ် ကြည့်ရှုခဲ့သော ဝဘ်စာမျက်နှာများ၊ ရှာဖွေမှုများ၊ ကွတ်ကီးများနှင့် စကားဝှက်များကို တို့ထိပြီး ဖယ်ရှားရှင်းလင်းနိုင်သည်။</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
@@ -238,12 +238,12 @@
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo">
         <source>No, Thanks</source>
-        <target>ရပါတယ်၊ ကျေးဇူးတင်ပါတယ်။</target>
+        <target>မလိုပါ၊ ကျေးဇူးတင်ပါသည်။</target>
         <note>Button label for declining Content blocker alert</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherYes">
         <source>I Understand</source>
-        <target>ကျွန်ုပ် နားလည်သဘောပေါက်ပါသည်</target>
+        <target>နားလည်သဘောပေါက်ပါသည်</target>
         <note>Button label for accepting Content blocker alert</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
