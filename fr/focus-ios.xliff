@@ -168,7 +168,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.buttonLabel">
         <source>OK, GOT IT!</source>
-        <target>OK, j’ai compris.</target>
+        <target>D’accord, j’ai compris.</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
