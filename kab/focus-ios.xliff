@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="About.missionLabel">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
-        <target>%@ yegga-t Mozilla. Tuɣdaṭ nneɣ d aḥareb ɣef tulya akked tezmert yelhan n Internet.</target>
+        <target>%@ yegga-t Mozilla. Tuɣdaṭ-nneɣ d aḥareb ɣef tulya akked tezmert yelhan n Internet.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet1">
@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="About.screenTitle">
         <source>About</source>
-        <target>Ɣef</target>
+        <target>Γef</target>
         <note>Title for the About screen</note>
       </trans-unit>
       <trans-unit id="About.topLabel">
@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="Browser.backLabel">
         <source>Back</source>
-        <target>Ɣer deffir</target>
+        <target>Γer deffir</target>
         <note>Accessibility label for the back button</note>
       </trans-unit>
       <trans-unit id="Browser.forwardLabel">
