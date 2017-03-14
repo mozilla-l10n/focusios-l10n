@@ -213,7 +213,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers">
         <source>Tap Safari, then select Content Blockers</source>
-        <target>Apasă pe Safari, apoi selectează Content Blockers</target>
+        <target>Apasă pe Safari, apoi selectează Sisteme de blocare a conținutului</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsEnable">
