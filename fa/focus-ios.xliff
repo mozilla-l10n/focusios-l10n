@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet1">
         <source>Search and browse right in the app</source>
-        <target>جست‌وجو و مرور تنها با استفاده از این برنامه</target>
+        <target>بدون خروج از برنامه، اینترنت را جست‌وجو و مرور کنید</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet2">
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
         <source>Use it as a private browser:</source>
-        <target>از آن به عنوان یک مرورگر ناشناس استفاده کنید:</target>
+        <target>از این برنامه به عنوان یک مرورگر ناشناس استفاده کنید:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp">
