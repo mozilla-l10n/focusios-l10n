@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet3">
         <source>Erase to delete cookies as well as search and browsing history</source>
-        <target>امسح أو احذف الكعكات بالإضافة إلى حذف تأريخ البحث و التصفح</target>
+        <target>امسح الكعكات بالإضافة إلى حذف تأريخ البحث و التصفح</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
