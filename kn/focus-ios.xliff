@@ -15,15 +15,19 @@
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
+        <target>ಇದು ನಿಮ್ಮನ್ನು ಫೋಟೊ ತೆಗೆಯಲು ಮತ್ತು ಅಪ್ಲೋಡ್ ಮಾಡಲು ಬಿಡುತ್ತದೆ.</target>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
+        <target>‍ನೀವು ಭೇಟಿ ನೀಡುವ ಜಾಲತಾಣಗಳು ನಿಮ್ಮ ಸ್ಥಳ ಮಾಹಿತಿಯನ್ನು ಕೇಳಬಹುದು.</target>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription">
         <source>This lets you take and upload videos.</source>
+        <target>ಇದು ನಿಮ್ಮನ್ನು ಫೋಟೊ ತೆಗೆಯಲು ಮತ್ತು ಅಪ್ಲೋಡ್ ಮಾಡಲು ಬಿಡುತ್ತದೆ.‍</target>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription">
         <source>This lets you save and upload photos.</source>
+        <target>ಇದು ನಿಮ್ಮನ್ನು ಫೋಟೊ‌ಗಳನ್ನು ಉಳಿಸಲು ಮತ್ತು ಅಪ್ಲೋಡ್ ಮಾಡಲು ಬಿಡುತ್ತದೆ.‍</target>
       </trans-unit>
     </body>
   </file>
@@ -43,6 +47,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet1">
         <source>Search and browse right in the app</source>
+        <target>‍ಅನ್ವಯದಲ್ಲಿ ನೇರವಾಗಿ ಹುಡುಕಿ ಮತ್ತು ಜಾಲಾಡಿ</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet2">
