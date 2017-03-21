@@ -78,6 +78,7 @@
       </trans-unit>
       <trans-unit id="About.safariBullet2">
         <source>Block Web fonts to reduce page size</source>
+        <target>صفحہ کا ماپ گھٹانے کے لیے ویب فانٹ بلاک کریں</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
@@ -172,6 +173,7 @@
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
         <source>Automatic private browsing.</source>
+        <target>خود کار نجی براؤزنگ۔</target>
         <note>First label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel2">
