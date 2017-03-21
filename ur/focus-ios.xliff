@@ -47,6 +47,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet1">
         <source>Search and browse right in the app</source>
+        <target>ایپلیکیشن کے اندر ہی تلاش اور برائوز کریں</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet2">
@@ -88,6 +89,7 @@
       </trans-unit>
       <trans-unit id="About.screenTitle">
         <source>About</source>
+        <target>کے بارے میں</target>
         <note>Title for the About screen</note>
       </trans-unit>
       <trans-unit id="About.topLabel">
@@ -272,6 +274,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
         <source>Block Web fonts</source>
+        <target>ویب فونٹس بلاک کریں</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther">
@@ -323,6 +326,7 @@
       </trans-unit>
       <trans-unit id="URL.searchLabel">
         <source>Search for %@</source>
+        <target>%@ کی تلاش کریں</target>
         <note>Label displayed for search button when typing in the URL bar</note>
       </trans-unit>
     </body>
