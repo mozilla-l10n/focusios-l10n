@@ -82,6 +82,7 @@
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
         <source>Use it as a Safari extension:</source>
+        <target>اس کو Safari کی توسیعات کے طور پر استعمال کریں:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.screenTitle">
@@ -149,6 +150,7 @@
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreButton">
         <source>Open App Store</source>
+        <target>ایپ سٹور کھولیں</target>
         <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openMapsButton">
@@ -250,10 +252,12 @@
       </trans-unit>
       <trans-unit id="Settings.sectionPerformance">
         <source>PERFORMANCE</source>
+        <target>کارکردگی</target>
         <note>Section label for performance toggles</note>
       </trans-unit>
       <trans-unit id="Settings.sectionPrivacy">
         <source>PRIVACY</source>
+        <target>PRIVACY</target>
         <note>Section label for privacy toggles</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
@@ -292,6 +296,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleSendAnonymousUsageDataSubtitle">
         <source>Learn more</source>
+        <target>مزید سیکھیں</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
@@ -301,10 +306,12 @@
       </trans-unit>
       <trans-unit id="URL.eraseButtonLabel">
         <source>ERASE</source>
+        <target>مٹائيں</target>
         <note>Erase button in the URL bar</note>
       </trans-unit>
       <trans-unit id="URL.eraseMessageLabel">
         <source>Your browsing history has been erased.</source>
+        <target>آپ کے برائوزنگ سابقات مٹا دیئے گئے ہیں۔</target>
         <note>Message shown after pressing the Erase button</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText">
