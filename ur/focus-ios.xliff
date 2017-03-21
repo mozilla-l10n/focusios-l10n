@@ -22,9 +22,11 @@
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription">
         <source>This lets you take and upload videos.</source>
+        <target>۔یہ آُپ کو وڈیوز بنانے اور اپلوڈ کرنے دیتا ہے۔</target>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription">
         <source>This lets you save and upload photos.</source>
+        <target>یہ آپ کو تصاویراپلوڈ اور محفوظ کرنے دیتا پے۔</target>
       </trans-unit>
     </body>
   </file>
@@ -153,6 +155,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
         <source>Browse like no one’s watching.</source>
+        <target>اس طرح براؤز کریں جیسے کوئی نہیں دیکھ رہا۔</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
@@ -161,6 +164,7 @@
       </trans-unit>
       <trans-unit id="Home.descriptionLabel2">
         <source>Browse. Erase. Repeat.</source>
+        <target>براؤز کریں ۔ مٹائیں ۔ دہرائیں۔</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Open.Cancel">
