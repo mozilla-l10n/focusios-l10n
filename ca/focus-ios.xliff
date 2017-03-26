@@ -178,7 +178,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
         <source>Browse like no one’s watching.</source>
-        <target>Navegueu sense sentir-vos observats.</target>
+        <target>Navegueu sense sentir-vos observat.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
