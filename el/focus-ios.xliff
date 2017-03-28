@@ -19,6 +19,7 @@
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
+        <target>Οι ιστοσελίδες που επισκέπτεστε ενδέχεται να ζητήσουν την τοποθεσία σας.</target>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription">
         <source>This lets you take and upload videos.</source>
@@ -42,22 +43,27 @@
       </trans-unit>
       <trans-unit id="About.missionLabel">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
+        <target>Το %@ δημιουργήθηκε από τη Mozilla. Η αποστολή μας είναι να προαγάγουμε ένα υγιές, ανοιχτό διαδίκτυο.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet1">
         <source>Search and browse right in the app</source>
+        <target>Αναζητήστε και περιηγηθείτε εντός της εφαρμογής</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet2">
         <source>Block trackers (or update settings to allow trackers)</source>
+        <target>Αποκλείστε trackers (ή ενημερώστε τις ρυθμίσεις σας ώστε να επιτρέπονται)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3">
         <source>Erase to delete cookies as well as search and browsing history</source>
+        <target>Διαγράψτε τα cookies, καθώς και το ιστορικό αναζητήσεων και περιήγησης</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
         <source>Use it as a private browser:</source>
+        <target>Χρησιμοποιήστε το ως πρόγραμμα ιδιωτικής περιήγησης:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp">
@@ -76,10 +82,12 @@
       </trans-unit>
       <trans-unit id="About.safariBullet2">
         <source>Block Web fonts to reduce page size</source>
+        <target>Αποκλείστε τις γραμματοσειρές ιστού για μείωση μεγέθους σελίδας</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
         <source>Use it as a Safari extension:</source>
+        <target>Χρησιμοποιήστε το ως επέκταση του Safari:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.screenTitle">
@@ -89,6 +97,7 @@
       </trans-unit>
       <trans-unit id="About.topLabel">
         <source>%@ puts you in control.</source>
+        <target>Το %@ σάς δίνει τον έλεγχο.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel">
@@ -163,6 +172,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
+        <target>Αποκλείστε αυτόματα τα διαδικτυακά trackers όσο περιηγείστε. Έπειτα, πατήστε για διαγραφή του ιστορικού, των αναζητήσεων, των cookies και των κωδικών πρόσβασης από τη συσκευή σας.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
@@ -222,6 +232,7 @@
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
         <source>Blocking other content trackers may break some videos and Web pages.</source>
+        <target>Η φραγή των trackers άλλου περιεχομένου ενδέχεται να χαλάσει μερικά βίντεο και ιστοσελίδες.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo">
@@ -271,10 +282,12 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
         <source>Block ad trackers</source>
+        <target>Φραγή trackers διαφημίσεων</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
         <source>Block analytics trackers</source>
+        <target>Φραγή trackers αναλύσεων</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
@@ -284,10 +297,12 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther">
         <source>Block other content trackers</source>
+        <target>Φραγή trackers άλλου περιεχομένου</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
         <source>Block social trackers</source>
+        <target>Φραγή κοινωνικών trackers</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
