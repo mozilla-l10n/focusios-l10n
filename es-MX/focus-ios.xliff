@@ -153,6 +153,7 @@
       </trans-unit>
       <trans-unit id="ExternalLink.messageTitleWithPlaceholder">
         <source>You are now leaving %@.</source>
+        <target>Estás saliendo de %@.</target>
         <note>Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreButton">
@@ -167,10 +168,12 @@
       </trans-unit>
       <trans-unit id="FirstRun.buttonLabel">
         <source>OK, GOT IT!</source>
+        <target>PERFECTO, ¡ENTENDIDO!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
+        <target>Bloquea automáticamente rastreadores en línea mientras navegas. Luego toca para eliminar las páginas visitadas, búsquedas, cookies y contraseñas de tu dispositivo.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
@@ -179,6 +182,7 @@
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
         <source>Automatic private browsing.</source>
+        <target>Navegación privada automática.</target>
         <note>First label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel2">
@@ -223,102 +227,127 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsOpen">
         <source>Open Settings App</source>
+        <target>Abrir la aplicación de configuraciones</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
         <source>Blocking other content trackers may break some videos and Web pages.</source>
+        <target>Bloquear otros rastreadores de contenido puede interferir con algunos videos y páginas web.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo">
         <source>No, Thanks</source>
+        <target>No, gracias</target>
         <note>Button label for declining Content blocker alert</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherYes">
         <source>I Understand</source>
+        <target>Entendido</target>
         <note>Button label for accepting Content blocker alert</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
         <source>Settings</source>
+        <target>Configuraciones</target>
         <note>Title for settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.searchSection">
         <source>SEARCH ENGINE</source>
+        <target>MOTOR DE BÚSQUEDA</target>
         <note>Title for the search engine row</note>
       </trans-unit>
       <trans-unit id="Settings.searchTitle">
         <source>Search Engine</source>
+        <target>Motor de búsqueda</target>
         <note>Title for the search engine selection screen</note>
       </trans-unit>
       <trans-unit id="Settings.sectionIntegration">
         <source>INTEGRATION</source>
+        <target>INTEGRACIÓN</target>
         <note>Label for Safari integration section</note>
       </trans-unit>
       <trans-unit id="Settings.sectionMozilla">
         <source>MOZILLA</source>
+        <target>MOZILLA</target>
         <note>Section label for Mozilla toggles</note>
       </trans-unit>
       <trans-unit id="Settings.sectionPerformance">
         <source>PERFORMANCE</source>
+        <target>RENDIMIENTO</target>
         <note>Section label for performance toggles</note>
       </trans-unit>
       <trans-unit id="Settings.sectionPrivacy">
         <source>PRIVACY</source>
+        <target>PRIVACIDAD</target>
         <note>Section label for privacy toggles</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
         <source>Block ad trackers</source>
+        <target>Bloquear rastreadores de publicidad</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
         <source>Block analytics trackers</source>
+        <target>Bloquear rastreadores de analíticas</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
         <source>Block Web fonts</source>
+        <target>Bloquear fuentes web</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther">
         <source>Block other content trackers</source>
+        <target>Bloquear otros rastreadores de contenido</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
         <source>Block social trackers</source>
+        <target>Bloquear rastreadores de redes sociales</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
+        <target>Puede interferir con algunos videos y páginas web</target>
         <note>Label subtitle for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSafari">
         <source>Safari</source>
+        <target>Safari</target>
         <note>Safari toggle label on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSendAnonymousUsageData">
         <source>Send anonymous usage data</source>
+        <target>Enviar datos de uso anónimos</target>
         <note>Label for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSendAnonymousUsageDataSubtitle">
         <source>Learn more</source>
+        <target>Aprender más</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
         <source>Cancel</source>
+        <target>Cancelar</target>
         <note>Label for cancel button shown when entering a URL or search</note>
       </trans-unit>
       <trans-unit id="URL.eraseButtonLabel">
         <source>ERASE</source>
+        <target>BORRAR</target>
         <note>Erase button in the URL bar</note>
       </trans-unit>
       <trans-unit id="URL.eraseMessageLabel">
         <source>Your browsing history has been erased.</source>
+        <target>Tu historial de navegación se ha borrado.</target>
         <note>Message shown after pressing the Erase button</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText">
         <source>Search or enter address</source>
+        <target>Buscar o ingresar dirección</target>
         <note>Placeholder text shown in the URL bar before the user navigates to a page</note>
       </trans-unit>
       <trans-unit id="URL.searchLabel">
         <source>Search for %@</source>
+        <target>Buscar %@</target>
         <note>Label displayed for search button when typing in the URL bar</note>
       </trans-unit>
     </body>
@@ -330,12 +359,15 @@
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
         <source>2.0</source>
+        <target>2.0</target>
       </trans-unit>
     </body>
   </file>
@@ -346,9 +378,11 @@
     <body>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
         <source>1.0</source>
+        <target>1.0</target>
       </trans-unit>
     </body>
   </file>
