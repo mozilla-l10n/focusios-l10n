@@ -13,8 +13,8 @@
     <target>$(PRODUCT_NAME)</target>
    </trans-unit>
    <trans-unit id="CFBundleShortVersionString">
-    <source>3.1</source>
-    <target>3.1</target>
+    <source>3.2</source>
+    <target>3.2</target>
    </trans-unit>
    <trans-unit id="NSCameraUsageDescription">
     <source>This lets you take and upload photos.</source>
@@ -370,8 +370,8 @@
     <target>$(PRODUCT_NAME)</target>
    </trans-unit>
    <trans-unit id="CFBundleShortVersionString">
-    <source>3.1</source>
-    <target>3.1</target>
+    <source>3.2</source>
+    <target>3.2</target>
    </trans-unit>
   </body>
  </file>
