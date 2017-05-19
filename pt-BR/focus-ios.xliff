@@ -19,7 +19,7 @@
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
-        <target>Sites que você visita podem solicitar a sua localização.</target>
+        <target>Os sites que visita podem solicitar a sua localização.</target>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription">
         <source>This lets you take and upload videos.</source>
