@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
-        <target>Cuir cosc ar lorgairí ar líne go huathoibríoch le linn brabhsála. Ansin, tapáil chun na leathanaigh a ndearna tú cuairt orthu a bhánú ó do ghléas, chomh maith le haon fhianáin, focail fhaire, nó cuardaigh a rinne tú.</target>
+        <target>Cuir cosc ar lorgairí ar líne go huathoibríoch le linn brabhsála. Ansin, tapáil chun na leathanaigh ar thug tú cuairt orthu a bhánú ó do ghléas, chomh maith le haon fhianáin, focail fhaire, nó cuardaigh a rinne tú.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
