@@ -108,12 +108,12 @@
       </trans-unit>
       <trans-unit id="Browser.forwardLabel">
         <source>Forward</source>
-        <target>Forward</target>
+        <target>Алға</target>
         <note>Accessibility label for the forward button</note>
       </trans-unit>
       <trans-unit id="Browser.reloadLabel">
         <source>Reload</source>
-        <target>Қайта жүктеп алу</target>
+        <target>Қайта жүктеу</target>
         <note>Accessibility label for the reload button</note>
       </trans-unit>
       <trans-unit id="Browser.settingsLabel">
