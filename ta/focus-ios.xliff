@@ -13,278 +13,289 @@
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
+        <target>இது படங்களை எடுத்து பதிவேற்றச் செய்கிறது</target>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
+        <target>வலைதள பக்கங்கள் உங்கள் இடத்தை அறிய விரும்பலாம்.</target>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription">
         <source>This lets you take and upload videos.</source>
+        <target>இது காணொளிகளை எடுத்து பதிவேற்றச் செய்கிறது.</target>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription">
         <source>This lets you save and upload photos.</source>
+        <target>இது படங்களைச் சேமித்து பதிவேற்றச் செய்கிறது</target>
       </trans-unit>
     </body>
   </file>
-  <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" datatype="plaintext">
+  <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="ta">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
     </header>
     <body>
       <trans-unit id="About.learnMoreButton">
         <source>Learn more</source>
-        <note from="developer">Button on About screen</note>
+        <target>மேலும் அறிய</target>
+        <note>Button on About screen</note>
       </trans-unit>
       <trans-unit id="About.missionLabel">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
-        <note from="developer">Label on About screen</note>
+        <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet1">
         <source>Search and browse right in the app</source>
-        <note from="developer">Label on About screen</note>
+        <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet2">
         <source>Block trackers (or update settings to allow trackers)</source>
-        <note from="developer">Label on About screen</note>
+        <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3">
         <source>Erase to delete cookies as well as search and browsing history</source>
-        <note from="developer">Label on About screen</note>
+        <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
         <source>Use it as a private browser:</source>
-        <note from="developer">Label on About screen</note>
+        <target>தனிப்பட்ட உலாவியாகப் பயன்படுத்து:</target>
+        <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp">
         <source>Help</source>
-        <note from="developer">Label for row in About screen</note>
+        <target>உதவி</target>
+        <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.rowRights">
         <source>Your Rights</source>
-        <note from="developer">Label for row in About screen</note>
+        <target>உங்கள் உரிமைகள்</target>
+        <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet1">
         <source>Block trackers for improved privacy</source>
-        <note from="developer">Label on About screen</note>
+        <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2">
         <source>Block Web fonts to reduce page size</source>
-        <note from="developer">Label on About screen</note>
+        <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
         <source>Use it as a Safari extension:</source>
-        <note from="developer">Label on About screen</note>
+        <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.screenTitle">
         <source>About</source>
-        <note from="developer">Title for the About screen</note>
+        <target>பற்றி</target>
+        <note>Title for the About screen</note>
       </trans-unit>
       <trans-unit id="About.topLabel">
         <source>%@ puts you in control.</source>
-        <note from="developer">Label on About screen</note>
+        <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel">
         <source>Back</source>
-        <note from="developer">Accessibility label for the back button</note>
+        <target>பின்செல்</target>
+        <note>Accessibility label for the back button</note>
       </trans-unit>
       <trans-unit id="Browser.forwardLabel">
         <source>Forward</source>
-        <note from="developer">Accessibility label for the forward button</note>
+        <target>முன்செல்</target>
+        <note>Accessibility label for the forward button</note>
       </trans-unit>
       <trans-unit id="Browser.reloadLabel">
         <source>Reload</source>
-        <note from="developer">Accessibility label for the reload button</note>
+        <note>Accessibility label for the reload button</note>
       </trans-unit>
       <trans-unit id="Browser.settingsLabel">
         <source>Settings</source>
-        <note from="developer">Accessibility label for the settings button</note>
+        <note>Accessibility label for the settings button</note>
       </trans-unit>
       <trans-unit id="Browser.shareLabel">
         <source>Share</source>
-        <note from="developer">Accessibility label for the share button</note>
+        <note>Accessibility label for the share button</note>
       </trans-unit>
       <trans-unit id="Browser.stopLabel">
         <source>Stop</source>
-        <note from="developer">Accessibility label for the stop button</note>
+        <note>Accessibility label for the stop button</note>
       </trans-unit>
       <trans-unit id="Error.tryAgainButton">
         <source>Try again</source>
-        <note from="developer">Button label to reload the error page</note>
+        <note>Button label to reload the error page</note>
       </trans-unit>
       <trans-unit id="ExternalLink.callButton">
         <source>Call</source>
-        <note from="developer">Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
+        <note>Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.cancelButton">
         <source>Cancel</source>
-        <note from="developer">Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
+        <note>Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.emailButton">
         <source>Email</source>
-        <note from="developer">Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
+        <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.messageTitleWithPlaceholder">
         <source>You are now leaving %@.</source>
-        <note from="developer">Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
+        <note>Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreButton">
         <source>Open App Store</source>
-        <note from="developer">Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
+        <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openMapsButton">
         <source>Open Maps</source>
-        <note from="developer">Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
+        <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="FirstRun.buttonLabel">
         <source>OK, GOT IT!</source>
-        <note from="developer">Label on button to dismiss first run UI</note>
+        <note>Label on button to dismiss first run UI</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
-        <note from="developer">Message label on the first run screen</note>
+        <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
         <source>Browse like no one’s watching.</source>
-        <note from="developer">Message label on the first run screen</note>
+        <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
         <source>Automatic private browsing.</source>
-        <note from="developer">First label for product description on the home screen</note>
+        <note>First label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel2">
         <source>Browse. Erase. Repeat.</source>
-        <note from="developer">Second label for product description on the home screen</note>
+        <note>Second label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Open.Cancel">
         <source>Cancel</source>
-        <note from="developer">Label in share alert to cancel the alert</note>
+        <note>Label in share alert to cancel the alert</note>
       </trans-unit>
       <trans-unit id="Open.Firefox">
         <source>Firefox (Private Browsing)</source>
-        <note from="developer">Label in share alert to open the URL in Firefox</note>
+        <note>Label in share alert to open the URL in Firefox</note>
       </trans-unit>
       <trans-unit id="Open.More">
         <source>More</source>
-        <note from="developer">Label in share alert to open the full system share menu</note>
+        <note>Label in share alert to open the full system share menu</note>
       </trans-unit>
       <trans-unit id="Open.Safari">
         <source>Safari</source>
-        <note from="developer">Label in share alert to open the URL in Safari</note>
+        <note>Label in share alert to open the URL in Safari</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers">
         <source>Tap Safari, then select Content Blockers</source>
-        <note from="developer">Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
+        <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsEnable">
         <source>Enable %@</source>
-        <note from="developer">Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
+        <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsNotEnabled">
         <source>%@ is not enabled.</source>
-        <note from="developer">Error label when the blocker is not enabled, shown in the intro and main app when disabled</note>
+        <note>Error label when the blocker is not enabled, shown in the intro and main app when disabled</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsOpen">
         <source>Open Settings App</source>
-        <note from="developer">Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
+        <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
         <source>Blocking other content trackers may break some videos and Web pages.</source>
-        <note from="developer">Alert message shown when toggling the Content blocker</note>
+        <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo">
         <source>No, Thanks</source>
-        <note from="developer">Button label for declining Content blocker alert</note>
+        <note>Button label for declining Content blocker alert</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherYes">
         <source>I Understand</source>
-        <note from="developer">Button label for accepting Content blocker alert</note>
+        <note>Button label for accepting Content blocker alert</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
         <source>Settings</source>
-        <note from="developer">Title for settings screen</note>
+        <note>Title for settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.searchSection">
         <source>SEARCH ENGINE</source>
-        <note from="developer">Title for the search engine row</note>
+        <note>Title for the search engine row</note>
       </trans-unit>
       <trans-unit id="Settings.searchTitle">
         <source>Search Engine</source>
-        <note from="developer">Title for the search engine selection screen</note>
+        <note>Title for the search engine selection screen</note>
       </trans-unit>
       <trans-unit id="Settings.sectionIntegration">
         <source>INTEGRATION</source>
-        <note from="developer">Label for Safari integration section</note>
+        <note>Label for Safari integration section</note>
       </trans-unit>
       <trans-unit id="Settings.sectionMozilla">
         <source>MOZILLA</source>
-        <note from="developer">Section label for Mozilla toggles</note>
+        <note>Section label for Mozilla toggles</note>
       </trans-unit>
       <trans-unit id="Settings.sectionPerformance">
         <source>PERFORMANCE</source>
-        <note from="developer">Section label for performance toggles</note>
+        <note>Section label for performance toggles</note>
       </trans-unit>
       <trans-unit id="Settings.sectionPrivacy">
         <source>PRIVACY</source>
-        <note from="developer">Section label for privacy toggles</note>
+        <note>Section label for privacy toggles</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
         <source>Block ad trackers</source>
-        <note from="developer">Label for toggle on main screen</note>
+        <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
         <source>Block analytics trackers</source>
-        <note from="developer">Label for toggle on main screen</note>
+        <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
         <source>Block Web fonts</source>
-        <note from="developer">Label for toggle on main screen</note>
+        <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther">
         <source>Block other content trackers</source>
-        <note from="developer">Label for toggle on main screen</note>
+        <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
         <source>Block social trackers</source>
-        <note from="developer">Label for toggle on main screen</note>
+        <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
-        <note from="developer">Label subtitle for toggle on main screen</note>
+        <note>Label subtitle for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSafari">
         <source>Safari</source>
-        <note from="developer">Safari toggle label on settings screen</note>
+        <note>Safari toggle label on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSendAnonymousUsageData">
         <source>Send anonymous usage data</source>
-        <note from="developer">Label for Send Anonymous Usage Data toggle on main screen</note>
+        <note>Label for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSendAnonymousUsageDataSubtitle">
         <source>Learn more</source>
-        <note from="developer">Subtitle for Send Anonymous Usage Data toggle on main screen</note>
+        <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
         <source>Cancel</source>
-        <note from="developer">Label for cancel button shown when entering a URL or search</note>
+        <note>Label for cancel button shown when entering a URL or search</note>
       </trans-unit>
       <trans-unit id="URL.eraseButtonLabel">
         <source>ERASE</source>
-        <note from="developer">Erase button in the URL bar</note>
+        <note>Erase button in the URL bar</note>
       </trans-unit>
       <trans-unit id="URL.eraseMessageLabel">
         <source>Your browsing history has been erased.</source>
-        <note from="developer">Message shown after pressing the Erase button</note>
+        <note>Message shown after pressing the Erase button</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText">
         <source>Search or enter address</source>
-        <note from="developer">Placeholder text shown in the URL bar before the user navigates to a page</note>
+        <note>Placeholder text shown in the URL bar before the user navigates to a page</note>
       </trans-unit>
       <trans-unit id="URL.searchLabel">
         <source>Search for %@</source>
-        <note from="developer">Label displayed for search button when typing in the URL bar</note>
+        <note>Label displayed for search button when typing in the URL bar</note>
       </trans-unit>
     </body>
   </file>
-  <file original="ContentBlocker/Info.plist" source-language="en" datatype="plaintext">
+  <file original="ContentBlocker/Info.plist" source-language="en" datatype="plaintext" target-language="ta">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
     </header>
@@ -300,7 +311,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="XCUITest/Info.plist" source-language="en" datatype="plaintext">
+  <file original="XCUITest/Info.plist" source-language="en" datatype="plaintext" target-language="ta">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
     </header>
@@ -314,3 +325,4 @@
     </body>
   </file>
 </xliff>
+
