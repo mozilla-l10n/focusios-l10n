@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="About.rowRights">
         <source>Your Rights</source>
-        <target>உங்கள் உரிமைகள்</target>
+        <target>உரிமைகள்</target>
         <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet1">
