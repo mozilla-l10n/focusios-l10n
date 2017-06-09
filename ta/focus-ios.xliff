@@ -283,12 +283,12 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
         <source>Block ad trackers</source>
-        <target>விளம்பர பின்தொடரலை தடு</target>
+        <target>விளம்பர பின்தொடரிகளைத் தடு</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
         <source>Block analytics trackers</source>
-        <target>பகுப்பாய்வு பின்தொடரலை தடு</target>
+        <target>பகுப்பாய்வு பின்தொடரிகளைத் தடு</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
@@ -348,7 +348,7 @@
       </trans-unit>
       <trans-unit id="URL.searchLabel">
         <source>Search for %@</source>
-        <target>%@ என்பதற்காகத் தேடு</target>
+        <target>%@ சொல்லைத் தேடு</target>
         <note>Label displayed for search button when typing in the URL bar</note>
       </trans-unit>
     </body>
