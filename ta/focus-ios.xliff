@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
         <source>Use it as a private browser:</source>
-        <target>தனிப்பட்ட உலாவியாகப் பயன்படுத்து:</target>
+        <target>அந்தரங்க உலாவியாகப் பயன்படுத்தவும்:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp">
