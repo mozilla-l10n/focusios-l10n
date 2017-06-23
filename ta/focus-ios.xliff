@@ -15,7 +15,7 @@
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
-        <target>இது படங்களை எடுத்து பதிவேற்றச் செய்கிறது</target>
+        <target>இது படங்களை எடுத்து பதிவேற்றச் செய்கிறது.</target>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
@@ -27,7 +27,7 @@
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription">
         <source>This lets you save and upload photos.</source>
-        <target>இது படங்களைச் சேமித்து பதிவேற்றச் செய்கிறது</target>
+        <target>இது படங்களைச் சேமித்து பதிவேற்றச் செய்கிறது.</target>
       </trans-unit>
     </body>
   </file>
@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="About.topLabel">
         <source>%@ puts you in control.</source>
-        <target>%@ உங்களை கட்டுப்பாட்டில் வைக்கிறது</target>
+        <target>%@ உங்களை கட்டுப்பாட்டில் வைக்கும்.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel">
@@ -273,7 +273,7 @@
       </trans-unit>
       <trans-unit id="Settings.sectionPerformance">
         <source>PERFORMANCE</source>
-        <target>செயற்திறன்</target>
+        <target>செயல்திறன்</target>
         <note>Section label for performance toggles</note>
       </trans-unit>
       <trans-unit id="Settings.sectionPrivacy">
