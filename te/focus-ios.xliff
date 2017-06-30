@@ -48,150 +48,187 @@
       </trans-unit>
       <trans-unit id="About.privateBullet1">
         <source>Search and browse right in the app</source>
+        <target>యాప్ లోనే వెతకండి మరియు విహరించండి</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet2">
         <source>Block trackers (or update settings to allow trackers)</source>
+        <target>ట్రాకర్లని నిరోధించండి (లేదా ట్రాకర్లని అనుమతించడానికి అమరికలు నవీకరించండి)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3">
         <source>Erase to delete cookies as well as search and browsing history</source>
+        <target>కుక్కీలతో పాటు విహరణ మరియు వెతికిన చరిత్ర తొలగించుటకు చెరపండి</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
         <source>Use it as a private browser:</source>
+        <target>వ్యక్తిగత బ్రౌజర్ గా వాడు:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp">
         <source>Help</source>
+        <target>సహాయం</target>
         <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.rowRights">
         <source>Your Rights</source>
+        <target>మీ హక్కులు</target>
         <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet1">
         <source>Block trackers for improved privacy</source>
+        <target>మెరుగైన గోప్యత కోసం ట్రాకర్లని నిరోధించండి</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2">
         <source>Block Web fonts to reduce page size</source>
+        <target>పేజీ పరిమాణం తగ్గించుటకు వెబ్ ఫాంట్లని నిరోధించండి</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
         <source>Use it as a Safari extension:</source>
+        <target>దీనిని Safari పొడిగింతగా వాడండి:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.screenTitle">
         <source>About</source>
+        <target>గురించి</target>
         <note>Title for the About screen</note>
       </trans-unit>
       <trans-unit id="About.topLabel">
         <source>%@ puts you in control.</source>
+        <target>%@ మిమ్మల్ని నియంత్రణలో ఉంచును.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel">
         <source>Back</source>
+        <target>వెనక్కి</target>
         <note>Accessibility label for the back button</note>
       </trans-unit>
       <trans-unit id="Browser.forwardLabel">
         <source>Forward</source>
+        <target>ముందుకు</target>
         <note>Accessibility label for the forward button</note>
       </trans-unit>
       <trans-unit id="Browser.reloadLabel">
         <source>Reload</source>
+        <target>తిరిగిలోడు చేయి</target>
         <note>Accessibility label for the reload button</note>
       </trans-unit>
       <trans-unit id="Browser.settingsLabel">
         <source>Settings</source>
+        <target>అమరికలు</target>
         <note>Accessibility label for the settings button</note>
       </trans-unit>
       <trans-unit id="Browser.shareLabel">
         <source>Share</source>
+        <target>పంచు</target>
         <note>Accessibility label for the share button</note>
       </trans-unit>
       <trans-unit id="Browser.stopLabel">
         <source>Stop</source>
+        <target>ఆపుము</target>
         <note>Accessibility label for the stop button</note>
       </trans-unit>
       <trans-unit id="Error.tryAgainButton">
         <source>Try again</source>
+        <target>మళ్ళీ ప్రయత్నించు</target>
         <note>Button label to reload the error page</note>
       </trans-unit>
       <trans-unit id="ExternalLink.callButton">
         <source>Call</source>
+        <target>కాల్‌</target>
         <note>Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.cancelButton">
         <source>Cancel</source>
+        <target>రద్దుచేయి</target>
         <note>Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.emailButton">
         <source>Email</source>
+        <target>ఇమెయిల్</target>
         <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.messageTitleWithPlaceholder">
         <source>You are now leaving %@.</source>
+        <target>మీరు ఇప్పుడు %@ని వదిలి వెళ్తున్నారు.</target>
         <note>Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreButton">
         <source>Open App Store</source>
+        <target>App Store తెరువు</target>
         <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openMapsButton">
         <source>Open Maps</source>
+        <target>పటములు తెరువు</target>
         <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="FirstRun.buttonLabel">
         <source>OK, GOT IT!</source>
+        <target>సరే, అర్థమయ్యింది!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
+        <target>మీరు విహరిస్తున్నపుడు స్వయంచాలితంగా ఆన్లైన్ ట్రాకర్లని నిరోధించండి. ఆ తరువాత సందర్శించిన పేజీలను, శోధనలు, సంకేతపదాలు మరియు కుక్కీలని మీ పరికరం నుండి చెరపండి.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
         <source>Browse like no one’s watching.</source>
+        <target>ఎవరూ చూడనట్టుగా విహరణ చెయ్యండి.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
         <source>Automatic private browsing.</source>
+        <target>స్వయంచాలనంగా వ్యక్తిగతంగా విహరించు.</target>
         <note>First label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel2">
         <source>Browse. Erase. Repeat.</source>
+        <target>విహరించు. చెరిపివెయ్యు. మరల చెయ్యు.</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Open.Cancel">
         <source>Cancel</source>
+        <target>రద్దుచేయి</target>
         <note>Label in share alert to cancel the alert</note>
       </trans-unit>
       <trans-unit id="Open.Firefox">
         <source>Firefox (Private Browsing)</source>
+        <target>Firefox (వ్యక్తిగత విహరణ)</target>
         <note>Label in share alert to open the URL in Firefox</note>
       </trans-unit>
       <trans-unit id="Open.More">
         <source>More</source>
+        <target>మరింత</target>
         <note>Label in share alert to open the full system share menu</note>
       </trans-unit>
       <trans-unit id="Open.Safari">
         <source>Safari</source>
+        <target>Safari</target>
         <note>Label in share alert to open the URL in Safari</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers">
         <source>Tap Safari, then select Content Blockers</source>
+        <target>కంటెంట్ బ్లాకర్లను ఎంచుకోవడానికి Safariని సఫారిని నొక్కండి</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsEnable">
         <source>Enable %@</source>
+        <target>%@ చేతనం చేయి</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsNotEnabled">
         <source>%@ is not enabled.</source>
+        <target>%@ ప్రారంభించబడలేదు.</target>
         <note>Error label when the blocker is not enabled, shown in the intro and main app when disabled</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsOpen">
         <source>Open Settings App</source>
+        <target>సెట్టింగ్‌లను తెరవండి</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
@@ -201,94 +238,117 @@
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo">
         <source>No, Thanks</source>
+        <target>ఫరవాలేదు</target>
         <note>Button label for declining Content blocker alert</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherYes">
         <source>I Understand</source>
+        <target>నాకు అర్థమయ్యింది</target>
         <note>Button label for accepting Content blocker alert</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
         <source>Settings</source>
+        <target>అమరికలు</target>
         <note>Title for settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.searchSection">
         <source>SEARCH ENGINE</source>
+        <target>SEARCH ENGINE</target>
         <note>Title for the search engine row</note>
       </trans-unit>
       <trans-unit id="Settings.searchTitle">
         <source>Search Engine</source>
+        <target>శోధన యంత్రము</target>
         <note>Title for the search engine selection screen</note>
       </trans-unit>
       <trans-unit id="Settings.sectionIntegration">
         <source>INTEGRATION</source>
+        <target>INTEGRATION</target>
         <note>Label for Safari integration section</note>
       </trans-unit>
       <trans-unit id="Settings.sectionMozilla">
         <source>MOZILLA</source>
+        <target>MOZILLA</target>
         <note>Section label for Mozilla toggles</note>
       </trans-unit>
       <trans-unit id="Settings.sectionPerformance">
         <source>PERFORMANCE</source>
+        <target>PERFORMANCE</target>
         <note>Section label for performance toggles</note>
       </trans-unit>
       <trans-unit id="Settings.sectionPrivacy">
         <source>PRIVACY</source>
+        <target>PRIVACY</target>
         <note>Section label for privacy toggles</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
         <source>Block ad trackers</source>
+        <target>యాడ్ ట్రాకర్లను నిరోధించండి</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
         <source>Block analytics trackers</source>
+        <target>వైశ్లేషిక ట్రాకర్లను నిరోధించండి</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
         <source>Block Web fonts</source>
+        <target>వెబ్ ఫాంట్లను నిరోధించండి</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther">
         <source>Block other content trackers</source>
+        <target>ఇతర విషయ ట్రాకర్లను నిరోధించండి</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
         <source>Block social trackers</source>
+        <target>సామాజిక ట్రాకర్లను నిరోధించండి</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
+        <target>కొన్ని వీడియోలను మరియు వెబ్ పేజీలను విచ్ఛిన్నం చేయవచ్చు</target>
         <note>Label subtitle for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSafari">
         <source>Safari</source>
+        <target>Safari</target>
         <note>Safari toggle label on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSendAnonymousUsageData">
         <source>Send anonymous usage data</source>
+        <target>అనామక వాడుక డేటాను పంపు</target>
         <note>Label for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSendAnonymousUsageDataSubtitle">
         <source>Learn more</source>
+        <target>ఇంకా తెలుసుకోండి</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
         <source>Cancel</source>
+        <target>రద్దు చేయి</target>
         <note>Label for cancel button shown when entering a URL or search</note>
       </trans-unit>
       <trans-unit id="URL.eraseButtonLabel">
         <source>ERASE</source>
+        <target>ERASE</target>
         <note>Erase button in the URL bar</note>
       </trans-unit>
       <trans-unit id="URL.eraseMessageLabel">
         <source>Your browsing history has been erased.</source>
+        <target>మీ విహరణ చరిత్ర తొలగించబడింది.</target>
         <note>Message shown after pressing the Erase button</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText">
         <source>Search or enter address</source>
+        <target>వెతకండి లేదా చిరునామాను ఇవ్వండి</target>
         <note>Placeholder text shown in the URL bar before the user navigates to a page</note>
       </trans-unit>
       <trans-unit id="URL.searchLabel">
         <source>Search for %@</source>
+        <target>%@ కోసం వెతుకు</target>
         <note>Label displayed for search button when typing in the URL bar</note>
       </trans-unit>
     </body>
@@ -300,12 +360,15 @@
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
         <source>2.0</source>
+        <target>2.0</target>
       </trans-unit>
     </body>
   </file>
@@ -316,9 +379,11 @@
     <body>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
         <source>1.0</source>
+        <target>1.0</target>
       </trans-unit>
     </body>
   </file>
