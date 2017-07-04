@@ -15,7 +15,7 @@
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
-        <target>Ligeann seo duit pictiúir a thógáil agus a uasluchtú.</target>
+        <target>Ligeann seo duit pictiúir a thógáil agus a uaslódáil.</target>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
@@ -23,11 +23,11 @@
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription">
         <source>This lets you take and upload videos.</source>
-        <target>Ligeann seo duit físeáin a thógáil agus a uasluchtú.</target>
+        <target>Ligeann seo duit físeáin a thógáil agus a uaslódáil.</target>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription">
         <source>This lets you save and upload photos.</source>
-        <target>Ligeann seo duit pictiúir a shábháil agus a uasluchtú.</target>
+        <target>Ligeann seo duit pictiúir a shábháil agus a uaslódáil.</target>
       </trans-unit>
     </body>
   </file>
@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="Browser.reloadLabel">
         <source>Reload</source>
-        <target>Athluchtaigh</target>
+        <target>Athlódáil</target>
         <note>Accessibility label for the reload button</note>
       </trans-unit>
       <trans-unit id="Browser.settingsLabel">
