@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet1">
         <source>Search and browse right in the app</source>
-        <target>Suchen und Surfen direkt in der App</target>
+        <target>Suchen und surfen direkt in der App</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet2">
@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="About.safariBullet2">
         <source>Block Web fonts to reduce page size</source>
-        <target>Web-Schriftarten blockieren, um zum Anzeigen der Seite benötigten Datenverkehr zu reduzieren</target>
+        <target>Web-Schriftarten blockieren, um den zum Anzeigen der Seite benötigten Datenverkehr zu reduzieren</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
