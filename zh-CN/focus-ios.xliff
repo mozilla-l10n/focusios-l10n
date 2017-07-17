@@ -15,7 +15,7 @@
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
-        <target>这允许您拍摄和上传照片。</target>
+        <target>此权限让您可以拍摄和上传照片。</target>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
@@ -23,11 +23,11 @@
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription">
         <source>This lets you take and upload videos.</source>
-        <target>这允许您拍摄和上传视频。</target>
+        <target>此权限让您可以拍摄和上传视频。</target>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription">
         <source>This lets you save and upload photos.</source>
-        <target>这允许您保存和上传照片。</target>
+        <target>此权限让您可以保存和上传照片。</target>
       </trans-unit>
     </body>
   </file>
@@ -48,22 +48,22 @@
       </trans-unit>
       <trans-unit id="About.privateBullet1">
         <source>Search and browse right in the app</source>
-        <target>在应用中搜索和浏览</target>
+        <target>直接在应用中搜索和浏览</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet2">
         <source>Block trackers (or update settings to allow trackers)</source>
-        <target>屏蔽跟踪器（或设置为允许跟踪器）</target>
+        <target>拦截跟踪器（也可调整为允许跟踪器）</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3">
         <source>Erase to delete cookies as well as search and browsing history</source>
-        <target>自动删除 Cookie 及搜索和浏览记录</target>
+        <target>清除 Cookie、搜索记录和浏览记录</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
         <source>Use it as a private browser:</source>
-        <target>使用它作为隐私浏览器：</target>
+        <target>用作隐私浏览器：</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp">
@@ -78,17 +78,17 @@
       </trans-unit>
       <trans-unit id="About.safariBullet1">
         <source>Block trackers for improved privacy</source>
-        <target>屏蔽跟踪器以保障隐私</target>
+        <target>拦截跟踪器，加强隐私</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2">
         <source>Block Web fonts to reduce page size</source>
-        <target>屏蔽网络字体以减少页面大小</target>
+        <target>拦截网络字体，减少网页大小</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
         <source>Use it as a Safari extension:</source>
-        <target>使用它作为 Safari 扩展：</target>
+        <target>用作 Safari 扩展：</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.screenTitle">
@@ -168,12 +168,12 @@
       </trans-unit>
       <trans-unit id="FirstRun.buttonLabel">
         <source>OK, GOT IT!</source>
-        <target>明白了</target>
+        <target>明白了！</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
-        <target>在您浏览时自动屏蔽在线跟踪器。一按即可清除您的设备上的访问记录、搜索记录、Cookie 以及保存的密码。</target>
+        <target>在您浏览时自动拦截在线跟踪器。一按即可清除您的设备上的访问记录、搜索记录、Cookie 以及密码。</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
