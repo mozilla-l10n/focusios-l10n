@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
         <source>Use it as a private browser:</source>
-        <target>用作隐私浏览器：</target>
+        <target>用作私密浏览器，可以：</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp">
@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
         <source>Use it as a Safari extension:</source>
-        <target>用作 Safari 扩展：</target>
+        <target>用作 Safari 扩展，可以：</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.screenTitle">
@@ -188,7 +188,7 @@
       </trans-unit>
       <trans-unit id="Home.descriptionLabel2">
         <source>Browse. Erase. Repeat.</source>
-        <target>无痕浏览，无需劳心。</target>
+        <target>无痕浏览，不必劳心。</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Open.Cancel">
