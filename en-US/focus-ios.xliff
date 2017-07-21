@@ -362,9 +362,9 @@
         <note>Label displayed for search button when typing in the URL bar</note>
       </trans-unit>
       <trans-unit id="URL.pasteAndGo">
-        <source>Paste & Go/source>
-        <target>Paste & Go</target>
-        <note>Label displayed for paste & go tip when typing in the URL bar</note>
+        <source>Paste &amp; Go</source>
+        <target>Paste &amp; Go</target>
+        <note>Label displayed for paste &amp; go tip when typing in the URL bar</note>
       </trans-unit>
     </body>
   </file>
