@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="bn">
     <header>
@@ -201,6 +201,10 @@
         <target>Firefox (ব্যক্তিগত ব্রাউজিং)</target>
         <note>Label in share alert to open the URL in Firefox</note>
       </trans-unit>
+      <trans-unit id="Open.FirefoxInAppStore">
+        <source>Get the Firefox App</source>
+        <note>This string will not wrap in the interface. Instead, it will truncate. To prevent this, please keep the localized string to 18 or fewer characters. If your string runs longer than 18 characters, you can use "Get Firefox" as the basis for your string. However, if at all possible, we'd like to signal to the user that they will be going to the App Store and installing the application from there. That is why we are using Get and App in the US-En string.</note>
+      </trans-unit>
       <trans-unit id="Open.More">
         <source>More</source>
         <target>আরো</target>
@@ -210,6 +214,10 @@
         <source>Safari</source>
         <target>Safari</target>
         <note>Label in share alert to open the URL in Safari</note>
+      </trans-unit>
+      <trans-unit id="Open.ShareSheet">
+        <source>Open in Focus</source>
+        <note>Label in share sheet to open the URL in Focus</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers">
         <source>Tap Safari, then select Content Blockers</source>
@@ -350,6 +358,10 @@
         <source>Search for %@</source>
         <target>%@ এর জন্যে অনুসন্ধান করুন</target>
         <note>Label displayed for search button when typing in the URL bar</note>
+      </trans-unit>
+      <trans-unit id="URL.pasteAndGo">
+        <source>Paste &amp; Go</source>
+        <note>Label displayed for paste &amp; go tip when typing in the URL bar</note>
       </trans-unit>
     </body>
   </file>
