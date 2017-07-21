@@ -201,6 +201,11 @@
         <target>Firefox (Private Browsing)</target>
         <note>Label in share alert to open the URL in Firefox</note>
       </trans-unit>
+      <trans-unit id="Open.FirefoxInAppStore">
+        <source>Get the Firefox App</source>
+        <target>Get the Firefox App</target>
+        <note>This string will not wrap in the interface. Instead, it will truncate. To prevent this, please keep the localized string to 18 or fewer characters. If your string runs longer than 18 characters, you can use "Get Firefox" as the basis for your string. However, if at all possible, we'd like to signal to the user that they will be going to the App Store and installing the application from there. That is why we are using Get and App in the US-En string.</note>
+      </trans-unit>
       <trans-unit id="Open.More">
         <source>More</source>
         <target>More</target>
@@ -210,6 +215,11 @@
         <source>Safari</source>
         <target>Safari</target>
         <note>Label in share alert to open the URL in Safari</note>
+      </trans-unit>
+      <trans-unit id="Open.ShareSheet">
+        <source>Open in Focus</source>
+        <target>Open in Focus</target>
+        <note>Label in share sheet to open the URL in Focus</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers">
         <source>Tap Safari, then select Content Blockers</source>
@@ -350,6 +360,11 @@
         <source>Search for %@</source>
         <target>Search for %@</target>
         <note>Label displayed for search button when typing in the URL bar</note>
+      </trans-unit>
+      <trans-unit id="URL.pasteAndGo">
+        <source>Paste &amp; Go</source>
+        <target>Paste &amp; Go</target>
+        <note>Label displayed for paste &amp; go tip when typing in the URL bar</note>
       </trans-unit>
     </body>
   </file>
