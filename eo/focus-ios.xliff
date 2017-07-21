@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet1">
         <source>Search and browse right in the app</source>
-        <target>Serĉu kaj retumi rekte en la programo</target>
+        <target>Serĉu kaj retumu rekte en la programo</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet2">
@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="About.safariBullet2">
         <source>Block Web fonts to reduce page size</source>
-        <target>Bloku teksaĵajn tiparojn por malgrandigi la paĝon</target>
+        <target>Bloku teksaĵajn tiparojn por malpezigi paĝojn</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
