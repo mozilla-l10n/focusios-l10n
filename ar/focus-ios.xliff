@@ -326,11 +326,11 @@
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox">
         <source>Get the Firefox App</source>
-        <note>placeholder for Get the Firefox App</note>
+        <note>Text for the share menu option when a user wants to open a page in Firefox but doesn't have it installed.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.OpenInFocus">
         <source>Open in Focus</source>
-        <note>placeholder for Open in Focus</note>
+        <note>Text for the share menu option when a user wants to open a page in Focus.</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
         <source>Cancel</source>
@@ -339,7 +339,7 @@
       </trans-unit>
       <trans-unit id="URL.contextMenu">
         <source>Paste &amp; Go</source>
-        <note>placeholder for Paste &amp; Go</note>
+        <note>Text for the URL context menu when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
       <trans-unit id="URL.eraseButtonLabel">
         <source>ERASE</source>
