@@ -19,7 +19,7 @@
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
-        <target>Websteder, du besøger, kan anmode om din position.</target>
+        <target>Websteder kan anmode om din position, når du besøger dem.</target>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription">
         <source>This lets you take and upload videos.</source>
