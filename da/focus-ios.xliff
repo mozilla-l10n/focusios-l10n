@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription">
         <source>This lets you take and upload videos.</source>
-        <target>Dette lader dig at optage og uploade videoer.</target>
+        <target>Dette lader dig optage og uploade videoer.</target>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription">
         <source>This lets you save and upload photos.</source>
@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet2">
         <source>Block trackers (or update settings to allow trackers)</source>
-        <target>Bloker sporings-tjenester (eller opdater indstillingerne for at tillade dem)</target>
+        <target>Blokerer sporings-tjenester (du kan ændre i indstillingerne for at tillade dem)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3">
@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="About.topLabel">
         <source>%@ puts you in control.</source>
-        <target>%@ giver dig kontrollen.</target>
+        <target>%@ lader dig bestemme.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel">
@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsOpen">
         <source>Open Settings App</source>
-        <target>Åben appen Indstillinger</target>
+        <target>Åbn appen Indstillinger</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
