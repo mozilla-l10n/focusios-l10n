@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet3">
         <source>Erase to delete cookies as well as search and browsing history</source>
-        <target>Padam untuk menghapuskan kuki serta sejarah pencarian dan pelayaran</target>
+        <target>Buang untuk menghapuskan kuki serta sejarah pencarian dan pelayaran</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
@@ -188,7 +188,7 @@
       </trans-unit>
       <trans-unit id="Home.descriptionLabel2">
         <source>Browse. Erase. Repeat.</source>
-        <target>Layar. Padam. Ulang.</target>
+        <target>Layar. Buang. Ulang.</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Open.Cancel">
@@ -353,7 +353,7 @@
       </trans-unit>
       <trans-unit id="URL.eraseMessageLabel">
         <source>Your browsing history has been erased.</source>
-        <target>Sejarah pelayaran anda telah dipadam.</target>
+        <target>Sejarah pelayaran anda telah dibuang.</target>
         <note>Message shown after pressing the Erase button</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText">
