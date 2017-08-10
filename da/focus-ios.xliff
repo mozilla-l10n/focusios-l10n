@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="da">
     <header>
@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet2">
         <source>Block trackers (or update settings to allow trackers)</source>
-        <target>Blokerer sporings-tjenester (du kan ændre i indstillingerne for at tillade dem)</target>
+        <target>Blokerer sporings-mekanismer (du kan ændre i indstillingerne for at tillade dem)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3">
@@ -78,7 +78,7 @@
       </trans-unit>
       <trans-unit id="About.safariBullet1">
         <source>Block trackers for improved privacy</source>
-        <target>Bloker sporings-tjenester for at beskytte dit privatliv bedre</target>
+        <target>Bloker sporings-mekanismer for at beskytte dit privatliv bedre</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2">
@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
-        <target>Bloker automatisk online sporings-tjenester, når du bruger nettet. Tryk for at slette besøgte sider, søgninger, cookies og adgangskoder fra din enhed.</target>
+        <target>Bloker automatisk online sporings-mekanismer, når du bruger nettet. Tryk for at slette besøgte sider, søgninger, cookies og adgangskoder fra din enhed.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
@@ -283,12 +283,12 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
         <source>Block ad trackers</source>
-        <target>Bloker reklame-trackere</target>
+        <target>Bloker reklame-sporing</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
         <source>Block analytics trackers</source>
-        <target>Bloker analyse-trackere</target>
+        <target>Bloker analyse-sporing</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
@@ -298,12 +298,12 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther">
         <source>Block other content trackers</source>
-        <target>Bloker andre indholds-trackere</target>
+        <target>Bloker andre former indholds-sporing</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
         <source>Block social trackers</source>
-        <target>Bloker sociale trackere</target>
+        <target>Bloker sporing via sociale medier</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
