@@ -10,8 +10,8 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>3.4</source>
-        <target>3.4</target>
+        <source>3.5</source>
+        <target>3.5</target>
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
@@ -135,6 +135,18 @@
         <source>Try again</source>
         <target>Feuch ris a‑rithist</target>
         <note>Button label to reload the error page</note>
+      </trans-unit>
+      <trans-unit id="ExternalAppLink.cancelTitle">
+        <source>Cancel</source>
+        <note>Button label used for cancelling to open another app from Focus</note>
+      </trans-unit>
+      <trans-unit id="ExternalAppLink.messageTitle">
+        <source>%@ wants to open another App</source>
+        <note>Dialog title used for opening an external app from Focus. The placeholder string is the app name of either Focus or Klar.</note>
+      </trans-unit>
+      <trans-unit id="ExternalAppLink.openTitle">
+        <source>Open</source>
+        <note>Button label for opening another app from Focus</note>
       </trans-unit>
       <trans-unit id="ExternalLink.callButton">
         <source>Call</source>
@@ -329,7 +341,7 @@
       <trans-unit id="ShareMenu.GetFirefox">
         <source>Get the Firefox App</source>
         <target>Faigh aplacaid Firefox</target>
-        <note>Text for the share menu option when a user wants to open a page in Firefox but doesn’t have it installed. This string will not wrap in the interface. Instead, it will truncate. To prevent this, please keep the localized string to 18 or fewer characters. If your string runs longer than 18 characters, you can use "Get Firefox" as the basis for your string. However, if at all possible, we’d like to signal to the user that they will be going to the App Store and installing the application from there. That is why we are using Get and App in the en-US string.</note>
+        <note>Text for the share menu option when a user wants to open a page in Firefox but doesn’t have it installed. This string will not wrap in the interface. Instead, it will truncate. To prevent this, please keep the localized string to 18 or fewer characters. If your string runs longer than 18 characters, you can use 'Get Firefox' as the basis for your string. However, if at all possible, we’d like to signal to the user that they will be going to the App Store and installing the application from there. That is why we are using Get and App in the en-US string.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.OpenInFocus">
         <source>Open in Focus</source>
@@ -366,6 +378,22 @@
         <target>Lorg %@</target>
         <note>Label displayed for search button when typing in the URL bar</note>
       </trans-unit>
+      <trans-unit id="URL.trackersBlockedLabel">
+        <source>Trackers blocked</source>
+        <note>Text for the URL bar showing the number of trackers blocked on a webpage.</note>
+      </trans-unit>
+      <trans-unit id="contextMenu.copyImageTitle">
+        <source>Copy Image</source>
+        <note>Text for the context menu when a user wants to copy an image after long pressing it.</note>
+      </trans-unit>
+      <trans-unit id="contextMenu.saveImageTitle">
+        <source>Save Image</source>
+        <note>Text for the context menu when a user wants to save an image after long pressing it.</note>
+      </trans-unit>
+      <trans-unit id="externalAppLinkWithAppName.messageTitle">
+        <source>%1$@ wants to open %2$@</source>
+        <note>Dialog title used for opening an external app from Focus. First placeholder string is the app name of either Focus or Klar and the second placeholder string specifies the app it wants to open.</note>
+      </trans-unit>
     </body>
   </file>
   <file original="ContentBlocker/Info.plist" source-language="en" datatype="plaintext" target-language="gd">
@@ -382,8 +410,8 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>3.4</source>
-        <target>3.4</target>
+        <source>3.5</source>
+        <target>3.5</target>
       </trans-unit>
     </body>
   </file>
