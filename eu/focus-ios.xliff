@@ -143,10 +143,12 @@
       </trans-unit>
       <trans-unit id="ExternalAppLink.messageTitle">
         <source>%@ wants to open another App</source>
+        <target>%@ aplikazioak beste aplikazio bat ireki nahi du</target>
         <note>Dialog title used for opening an external app from Focus. The placeholder string is the app name of either Focus or Klar.</note>
       </trans-unit>
       <trans-unit id="ExternalAppLink.openTitle">
         <source>Open</source>
+        <target>Ireki</target>
         <note>Button label for opening another app from Focus</note>
       </trans-unit>
       <trans-unit id="ExternalLink.callButton">
@@ -381,18 +383,22 @@
       </trans-unit>
       <trans-unit id="URL.trackersBlockedLabel">
         <source>Trackers blocked</source>
+        <target>Blokeatutako elementuak</target>
         <note>Text for the URL bar showing the number of trackers blocked on a webpage.</note>
       </trans-unit>
       <trans-unit id="contextMenu.copyImageTitle">
         <source>Copy Image</source>
+        <target>Kopiatu irudia</target>
         <note>Text for the context menu when a user wants to copy an image after long pressing it.</note>
       </trans-unit>
       <trans-unit id="contextMenu.saveImageTitle">
         <source>Save Image</source>
+        <target>Gorde irudia</target>
         <note>Text for the context menu when a user wants to save an image after long pressing it.</note>
       </trans-unit>
       <trans-unit id="externalAppLinkWithAppName.messageTitle">
         <source>%1$@ wants to open %2$@</source>
+        <target>%1$@ aplikazioak %2$@ ireki nahi du</target>
         <note>Dialog title used for opening an external app from Focus. First placeholder string is the app name of either Focus or Klar and the second placeholder string specifies the app it wants to open.</note>
       </trans-unit>
     </body>
