@@ -313,7 +313,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther">
         <source>Block other content trackers</source>
-        <target>Bloker andre former indholds-sporing</target>
+        <target>Bloker andre former for indholds-sporing</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
