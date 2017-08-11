@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="da">
     <header>
@@ -155,7 +155,7 @@
       </trans-unit>
       <trans-unit id="ExternalLink.cancelButton">
         <source>Cancel</source>
-        <target>Fortryd</target>
+        <target>Annuller</target>
         <note>Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.emailButton">
@@ -205,7 +205,7 @@
       </trans-unit>
       <trans-unit id="Open.Cancel">
         <source>Cancel</source>
-        <target>Fortryd</target>
+        <target>Annuller</target>
         <note>Label in share alert to cancel the alert</note>
       </trans-unit>
       <trans-unit id="Open.Firefox">
