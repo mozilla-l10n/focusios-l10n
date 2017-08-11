@@ -143,6 +143,7 @@
       </trans-unit>
       <trans-unit id="ExternalAppLink.messageTitle">
         <source>%@ wants to open another App</source>
+        <target>%@ хоче відкрити інший застосунок</target>
         <note>Dialog title used for opening an external app from Focus. The placeholder string is the app name of either Focus or Klar.</note>
       </trans-unit>
       <trans-unit id="ExternalAppLink.openTitle">
@@ -397,6 +398,7 @@
       </trans-unit>
       <trans-unit id="externalAppLinkWithAppName.messageTitle">
         <source>%1$@ wants to open %2$@</source>
+        <target>%1$@ хоче відкрити %2$@</target>
         <note>Dialog title used for opening an external app from Focus. First placeholder string is the app name of either Focus or Klar and the second placeholder string specifies the app it wants to open.</note>
       </trans-unit>
     </body>
