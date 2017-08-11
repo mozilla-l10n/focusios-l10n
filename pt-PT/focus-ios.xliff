@@ -388,7 +388,7 @@
       </trans-unit>
       <trans-unit id="contextMenu.copyImageTitle">
         <source>Copy Image</source>
-        <target>Copia imagem</target>
+        <target>Copiar imagem</target>
         <note>Text for the context menu when a user wants to copy an image after long pressing it.</note>
       </trans-unit>
       <trans-unit id="contextMenu.saveImageTitle">
