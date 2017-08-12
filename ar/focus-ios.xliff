@@ -348,7 +348,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.OpenInFocus">
         <source>Open in Focus</source>
-        <target>افتح في فُوكَس</target>
+        <target>افتح في فوكُس</target>
         <note>Text for the share menu option when a user wants to open a page in Focus.</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
