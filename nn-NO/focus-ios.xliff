@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="nn">
     <header>
@@ -175,6 +175,10 @@
         <source>Open App Store</source>
         <target>Opna App Store</target>
         <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
+      </trans-unit>
+      <trans-unit id="ExternalLink.openAppStoreTitle">
+        <source>%@ wants to open the App Store.</source>
+        <note>Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openMapsButton">
         <source>Open Maps</source>
@@ -386,20 +390,44 @@
         <target>Sporfølgjarar blokkerte</target>
         <note>Text for the URL bar showing the number of trackers blocked on a webpage.</note>
       </trans-unit>
+      <trans-unit id="actionSheet.openIn">
+        <source>Open in %@</source>
+        <note>Title for action sheet item to open the current page in another application. Placeholder is the name of the application to open the current page.</note>
+      </trans-unit>
       <trans-unit id="contextMenu.copyImageTitle">
         <source>Copy Image</source>
         <target>Kopier bilde</target>
         <note>Text for the context menu when a user wants to copy an image after long pressing it.</note>
+      </trans-unit>
+      <trans-unit id="contextMenu.copyLink">
+        <source>Copy Link</source>
+        <note>Text for the context menu when a user wants to copy a link after long pressing it.</note>
       </trans-unit>
       <trans-unit id="contextMenu.saveImageTitle">
         <source>Save Image</source>
         <target>Lagre bilde</target>
         <note>Text for the context menu when a user wants to save an image after long pressing it.</note>
       </trans-unit>
+      <trans-unit id="contextMenu.shareLinkTitle">
+        <source>Share Link</source>
+        <note>Text for the context menu when a user wants to share a link after long pressing it.</note>
+      </trans-unit>
       <trans-unit id="externalAppLinkWithAppName.messageTitle">
         <source>%1$@ wants to open %2$@</source>
         <target>%1$@ ønskjer å opne %2$@</target>
         <note>Dialog title used for opening an external app from Focus. First placeholder string is the app name of either Focus or Klar and the second placeholder string specifies the app it wants to open.</note>
+      </trans-unit>
+      <trans-unit id="photosPermission.description">
+        <source>This lets you save images to your Camera Roll</source>
+        <note>Description for dialog used for requesting a user to enable access to Photos.</note>
+      </trans-unit>
+      <trans-unit id="photosPermission.openSettings">
+        <source>Open Settings</source>
+        <note>Title for button that takes the user to system settings</note>
+      </trans-unit>
+      <trans-unit id="photosPermission.title">
+        <source>“%@” Would Like to Access Your Photos</source>
+        <note>Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
     </body>
   </file>
@@ -411,6 +439,25 @@
       <trans-unit id="CFBundleDisplayName">
         <source>$(PRODUCT_NAME)</source>
         <target>$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>3.5</source>
+        <target>3.5</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="OpenInFocus/Info.plist" source-language="en" datatype="plaintext" target-language="nn">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>$(DISPLAY_NAME)</source>
+        <target>$(DISPLAY_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
