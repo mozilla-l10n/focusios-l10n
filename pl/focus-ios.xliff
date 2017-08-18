@@ -369,6 +369,21 @@
     <target>Szukaj „%@”</target>
     <note>Label displayed for search button when typing in the URL bar</note>
    </trans-unit>
+   <trans-unit id="URL.trackersBlockedLabel">
+    <source>Trackers blocked</source>
+    <target>Zablokowane elementy śledzące:</target>
+    <note>Text for the URL bar showing the number of trackers blocked on a webpage.</note>
+   </trans-unit>
+   <trans-unit id="contextMenu.copyImageTitle">
+    <source>Copy Image</source>
+    <target>Kopiuj obraz</target>
+    <note>Text for the context menu when a user wants to copy an image after long pressing it.</note>
+   </trans-unit>
+   <trans-unit id="contextMenu.saveImageTitle">
+    <source>Save Image</source>
+    <target>Zapisz obraz</target>
+    <note>Text for the context menu when a user wants to save an image after long pressing it.</note>
+   </trans-unit>
   </body>
  </file>
  <file original="ContentBlocker/Info.plist" source-language="en" datatype="plaintext" target-language="pl">
