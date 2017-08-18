@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="he">
     <header>
@@ -7,11 +7,9 @@
     <body>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
-        <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
         <source>3.5</source>
-        <target>3.5</target>
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
@@ -172,6 +170,14 @@
         <source>Open App Store</source>
         <target>פתיחת App Store</target>
         <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
+      </trans-unit>
+      <trans-unit id="ExternalLink.openAppStoreTitle">
+        <source>%@ wants to open the App Store.</source>
+        <note>Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
+      </trans-unit>
+      <trans-unit id="ExternalLink.openExternalAppTitle">
+        <source>%@ wants to open another app.</source>
+        <note>Dialog title used to open external application links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openMapsButton">
         <source>Open Maps</source>
@@ -379,17 +385,49 @@
         <source>Trackers blocked</source>
         <note>Text for the URL bar showing the number of trackers blocked on a webpage.</note>
       </trans-unit>
+      <trans-unit id="actionSheet.openInChrome">
+        <source>Open in Chrome</source>
+        <note>Title for action sheet item to open the current page in Chrome</note>
+      </trans-unit>
+      <trans-unit id="actionSheet.openInFirefox">
+        <source>Open in Firefox</source>
+        <note>Title for action sheet item to open the current page in Firefox</note>
+      </trans-unit>
+      <trans-unit id="actionSheet.openInSafari">
+        <source>Open in Safari</source>
+        <note>Title for action sheet item to open the current page in Safari</note>
+      </trans-unit>
       <trans-unit id="contextMenu.copyImageTitle">
         <source>Copy Image</source>
         <note>Text for the context menu when a user wants to copy an image after long pressing it.</note>
+      </trans-unit>
+      <trans-unit id="contextMenu.copyLink">
+        <source>Copy Link</source>
+        <note>Text for the context menu when a user wants to copy a link after long pressing it.</note>
       </trans-unit>
       <trans-unit id="contextMenu.saveImageTitle">
         <source>Save Image</source>
         <note>Text for the context menu when a user wants to save an image after long pressing it.</note>
       </trans-unit>
+      <trans-unit id="contextMenu.shareLinkTitle">
+        <source>Share Link</source>
+        <note>Text for the context menu when a user wants to share a link after long pressing it.</note>
+      </trans-unit>
       <trans-unit id="externalAppLinkWithAppName.messageTitle">
         <source>%1$@ wants to open %2$@</source>
         <note>Dialog title used for opening an external app from Focus. First placeholder string is the app name of either Focus or Klar and the second placeholder string specifies the app it wants to open.</note>
+      </trans-unit>
+      <trans-unit id="photosPermission.description">
+        <source>This lets you save images to your Camera Roll</source>
+        <note>Description for dialog used for requesting a user to enable access to Photos.</note>
+      </trans-unit>
+      <trans-unit id="photosPermission.openSettings">
+        <source>Open Settings</source>
+        <note>Title for button that takes the user to system settings</note>
+      </trans-unit>
+      <trans-unit id="photosPermission.title">
+        <source>"%@" Would Like to Access Your Photos</source>
+        <note>Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
     </body>
   </file>
@@ -400,15 +438,28 @@
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>$(PRODUCT_NAME)</source>
-        <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
-        <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
         <source>3.5</source>
-        <target>3.5</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="OpenInFocus/Info.plist" source-language="en" datatype="plaintext" target-language="he">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>$(DISPLAY_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>3.5</source>
       </trans-unit>
     </body>
   </file>
@@ -443,4 +494,3 @@
     </body>
   </file>
 </xliff>
-
