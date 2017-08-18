@@ -139,6 +139,21 @@
     <target>Spróbuj ponownie</target>
     <note>Button label to reload the error page</note>
    </trans-unit>
+   <trans-unit id="ExternalAppLink.cancelTitle">
+    <source>Cancel</source>
+    <target>Anuluj</target>
+    <note>Button label used for cancelling to open another app from Focus</note>
+   </trans-unit>
+   <trans-unit id="ExternalAppLink.messageTitle">
+    <source>Firefox Focus wants to open another App</source>
+    <target>Firefox Focus chce otworzyć inną aplikację</target>
+    <note>Dialog title used for opening an external app from Focus</note>
+   </trans-unit>
+   <trans-unit id="ExternalAppLink.openTitle">
+    <source>Open</source>
+    <target>Otwórz</target>
+    <note>Button label for opening another app from Focus</note>
+   </trans-unit>
    <trans-unit id="ExternalLink.callButton">
     <source>Call</source>
     <target>Połącz</target>
