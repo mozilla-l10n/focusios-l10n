@@ -403,6 +403,7 @@
       </trans-unit>
       <trans-unit id="contextMenu.copyLink">
         <source>Copy Link</source>
+        <target>Salin Pautan</target>
         <note>Text for the context menu when a user wants to copy a link after long pressing it.</note>
       </trans-unit>
       <trans-unit id="contextMenu.saveImageTitle">
@@ -412,6 +413,7 @@
       </trans-unit>
       <trans-unit id="contextMenu.shareLinkTitle">
         <source>Share Link</source>
+        <target>Kongsi Pautan</target>
         <note>Text for the context menu when a user wants to share a link after long pressing it.</note>
       </trans-unit>
       <trans-unit id="externalAppLinkWithAppName.messageTitle">
@@ -421,14 +423,17 @@
       </trans-unit>
       <trans-unit id="photosPermission.description">
         <source>This lets you save images to your Camera Roll</source>
+        <target>Ini membolehkan anda menyimpan imej ke dalam Jalur Kamera</target>
         <note>Description for dialog used for requesting a user to enable access to Photos.</note>
       </trans-unit>
       <trans-unit id="photosPermission.openSettings">
         <source>Open Settings</source>
+        <target>Buka Tetapan</target>
         <note>Title for button that takes the user to system settings</note>
       </trans-unit>
       <trans-unit id="photosPermission.title">
         <source>“%@” Would Like to Access Your Photos</source>
+        <target>“%@” Mahu Mengakses Foto Anda</target>
         <note>Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
     </body>
