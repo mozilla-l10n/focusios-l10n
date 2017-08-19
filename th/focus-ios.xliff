@@ -423,6 +423,7 @@
       </trans-unit>
       <trans-unit id="photosPermission.description">
         <source>This lets you save images to your Camera Roll</source>
+        <target>สิ่งนี้ช่วยให้คุณบันทึกภาพไปยังม้วนฟิล์มของคุณ</target>
         <note>Description for dialog used for requesting a user to enable access to Photos.</note>
       </trans-unit>
       <trans-unit id="photosPermission.openSettings">
