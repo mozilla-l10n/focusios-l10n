@@ -7,6 +7,7 @@
     <body>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
         <source>3.6</source>
@@ -191,6 +192,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
+        <target>Bloqueá automáticamente rastreadores en línea al navegar. Después tocá para borrar páginas visitadas, búsquedas, cookies y contraseñas de tu dispositivo.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
@@ -248,6 +250,7 @@
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
         <source>Blocking other content trackers may break some videos and Web pages.</source>
+        <target>Bloquear otros rastreadores de contenidos puede hacer que algunos videos y páginas web fallen.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo">
@@ -302,6 +305,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
         <source>Block analytics trackers</source>
+        <target>Bloquear rastreadores analíticos</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
@@ -321,6 +325,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
+        <target>Algunos videos y páginas web pueden fallar</target>
         <note>Label subtitle for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSafari">
@@ -423,6 +428,7 @@
       </trans-unit>
       <trans-unit id="photosPermission.title">
         <source>“%@” Would Like to Access Your Photos</source>
+        <target>“%@” quiere acceder a tus fotos</target>
         <note>Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
     </body>
