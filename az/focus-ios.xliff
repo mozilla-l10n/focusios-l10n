@@ -198,7 +198,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
         <source>Browse like no one’s watching.</source>
-        <target>Başqalarınız izləməsindən narahat olmadan internetdə gəzin.</target>
+        <target>Başqalarının izləməsindən narahat olmadan internetdə gəzin.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
