@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="Browser.backLabel">
         <source>Back</source>
-        <target>Kembali</target>
+        <target>Undur</target>
         <note>Accessibility label for the back button</note>
       </trans-unit>
       <trans-unit id="Browser.forwardLabel">
