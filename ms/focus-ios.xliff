@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="ms">
     <header>
@@ -69,6 +69,10 @@
       <trans-unit id="About.rowHelp">
         <source>Help</source>
         <target>Bantuan</target>
+        <note>Label for row in About screen</note>
+      </trans-unit>
+      <trans-unit id="About.rowPrivacy">
+        <source>Privacy Notice</source>
         <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.rowRights">
@@ -201,6 +205,10 @@
         <target>Layari seperti tiada sesiapa yang melihat.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
+      <trans-unit id="Focus.handoffSyncing">
+        <source>Apple Handoff is syncing</source>
+        <note>Title for the loading screen when the handoff of clipboard delays Focus launch.</note>
+      </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
         <source>Automatic private browsing.</source>
         <target>Pelayaran peribadi automatik.</target>
@@ -265,6 +273,14 @@
         <source>I Understand</source>
         <target>Saya Faham</target>
         <note>Button label for accepting Content blocker alert</note>
+      </trans-unit>
+      <trans-unit id="Settings.detailTextSendUsageData">
+        <source>Mozilla strives to collect only what we need to provide and improve Focus for everyone. </source>
+        <note>Detail Label for Send Usage Data toggle on main screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.learnMore">
+        <source>Learn more.</source>
+        <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
         <source>Settings</source>
@@ -339,12 +355,14 @@
       <trans-unit id="Settings.toggleSendAnonymousUsageData">
         <source>Send anonymous usage data</source>
         <target>Hantar data penggunaan anonimus</target>
-        <note>Label for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSendAnonymousUsageDataSubtitle">
         <source>Learn more</source>
         <target>Ketahui lanjut</target>
-        <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleSendUsageData">
+        <source>Send usage data</source>
+        <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox">
         <source>Get the Firefox App</source>
@@ -395,6 +413,10 @@
         <source>Open in %@</source>
         <target>Buka dalam %@</target>
         <note>Title for action sheet item to open the current page in another application. Placeholder is the name of the application to open the current page.</note>
+      </trans-unit>
+      <trans-unit id="contextMenu.clipboardLink">
+        <source>Link you copied:</source>
+        <note>Text for the context menu when a user has a link on their clipboard.</note>
       </trans-unit>
       <trans-unit id="contextMenu.copyImageTitle">
         <source>Copy Image</source>
