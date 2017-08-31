@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="es-AR">
     <header>
@@ -457,7 +457,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="OpenInFocus/Info.plist" source-language="en" datatype="plaintext">
+  <file original="OpenInFocus/Info.plist" source-language="en" datatype="plaintext" target-language="es-AR">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
     </header>
@@ -476,7 +476,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="ScreenshotTests/Info.plist" source-language="en" datatype="plaintext">
+  <file original="ScreenshotTests/Info.plist" source-language="en" datatype="plaintext" target-language="es-AR">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
     </header>
@@ -491,7 +491,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="XCUITest/Info.plist" source-language="en" datatype="plaintext">
+  <file original="XCUITest/Info.plist" source-language="en" datatype="plaintext" target-language="es-AR">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
     </header>
