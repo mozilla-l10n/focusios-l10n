@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="pt-PT">
     <header>
@@ -73,6 +73,7 @@
       </trans-unit>
       <trans-unit id="About.rowPrivacy">
         <source>Privacy Notice</source>
+        <target>Aviso de privacidade</target>
         <note>Link to Privacy Notice in the About screen</note>
       </trans-unit>
       <trans-unit id="About.rowRights">
@@ -280,6 +281,7 @@
       </trans-unit>
       <trans-unit id="Settings.learnMore">
         <source>Learn more.</source>
+        <target>Saber mais.</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
@@ -354,6 +356,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleSendUsageData">
         <source>Send usage data</source>
+        <target>Enviar dados de utilização</target>
         <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox">
@@ -407,6 +410,7 @@
       </trans-unit>
       <trans-unit id="contextMenu.clipboardLink">
         <source>Link you copied: %@</source>
+        <target>Ligação que copiou: %@</target>
         <note>Text for the context menu when a user has a link on their clipboard.</note>
       </trans-unit>
       <trans-unit id="contextMenu.copyImageTitle">
