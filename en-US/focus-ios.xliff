@@ -71,6 +71,11 @@
         <target>Help</target>
         <note>Label for row in About screen</note>
       </trans-unit>
+      <trans-unit id="About.rowPrivacy">
+        <source>Privacy Notice</source>
+        <target>Privacy Notice</target>
+        <note>Link to Privacy Notice in the About screen</note>
+      </trans-unit>
       <trans-unit id="About.rowRights">
         <source>Your Rights</source>
         <target>Your Rights</target>
@@ -201,6 +206,11 @@
         <target>Browse like no one’s watching.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
+      <trans-unit id="Focus.handoffSyncing">
+        <source>Apple Handoff is syncing</source>
+        <target>Apple Handoff is syncing</target>
+        <note>Title for the loading screen when the handoff of clipboard delays Focus launch. “Handoff” should not be localized, see https://support.apple.com/HT204681</note>
+      </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
         <source>Automatic private browsing.</source>
         <target>Automatic private browsing.</target>
@@ -265,6 +275,16 @@
         <source>I Understand</source>
         <target>I Understand</target>
         <note>Button label for accepting Content blocker alert</note>
+      </trans-unit>
+      <trans-unit id="Settings.detailTextSendUsageData">
+        <source>Mozilla strives to collect only what we need to provide and improve Focus for everyone.</source>
+        <target>Mozilla strives to collect only what we need to provide and improve Focus for everyone.</target>
+        <note>Description associated to the Send Usage Data toggle on main screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.learnMore">
+        <source>Learn more.</source>
+        <target>Learn more.</target>
+        <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
         <source>Settings</source>
@@ -336,15 +356,10 @@
         <target>Safari</target>
         <note>Safari toggle label on settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleSendAnonymousUsageData">
-        <source>Send anonymous usage data</source>
-        <target>Send anonymous usage data</target>
-        <note>Label for Send Anonymous Usage Data toggle on main screen</note>
-      </trans-unit>
-      <trans-unit id="Settings.toggleSendAnonymousUsageDataSubtitle">
-        <source>Learn more</source>
-        <target>Learn more</target>
-        <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
+      <trans-unit id="Settings.toggleSendUsageData">
+        <source>Send usage data</source>
+        <target>Send usage data</target>
+        <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox">
         <source>Get the Firefox App</source>
@@ -352,8 +367,8 @@
         <note>Text for the share menu option when a user wants to open a page in Firefox but doesn’t have it installed. This string will not wrap in the interface. Instead, it will truncate. To prevent this, please keep the localized string to 18 or fewer characters. If your string runs longer than 18 characters, you can use 'Get Firefox' as the basis for your string. However, if at all possible, we’d like to signal to the user that they will be going to the App Store and installing the application from there. That is why we are using Get and App in the en-US string.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.OpenInFocus">
-        <source>Open in Focus</source>
-        <target>Open in Focus</target>
+        <source>Open in %@</source>
+        <target>Open in %@</target>
         <note>Text for the share menu option when a user wants to open a page in Focus.</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
@@ -395,6 +410,11 @@
         <source>Open in %@</source>
         <target>Open in %@</target>
         <note>Title for action sheet item to open the current page in another application. Placeholder is the name of the application to open the current page.</note>
+      </trans-unit>
+      <trans-unit id="contextMenu.clipboardLink">
+        <source>Link you copied: %@</source>
+        <target>Link you copied: %@</target>
+        <note>Text for the context menu when a user has a link on their clipboard.</note>
       </trans-unit>
       <trans-unit id="contextMenu.copyImageTitle">
         <source>Copy Image</source>
