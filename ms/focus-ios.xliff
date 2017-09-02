@@ -358,6 +358,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleSendUsageData">
         <source>Send usage data</source>
+        <target>Hantar data penggunaan</target>
         <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox">
@@ -412,6 +413,7 @@
       </trans-unit>
       <trans-unit id="contextMenu.clipboardLink">
         <source>Link you copied: %@</source>
+        <target>Pautan yang disalin: %@</target>
         <note>Text for the context menu when a user has a link on their clipboard.</note>
       </trans-unit>
       <trans-unit id="contextMenu.copyImageTitle">
