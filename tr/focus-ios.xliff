@@ -208,6 +208,7 @@
       </trans-unit>
       <trans-unit id="Focus.handoffSyncing">
         <source>Apple Handoff is syncing</source>
+        <target>Apple Handoff eşitleme yapıyor</target>
         <note>Title for the loading screen when the handoff of clipboard delays Focus launch. “Handoff” should not be localized, see https://support.apple.com/HT204681</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
@@ -277,10 +278,12 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData">
         <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
+        <target>Mozilla, yalnızca %@’u daha da geliştirmek için ihtiyaç duyduğumuz verileri toplar.</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.learnMore">
         <source>Learn more.</source>
+        <target>Daha fazla bilgi alın.</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
@@ -355,6 +358,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleSendUsageData">
         <source>Send usage data</source>
+        <target>Kullanım verilerini gönder</target>
         <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox">
@@ -409,6 +413,7 @@
       </trans-unit>
       <trans-unit id="contextMenu.clipboardLink">
         <source>Link you copied: %@</source>
+        <target>Kopyaladığınız bağlantı: %@</target>
         <note>Text for the context menu when a user has a link on their clipboard.</note>
       </trans-unit>
       <trans-unit id="contextMenu.copyImageTitle">
