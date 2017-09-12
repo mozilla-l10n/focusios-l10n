@@ -179,6 +179,11 @@
     <target>Otwórz w „App Store”</target>
     <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
    </trans-unit>
+   <trans-unit id="ExternalLink.openAppStoreTitle">
+    <source>%@ wants to open the App Store.</source>
+    <target>%@ chce otworzyć App Store</target>
+    <note>Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
+   </trans-unit>
    <trans-unit id="ExternalLink.openMapsButton">
     <source>Open Maps</source>
     <target>Otwórz w „Mapy”</target>
@@ -389,20 +394,50 @@
     <target>Zablokowane elementy śledzące:</target>
     <note>Text for the URL bar showing the number of trackers blocked on a webpage.</note>
    </trans-unit>
+   <trans-unit id="actionSheet.openIn">
+    <source>Open in %@</source>
+    <target>Otwórz w aplikacji %@</target>
+    <note>Title for action sheet item to open the current page in another application. Placeholder is the name of the application to open the current page.</note>
+   </trans-unit>
    <trans-unit id="contextMenu.copyImageTitle">
     <source>Copy Image</source>
     <target>Kopiuj obraz</target>
     <note>Text for the context menu when a user wants to copy an image after long pressing it.</note>
    </trans-unit>
+   <trans-unit id="contextMenu.copyLink">
+    <source>Copy Link</source>
+    <target>Kopiuj odnośnik</target>
+    <note>Text for the context menu when a user wants to copy a link after long pressing it.</note>
+   </trans-unit>
    <trans-unit id="contextMenu.saveImageTitle">
     <source>Save Image</source>
-    <target>Zapisz obraz</target>
+    <target>Zachowaj obraz</target>
     <note>Text for the context menu when a user wants to save an image after long pressing it.</note>
+   </trans-unit>
+   <trans-unit id="contextMenu.shareLinkTitle">
+    <source>Share Link</source>
+    <target>Udostępnij odnośnik</target>
+    <note>Text for the context menu when a user wants to share a link after long pressing it.</note>
    </trans-unit>
    <trans-unit id="externalAppLinkWithAppName.messageTitle">
     <source>%1$@ wants to open %2$@</source>
     <target>%1$@ chce otworzyć aplikację %2$@</target>
     <note>Dialog title used for opening an external app from Focus. First placeholder string is the app name of either Focus or Klar and the second placeholder string specifies the app it wants to open.</note>
+   </trans-unit>
+   <trans-unit id="photosPermission.description">
+    <source>This lets you save images to your Camera Roll</source>
+    <target>Pozwala zachowywać obrazy w rolce aparatu</target>
+    <note>Description for dialog used for requesting a user to enable access to Photos.</note>
+   </trans-unit>
+   <trans-unit id="photosPermission.openSettings">
+    <source>Open Settings</source>
+    <target>Otwórz Ustawienia</target>
+    <note>Title for button that takes the user to system settings</note>
+   </trans-unit>
+   <trans-unit id="photosPermission.title">
+    <source>“%@” Would Like to Access Your Photos</source>
+    <target>%@ chce uzyskać dostęp do Zdjęć</target>
+    <note>Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar</note>
    </trans-unit>
   </body>
  </file>
