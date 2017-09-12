@@ -439,8 +439,8 @@
     <target>$(PRODUCT_NAME)</target>
    </trans-unit>
    <trans-unit id="CFBundleShortVersionString">
-    <source>1.0</source>
-    <target>1.0</target>
+    <source>3.5</source>
+    <target>3.5</target>
    </trans-unit>
   </body>
  </file>
