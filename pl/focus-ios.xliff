@@ -431,8 +431,8 @@
   </header>
   <body>
    <trans-unit id="CFBundleDisplayName">
-    <source>Open In Focus</source>
-    <target>Otwórz w Focusie</target>
+    <source>$(DISPLAY_NAME)</source>
+    <target>$(DISPLAY_NAME)</target>
    </trans-unit>
    <trans-unit id="CFBundleName">
     <source>$(PRODUCT_NAME)</source>
