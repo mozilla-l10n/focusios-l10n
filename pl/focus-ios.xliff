@@ -269,6 +269,16 @@
     <target>Rozumiem</target>
     <note>Button label for accepting Content blocker alert</note>
    </trans-unit>
+   <trans-unit id="Settings.detailTextSendUsageData">
+    <source>Mozilla strives to collect only what we need to provide and improve Focus for everyone. </source>
+    <target>Mozilla dokłada wszelkich starań, by zbierać jednie niezbędne dane w celu dostarczania i ulepszania Focusa.</target>
+    <note>Detail Label for Send Usage Data toggle on main screen</note>
+   </trans-unit>
+   <trans-unit id="Settings.learnMore">
+    <source>Learn more.</source>
+    <target>Więcej informacji.</target>
+    <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
+   </trans-unit>
    <trans-unit id="Settings.screenTitle">
     <source>Settings</source>
     <target>Ustawienia</target>
@@ -342,12 +352,15 @@
    <trans-unit id="Settings.toggleSendAnonymousUsageData">
     <source>Send anonymous usage data</source>
     <target>Przesyłanie anonimowych danych o użyciu</target>
-    <note>Label for Send Anonymous Usage Data toggle on main screen</note>
    </trans-unit>
    <trans-unit id="Settings.toggleSendAnonymousUsageDataSubtitle">
     <source>Learn more</source>
     <target>Więcej informacji</target>
-    <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
+   </trans-unit>
+   <trans-unit id="Settings.toggleSendUsageData">
+    <source>Send usage data</source>
+    <target>Przesyłanie danych o użyciu</target>
+    <note>Label for Send Usage Data toggle on main screen</note>
    </trans-unit>
    <trans-unit id="ShareMenu.GetFirefox">
     <source>Get the Firefox App</source>
