@@ -43,6 +43,7 @@
       </trans-unit>
       <trans-unit id="About.missionLabel">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
+        <target>%@ ಅನ್ನು Mozilla ಉತ್ಪಾದಿಸಿದೆ. ನಮ್ಮ ಧ್ಯೇಯ ಆರೋಗ್ಯಕರ, ತೆರೆದ ಇಂಟರ್ನೆಟ್ ಅನ್ನು ಬೆಳೆಸುವುದು.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet1">
@@ -197,6 +198,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
+        <target>ನೀವು ಬ್ರೌಸ್ ಮಾಡುವಾಗ ಆನ್ಲೈನ್ ಜಾಡುಹಿಡಿಯುವವರನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ನಿರ್ಬಂಧಿಸಿ. ನಂತರ ನಿಮ್ಮ ಸಾಧನದಿಂದ ಭೇಟಿ ನೀಡಿದ ಪುಟಗಳು, ಹುಡುಕಾಟಗಳು, ಕುಕೀಗಳು ಮತ್ತು ಗುಪ್ತಪದಗಳನ್ನು ಅಳಿಸಲು ಮೆಲ್ಲ ತಟ್ಟಿ.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
@@ -276,6 +278,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData">
         <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
+        <target>Mozilla ಎಲ್ಲರಿಗಾಗಿ %@ ಅನ್ನು ಉತ್ತಮಗೊಳಿಸಿ ಕೊಡುವುದಕ್ಕೆ ಬೇಕಾದ್ದನ್ನು ಮಾತ್ರ ಸಂಗ್ರಹಿಸುತ್ತದೆ.</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.learnMore">
