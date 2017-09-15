@@ -1,17 +1,13 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="dsb">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9M214v"/>
     </header>
     <body>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
         <target>$(PRODUCT_NAME)</target>
-      </trans-unit>
-      <trans-unit id="CFBundleShortVersionString">
-        <source>3.6</source>
-        <target>3.6</target>
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
@@ -25,6 +21,9 @@
         <source>This lets you take and upload videos.</source>
         <target>To wam zmóžnja, wideo gótowaś a nagraś.</target>
       </trans-unit>
+      <trans-unit id="NSPhotoLibraryAddUsageDescription">
+        <source/>
+      </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription">
         <source>This lets you save and upload photos.</source>
         <target>To wam zmóžnja, fota składowaś a nagraś.</target>
@@ -33,7 +32,7 @@
   </file>
   <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="dsb">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9M214v"/>
     </header>
     <body>
       <trans-unit id="About.learnMoreButton">
@@ -326,10 +325,18 @@
         <target>Wabjeńske pśeslědowaki blokěrowaś</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
+      <trans-unit id="Settings.toggleBlockAdsDescription">
+        <source>Some ads track site visits, even if you don’t click the ads</source>
+        <note>Description for 'Block ad Trackers'</note>
+      </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
         <source>Block analytics trackers</source>
         <target>Analyzowe pśeslědowaki blokěrowaś</target>
         <note>Label for toggle on main screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleBlockAnalyticsDescription">
+        <source>Used to collect, analyze and measure activities like tapping and scrolling</source>
+        <note>Description for 'Block analytics Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
         <source>Block Web fonts</source>
@@ -341,10 +348,18 @@
         <target>Druge wopśimjeśowe pśeslědowaki blokěrowaś</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
+      <trans-unit id="Settings.toggleBlockOtherDescription">
+        <source>Enabling may cause some pages to behave unexpectedly</source>
+        <note>Description for 'Block other content Trackers'</note>
+      </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
         <source>Block social trackers</source>
         <target>Socialne pśeslědowaki blokěrowaś</target>
         <note>Label for toggle on main screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleBlockSocialDescription">
+        <source>Embedded on sites to track your visits and to display functionality like share buttons</source>
+        <note>Description for 'Block social Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
@@ -456,11 +471,39 @@
         <target>„%@“ pšosy wó pśistup na waše fota</target>
         <note>Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
+      <trans-unit id="trackingProtection.adTrackersLabel">
+        <source>Ad trackers</source>
+        <note>Label for ad trackers.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.analyticTrackerLabel">
+        <source>Analytic trackers</source>
+        <note>label for analytic trackers.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.contentTrackerLabel">
+        <source>Content trackers</source>
+        <note>label for content trackers.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.disabledLabel">
+        <source>Tracking Protection off</source>
+        <note>text showing the tracking protection is disabled.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.socialTrackerLabel">
+        <source>Social trackers</source>
+        <note>label for social trackers.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.toggleDescription">
+        <source>Disable just for this browsing session if the page isn't behaving as expected.</source>
+        <note>Description for the tracking protection toggle.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.toggleLabel">
+        <source>Tracking Protection</source>
+        <note>Text for the toggle that temporarily disables tracking protection.</note>
+      </trans-unit>
     </body>
   </file>
   <file original="ContentBlocker/Info.plist" source-language="en" datatype="plaintext" target-language="dsb">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9M214v"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
@@ -472,14 +515,14 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>3.6</source>
-        <target>3.6</target>
+        <source>3.9</source>
+        <target>3.9</target>
       </trans-unit>
     </body>
   </file>
   <file original="OpenInFocus/Info.plist" source-language="en" datatype="plaintext" target-language="dsb">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9M214v"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
@@ -489,40 +532,6 @@
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
         <target>$(PRODUCT_NAME)</target>
-      </trans-unit>
-      <trans-unit id="CFBundleShortVersionString">
-        <source>3.6</source>
-        <target>3.6</target>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="ScreenshotTests/Info.plist" source-language="en" datatype="plaintext" target-language="dsb">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
-    </header>
-    <body>
-      <trans-unit id="CFBundleName">
-        <source>$(PRODUCT_NAME)</source>
-        <target>$(PRODUCT_NAME)</target>
-      </trans-unit>
-      <trans-unit id="CFBundleShortVersionString">
-        <source>1.0</source>
-        <target>1.0</target>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="XCUITest/Info.plist" source-language="en" datatype="plaintext" target-language="dsb">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
-    </header>
-    <body>
-      <trans-unit id="CFBundleName">
-        <source>$(PRODUCT_NAME)</source>
-        <target>$(PRODUCT_NAME)</target>
-      </trans-unit>
-      <trans-unit id="CFBundleShortVersionString">
-        <source>1.0</source>
-        <target>1.0</target>
       </trans-unit>
     </body>
   </file>
