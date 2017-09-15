@@ -10,8 +10,8 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>3.6</source>
-        <target>3.6</target>
+        <source>3.9</source>
+        <target>3.9</target>
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
@@ -321,10 +321,18 @@
         <target>Bac tracaichean sanasachd</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
+      <trans-unit id="Settings.toggleBlockAdsDescription">
+        <source>Some ads track site visits, even if you don’t click the ads</source>
+        <note>Description for 'Block ad Trackers'</note>
+      </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
         <source>Block analytics trackers</source>
         <target>Bac tracaichean anailiseach</target>
         <note>Label for toggle on main screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleBlockAnalyticsDescription">
+        <source>Used to collect, analyze and measure activities like tapping and scrolling</source>
+        <note>Description for 'Block analytics Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
         <source>Block Web fonts</source>
@@ -336,10 +344,18 @@
         <target>Bac tracaichean susbaint eile</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
+      <trans-unit id="Settings.toggleBlockOtherDescription">
+        <source>Enabling may cause some pages to behave unexpectedly</source>
+        <note>Description for 'Block other content Trackers'</note>
+      </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
         <source>Block social trackers</source>
         <target>Bac tracaichean sòisealta</target>
         <note>Label for toggle on main screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleBlockSocialDescription">
+        <source>Embedded on sites to track your visits and to display functionality like share buttons</source>
+        <note>Description for 'Block social Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
@@ -442,6 +458,34 @@
         <source>“%@” Would Like to Access Your Photos</source>
         <note>Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
+      <trans-unit id="trackingProtection.adTrackersLabel">
+        <source>Ad trackers</source>
+        <note>Label for ad trackers.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.analyticTrackerLabel">
+        <source>Analytic trackers</source>
+        <note>label for analytic trackers.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.contentTrackerLabel">
+        <source>Content trackers</source>
+        <note>label for content trackers.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.disabledLabel">
+        <source>Tracking Protection off</source>
+        <note>text showing the tracking protection is disabled.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.socialTrackerLabel">
+        <source>Social trackers</source>
+        <note>label for social trackers.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.toggleDescription">
+        <source>Disable just for this browsing session if the page isn’t behaving as expected.</source>
+        <note>Description for the tracking protection toggle.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.toggleLabel">
+        <source>Tracking Protection</source>
+        <note>Text for the toggle that temporarily disables tracking protection.</note>
+      </trans-unit>
     </body>
   </file>
   <file original="ContentBlocker/Info.plist" source-language="en" datatype="plaintext" target-language="gd">
@@ -458,8 +502,8 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>3.6</source>
-        <target>3.6</target>
+        <source>3.9</source>
+        <target>3.9</target>
       </trans-unit>
     </body>
   </file>
@@ -477,8 +521,8 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>3.6</source>
-        <target>3.6</target>
+        <source>3.9</source>
+        <target>3.9</target>
       </trans-unit>
     </body>
   </file>
