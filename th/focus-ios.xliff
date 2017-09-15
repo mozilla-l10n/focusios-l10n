@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="th">
     <header>
@@ -474,14 +474,17 @@
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
         <source>Ad trackers</source>
+        <target>ตัวติดตามของโฆษณา</target>
         <note>Label for ad trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.analyticTrackerLabel">
         <source>Analytic trackers</source>
+        <target>ตัวติดตามของการวิเคราะห์</target>
         <note>label for analytic trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.contentTrackerLabel">
         <source>Content trackers</source>
+        <target>ตัวติดตามของเนื้อหา</target>
         <note>label for content trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.disabledLabel">
@@ -490,6 +493,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.socialTrackerLabel">
         <source>Social trackers</source>
+        <target>ตัวติดตามทางสังคม</target>
         <note>label for social trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription">
@@ -498,6 +502,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel">
         <source>Tracking Protection</source>
+        <target>การป้องกันการติดตาม</target>
         <note>Text for the toggle that temporarily disables tracking protection.</note>
       </trans-unit>
     </body>
