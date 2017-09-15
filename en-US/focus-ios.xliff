@@ -10,8 +10,8 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>3.6</source>
-        <target>3.6</target>
+        <source>3.9</source>
+        <target>3.9</target>
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
@@ -326,10 +326,20 @@
         <target>Block ad trackers</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
+      <trans-unit id="Settings.toggleBlockAdsDescription">
+        <source>Some ads track site visits, even if you don’t click the ads</source>
+        <target>Some ads track site visits, even if you don’t click the ads</target>
+        <note>Description for 'Block ad Trackers'</note>
+      </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
         <source>Block analytics trackers</source>
         <target>Block analytics trackers</target>
         <note>Label for toggle on main screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleBlockAnalyticsDescription">
+        <source>Used to collect, analyze and measure activities like tapping and scrolling</source>
+        <target>Used to collect, analyze and measure activities like tapping and scrolling</target>
+        <note>Description for 'Block analytics Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
         <source>Block Web fonts</source>
@@ -341,10 +351,20 @@
         <target>Block other content trackers</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
+      <trans-unit id="Settings.toggleBlockOtherDescription">
+        <source>Enabling may cause some pages to behave unexpectedly</source>
+        <target>Enabling may cause some pages to behave unexpectedly</target>
+        <note>Description for 'Block other content Trackers'</note>
+      </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
         <source>Block social trackers</source>
         <target>Block social trackers</target>
         <note>Label for toggle on main screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleBlockSocialDescription">
+        <source>Embedded on sites to track your visits and to display functionality like share buttons</source>
+        <target>Embedded on sites to track your visits and to display functionality like share buttons</target>
+        <note>Description for 'Block social Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
@@ -456,6 +476,41 @@
         <target>“%@” Would Like to Access Your Photos</target>
         <note>Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
+      <trans-unit id="trackingProtection.adTrackersLabel">
+        <source>Ad trackers</source>
+        <target>Ad trackers</target>
+        <note>Label for ad trackers.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.analyticTrackerLabel">
+        <source>Analytic trackers</source>
+        <target>Analytic trackers</target>
+        <note>label for analytic trackers.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.contentTrackerLabel">
+        <source>Content trackers</source>
+        <target>Content trackers</target>
+        <note>label for content trackers.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.disabledLabel">
+        <source>Tracking Protection off</source>
+        <target>Tracking Protection off</target>
+        <note>text showing the tracking protection is disabled.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.socialTrackerLabel">
+        <source>Social trackers</source>
+        <target>Social trackers</target>
+        <note>label for social trackers.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.toggleDescription">
+        <source>Disable just for this browsing session if the page isn’t behaving as expected.</source>
+        <target>Disable just for this browsing session if the page isn’t behaving as expected.</target>
+        <note>Description for the tracking protection toggle.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.toggleLabel">
+        <source>Tracking Protection</source>
+        <target>Tracking Protection</target>
+        <note>Text for the toggle that temporarily disables tracking protection.</note>
+      </trans-unit>
     </body>
   </file>
   <file original="ContentBlocker/Info.plist" source-language="en" datatype="plaintext" target-language="en">
@@ -472,8 +527,8 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>3.6</source>
-        <target>3.6</target>
+        <source>3.9</source>
+        <target>3.9</target>
       </trans-unit>
     </body>
   </file>
@@ -491,8 +546,8 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>3.6</source>
-        <target>3.6</target>
+        <source>3.9</source>
+        <target>3.9</target>
       </trans-unit>
     </body>
   </file>
