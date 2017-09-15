@@ -328,7 +328,6 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAdsDescription">
         <source>Some ads track site visits, even if you don’t click the ads</source>
-        <target>Alcuni annunci pubblicitari, anche senza un’interazione diretta, tengono traccia dei siti che visiti</target>
         <note>Description for 'Block ad Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
