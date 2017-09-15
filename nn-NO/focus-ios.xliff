@@ -338,6 +338,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalyticsDescription">
         <source>Used to collect, analyze and measure activities like tapping and scrolling</source>
+        <target>Brukt for å samle inn, analysere og måle aktivitetar som tastetrykk og rulling</target>
         <note>Description for 'Block analytics Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
@@ -352,6 +353,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOtherDescription">
         <source>Enabling may cause some pages to behave unexpectedly</source>
+        <target>Aktivering kan føre til at nokre sider oppfører seg uventa</target>
         <note>Description for 'Block other content Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
@@ -361,6 +363,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocialDescription">
         <source>Embedded on sites to track your visits and to display functionality like share buttons</source>
+        <target>Innebygd på nettstadar for å spore besøka dine og å vise funksjonalitet som dele-knappar</target>
         <note>Description for 'Block social Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
