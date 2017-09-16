@@ -503,6 +503,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription">
         <source>Disable just for this browsing session if the page isn’t behaving as expected.</source>
+        <target>Ak sa stránka správa neočakávane, môžete ochranu pred sledovaním pre túto reláciu vypnúť.</target>
         <note>Description for the tracking protection toggle.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel">
