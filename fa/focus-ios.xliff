@@ -363,6 +363,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocialDescription">
         <source>Embedded on sites to track your visits and to display functionality like share buttons</source>
+        <target>در صفه جاسازی شده است تا بازدید های شما را دنبال کنند و قابلیت هایی نظیر دکمه همرسانی را به شما نمایش دهد</target>
         <note>Description for 'Block social Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
@@ -477,30 +478,37 @@
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
         <source>Ad trackers</source>
+        <target>دنبال کننده تبلیغ</target>
         <note>Label for ad trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.analyticTrackerLabel">
         <source>Analytic trackers</source>
+        <target>دنبال کنندگان تجزیه تحلیلی کننده</target>
         <note>label for analytic trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.contentTrackerLabel">
         <source>Content trackers</source>
+        <target>دنبال کنندگان محتوا</target>
         <note>label for content trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.disabledLabel">
         <source>Tracking Protection off</source>
+        <target>محافظت در مقابل دنبال شدن خاموش شد</target>
         <note>text showing the tracking protection is disabled.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.socialTrackerLabel">
         <source>Social trackers</source>
+        <target>دنبال کنندگان اجتماعی</target>
         <note>label for social trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription">
         <source>Disable just for this browsing session if the page isn’t behaving as expected.</source>
+        <target>نمایش تنها برای جلسات مروری که این صفحه رفتار غیر منتظره ای انجام نداده است.</target>
         <note>Description for the tracking protection toggle.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel">
         <source>Tracking Protection</source>
+        <target>محاظفت در مقابل دنبال شدن</target>
         <note>Text for the toggle that temporarily disables tracking protection.</note>
       </trans-unit>
     </body>
