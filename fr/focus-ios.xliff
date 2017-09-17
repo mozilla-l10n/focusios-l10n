@@ -503,6 +503,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription">
         <source>Disable just for this browsing session if the page isn’t behaving as expected.</source>
+        <target>Désactive la protection uniquement pour cette session de navigation si la page ne fonctionne pas correctement.</target>
         <note>Description for the tracking protection toggle.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel">
