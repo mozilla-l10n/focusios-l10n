@@ -328,7 +328,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAdsDescription">
         <source>Some ads track site visits, even if you don’t click the ads</source>
-        <target>Algunos anuncios rastrean las visitas a sitios, incluso si no haces clic en ellos</target>
+        <target>Algunos anuncios publicitarios rastrean las visitas a sitios, incluso si no haces clic en ellos</target>
         <note>Description for 'Block ad Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
@@ -353,6 +353,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOtherDescription">
         <source>Enabling may cause some pages to behave unexpectedly</source>
+        <target>Activarlo puede causar que algunas páginas se comporten de forma inesperada</target>
         <note>Description for 'Block other content Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
@@ -362,6 +363,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocialDescription">
         <source>Embedded on sites to track your visits and to display functionality like share buttons</source>
+        <target>Incrustados en sitios para rastrear tus visitas y para mostrar funcionalidades como botones para compartir</target>
         <note>Description for 'Block social Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
@@ -476,30 +478,37 @@
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
         <source>Ad trackers</source>
+        <target>Rastreadores de publicidad</target>
         <note>Label for ad trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.analyticTrackerLabel">
         <source>Analytic trackers</source>
+        <target>Rastreadores analíticos</target>
         <note>label for analytic trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.contentTrackerLabel">
         <source>Content trackers</source>
+        <target>Rastreadores de contenido</target>
         <note>label for content trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.disabledLabel">
         <source>Tracking Protection off</source>
+        <target>Protección de seguimiento desactivada</target>
         <note>text showing the tracking protection is disabled.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.socialTrackerLabel">
         <source>Social trackers</source>
+        <target>Rastreadores sociales</target>
         <note>label for social trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription">
         <source>Disable just for this browsing session if the page isn’t behaving as expected.</source>
+        <target>Desactivar solo para esta sesión de navegación si la página no se está comportando como se esperaba.</target>
         <note>Description for the tracking protection toggle.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel">
         <source>Tracking Protection</source>
+        <target>Protección de seguimiento</target>
         <note>Text for the toggle that temporarily disables tracking protection.</note>
       </trans-unit>
     </body>
