@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="lo">
     <header>
@@ -182,6 +182,7 @@
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreTitle">
         <source>%@ wants to open the App Store.</source>
+        <target>%@ ຕ້ອງການເປີດ App Store.</target>
         <note>Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openMapsButton">
@@ -279,6 +280,7 @@
       </trans-unit>
       <trans-unit id="Settings.learnMore">
         <source>Learn more.</source>
+        <target>ຮຽນຮູ້ເພີ່ມເຕີມ.</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
@@ -369,6 +371,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleSendUsageData">
         <source>Send usage data</source>
+        <target>ສົ່ງຂໍ້ມູນການນຳໃຊ້</target>
         <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox">
@@ -417,10 +420,12 @@
       </trans-unit>
       <trans-unit id="actionSheet.openIn">
         <source>Open in %@</source>
+        <target>ເປີດໃນ %@</target>
         <note>Title for action sheet item to open the current page in another application. Placeholder is the name of the application to open the current page.</note>
       </trans-unit>
       <trans-unit id="contextMenu.clipboardLink">
         <source>Link you copied: %@</source>
+        <target>ລີ້ງທີ່ທ່ານໄດ້ສຳເນົາໄວ້: %@</target>
         <note>Text for the context menu when a user has a link on their clipboard.</note>
       </trans-unit>
       <trans-unit id="contextMenu.copyImageTitle">
@@ -430,6 +435,7 @@
       </trans-unit>
       <trans-unit id="contextMenu.copyLink">
         <source>Copy Link</source>
+        <target>ສຳເນົາທີ່ຢູ່ລີ້ງ</target>
         <note>Text for the context menu when a user wants to copy a link after long pressing it.</note>
       </trans-unit>
       <trans-unit id="contextMenu.saveImageTitle">
@@ -439,6 +445,7 @@
       </trans-unit>
       <trans-unit id="contextMenu.shareLinkTitle">
         <source>Share Link</source>
+        <target>ແບ່ງປັນລີ້ງ</target>
         <note>Text for the context menu when a user wants to share a link after long pressing it.</note>
       </trans-unit>
       <trans-unit id="externalAppLinkWithAppName.messageTitle">
@@ -452,6 +459,7 @@
       </trans-unit>
       <trans-unit id="photosPermission.openSettings">
         <source>Open Settings</source>
+        <target>ເປີດການຕັ້ງຄ່າ</target>
         <note>Title for button that takes the user to system settings</note>
       </trans-unit>
       <trans-unit id="photosPermission.title">
@@ -460,18 +468,22 @@
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
         <source>Ad trackers</source>
+        <target>ຕົວຕິດຕາມໂຄສະນາ</target>
         <note>Label for ad trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.analyticTrackerLabel">
         <source>Analytic trackers</source>
+        <target>ຕົວຕິດຕາມການວິເຄາະ</target>
         <note>label for analytic trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.contentTrackerLabel">
         <source>Content trackers</source>
+        <target>ຕົວຕິດຕາມເນື້ອຫາ</target>
         <note>label for content trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.disabledLabel">
         <source>Tracking Protection off</source>
+        <target>ປິດການປ້ອງກັນການຕິດຕາມ</target>
         <note>text showing the tracking protection is disabled.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.socialTrackerLabel">
@@ -484,6 +496,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel">
         <source>Tracking Protection</source>
+        <target>ການປ້ອງກັນການຕິດຕາມ</target>
         <note>Text for the toggle that temporarily disables tracking protection.</note>
       </trans-unit>
     </body>
