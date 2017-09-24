@@ -474,6 +474,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
         <source>Ad trackers</source>
+        <target>追跡広告</target>
         <note>Label for ad trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.analyticTrackerLabel">
@@ -482,6 +483,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.contentTrackerLabel">
         <source>Content trackers</source>
+        <target>追跡コンテンツ</target>
         <note>label for content trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.disabledLabel">
@@ -490,6 +492,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.socialTrackerLabel">
         <source>Social trackers</source>
+        <target>ソーシャル追跡</target>
         <note>label for social trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription">
