@@ -338,7 +338,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalyticsDescription">
         <source>Used to collect, analyze and measure activities like tapping and scrolling</source>
-        <target>Використовуються для збору, аналізу та виміру активності, наприклад, натискань та скролінгу</target>
+        <target>Використовуються для збору, аналізу та вимірювання активності, наприклад, дотики і прокручування</target>
         <note>Description for 'Block analytics Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
@@ -363,7 +363,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocialDescription">
         <source>Embedded on sites to track your visits and to display functionality like share buttons</source>
-        <target>Вставляються на сайти, щоб відстежувати ваші відвідування і впроваджувати додаткову функціональність, наприклад, кнопку Поділитися</target>
+        <target>Вбудовуються в сайти для відстеження ваших відвідувань та показу додаткових функцій, наприклад, кнопки "Поділитися"</target>
         <note>Description for 'Block social Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
@@ -478,17 +478,17 @@
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
         <source>Ad trackers</source>
-        <target>Трекери реклами</target>
+        <target>Стеження реклами</target>
         <note>Label for ad trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.analyticTrackerLabel">
         <source>Analytic trackers</source>
-        <target>Трекери аналітики</target>
+        <target>Стеження аналітики</target>
         <note>label for analytic trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.contentTrackerLabel">
         <source>Content trackers</source>
-        <target>Трекери вмісту</target>
+        <target>Стеження вмісту</target>
         <note>label for content trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.disabledLabel">
@@ -498,12 +498,12 @@
       </trans-unit>
       <trans-unit id="trackingProtection.socialTrackerLabel">
         <source>Social trackers</source>
-        <target>Соціальні трекери</target>
+        <target>Стеження соціальних мереж</target>
         <note>label for social trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription">
         <source>Disable just for this browsing session if the page isn’t behaving as expected.</source>
-        <target>Вимкнути тільки для цієї сесії, якщо сторінка поводиться не так, як очікувалося.</target>
+        <target>Вимкнути лише для цього сеансу, якщо сторінка поводиться не так, як очікувалося.</target>
         <note>Description for the tracking protection toggle.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel">
