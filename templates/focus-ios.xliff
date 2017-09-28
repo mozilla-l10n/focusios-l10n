@@ -9,7 +9,7 @@
         <source>$(PRODUCT_NAME)</source>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>3.9</source>
+        <source>3.10</source>
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
@@ -346,6 +346,10 @@
         <source>Open in %@</source>
         <note>Title for action sheet item to open the current page in another application. Placeholder is the name of the application to open the current page.</note>
       </trans-unit>
+      <trans-unit id="browserShortcutDescription.selectLocationBar">
+        <source>Select Location Bar</source>
+        <note>Label to display in the Discoverability overlay for keyboard shortcuts</note>
+      </trans-unit>
       <trans-unit id="contextMenu.clipboardLink">
         <source>Link you copied: %@</source>
         <note>Text for the context menu when a user has a link on their clipboard.</note>
@@ -402,13 +406,17 @@
         <source>Social trackers</source>
         <note>label for social trackers.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.toggleDescription">
-        <source>Disable just for this browsing session if the page isn’t behaving as expected.</source>
-        <note>Description for the tracking protection toggle.</note>
+      <trans-unit id="trackingProtection.toggleDescription1">
+        <source>Disable until you close %@ or tap ERASE.</source>
+        <note>Description for the tracking protection toggle. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel">
         <source>Tracking Protection</source>
         <note>Text for the toggle that temporarily disables tracking protection.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.trackerDescriptionLabel">
+        <source>Choose whether %@ blocks ad, analytic, social, and other trackers.</source>
+        <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
     </body>
   </file>
@@ -424,7 +432,7 @@
         <source>$(PRODUCT_NAME)</source>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>3.9</source>
+        <source>3.10</source>
       </trans-unit>
     </body>
   </file>
@@ -440,7 +448,7 @@
         <source>$(PRODUCT_NAME)</source>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>3.9</source>
+        <source>3.10</source>
       </trans-unit>
     </body>
   </file>
