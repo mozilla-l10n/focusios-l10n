@@ -465,6 +465,7 @@
       </trans-unit>
       <trans-unit id="photosPermission.openSettings">
         <source>Open Settings</source>
+        <target>Deschide Configurări</target>
         <note>Title for button that takes the user to system settings</note>
       </trans-unit>
       <trans-unit id="photosPermission.title">
