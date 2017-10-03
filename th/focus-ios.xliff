@@ -328,6 +328,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAdsDescription">
         <source>Some ads track site visits, even if you don’t click the ads</source>
+        <target>โฆษณาบางตัวติดตามการเยี่ยมชมไซต์ แม้ว่าคุณไม่ได้คลิกโฆษณา</target>
         <note>Description for 'Block ad Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
