@@ -328,6 +328,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAdsDescription">
         <source>Some ads track site visits, even if you don’t click the ads</source>
+        <target>အချို့သော ကြော်ငြာများသည် ၎င်းတို့ကို ကလစ်နှိပ်ခြင်း မပြုလုပ်ပါပဲနှင့် ဆိုက်များကြည့်ရှုခြင်းကို မှတ်သားသည်။</target>
         <note>Description for 'Block ad Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
@@ -351,6 +352,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOtherDescription">
         <source>Enabling may cause some pages to behave unexpectedly</source>
+        <target>လုပ်ဆောင်ချက်ကို ဖွင့်လိုက်ခြင်းသည် အချို့သော ဝဘ်စာမျက်နှာများ၏ လုပ်ဆောင်ချက်များကို ထိခိုက်စေနိုင်သည်။</target>
         <note>Description for 'Block other content Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
@@ -464,6 +466,7 @@
       </trans-unit>
       <trans-unit id="photosPermission.description">
         <source>This lets you save images to your Camera Roll</source>
+        <target>ဓါတ်ပုံများကို Camera Roll ထဲတွင် သိမ်းဆည်းနိုင်စေသည်</target>
         <note>Description for dialog used for requesting a user to enable access to Photos.</note>
       </trans-unit>
       <trans-unit id="photosPermission.openSettings">
@@ -503,6 +506,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription1">
         <source>Disable until you close %@ or tap ERASE.</source>
+        <target>%@ ကို မပိတ်သေးသ၍ သို့မဟုတ် ERASE ကို မနှိပ်သေးသ၍ လုပ်ဆောင်ချက်ကို ပိတ်ထားပါ။</target>
         <note>Description for the tracking protection toggle. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel">
@@ -512,6 +516,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.trackerDescriptionLabel">
         <source>Choose whether %@ blocks ad, analytic, social, and other trackers.</source>
+        <target>%@ သည် မည်သည့် ကြော်ငြာ၊ သရုပ်ခွဲ၊ လူမှုဆိုင်ရာနှင့် အခြားသော နောက်ယောင်ခံ ကိရိယာများကို ပိတ်ရမည်ဆိုတာ ရွေးချယ်ပါ။</target>
         <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
     </body>
