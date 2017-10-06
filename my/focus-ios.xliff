@@ -338,6 +338,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalyticsDescription">
         <source>Used to collect, analyze and measure activities like tapping and scrolling</source>
+        <target>တို့ထိခြင်း၊ အထက်/အောက်ရွှေ့ခြင်း စသည့် လှုပ်ရှားမှုများကို စုဆောင်းရန်၊ ပိုင်းခြားစိတ်ဖြာရန်နှင့် တိုင်းတာရန်အတွက် အသုံးပြုသည်။</target>
         <note>Description for 'Block analytics Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
@@ -362,6 +363,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocialDescription">
         <source>Embedded on sites to track your visits and to display functionality like share buttons</source>
+        <target>ဝဘ်ဆိုက်များတွင် မြှုပ်ထည့်ထားခြင်းသည် လည်ပတ်ခြင်းကို မှတ်သားရန်နှင့် မျှဝေခလုတ်များကဲသို့ လုပ်ဆောင်မှုများကို ပြသရန်အတွက် ဖြစ်သည်။</target>
         <note>Description for 'Block social Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
