@@ -208,6 +208,7 @@
       </trans-unit>
       <trans-unit id="Focus.handoffSyncing">
         <source>Apple Handoff is syncing</source>
+        <target>يجري مزامنة Apple Handoff</target>
         <note>Title for the loading screen when the handoff of clipboard delays Focus launch. “Handoff” should not be localized, see https://support.apple.com/HT204681</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
@@ -432,6 +433,7 @@
       </trans-unit>
       <trans-unit id="browserShortcutDescription.selectLocationBar">
         <source>Select Location Bar</source>
+        <target>اختر شريط المكان</target>
         <note>Label to display in the Discoverability overlay for keyboard shortcuts</note>
       </trans-unit>
       <trans-unit id="contextMenu.clipboardLink">
@@ -486,6 +488,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.analyticTrackerLabel">
         <source>Analytic trackers</source>
+        <target>متعقبات التحليل</target>
         <note>label for analytic trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.contentTrackerLabel">
