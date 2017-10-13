@@ -418,7 +418,7 @@
       </trans-unit>
       <trans-unit id="URL.searchLabel">
         <source>Search for %@</source>
-        <target>ค้นหาสำหรับ %@</target>
+        <target>ค้นหา %@</target>
         <note>Label displayed for search button when typing in the URL bar</note>
       </trans-unit>
       <trans-unit id="URL.trackersBlockedLabel">
