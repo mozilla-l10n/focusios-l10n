@@ -198,12 +198,12 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
-        <target>Bloqueie automaticamente os rastreadores online enquanto navega. Em seguida, toque para apagar páginas visitadas, pesquisas, cookies e senhas do seu dispositivo.</target>
+        <target>Bloqueie automaticamente os rastreadores on-line enquanto navega. Em seguida, toque para apagar páginas visitadas, pesquisas, cookies e senhas do seu dispositivo.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
         <source>Browse like no one’s watching.</source>
-        <target>Navegar como se ninguém estivesse olhando.</target>
+        <target>Navegue como se ninguém estivesse olhando.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="Focus.handoffSyncing">
