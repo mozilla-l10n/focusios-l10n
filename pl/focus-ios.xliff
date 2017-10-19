@@ -434,6 +434,11 @@
     <target>Otwórz w aplikacji %@</target>
     <note>Title for action sheet item to open the current page in another application. Placeholder is the name of the application to open the current page.</note>
    </trans-unit>
+   <trans-unit id="browserShortcutDescription.selectLocationBar">
+    <source>Select Location Bar</source>
+    <target>Wyświetl pasek adresu</target>
+    <note>Label to display in the Discoverability overlay for keyboard shortcuts</note>
+   </trans-unit>
    <trans-unit id="contextMenu.clipboardLink">
     <source>Link you copied: %@</source>
     <target>Skopiowany odnośnik: %@</target>
