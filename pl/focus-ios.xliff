@@ -281,7 +281,7 @@
    </trans-unit>
    <trans-unit id="Settings.detailTextSendUsageData">
     <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
-    <target>Mozilla dokłada wszelkich starań, by zbierać jednie niezbędne dane w celu dostarczania i ulepszania aplikacji %@.</target>
+    <target>Mozilla dokłada wszelkich starań, by zbierać jedynie niezbędne dane w celu dostarczania i ulepszania aplikacji %@.</target>
     <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)</note>
    </trans-unit>
    <trans-unit id="Settings.learnMore">
@@ -341,7 +341,7 @@
    </trans-unit>
    <trans-unit id="Settings.toggleBlockAnalyticsDescription">
     <source>Used to collect, analyze and measure activities like tapping and scrolling</source>
-    <target>Skrypyt statystyk analizują oraz mierzą aktywności takie jak kliknięcia i przewijanie.</target>
+    <target>Skrypty statystyk analizują oraz mierzą aktywności takie jak kliknięcia i przewijanie.</target>
     <note>Description for 'Block analytics Trackers'</note>
    </trans-unit>
    <trans-unit id="Settings.toggleBlockFonts">
