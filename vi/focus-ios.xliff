@@ -19,7 +19,7 @@
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
-        <target>Bạn truy cập vào các trang web có thể yêu cầu vị trí của bạn.</target>
+        <target>Trang web bạn truy cập có thể yêu cầu vị trí của bạn.</target>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription">
         <source>This lets you take and upload videos.</source>
@@ -43,6 +43,7 @@
       </trans-unit>
       <trans-unit id="About.missionLabel">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
+        <target>%@ được sản xuất bởi Mozilla. Nhiệm vụ của chúng tôi là thúc đẩy một Internet lành mạnh, cởi mở.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet1">
@@ -52,14 +53,17 @@
       </trans-unit>
       <trans-unit id="About.privateBullet2">
         <source>Block trackers (or update settings to allow trackers)</source>
+        <target>Chặn trình theo dõi (hoặc cập nhật cài đặt để cho phép trình theo dõi)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3">
         <source>Erase to delete cookies as well as search and browsing history</source>
+        <target>Xóa cookie cũng như lịch sử tìm kiếm và duyệt web khi xong phiên làm việc</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
         <source>Use it as a private browser:</source>
+        <target>Sử dụng nó như trình duyệt riêng tư:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp">
@@ -199,10 +203,12 @@
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
         <source>Automatic private browsing.</source>
+        <target>Duyệt web riêng tư.</target>
         <note>First label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel2">
         <source>Browse. Erase. Repeat.</source>
+        <target>Duyệt. Xóa. Lặp lại.</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Open.Cancel">
@@ -259,6 +265,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData">
         <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
+        <target>Mozilla chỉ thu thập những gì chúng tôi cần cung cấp và cải tiến %@ cho tất cả mọi người.</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.learnMore">
@@ -268,7 +275,7 @@
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
         <source>Settings</source>
-        <target>Thiết lập</target>
+        <target>Cài đặt</target>
         <note>Title for settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.searchSection">
@@ -435,6 +442,7 @@
       </trans-unit>
       <trans-unit id="photosPermission.openSettings">
         <source>Open Settings</source>
+        <target>Mở Cài đặt</target>
         <note>Title for button that takes the user to system settings</note>
       </trans-unit>
       <trans-unit id="photosPermission.title">
