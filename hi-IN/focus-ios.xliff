@@ -373,6 +373,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleSendUsageData">
         <source>Send usage data</source>
+        <target>उपयोग डेटा भेजें</target>
         <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox">
@@ -416,70 +417,87 @@
       </trans-unit>
       <trans-unit id="URL.trackersBlockedLabel">
         <source>Trackers blocked</source>
+        <target>ट्रैकर्स अवरुद्ध</target>
         <note>Text for the URL bar showing the number of trackers blocked on a webpage.</note>
       </trans-unit>
       <trans-unit id="actionSheet.openIn">
         <source>Open in %@</source>
+        <target>%@ में खोलें</target>
         <note>Title for action sheet item to open the current page in another application. Placeholder is the name of the application to open the current page.</note>
       </trans-unit>
       <trans-unit id="browserShortcutDescription.selectLocationBar">
         <source>Select Location Bar</source>
+        <target>स्थान पट्टी का चयन करें</target>
         <note>Label to display in the Discoverability overlay for keyboard shortcuts</note>
       </trans-unit>
       <trans-unit id="contextMenu.clipboardLink">
         <source>Link you copied: %@</source>
+        <target>लिंक जो आपने कॉपी किया: %@</target>
         <note>Text for the context menu when a user has a link on their clipboard.</note>
       </trans-unit>
       <trans-unit id="contextMenu.copyImageTitle">
         <source>Copy Image</source>
+        <target>चित्र कॉपी करें</target>
         <note>Text for the context menu when a user wants to copy an image after long pressing it.</note>
       </trans-unit>
       <trans-unit id="contextMenu.copyLink">
         <source>Copy Link</source>
+        <target>लिंक कॉपी करें</target>
         <note>Text for the context menu when a user wants to copy a link after long pressing it.</note>
       </trans-unit>
       <trans-unit id="contextMenu.saveImageTitle">
         <source>Save Image</source>
+        <target>चित्र सहेजें</target>
         <note>Text for the context menu when a user wants to save an image after long pressing it.</note>
       </trans-unit>
       <trans-unit id="contextMenu.shareLinkTitle">
         <source>Share Link</source>
+        <target>लिंक साझा करें</target>
         <note>Text for the context menu when a user wants to share a link after long pressing it.</note>
       </trans-unit>
       <trans-unit id="externalAppLinkWithAppName.messageTitle">
         <source>%1$@ wants to open %2$@</source>
+        <target>%1$@ %2$@ को खोलना चाहता है</target>
         <note>Dialog title used for opening an external app from Focus. First placeholder string is the app name of either Focus or Klar and the second placeholder string specifies the app it wants to open.</note>
       </trans-unit>
       <trans-unit id="photosPermission.description">
         <source>This lets you save images to your Camera Roll</source>
+        <target>यह आपको अपने कैमरा रोल में चित्रों को सहेजने की अनुमति देता है</target>
         <note>Description for dialog used for requesting a user to enable access to Photos.</note>
       </trans-unit>
       <trans-unit id="photosPermission.openSettings">
         <source>Open Settings</source>
+        <target>सेटिंग्स खोलें</target>
         <note>Title for button that takes the user to system settings</note>
       </trans-unit>
       <trans-unit id="photosPermission.title">
         <source>“%@” Would Like to Access Your Photos</source>
+        <target>“%@” आपकी तस्वीरें एक्सेस करना चाहता है</target>
         <note>Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
         <source>Ad trackers</source>
+        <target>विज्ञापन ट्रैकर्स</target>
         <note>Label for ad trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.analyticTrackerLabel">
         <source>Analytic trackers</source>
+        <target>विश्लेषणात्मक ट्रैकर्स</target>
         <note>label for analytic trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.contentTrackerLabel">
         <source>Content trackers</source>
+        <target>सामग्री ट्रैकर</target>
         <note>label for content trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.disabledLabel">
         <source>Tracking Protection off</source>
+        <target>ट्रैकिंग सुरक्षा बंद</target>
         <note>text showing the tracking protection is disabled.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.socialTrackerLabel">
         <source>Social trackers</source>
+        <target>सामाजिक ट्रैकर्स</target>
         <note>label for social trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription1">
