@@ -328,6 +328,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAdsDescription">
         <source>Some ads track site visits, even if you don’t click the ads</source>
+        <target>ມີໂຄສະນາບາງໂຕສາມາດຕິດຕາມການເຂົ້າໄປເວັບຕ່າງໆ ເຖິງແມ່ນວ່າທ່ານຈະບໍ່ໄດ້ຄິກໃສ່ໂຄສະນານັ້ນເລີຍ</target>
         <note>Description for 'Block ad Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
@@ -337,6 +338,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalyticsDescription">
         <source>Used to collect, analyze and measure activities like tapping and scrolling</source>
+        <target>ໃຊ້ເພື່ອເກັບກຳຮວບຮ່ວມ, ວິເຄາະ ແລະ ວັດແທກກິດຈະກຳເຊັນວ່າການແຕະ ແລະ ການເລື່ອນ</target>
         <note>Description for 'Block analytics Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
