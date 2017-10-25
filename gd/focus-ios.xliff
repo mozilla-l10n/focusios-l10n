@@ -424,10 +424,12 @@
       </trans-unit>
       <trans-unit id="actionSheet.openIn">
         <source>Open in %@</source>
+        <target>Fosgail ann an %@</target>
         <note>Title for action sheet item to open the current page in another application. Placeholder is the name of the application to open the current page.</note>
       </trans-unit>
       <trans-unit id="browserShortcutDescription.selectLocationBar">
         <source>Select Location Bar</source>
+        <target>Tagh bar an ionaid</target>
         <note>Label to display in the Discoverability overlay for keyboard shortcuts</note>
       </trans-unit>
       <trans-unit id="contextMenu.clipboardLink">
@@ -441,6 +443,7 @@
       </trans-unit>
       <trans-unit id="contextMenu.copyLink">
         <source>Copy Link</source>
+        <target>Dèan lethbhreac dhen cheangal</target>
         <note>Text for the context menu when a user wants to copy a link after long pressing it.</note>
       </trans-unit>
       <trans-unit id="contextMenu.saveImageTitle">
@@ -450,6 +453,7 @@
       </trans-unit>
       <trans-unit id="contextMenu.shareLinkTitle">
         <source>Share Link</source>
+        <target>Co-roinn an ceangal</target>
         <note>Text for the context menu when a user wants to share a link after long pressing it.</note>
       </trans-unit>
       <trans-unit id="externalAppLinkWithAppName.messageTitle">
@@ -459,22 +463,27 @@
       </trans-unit>
       <trans-unit id="photosPermission.description">
         <source>This lets you save images to your Camera Roll</source>
+        <target>Bheir seo comas dhut an dealbh a shàbhaladh ann an albam a’ chamara agad</target>
         <note>Description for dialog used for requesting a user to enable access to Photos.</note>
       </trans-unit>
       <trans-unit id="photosPermission.openSettings">
         <source>Open Settings</source>
+        <target>Fosgail na roghainnean</target>
         <note>Title for button that takes the user to system settings</note>
       </trans-unit>
       <trans-unit id="photosPermission.title">
         <source>“%@” Would Like to Access Your Photos</source>
+        <target>Bu mhath le “%@” cothrom air na dealbhan agad</target>
         <note>Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
         <source>Ad trackers</source>
+        <target>Tracaichean sanasachd</target>
         <note>Label for ad trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.analyticTrackerLabel">
         <source>Analytic trackers</source>
+        <target>Tracaichean anailiseach</target>
         <note>label for analytic trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.contentTrackerLabel">
@@ -483,10 +492,12 @@
       </trans-unit>
       <trans-unit id="trackingProtection.disabledLabel">
         <source>Tracking Protection off</source>
+        <target>Tha an dìon o thracadh dheth</target>
         <note>text showing the tracking protection is disabled.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.socialTrackerLabel">
         <source>Social trackers</source>
+        <target>Tracaichean sòisealta</target>
         <note>label for social trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription1">
@@ -495,6 +506,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel">
         <source>Tracking Protection</source>
+        <target>Dìon o thracadh</target>
         <note>Text for the toggle that temporarily disables tracking protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.trackerDescriptionLabel">
