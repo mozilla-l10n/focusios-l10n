@@ -337,6 +337,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalyticsDescription">
         <source>Used to collect, analyze and measure activities like tapping and scrolling</source>
+        <target>سرگرمی جیسے کہ تھپتپانا اور طورمار کرنا کی پہمائش اور تجزیہ کرنے کے لیئے استعمال ہوتا ہے</target>
         <note>Description for 'Block analytics Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
