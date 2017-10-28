@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="vi">
     <header>
@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="About.safariBullet2">
         <source>Block Web fonts to reduce page size</source>
-        <target>Chặn phông chữ web để giảm kích thước trang</target>
+        <target>Chặn phông chữ Web để giảm kích thước trang</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
@@ -148,7 +148,7 @@
       </trans-unit>
       <trans-unit id="ExternalAppLink.messageTitle">
         <source>%@ wants to open another App</source>
-        <target>%@ muốn mở ứng dụng khác</target>
+        <target>%@ muốn mở Ứng dụng khác</target>
         <note>Dialog title used for opening an external app from Focus. The placeholder string is the app name of either Focus or Klar.</note>
       </trans-unit>
       <trans-unit id="ExternalAppLink.openTitle">
@@ -188,7 +188,7 @@
       </trans-unit>
       <trans-unit id="ExternalLink.openMapsButton">
         <source>Open Maps</source>
-        <target>Mở bản đồ</target>
+        <target>Mở Bản đồ</target>
         <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="FirstRun.buttonLabel">
@@ -203,7 +203,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
         <source>Browse like no one’s watching.</source>
-        <target>Duyệt web không để lại dấu vết.</target>
+        <target>Duyệt như không ai xem.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="Focus.handoffSyncing">
@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit id="Open.Firefox">
         <source>Firefox (Private Browsing)</source>
-        <target>Firefox (Duyệt web riêng tư)</target>
+        <target>Firefox (Duyệt Web riêng tư)</target>
         <note>Label in share alert to open the URL in Firefox</note>
       </trans-unit>
       <trans-unit id="Open.More">
@@ -243,7 +243,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers">
         <source>Tap Safari, then select Content Blockers</source>
-        <target>Chạm Safari, rồi chọn chặn nội dung</target>
+        <target>Chạm Safari, rồi chọn Chặn nội dung</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsEnable">
@@ -258,7 +258,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsOpen">
         <source>Open Settings App</source>
-        <target>Mở cài đặt ứng dụng</target>
+        <target>Mở Cài đặt</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
@@ -323,7 +323,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
         <source>Block ad trackers</source>
-        <target>Chặn trình theo dõi quảng cáo</target>
+        <target>Trình chặn quảng cáo</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAdsDescription">
