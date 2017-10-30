@@ -338,6 +338,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalyticsDescription">
         <source>Used to collect, analyze and measure activities like tapping and scrolling</source>
+        <target>Folosit pentru a colecta, analiza şi măsura activităţi ca atingere şi derulare</target>
         <note>Description for 'Block analytics Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
@@ -352,6 +353,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOtherDescription">
         <source>Enabling may cause some pages to behave unexpectedly</source>
+        <target>Activarea poate cauza ca unele pagini să comporte în mod neașteptat</target>
         <note>Description for 'Block other content Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
@@ -361,6 +363,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocialDescription">
         <source>Embedded on sites to track your visits and to display functionality like share buttons</source>
+        <target>Înglobat în pagini pentru a urmări vizitele tale şi a afişa funcţii precum butoane de partajare</target>
         <note>Description for 'Block social Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
@@ -430,6 +433,7 @@
       </trans-unit>
       <trans-unit id="browserShortcutDescription.selectLocationBar">
         <source>Select Location Bar</source>
+        <target>Selectează bara adresei</target>
         <note>Label to display in the Discoverability overlay for keyboard shortcuts</note>
       </trans-unit>
       <trans-unit id="contextMenu.clipboardLink">
