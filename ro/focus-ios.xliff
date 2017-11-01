@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet2">
         <source>Block trackers (or update settings to allow trackers)</source>
-        <target>Blochează mecanismele de urmărire (sau actualizează setările pentru a le permite)</target>
+        <target>Blochează urmăritorii (sau actualizează setările pentru a permite urmăritorii)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3">
@@ -198,12 +198,12 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
-        <target>Blochează automat mecanismele de urmărire în timp ce navighezi. Apoi apasă pentru a șterge paginile vizitate, căutările, cookie-urile și parolele din dispozitiv.</target>
+        <target>Blochează automat urmăritorii online în timp ce navighezi. Apoi apasă pentru a șterge paginile vizitate, căutările, cookie-urile și parolele din dispozitiv.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
         <source>Browse like no one’s watching.</source>
-        <target>Navighează ca și cum nimeni nu te urmărește.</target>
+        <target>Navighează fără grija de a fi urmărit.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="Focus.handoffSyncing">
