@@ -263,7 +263,7 @@
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
         <source>Blocking other content trackers may break some videos and Web pages.</source>
-        <target>Blocarea altor mecanisme de urmărire a conținutului ar putea afecta funcționalitatea unor videouri sau pagini web.</target>
+        <target>Blocarea altor urmăritori de conținut ar putea afecta funcționalitatea unor videouri sau pagini web.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo">
@@ -363,7 +363,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocialDescription">
         <source>Embedded on sites to track your visits and to display functionality like share buttons</source>
-        <target>Înglobat în pagini pentru a urmări vizitele tale şi a afişa funcţii precum butoane de partajare</target>
+        <target>Încorporat pe site-uri pentru a urmări vizitele tale şi a afişa funcţii precum butoanele de partajare</target>
         <note>Description for 'Block social Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
