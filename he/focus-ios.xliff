@@ -73,6 +73,7 @@
       </trans-unit>
       <trans-unit id="About.rowPrivacy">
         <source>Privacy Notice</source>
+        <target>הצהרת פרטיות</target>
         <note>Link to Privacy Notice in the About screen</note>
       </trans-unit>
       <trans-unit id="About.rowRights">
@@ -207,6 +208,7 @@
       </trans-unit>
       <trans-unit id="Focus.handoffSyncing">
         <source>Apple Handoff is syncing</source>
+        <target>Handoff מבית Apple מסתנכרן</target>
         <note>Title for the loading screen when the handoff of clipboard delays Focus launch. “Handoff” should not be localized, see https://support.apple.com/HT204681</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
@@ -276,10 +278,12 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData">
         <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
+        <target>Mozilla חותרת לאסוף רק מה שנדרש לצורך שיפור %@ לטובת הכלל.</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.learnMore">
         <source>Learn more.</source>
+        <target>מידע נוסף.</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
@@ -324,6 +328,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAdsDescription">
         <source>Some ads track site visits, even if you don’t click the ads</source>
+        <target>ישנן פרסומות העוקבות אחרי ביקורים באתרים, גם אם לא לוחצים על הפרסומות</target>
         <note>Description for 'Block ad Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
@@ -333,6 +338,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalyticsDescription">
         <source>Used to collect, analyze and measure activities like tapping and scrolling</source>
+        <target>משמש לאיסוף, ניתוח ומדידת פעילויות כמו הקשה וגלילה</target>
         <note>Description for 'Block analytics Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
@@ -347,6 +353,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOtherDescription">
         <source>Enabling may cause some pages to behave unexpectedly</source>
+        <target>הפעלת אפשרות זו עשויה לגרום למספר דפים להתנהג בצורה לא צפויה</target>
         <note>Description for 'Block other content Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
@@ -356,6 +363,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocialDescription">
         <source>Embedded on sites to track your visits and to display functionality like share buttons</source>
+        <target>מוטמעים באתרים כדי לעקוב אחר הביקורים שלך ולהציג תכונות כגון כפתורי שיתוף</target>
         <note>Description for 'Block social Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
@@ -370,6 +378,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleSendUsageData">
         <source>Send usage data</source>
+        <target>שליחת נתוני שימוש</target>
         <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox">
@@ -379,6 +388,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.OpenInFocus">
         <source>Open in %@</source>
+        <target>פתיחה ב־%@</target>
         <note>Text for the share menu option when a user wants to open a page in Focus.</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
@@ -423,10 +433,12 @@
       </trans-unit>
       <trans-unit id="browserShortcutDescription.selectLocationBar">
         <source>Select Location Bar</source>
+        <target>בחירת סרגל מיקום</target>
         <note>Label to display in the Discoverability overlay for keyboard shortcuts</note>
       </trans-unit>
       <trans-unit id="contextMenu.clipboardLink">
         <source>Link you copied: %@</source>
+        <target>קישור שהעתקת: %@</target>
         <note>Text for the context menu when a user has a link on their clipboard.</note>
       </trans-unit>
       <trans-unit id="contextMenu.copyImageTitle">
@@ -471,34 +483,42 @@
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
         <source>Ad trackers</source>
+        <target>עוקבי פרסומות</target>
         <note>Label for ad trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.analyticTrackerLabel">
         <source>Analytic trackers</source>
+        <target>עוקבי ניתוח נתונים</target>
         <note>label for analytic trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.contentTrackerLabel">
         <source>Content trackers</source>
+        <target>עוקבי תוכן</target>
         <note>label for content trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.disabledLabel">
         <source>Tracking Protection off</source>
+        <target>הגנת מעקב כבויה</target>
         <note>text showing the tracking protection is disabled.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.socialTrackerLabel">
         <source>Social trackers</source>
+        <target>עוקבים חברתיים</target>
         <note>label for social trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription1">
         <source>Disable until you close %@ or tap ERASE.</source>
+        <target>ניטרול עד לסגירת %@ או לחיצה על מחיקה.</target>
         <note>Description for the tracking protection toggle. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel">
         <source>Tracking Protection</source>
+        <target>הגנת מעקב</target>
         <note>Text for the toggle that temporarily disables tracking protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.trackerDescriptionLabel">
         <source>Choose whether %@ blocks ad, analytic, social, and other trackers.</source>
+        <target>ניתן לבחור האם לחסום פרסומות, ניתוחי מידע, שירותים חברתיים ושאר רכיבי מעקב ב־%@.</target>
         <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
     </body>
