@@ -398,6 +398,7 @@
       </trans-unit>
       <trans-unit id="URL.contextMenu">
         <source>Paste &amp; Go</source>
+        <target>Ngjite &amp; Shko</target>
         <note>Text for the URL context menu when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
       <trans-unit id="URL.eraseButtonLabel">
@@ -422,82 +423,102 @@
       </trans-unit>
       <trans-unit id="URL.trackersBlockedLabel">
         <source>Trackers blocked</source>
+        <target>U bllokuan gjurmues</target>
         <note>Text for the URL bar showing the number of trackers blocked on a webpage.</note>
       </trans-unit>
       <trans-unit id="actionSheet.openIn">
         <source>Open in %@</source>
+        <target>Hape në %@</target>
         <note>Title for action sheet item to open the current page in another application. Placeholder is the name of the application to open the current page.</note>
       </trans-unit>
       <trans-unit id="browserShortcutDescription.selectLocationBar">
         <source>Select Location Bar</source>
+        <target>Përzgjidhni Shtyllë Vendesh</target>
         <note>Label to display in the Discoverability overlay for keyboard shortcuts</note>
       </trans-unit>
       <trans-unit id="contextMenu.clipboardLink">
         <source>Link you copied: %@</source>
+        <target>Lidhja që kopjuat: %@</target>
         <note>Text for the context menu when a user has a link on their clipboard.</note>
       </trans-unit>
       <trans-unit id="contextMenu.copyImageTitle">
         <source>Copy Image</source>
+        <target>Kopjo Figurën</target>
         <note>Text for the context menu when a user wants to copy an image after long pressing it.</note>
       </trans-unit>
       <trans-unit id="contextMenu.copyLink">
         <source>Copy Link</source>
+        <target>Kopjoji Lidhjen</target>
         <note>Text for the context menu when a user wants to copy a link after long pressing it.</note>
       </trans-unit>
       <trans-unit id="contextMenu.saveImageTitle">
         <source>Save Image</source>
+        <target>Ruajeni Figurën</target>
         <note>Text for the context menu when a user wants to save an image after long pressing it.</note>
       </trans-unit>
       <trans-unit id="contextMenu.shareLinkTitle">
         <source>Share Link</source>
+        <target>Ndajeni Lidhjen Me të Tjerët</target>
         <note>Text for the context menu when a user wants to share a link after long pressing it.</note>
       </trans-unit>
       <trans-unit id="externalAppLinkWithAppName.messageTitle">
         <source>%1$@ wants to open %2$@</source>
+        <target>%1$@ dëshiron të hapë %2$@</target>
         <note>Dialog title used for opening an external app from Focus. First placeholder string is the app name of either Focus or Klar and the second placeholder string specifies the app it wants to open.</note>
       </trans-unit>
       <trans-unit id="photosPermission.description">
         <source>This lets you save images to your Camera Roll</source>
+        <target>Kjo ju lejon të ruani figura te Camera Roll-i juaj</target>
         <note>Description for dialog used for requesting a user to enable access to Photos.</note>
       </trans-unit>
       <trans-unit id="photosPermission.openSettings">
         <source>Open Settings</source>
+        <target>Hap Rregullimet</target>
         <note>Title for button that takes the user to system settings</note>
       </trans-unit>
       <trans-unit id="photosPermission.title">
         <source>“%@” Would Like to Access Your Photos</source>
+        <target>“%@” Do të Donte të Hynte te Fotot Tuaja</target>
         <note>Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
         <source>Ad trackers</source>
+        <target>Gjurmues reklamash</target>
         <note>Label for ad trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.analyticTrackerLabel">
         <source>Analytic trackers</source>
+        <target>Gjurmues analitikë</target>
         <note>label for analytic trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.contentTrackerLabel">
         <source>Content trackers</source>
+        <target>Gjurmues lënde</target>
         <note>label for content trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.disabledLabel">
         <source>Tracking Protection off</source>
+        <target>Pa Mbrojtje Nga Gjurmimet</target>
         <note>text showing the tracking protection is disabled.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.socialTrackerLabel">
         <source>Social trackers</source>
+        <target>Gjurmues socialë</target>
         <note>label for social trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription1">
         <source>Disable until you close %@ or tap ERASE.</source>
+        <target>Çaktivizoje derisa të mbyll %@ ose prekë FSHIJE.</target>
         <note>Description for the tracking protection toggle. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel">
         <source>Tracking Protection</source>
+        <target>Mbrojtje Nga Gjurmimet</target>
         <note>Text for the toggle that temporarily disables tracking protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.trackerDescriptionLabel">
         <source>Choose whether %@ blocks ad, analytic, social, and other trackers.</source>
+        <target>Zgjidhni se ç’bllokon %@, reklama, analizues, socialë, apo gjurmues të tjerë.</target>
         <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
     </body>
