@@ -73,6 +73,7 @@
       </trans-unit>
       <trans-unit id="About.rowPrivacy">
         <source>Privacy Notice</source>
+        <target>Shënim Mbi Privatësinë</target>
         <note>Link to Privacy Notice in the About screen</note>
       </trans-unit>
       <trans-unit id="About.rowRights">
@@ -142,14 +143,17 @@
       </trans-unit>
       <trans-unit id="ExternalAppLink.cancelTitle">
         <source>Cancel</source>
+        <target>Anuloje</target>
         <note>Button label used for cancelling to open another app from Focus</note>
       </trans-unit>
       <trans-unit id="ExternalAppLink.messageTitle">
         <source>%@ wants to open another App</source>
+        <target>%@ dëshiron të hapë një tjetër Aplikacion</target>
         <note>Dialog title used for opening an external app from Focus. The placeholder string is the app name of either Focus or Klar.</note>
       </trans-unit>
       <trans-unit id="ExternalAppLink.openTitle">
         <source>Open</source>
+        <target>Hape</target>
         <note>Button label for opening another app from Focus</note>
       </trans-unit>
       <trans-unit id="ExternalLink.callButton">
@@ -179,6 +183,7 @@
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreTitle">
         <source>%@ wants to open the App Store.</source>
+        <target>%@ dëshiron të hapë App Store-in.</target>
         <note>Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openMapsButton">
@@ -203,6 +208,7 @@
       </trans-unit>
       <trans-unit id="Focus.handoffSyncing">
         <source>Apple Handoff is syncing</source>
+        <target>Apple Handoff po bën njëkohësimin</target>
         <note>Title for the loading screen when the handoff of clipboard delays Focus launch. “Handoff” should not be localized, see https://support.apple.com/HT204681</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
@@ -272,10 +278,12 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData">
         <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
+        <target>Mozilla rreket të grumbullojë vetëm sa na duhen për të ofruar dhe përmirësuar %@ për këdo.</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.learnMore">
         <source>Learn more.</source>
+        <target>Mësoni më tepër.</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
@@ -320,6 +328,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAdsDescription">
         <source>Some ads track site visits, even if you don’t click the ads</source>
+        <target>Disa reklama ndjekin vizita sajti, madje edhe kur nuk klikoni mbi reklamat</target>
         <note>Description for 'Block ad Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
@@ -329,6 +338,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalyticsDescription">
         <source>Used to collect, analyze and measure activities like tapping and scrolling</source>
+        <target>Të përdorur për të grumbulluar, analizuar dhe matur veprimtari të tilla si prekje dhe rrëshqitje në faqe</target>
         <note>Description for 'Block analytics Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
@@ -343,6 +353,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOtherDescription">
         <source>Enabling may cause some pages to behave unexpectedly</source>
+        <target>Aktivizimi mund të bëjë që disa faqe të sillen ndryshe nga ç’pritet</target>
         <note>Description for 'Block other content Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
@@ -352,6 +363,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocialDescription">
         <source>Embedded on sites to track your visits and to display functionality like share buttons</source>
+        <target>Të trupëzuara në sajte për të gjurmuar vizitat tuaja dhe për të shfaqur funksione, të tillë si butona ndarjeje me të tjerët</target>
         <note>Description for 'Block social Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
@@ -366,14 +378,17 @@
       </trans-unit>
       <trans-unit id="Settings.toggleSendUsageData">
         <source>Send usage data</source>
+        <target>Dërgo të dhëna përdorimi</target>
         <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox">
         <source>Get the Firefox App</source>
+        <target>Merrni Aplikacionin Firefox</target>
         <note>Text for the share menu option when a user wants to open a page in Firefox but doesn’t have it installed. This string will not wrap in the interface. Instead, it will truncate. To prevent this, please keep the localized string to 18 or fewer characters. If your string runs longer than 18 characters, you can use 'Get Firefox' as the basis for your string. However, if at all possible, we’d like to signal to the user that they will be going to the App Store and installing the application from there. That is why we are using Get and App in the en-US string.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.OpenInFocus">
         <source>Open in %@</source>
+        <target>Hape në %@</target>
         <note>Text for the share menu option when a user wants to open a page in Focus.</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
