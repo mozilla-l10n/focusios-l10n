@@ -2,14 +2,11 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
     </header>
     <body>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
-      </trans-unit>
-      <trans-unit id="CFBundleShortVersionString">
-        <source>3.10</source>
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
@@ -20,14 +17,44 @@
       <trans-unit id="NSMicrophoneUsageDescription">
         <source>This lets you take and upload videos.</source>
       </trans-unit>
+      <trans-unit id="NSPhotoLibraryAddUsageDescription">
+        <source>This lets you save and upload photos.</source>
+      </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription">
         <source>This lets you save and upload photos.</source>
       </trans-unit>
     </body>
   </file>
+  <file original="Blockzilla/Intro.strings" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
+    </header>
+    <body>
+      <trans-unit id="Intro.Slides.Search.Description">
+        <source>Searching for something different? Choose a different search engine.</source>
+        <note>Description for the 'Favorite Search Engine' panel in the First Run tour.</note>
+      </trans-unit>
+      <trans-unit id="Intro.Slides.Search.Title">
+        <source>Your search, your way</source>
+        <note>Title for the second  panel 'Search' in the First Run tour.</note>
+      </trans-unit>
+      <trans-unit id="Intro.Slides.Skip.Button">
+        <source>SKIP</source>
+        <note>Button to skip onboarding in Focus</note>
+      </trans-unit>
+      <trans-unit id="Intro.Slides.Welcome.Description">
+        <source>Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.</source>
+        <note>Description for the 'Welcome' panel in the First Run tour.</note>
+      </trans-unit>
+      <trans-unit id="Intro.Slides.Welcome.Title">
+        <source>Power up your privacy</source>
+        <note>Title for the first panel 'Welcome' in the First Run tour.</note>
+      </trans-unit>
+    </body>
+  </file>
   <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
     </header>
     <body>
       <trans-unit id="About.learnMoreButton">
@@ -306,6 +333,10 @@
         <source>Send usage data</source>
         <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
+      <trans-unit id="Settings.whatsNewTitle">
+        <source>What's New</source>
+        <note>Title for What's new screen</note>
+      </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox">
         <source>Get the Firefox App</source>
         <note>Text for the share menu option when a user wants to open a page in Firefox but doesn’t have it installed. This string will not wrap in the interface. Instead, it will truncate. To prevent this, please keep the localized string to 18 or fewer characters. If your string runs longer than 18 characters, you can use 'Get Firefox' as the basis for your string. However, if at all possible, we’d like to signal to the user that they will be going to the App Store and installing the application from there. That is why we are using Get and App in the en-US string.</note>
@@ -422,7 +453,7 @@
   </file>
   <file original="ContentBlocker/Info.plist" source-language="en" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
@@ -432,13 +463,13 @@
         <source>$(PRODUCT_NAME)</source>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>3.10</source>
+        <source>3.11</source>
       </trans-unit>
     </body>
   </file>
   <file original="OpenInFocus/Info.plist" source-language="en" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
@@ -446,35 +477,6 @@
       </trans-unit>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
-      </trans-unit>
-      <trans-unit id="CFBundleShortVersionString">
-        <source>3.10</source>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="ScreenshotTests/Info.plist" source-language="en" datatype="plaintext">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
-    </header>
-    <body>
-      <trans-unit id="CFBundleName">
-        <source>$(PRODUCT_NAME)</source>
-      </trans-unit>
-      <trans-unit id="CFBundleShortVersionString">
-        <source>1.0</source>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="XCUITest/Info.plist" source-language="en" datatype="plaintext">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
-    </header>
-    <body>
-      <trans-unit id="CFBundleName">
-        <source>$(PRODUCT_NAME)</source>
-      </trans-unit>
-      <trans-unit id="CFBundleShortVersionString">
-        <source>1.0</source>
       </trans-unit>
     </body>
   </file>
