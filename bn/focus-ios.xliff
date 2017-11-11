@@ -555,6 +555,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.trackerDescriptionLabel">
         <source>Choose whether %@ blocks ad, analytic, social, and other trackers.</source>
+        <target> %@ বিজ্ঞাপন ব্লক করবে নাকি এনালিটিক, স্যোশাল বা অন্য ট্র্যাকার ব্লক করবে তা নির্বাচন করুন।</target>
         <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
     </body>
