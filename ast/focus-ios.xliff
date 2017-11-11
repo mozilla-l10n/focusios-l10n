@@ -53,6 +53,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description">
         <source>Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.</source>
+        <target>Lleva lo de restolar en privao a otru nivel. Bloquia anuncios y otru conteníu que puea rastrexate en sitios web y aumenten los tiempos de carga.</target>
         <note>Description for the 'Welcome' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Title">
