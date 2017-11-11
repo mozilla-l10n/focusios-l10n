@@ -43,18 +43,22 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Title">
         <source>Your search, your way</source>
+        <target>Wašo pytanje ako wy jo cośo</target>
         <note>Title for the second  panel 'Search' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Skip.Button">
         <source>SKIP</source>
+        <target>PŠESKÓCYŚ</target>
         <note>Button to skip onboarding in Focus</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description">
         <source>Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.</source>
+        <target>Zwigniśo priwatne pśeglědowanje na pśiducu wušu rowninu. Blokěrujśo wabjenje a hynakše wopśimjeśe, kótarež móžośo pśez sedła slědowaś a zacyitańske case bokow pódlejšyś.</target>
         <note>Description for the 'Welcome' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Title">
         <source>Power up your privacy</source>
+        <target>Zmocniśo swóju priwatnosć</target>
         <note>Title for the first panel 'Welcome' in the First Run tour.</note>
       </trans-unit>
     </body>
@@ -411,6 +415,7 @@
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
         <source>What’s New</source>
+        <target>Což jo nowe</target>
         <note>Title for What's new screen</note>
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox">
