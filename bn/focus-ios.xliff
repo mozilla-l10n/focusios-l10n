@@ -58,6 +58,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Title">
         <source>Power up your privacy</source>
+        <target>আপনার ব্যক্তিগত গোপনীয়তাকে শক্তিশালী করুন</target>
         <note>Title for the first panel 'Welcome' in the First Run tour.</note>
       </trans-unit>
     </body>
@@ -179,6 +180,7 @@
       </trans-unit>
       <trans-unit id="ExternalAppLink.messageTitle">
         <source>%@ wants to open another App</source>
+        <target>%@ আরেকটি ভিন্ন অ্যাপ খুলতে চাচ্ছে</target>
         <note>Dialog title used for opening an external app from Focus. The placeholder string is the app name of either Focus or Klar.</note>
       </trans-unit>
       <trans-unit id="ExternalAppLink.openTitle">
