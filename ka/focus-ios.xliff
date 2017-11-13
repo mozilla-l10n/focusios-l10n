@@ -196,6 +196,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
+        <target>გვერდების მონახულებისას, თვალყურისმდევნელი ელემენტები მუდმივად შეზღუდულია. დასრულებისას კი ერთი შეხებით წაიშლება მონახულებული გვერდები, ძიების ისტორია, ფუნთუშები და პაროლები, თქვენი მოწყობილობიდან.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
@@ -208,6 +209,7 @@
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
         <source>Automatic private browsing.</source>
+        <target>მხოლოდ თვალიერების პირადი რეჟიმი.</target>
         <note>First label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel2">
