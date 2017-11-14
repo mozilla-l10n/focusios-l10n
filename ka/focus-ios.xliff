@@ -145,7 +145,7 @@
       </trans-unit>
       <trans-unit id="Browser.forwardLabel">
         <source>Forward</source>
-        <target>უკლია</target>
+        <target>წინ</target>
         <note>Accessibility label for the forward button</note>
       </trans-unit>
       <trans-unit id="Browser.reloadLabel">
@@ -200,7 +200,7 @@
       </trans-unit>
       <trans-unit id="ExternalLink.emailButton">
         <source>Email</source>
-        <target>ელექტრონული ფოსტა</target>
+        <target>ელფოსტა</target>
         <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.messageTitleWithPlaceholder">
