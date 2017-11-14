@@ -36,6 +36,14 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
     </header>
     <body>
+      <trans-unit id="Intro.Slides.History.Description">
+        <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
+        <note>Description for the 'History' panel in the First Run tour.</note>
+      </trans-unit>
+      <trans-unit id="Intro.Slides.History.Title">
+        <source>Your history is history</source>
+        <note>Title for the third  panel 'History' in the First Run tour.</note>
+      </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description">
         <source>Searching for something different? Choose a different search engine.</source>
         <target>Mencari sesuatu yang berlainan? Pilih enjin carian lain.</target>
