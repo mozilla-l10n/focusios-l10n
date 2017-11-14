@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="es-ES">
+  <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="es">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
     </header>
@@ -31,11 +31,19 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Blockzilla/Intro.strings" source-language="en" datatype="plaintext" target-language="es-ES">
+  <file original="Blockzilla/Intro.strings" source-language="en" datatype="plaintext" target-language="es">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
     </header>
     <body>
+      <trans-unit id="Intro.Slides.History.Description">
+        <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
+        <note>Description for the 'History' panel in the First Run tour.</note>
+      </trans-unit>
+      <trans-unit id="Intro.Slides.History.Title">
+        <source>Your history is history</source>
+        <note>Title for the third  panel 'History' in the First Run tour.</note>
+      </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description">
         <source>Searching for something different? Choose a different search engine.</source>
         <target>¿Buscas algo distinto? Elige otro motor de búsqueda.</target>
@@ -63,7 +71,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="es-ES">
+  <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="es">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
     </header>
@@ -560,7 +568,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="ContentBlocker/Info.plist" source-language="en" datatype="plaintext" target-language="es-ES">
+  <file original="ContentBlocker/Info.plist" source-language="en" datatype="plaintext" target-language="es">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
     </header>
@@ -579,7 +587,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="OpenInFocus/Info.plist" source-language="en" datatype="plaintext" target-language="es-ES">
+  <file original="OpenInFocus/Info.plist" source-language="en" datatype="plaintext" target-language="es">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
     </header>
