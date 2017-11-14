@@ -23,6 +23,7 @@
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription">
         <source>This lets you save and upload photos.</source>
+        <target>Ceci vous permet d’enregistrer des photos et de les envoyer.</target>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription">
         <source>This lets you save and upload photos.</source>
@@ -45,6 +46,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description">
         <source>Searching for something different? Choose a different search engine.</source>
+        <target>Vous recherchez quelque chose de différent ? Choisissez un autre moteur de recherche.</target>
         <note>Description for the 'Favorite Search Engine' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Title">
@@ -53,6 +55,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Skip.Button">
         <source>SKIP</source>
+        <target>IGNORER</target>
         <note>Button to skip onboarding in Focus</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description">
