@@ -285,7 +285,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsNotEnabled">
         <source>%@ is not enabled.</source>
-        <target>%@ არაა ჩართულია.</target>
+        <target>%@ არაა ჩართული.</target>
         <note>Error label when the blocker is not enabled, shown in the intro and main app when disabled</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsOpen">
@@ -410,7 +410,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleSendUsageData">
         <source>Send usage data</source>
-        <target>მონაცემების გაგზავნა</target>
+        <target>მონაცემების აღრიცხვა</target>
         <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
@@ -455,7 +455,7 @@
       </trans-unit>
       <trans-unit id="URL.searchLabel">
         <source>Search for %@</source>
-        <target>მოძებნა: %@</target>
+        <target>ძიება: %@</target>
         <note>Label displayed for search button when typing in the URL bar</note>
       </trans-unit>
       <trans-unit id="URL.trackersBlockedLabel">
@@ -505,7 +505,7 @@
       </trans-unit>
       <trans-unit id="photosPermission.description">
         <source>This lets you save images to your Camera Roll</source>
-        <target>საშუალებას გაძლევთ, თქვენი სურათების ფოტოგალერეაში შენახვის </target>
+        <target>საშუალებას გაძლევთ, თქვენი სურათების ფოტოგალერეაში შენახვის</target>
         <note>Description for dialog used for requesting a user to enable access to Photos.</note>
       </trans-unit>
       <trans-unit id="photosPermission.openSettings">
@@ -530,7 +530,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.contentTrackerLabel">
         <source>Content trackers</source>
-        <target>შიგთავსის აღმირცხველი</target>
+        <target>შიგთავსის აღმრიცხველი</target>
         <note>label for content trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.disabledLabel">
