@@ -38,10 +38,12 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
+        <target>წაშალეთ თქვენი დათვალიერების ისტორია, პაროლები და ა.შ. ნებისმიერ დროს, მხოლოდ ერთი შეხებით.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title">
         <source>Your history is history</source>
+        <target>თქვენი ისტორია უკვე ისტორიის საკუთრებაა</target>
         <note>Title for the third  panel 'History' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description">
