@@ -38,10 +38,12 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
+        <target>আপনার সম্পূর্ণ ব্রাউজিং সেশনের ইতিহাস, পাসওয়ার্ডগুলি, কুকিকে একবার ট্যাপ করে যে কোনো সময় সাফ করুন।</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title">
         <source>Your history is history</source>
+        <target>আপনার ইতিহাস হল ইতিহাস</target>
         <note>Title for the third  panel 'History' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description">
@@ -563,7 +565,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.trackerDescriptionLabel">
         <source>Choose whether %@ blocks ad, analytic, social, and other trackers.</source>
-        <target> %@ বিজ্ঞাপন ব্লক করবে নাকি এনালিটিক, স্যোশাল বা অন্য ট্র্যাকার ব্লক করবে তা নির্বাচন করুন।</target>
+        <target>%@ বিজ্ঞাপন ব্লক করবে নাকি এনালিটিক, স্যোশাল বা অন্য ট্র্যাকার ব্লক করবে তা নির্বাচন করুন।</target>
         <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
     </body>
