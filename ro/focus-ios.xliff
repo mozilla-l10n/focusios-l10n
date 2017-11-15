@@ -42,6 +42,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title">
         <source>Your history is history</source>
+        <target>Istoricul tău este istorie</target>
         <note>Title for the third  panel 'History' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description">
@@ -548,6 +549,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription1">
         <source>Disable until you close %@ or tap ERASE.</source>
+        <target>Dezactivare până când închizi %@ sau apeşi ERASE.</target>
         <note>Description for the tracking protection toggle. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel">
@@ -557,6 +559,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.trackerDescriptionLabel">
         <source>Choose whether %@ blocks ad, analytic, social, and other trackers.</source>
+        <target>Alege dacă %@ blochează mecanisme de urmărire de anunţuri, analitice, sociale şi alte.</target>
         <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
     </body>
