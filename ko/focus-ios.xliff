@@ -38,30 +38,37 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
+        <target>브라우징 세션 기록이나 비밀번호, 쿠키를 언제나 탭 한번으로 삭제합니다.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title">
         <source>Your history is history</source>
+        <target>내 기록은 중요한 기록이다</target>
         <note>Title for the third  panel 'History' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description">
         <source>Searching for something different? Choose a different search engine.</source>
+        <target>뭔가 다른 것을 찾으세요? 다른 검색엔진을 선택해 보세요.</target>
         <note>Description for the 'Favorite Search Engine' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Title">
         <source>Your search, your way</source>
+        <target>나의 검색, 내 방식으로</target>
         <note>Title for the second  panel 'Search' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Skip.Button">
         <source>SKIP</source>
+        <target>건너뛰기</target>
         <note>Button to skip onboarding in Focus</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description">
         <source>Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.</source>
+        <target>한 단계 높은 개인 정보 보호 브라우징을 즐겨보세요. 사이트의 경계를 넘어 개인정보를 추적하거나, 페이지 로딩 속도를 늦추는 원인이 되는 광고 및 기타 콘텐츠를 자동으로 차단해 줍니다.</target>
         <note>Description for the 'Welcome' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Title">
         <source>Power up your privacy</source>
+        <target>개인정보 보호 강화하기</target>
         <note>Title for the first panel 'Welcome' in the First Run tour.</note>
       </trans-unit>
     </body>
@@ -418,6 +425,7 @@
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
         <source>What’s New</source>
+        <target>새로운 기능</target>
         <note>Title for What's new screen</note>
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox">
