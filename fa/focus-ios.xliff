@@ -38,10 +38,12 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
+        <target>تمام تاریخچه،‌کلمه عبور،‌و کوکی های جلسه مرورگر خود را در هر زمانی تنها با یک لمس پاک کنید.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title">
         <source>Your history is history</source>
+        <target>تایخچه شما تاریخچه خود شماست</target>
         <note>Title for the third  panel 'History' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description">
@@ -61,10 +63,12 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description">
         <source>Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.</source>
+        <target>پیشرفت مرورگر خصوصی به سطحی بالاتر. مسدود کردن تبلیغات و محتواهای دیگر که می‌تواند شما را در طول بازدید وب‌سایت ها رهگیری کنند یا زمان بارگذاری صفحه را همانند گیرکردن در باتلاق کم کنند.</target>
         <note>Description for the 'Welcome' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Title">
         <source>Power up your privacy</source>
+        <target>حریم شخصی خود را ارتقاع دهید</target>
         <note>Title for the first panel 'Welcome' in the First Run tour.</note>
       </trans-unit>
     </body>
@@ -421,6 +425,7 @@
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
         <source>What’s New</source>
+        <target>چه چیزهایی جدید است</target>
         <note>Title for What's new screen</note>
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox">
