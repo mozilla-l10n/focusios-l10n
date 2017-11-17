@@ -195,7 +195,7 @@
       </trans-unit>
       <trans-unit id="ExternalAppLink.openTitle">
         <source>Open</source>
-        <target>გაღება</target>
+        <target>გახსნა</target>
         <note>Button label for opening another app from Focus</note>
       </trans-unit>
       <trans-unit id="ExternalLink.callButton">
@@ -510,7 +510,7 @@
       </trans-unit>
       <trans-unit id="externalAppLinkWithAppName.messageTitle">
         <source>%1$@ wants to open %2$@</source>
-        <target>%1$@ ცდელობს გახსნას %2$@</target>
+        <target>%1$@ ცდილობს გახსნას %2$@</target>
         <note>Dialog title used for opening an external app from Focus. First placeholder string is the app name of either Focus or Klar and the second placeholder string specifies the app it wants to open.</note>
       </trans-unit>
       <trans-unit id="photosPermission.description">
