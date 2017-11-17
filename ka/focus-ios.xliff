@@ -405,7 +405,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocialDescription">
         <source>Embedded on sites to track your visits and to display functionality like share buttons</source>
-        <target>საიტებზე ჩაშენებულია, თქვენს გადაადგილებაზე თვალყურის მისადევნებლად ისეთი ელემენტების სახით, როგორიცაა მოწონების, ან გაზიარების ღილაკები</target>
+        <target>თქვენს გადაადგილებაზე თვალყურის მისადევნებლად, საიტებზე განთავსებულია მოწონების, ან გაზიარების ღილაკების სახით</target>
         <note>Description for 'Block social Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
