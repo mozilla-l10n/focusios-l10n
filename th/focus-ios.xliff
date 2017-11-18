@@ -38,6 +38,7 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
+        <target>ล้างประวัติ, รหัสผ่าน และคุกกี้ในวาระการท่องเว็บทั้งหมดของคุณได้ทุกเวลาด้วยการแตะครั้งเดียว</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title">
