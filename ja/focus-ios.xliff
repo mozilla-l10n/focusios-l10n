@@ -23,6 +23,7 @@
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription">
         <source>This lets you save and upload photos.</source>
+        <target>写真を保存してアップロードできます。</target>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription">
         <source>This lets you save and upload photos.</source>
@@ -37,30 +38,37 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
+        <target>ブラウジングセッション履歴やパスワード、Cookie を、いつでもワンタップですべて消去できます。</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title">
         <source>Your history is history</source>
+        <target>あなたの履歴は歴史です</target>
         <note>Title for the third  panel 'History' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description">
         <source>Searching for something different? Choose a different search engine.</source>
+        <target>何か違ったものを探していますか？ 別の検索エンジンを選んでみましょう。</target>
         <note>Description for the 'Favorite Search Engine' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Title">
         <source>Your search, your way</source>
+        <target>好きな方法で検索</target>
         <note>Title for the second  panel 'Search' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Skip.Button">
         <source>SKIP</source>
+        <target>スキップ</target>
         <note>Button to skip onboarding in Focus</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description">
         <source>Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.</source>
+        <target>プライベートブラウジングを次のレベルへと進めましょう。サイトを越えてあなたを追跡したり、ページの読み込みを遅くしたりする可能性のある広告その他のコンテンツを自動的にブロック。</target>
         <note>Description for the 'Welcome' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Title">
         <source>Power up your privacy</source>
+        <target>プライバシーを強化</target>
         <note>Title for the first panel 'Welcome' in the First Run tour.</note>
       </trans-unit>
     </body>
@@ -417,6 +425,7 @@
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
         <source>What’s New</source>
+        <target>新機能</target>
         <note>Title for What's new screen</note>
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox">
