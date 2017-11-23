@@ -95,7 +95,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet2">
         <source>Block trackers (or update settings to allow trackers)</source>
-        <target>Bloqueie trackers (ou atualizar definições para permitir trackers)</target>
+        <target>Bloqueie monitorizadores (ou atualize as definições para permitir monitorizadores)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3">
@@ -125,7 +125,7 @@
       </trans-unit>
       <trans-unit id="About.safariBullet1">
         <source>Block trackers for improved privacy</source>
-        <target>Bloqueie trackers para melhoria de privacidade</target>
+        <target>Bloqueie monitorizadores para uma melhoria da privacidade</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2">
@@ -240,7 +240,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
-        <target>Bloqueie trackers online automaticamente enquanto navega. Depois toque para apagar as páginas visitadas, pesquisas, cookies e palavras-passe do seu dispositivo.</target>
+        <target>Bloqueie monitorizadores online automaticamente enquanto navega. Em seguida, toque para apagar as páginas visitadas, pesquisas, cookies e palavras-passe do seu dispositivo.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
@@ -305,7 +305,7 @@
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
         <source>Blocking other content trackers may break some videos and Web pages.</source>
-        <target>Bloquear outros trackers de conteúdo poderá quebrar alguns vídeos e páginas Web.</target>
+        <target>Bloquear outros monitorizadores de conteúdo poderá quebrar alguns vídeos e páginas Web.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo">
@@ -365,17 +365,17 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
         <source>Block ad trackers</source>
-        <target>Bloquear trackers de anúncios</target>
+        <target>Bloquear monitorizadores de anúncios</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAdsDescription">
         <source>Some ads track site visits, even if you don’t click the ads</source>
-        <target>Alguns anúncios monitorização visitas a sites, mesmo que não clique nos anúncios</target>
+        <target>Alguns anúncios monitorizam as visitas a sites, mesmo que você não clique nos anúncios</target>
         <note>Description for 'Block ad Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
         <source>Block analytics trackers</source>
-        <target>Bloquear trackers analíticos</target>
+        <target>Bloquear monitorizadores de analítica</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalyticsDescription">
@@ -390,7 +390,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther">
         <source>Block other content trackers</source>
-        <target>Bloquear outros trackers de conteúdo</target>
+        <target>Bloquear outros monitorizadores de conteúdo</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOtherDescription">
@@ -400,7 +400,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
         <source>Block social trackers</source>
-        <target>Bloquear trackers sociais</target>
+        <target>Bloquear monitorizadores sociais</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocialDescription">
@@ -485,7 +485,7 @@
       </trans-unit>
       <trans-unit id="contextMenu.clipboardLink">
         <source>Link you copied: %@</source>
-        <target>Ligação que copiou: %@</target>
+        <target>Hiperligação que copiou: %@</target>
         <note>Text for the context menu when a user has a link on their clipboard.</note>
       </trans-unit>
       <trans-unit id="contextMenu.copyImageTitle">
@@ -495,7 +495,7 @@
       </trans-unit>
       <trans-unit id="contextMenu.copyLink">
         <source>Copy Link</source>
-        <target>Copiar ligação</target>
+        <target>Copiar hiperligação</target>
         <note>Text for the context menu when a user wants to copy a link after long pressing it.</note>
       </trans-unit>
       <trans-unit id="contextMenu.saveImageTitle">
@@ -505,7 +505,7 @@
       </trans-unit>
       <trans-unit id="contextMenu.shareLinkTitle">
         <source>Share Link</source>
-        <target>Partilhar ligação</target>
+        <target>Partilhar hiperligação</target>
         <note>Text for the context menu when a user wants to share a link after long pressing it.</note>
       </trans-unit>
       <trans-unit id="externalAppLinkWithAppName.messageTitle">
@@ -530,17 +530,17 @@
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
         <source>Ad trackers</source>
-        <target>Trackers de anúncios</target>
+        <target>Monitorizadores de anúncios</target>
         <note>Label for ad trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.analyticTrackerLabel">
         <source>Analytic trackers</source>
-        <target>Trackers de analítica</target>
+        <target>Monitorizadores de analítica</target>
         <note>label for analytic trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.contentTrackerLabel">
         <source>Content trackers</source>
-        <target>Trackers de conteúdo</target>
+        <target>Monitorizadores de conteúdo</target>
         <note>label for content trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.disabledLabel">
@@ -550,7 +550,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.socialTrackerLabel">
         <source>Social trackers</source>
-        <target>Trackers sociais</target>
+        <target>Monitorizadores sociais</target>
         <note>label for social trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription1">
@@ -565,7 +565,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.trackerDescriptionLabel">
         <source>Choose whether %@ blocks ad, analytic, social, and other trackers.</source>
-        <target>Escolha se o %@ bloqueia trackers de anúncios, analítica, sociais ou outros.</target>
+        <target>Escolha se o %@ bloqueia monitorizadores de anúncios, analítica, sociais ou outros.</target>
         <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
     </body>
