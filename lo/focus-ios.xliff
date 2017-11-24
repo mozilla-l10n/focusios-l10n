@@ -41,6 +41,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title">
         <source>Your history is history</source>
+        <target>ປະຫວັດຂອງເຈົ້າແມ່ນປະຫວັດ</target>
         <note>Title for the third  panel 'History' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description">
@@ -58,6 +59,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description">
         <source>Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.</source>
+        <target>ນຳການທ່ອງເວັບແບບສ່ວນຕົວໄປສູ້ລະດັບຖັດໄປ ປິດກັ້ນໂຄສະນາແລະເນື້ອຫາອື່ນໆ ທີ່ສາມາດຕິດຕາມເຈົ້າລະຫວ່າງໄຊ໌ແລະຫລຸດເວລາໃນການໂຫລດຫນ້າ</target>
         <note>Description for the 'Welcome' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Title">
