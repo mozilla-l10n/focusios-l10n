@@ -23,6 +23,7 @@
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription">
         <source>This lets you save and upload photos.</source>
+        <target>ສື່ງນີ້ຊ່ວຍໃຫ້ທ່ານບັນທືກ ແລະ ອັບໂຫລດຮູບພາບ</target>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription">
         <source>This lets you save and upload photos.</source>
@@ -46,6 +47,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description">
         <source>Searching for something different? Choose a different search engine.</source>
+        <target>ກຳລັງຄົ້ນຫາຢ່າງອື່ນ? ເລືອກເຄື່ອງມືຄົ້ນຫາອື່ນ</target>
         <note>Description for the 'Favorite Search Engine' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Title">
