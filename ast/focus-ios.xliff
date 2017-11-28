@@ -48,6 +48,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Next.Button">
         <source>Next</source>
+        <target>Siguiente</target>
         <note>Button to go to the next card in Focus onboarding.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description">
@@ -62,6 +63,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Skip.Button">
         <source>Skip</source>
+        <target>Saltar</target>
         <note>Button to skip onboarding in Focus</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description">
@@ -153,38 +155,47 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrl">
         <source>Add Custom URL</source>
+        <target>Amestar URL personalizada</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlError">
         <source>Double-check the URL you entered.</source>
+        <target>Volvi comprobar la URL qu'introduxesti.</target>
         <note>Label for error state when entering an invalid URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlExample">
         <source>Example: example.com</source>
+        <target>Exemplu: exemplu.com</target>
         <note>A label displaying an example URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlPlaceholder">
         <source>Paste or enter URL</source>
+        <target>Apega o introduz la URL</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlWithPlus">
         <source>+ Add Custom URL</source>
+        <target>+ Amestar URL personalizada</target>
         <note>Label for button to add a custom URL with the + prefix</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customDescriptoin">
         <source>Add and manage custom autocomplete URLs.</source>
+        <target>Amiesta o xestiona URLs personalizaes d'autocompletáu.</target>
         <note>Description for adding and managing custom autocomplete URLs</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customLabel">
         <source>CUSTOM URLs</source>
+        <target>URLs PERSONALIZAES</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customTitle">
         <source>CUSTOM URL LIST</source>
+        <target>LLISTÁU D'URLs PERSONALIZAES</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customUrlAdded">
         <source>New Custom URL added.</source>
+        <target>Amestóse una URL nueva personalizada.</target>
         <note>Label for toast alerting a custom URL has been added</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin">
@@ -243,14 +254,17 @@
       </trans-unit>
       <trans-unit id="Cancel">
         <source>Cancel</source>
+        <target>Encaboxar</target>
         <note>Label on button to cancel edits</note>
       </trans-unit>
       <trans-unit id="Done">
         <source>Done</source>
+        <target>Fecho</target>
         <note>Label on button to complete edits</note>
       </trans-unit>
       <trans-unit id="Edit">
         <source>Edit</source>
+        <target>Editar</target>
         <note>Label on button to allow edits</note>
       </trans-unit>
       <trans-unit id="Error.tryAgainButton">
@@ -314,6 +328,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel">
         <source>OK, Got It!</source>
+        <target>¡Val, entendílo!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
@@ -461,6 +476,7 @@
       </trans-unit>
       <trans-unit id="Settings.searchLabel">
         <source>Search Engine</source>
+        <target>Motor de gueta</target>
         <note>Label for the search engine in the search screen</note>
       </trans-unit>
       <trans-unit id="Settings.searchSection">
@@ -473,6 +489,7 @@
       </trans-unit>
       <trans-unit id="Settings.searchTitle2">
         <source>SEARCH</source>
+        <target>GUETA</target>
         <note>Title for the search selection screen</note>
       </trans-unit>
       <trans-unit id="Settings.sectionIntegration">
@@ -662,6 +679,7 @@
       </trans-unit>
       <trans-unit id="settings.Search.SearchTemplateExample">
         <source>Example: searchengineexample.com/search/?q=%s</source>
+        <target>Exemplu: motordegueta.com/search/?q=%s</target>
         <note>Text displayed as an example of the template to add a search engine.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
