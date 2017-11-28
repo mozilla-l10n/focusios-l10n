@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="ar">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
     </header>
     <body>
       <trans-unit id="CFBundleName">
@@ -33,7 +33,7 @@
   </file>
   <file original="Blockzilla/Intro.strings" source-language="en" datatype="plaintext" target-language="ar">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
     </header>
     <body>
       <trans-unit id="Intro.Slides.History.Description">
@@ -46,6 +46,10 @@
         <target>تأريخك تاريخ</target>
         <note>Title for the third  panel 'History' in the First Run tour.</note>
       </trans-unit>
+      <trans-unit id="Intro.Slides.Next.Button">
+        <source>Next</source>
+        <note>Button to go to the next card in Focus onboarding.</note>
+      </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description">
         <source>Searching for something different? Choose a different search engine.</source>
         <target>أتبحث عن شيء مختلف؟ اختر محرّك بحث آخر.</target>
@@ -57,8 +61,7 @@
         <note>Title for the second  panel 'Search' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Skip.Button">
-        <source>SKIP</source>
-        <target>تخطَّ</target>
+        <source>Skip</source>
         <note>Button to skip onboarding in Focus</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description">
@@ -75,7 +78,7 @@
   </file>
   <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="ar">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
     </header>
     <body>
       <trans-unit id="About.learnMoreButton">
@@ -148,6 +151,66 @@
         <target>يعطيك %@ الدفة.</target>
         <note>Label on About screen</note>
       </trans-unit>
+      <trans-unit id="Autocomplete.addCustomUrl">
+        <source>Add Custom URL</source>
+        <note>Label for button to add a custom URL</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.addCustomUrlError">
+        <source>Double-check the URL you entered.</source>
+        <note>Label for error state when entering an invalid URL</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.addCustomUrlExample">
+        <source>Example: example.com</source>
+        <note>A label displaying an example URL</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.addCustomUrlPlaceholder">
+        <source>Paste or enter URL</source>
+        <note>Label for button to add a custom URL</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.addCustomUrlWithPlus">
+        <source>+ Add Custom URL</source>
+        <note>Label for button to add a custom URL with the + prefix</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.customDescriptoin">
+        <source>Add and manage custom autocomplete URLs.</source>
+        <note>Description for adding and managing custom autocomplete URLs</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.customLabel">
+        <source>CUSTOM URLs</source>
+        <note>Label for button taking you to your custom Autocomplete URL list</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.customTitle">
+        <source>CUSTOM URL LIST</source>
+        <note>Title for the default URL list section</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.customUrlAdded">
+        <source>New Custom URL added.</source>
+        <note>Label for toast alerting a custom URL has been added</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.defaultDescriptoin">
+        <source>Enable to have %@ autocomplete over 450 popular URLs in the address bar.</source>
+        <note>Description for enabling or disabling the default list. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.defaultLabel">
+        <source>Autocomplete</source>
+        <note>Label for enabling or disabling autocomplete</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.defaultTitle">
+        <source>DEFAULT URL LIST</source>
+        <note>Title for the default URL list section</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.disabled">
+        <source>Disabled</source>
+        <note>label describing URL Autocomplete as disabled</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.emptyState">
+        <source>No Custom URLs to display</source>
+        <note>Label for button to add a custom URL</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.enabled">
+        <source>Enabled</source>
+        <note>label describing URL Autocomplete as enabled</note>
+      </trans-unit>
       <trans-unit id="Browser.backLabel">
         <source>Back</source>
         <target>السابق</target>
@@ -177,6 +240,18 @@
         <source>Stop</source>
         <target>أوقف</target>
         <note>Accessibility label for the stop button</note>
+      </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <note>Label on button to cancel edits</note>
+      </trans-unit>
+      <trans-unit id="Done">
+        <source>Done</source>
+        <note>Label on button to complete edits</note>
+      </trans-unit>
+      <trans-unit id="Edit">
+        <source>Edit</source>
+        <note>Label on button to allow edits</note>
       </trans-unit>
       <trans-unit id="Error.tryAgainButton">
         <source>Try again</source>
@@ -236,6 +311,9 @@
       <trans-unit id="FirstRun.buttonLabel">
         <source>OK, GOT IT!</source>
         <target>شكرا، فهمت.</target>
+      </trans-unit>
+      <trans-unit id="FirstRun.lastSlide.buttonLabel">
+        <source>OK, Got It!</source>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
@@ -303,6 +381,54 @@
         <target>افتح تطبيق الإعدادات</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
+      <trans-unit id="Save">
+        <source>Save</source>
+        <note>Save button label</note>
+      </trans-unit>
+      <trans-unit id="Settings.Search.AddSearchEngineButton">
+        <source>Add Another Search Engine</source>
+        <note>Text for button to add another search engine in settings</note>
+      </trans-unit>
+      <trans-unit id="Settings.Search.AddSearchEngineButtonWithPlus">
+        <source>+ Add Another Search Engine</source>
+        <note>Text for button to add another search engine in settings with the + prefix</note>
+      </trans-unit>
+      <trans-unit id="Settings.Search.AddSearchEngineTitle">
+        <source>Add Search Engine</source>
+        <note>Title on add search engine settings screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.Search.InstalledSearchEngines">
+        <source>INSTALLED SEARCH ENGINES</source>
+        <note>Header for rows of installed search engines</note>
+      </trans-unit>
+      <trans-unit id="Settings.Search.NameToDisplay">
+        <source>Name to display</source>
+        <note>Label for input field for the name of the search engine to be added</note>
+      </trans-unit>
+      <trans-unit id="Settings.Search.NewSearchEngineAdded">
+        <source>New Search Engine Added.</source>
+        <note>Toast displayed after adding a search engine</note>
+      </trans-unit>
+      <trans-unit id="Settings.Search.RestoreEngine">
+        <source>Restore Default Search Engines</source>
+        <note>Label for button to bring deleted default engines back</note>
+      </trans-unit>
+      <trans-unit id="Settings.Search.SearchEngineName">
+        <source>Search engine name</source>
+        <note>Placeholder text for input of new search engine name</note>
+      </trans-unit>
+      <trans-unit id="Settings.Search.SearchTemplate">
+        <source>Search string to use</source>
+        <note>Label for input of search engine template</note>
+      </trans-unit>
+      <trans-unit id="Settings.Search.SearchTemplatePlaceholder">
+        <source>Paste or enter search string. If necessary, replace search term with: %s.</source>
+        <note>Placeholder text for input of new search engine template</note>
+      </trans-unit>
+      <trans-unit id="Settings.autocompleteSection">
+        <source>URL Autocomplete</source>
+        <note>Title for the URL Autocomplete row</note>
+      </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
         <source>Blocking other content trackers may break some videos and Web pages.</source>
         <target>حجب متعقبات المحتوى الأخرى قد يعطل بعض الڤديو و صفحات الوب.</target>
@@ -333,15 +459,21 @@
         <target>الإعدادات</target>
         <note>Title for settings screen</note>
       </trans-unit>
+      <trans-unit id="Settings.searchLabel">
+        <source>Search Engine</source>
+        <note>Label for the search engine in the search screen</note>
+      </trans-unit>
       <trans-unit id="Settings.searchSection">
         <source>SEARCH ENGINE</source>
         <target>محرك البحث</target>
-        <note>Title for the search engine row</note>
       </trans-unit>
       <trans-unit id="Settings.searchTitle">
         <source>Search Engine</source>
         <target>محرك البحث</target>
-        <note>Title for the search engine selection screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.searchTitle2">
+        <source>SEARCH</source>
+        <note>Title for the search selection screen</note>
       </trans-unit>
       <trans-unit id="Settings.sectionIntegration">
         <source>INTEGRATION</source>
@@ -528,6 +660,10 @@
         <target>يريد ”%@“ الوصول إلى صورك</target>
         <note>Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
+      <trans-unit id="settings.Search.SearchTemplateExample">
+        <source>Example: searchengineexample.com/search/?q=%s</source>
+        <note>Text displayed as an example of the template to add a search engine.</note>
+      </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
         <source>Ad trackers</source>
         <target>متعقبات الإعلانات</target>
@@ -572,7 +708,7 @@
   </file>
   <file original="ContentBlocker/Info.plist" source-language="en" datatype="plaintext" target-language="ar">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
@@ -584,14 +720,14 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>3.11</source>
-        <target>3.11</target>
+        <source>4.0</source>
+        <target>4.0</target>
       </trans-unit>
     </body>
   </file>
   <file original="OpenInFocus/Info.plist" source-language="en" datatype="plaintext" target-language="ar">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
