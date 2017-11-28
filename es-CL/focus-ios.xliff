@@ -48,6 +48,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Next.Button">
         <source>Next</source>
+        <target>Siguiente</target>
         <note>Button to go to the next card in Focus onboarding.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description">
@@ -62,6 +63,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Skip.Button">
         <source>Skip</source>
+        <target>Saltar</target>
         <note>Button to skip onboarding in Focus</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description">
@@ -153,62 +155,77 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrl">
         <source>Add Custom URL</source>
+        <target>Añadir URL personalizada</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlError">
         <source>Double-check the URL you entered.</source>
+        <target>Verifica la URL que ingresaste.</target>
         <note>Label for error state when entering an invalid URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlExample">
         <source>Example: example.com</source>
+        <target>Ejemplo: example.com</target>
         <note>A label displaying an example URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlPlaceholder">
         <source>Paste or enter URL</source>
+        <target>Pega o ingresa una URL</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlWithPlus">
         <source>+ Add Custom URL</source>
+        <target>+ Añadir URL personalizada</target>
         <note>Label for button to add a custom URL with the + prefix</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customDescriptoin">
         <source>Add and manage custom autocomplete URLs.</source>
+        <target>Añadir y gestionar autocompletado de URL personalizado.</target>
         <note>Description for adding and managing custom autocomplete URLs</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customLabel">
         <source>CUSTOM URLs</source>
+        <target>URLS PERSONALIZADAS</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customTitle">
         <source>CUSTOM URL LIST</source>
+        <target>LISTA DE URL PERSONALIZADA</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customUrlAdded">
         <source>New Custom URL added.</source>
+        <target>Nueva URL personalizada añadida.</target>
         <note>Label for toast alerting a custom URL has been added</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin">
         <source>Enable to have %@ autocomplete over 450 popular URLs in the address bar.</source>
+        <target>Activa para que %@  autocomplete más de 450 URLs populares en la barra de direcciones.</target>
         <note>Description for enabling or disabling the default list. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultLabel">
         <source>Autocomplete</source>
+        <target>Autocompletar</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultTitle">
         <source>DEFAULT URL LIST</source>
+        <target>LISTA DE URL PREDETERMINADA</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
       <trans-unit id="Autocomplete.disabled">
         <source>Disabled</source>
+        <target>Desactivado</target>
         <note>label describing URL Autocomplete as disabled</note>
       </trans-unit>
       <trans-unit id="Autocomplete.emptyState">
         <source>No Custom URLs to display</source>
+        <target>No hay URLs personalizadas para mostrar</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.enabled">
         <source>Enabled</source>
+        <target>Activado</target>
         <note>label describing URL Autocomplete as enabled</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel">
@@ -243,14 +260,17 @@
       </trans-unit>
       <trans-unit id="Cancel">
         <source>Cancel</source>
+        <target>Cancelar</target>
         <note>Label on button to cancel edits</note>
       </trans-unit>
       <trans-unit id="Done">
         <source>Done</source>
+        <target>Hecho</target>
         <note>Label on button to complete edits</note>
       </trans-unit>
       <trans-unit id="Edit">
         <source>Edit</source>
+        <target>Editar</target>
         <note>Label on button to allow edits</note>
       </trans-unit>
       <trans-unit id="Error.tryAgainButton">
@@ -314,6 +334,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel">
         <source>OK, Got It!</source>
+        <target>Ok, me quedó clarito</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
@@ -383,46 +404,57 @@
       </trans-unit>
       <trans-unit id="Save">
         <source>Save</source>
+        <target>Guardar</target>
         <note>Save button label</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton">
         <source>Add Another Search Engine</source>
+        <target>Añadir otro motor de búsqueda</target>
         <note>Text for button to add another search engine in settings</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButtonWithPlus">
         <source>+ Add Another Search Engine</source>
+        <target>+ Añadir otro motor de búsqueda</target>
         <note>Text for button to add another search engine in settings with the + prefix</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineTitle">
         <source>Add Search Engine</source>
+        <target>Añadir motor de búsqueda</target>
         <note>Title on add search engine settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.Search.InstalledSearchEngines">
         <source>INSTALLED SEARCH ENGINES</source>
+        <target>MOTORES DE BÚSQUEDA INSTALADOS</target>
         <note>Header for rows of installed search engines</note>
       </trans-unit>
       <trans-unit id="Settings.Search.NameToDisplay">
         <source>Name to display</source>
+        <target>Nombre para mostrar</target>
         <note>Label for input field for the name of the search engine to be added</note>
       </trans-unit>
       <trans-unit id="Settings.Search.NewSearchEngineAdded">
         <source>New Search Engine Added.</source>
+        <target>Nuevo motor de búsqueda añadido.</target>
         <note>Toast displayed after adding a search engine</note>
       </trans-unit>
       <trans-unit id="Settings.Search.RestoreEngine">
         <source>Restore Default Search Engines</source>
+        <target>Restaurar motores de búsqueda predeterminados</target>
         <note>Label for button to bring deleted default engines back</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchEngineName">
         <source>Search engine name</source>
+        <target>Nombre del motor de búsqueda</target>
         <note>Placeholder text for input of new search engine name</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplate">
         <source>Search string to use</source>
+        <target>Cadena de búsqueda a usar</target>
         <note>Label for input of search engine template</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplatePlaceholder">
         <source>Paste or enter search string. If necessary, replace search term with: %s.</source>
+        <target>Pega o ingresa la cadena de búsqueda. De ser necesario, reemplaza el término de búsqueda con: %s.</target>
         <note>Placeholder text for input of new search engine template</note>
       </trans-unit>
       <trans-unit id="Settings.autocompleteSection">
