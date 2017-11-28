@@ -160,7 +160,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlError">
         <source>Double-check the URL you entered.</source>
-        <target>Rikontrollojeni URL që dhatë.</target>
+        <target>Rikontrollojeni URL-në që dhatë.</target>
         <note>Label for error state when entering an invalid URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlExample">
@@ -180,7 +180,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customDescriptoin">
         <source>Add and manage custom autocomplete URLs.</source>
-        <target>Shtoni dhe administroni URLra vetjake vetëplotësimeshj.</target>
+        <target>Shtoni dhe administroni URLra vetjake vetëplotësimesh.</target>
         <note>Description for adding and managing custom autocomplete URLs</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customLabel">
@@ -195,7 +195,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customUrlAdded">
         <source>New Custom URL added.</source>
-        <target>U shtua ULR Vetjake e re.</target>
+        <target>U shtua URL Vetjake e re.</target>
         <note>Label for toast alerting a custom URL has been added</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin">
