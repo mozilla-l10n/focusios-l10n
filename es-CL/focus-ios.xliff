@@ -180,7 +180,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customDescriptoin">
         <source>Add and manage custom autocomplete URLs.</source>
-        <target>Añadir y gestionar autocompletado de URL personalizado.</target>
+        <target>Añadir y gestionar autocompletado de URL personalizadas.</target>
         <note>Description for adding and managing custom autocomplete URLs</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customLabel">
@@ -200,7 +200,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin">
         <source>Enable to have %@ autocomplete over 450 popular URLs in the address bar.</source>
-        <target>Activa para que %@  autocomplete más de 450 URLs populares en la barra de direcciones.</target>
+        <target>Actívalo para que %@ autocomplete más de 450 URLs populares en la barra de direcciones.</target>
         <note>Description for enabling or disabling the default list. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultLabel">
@@ -459,6 +459,7 @@
       </trans-unit>
       <trans-unit id="Settings.autocompleteSection">
         <source>URL Autocomplete</source>
+        <target>Autocompletar URL</target>
         <note>Title for the URL Autocomplete row</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
@@ -493,6 +494,7 @@
       </trans-unit>
       <trans-unit id="Settings.searchLabel">
         <source>Search Engine</source>
+        <target>Motor de búsqueda</target>
         <note>Label for the search engine in the search screen</note>
       </trans-unit>
       <trans-unit id="Settings.searchSection">
@@ -505,6 +507,7 @@
       </trans-unit>
       <trans-unit id="Settings.searchTitle2">
         <source>SEARCH</source>
+        <target>BÚSQUEDA</target>
         <note>Title for the search selection screen</note>
       </trans-unit>
       <trans-unit id="Settings.sectionIntegration">
@@ -694,6 +697,7 @@
       </trans-unit>
       <trans-unit id="settings.Search.SearchTemplateExample">
         <source>Example: searchengineexample.com/search/?q=%s</source>
+        <target>Ejemplo: searchengineexample.com/search/?q=%s</target>
         <note>Text displayed as an example of the template to add a search engine.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
