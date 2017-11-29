@@ -11,7 +11,7 @@
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
-        <target>Isto lhe permite tirar e enviar fotos.</target>
+        <target>Isso permite tirar fotos e enviá-las.</target>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
