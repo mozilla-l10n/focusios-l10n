@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="es-ES">
+  <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="es">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
     </header>
@@ -31,7 +31,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Blockzilla/Intro.strings" source-language="en" datatype="plaintext" target-language="es-ES">
+  <file original="Blockzilla/Intro.strings" source-language="en" datatype="plaintext" target-language="es">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
     </header>
@@ -78,7 +78,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="es-ES">
+  <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="es">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
     </header>
@@ -184,8 +184,7 @@
         <note>Description for adding and managing custom autocomplete URLs</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customLabel">
-        <source>CUSTOM URLs</source>
-        <target>URLs personalizadas</target>
+        <source>Custom URLs</source>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customTitle">
@@ -327,10 +326,6 @@
         <source>Open Maps</source>
         <target>Abrir Mapas</target>
         <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
-      </trans-unit>
-      <trans-unit id="FirstRun.buttonLabel">
-        <source>OK, GOT IT!</source>
-        <target>¡ENTENDIDO!</target>
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel">
         <source>OK, Got It!</source>
@@ -496,14 +491,6 @@
         <source>Search Engine</source>
         <target>Motor de búsqueda</target>
         <note>Label for the search engine in the search screen</note>
-      </trans-unit>
-      <trans-unit id="Settings.searchSection">
-        <source>SEARCH ENGINE</source>
-        <target>BUSCADOR</target>
-      </trans-unit>
-      <trans-unit id="Settings.searchTitle">
-        <source>Search Engine</source>
-        <target>Buscador</target>
       </trans-unit>
       <trans-unit id="Settings.searchTitle2">
         <source>SEARCH</source>
@@ -720,6 +707,10 @@
         <target>Protección de rastreo deshabilitada</target>
         <note>text showing the tracking protection is disabled.</note>
       </trans-unit>
+      <trans-unit id="trackingProtection.learnMore">
+        <source>Learn More</source>
+        <note>Text for the button to learn more about Tracking Protection.</note>
+      </trans-unit>
       <trans-unit id="trackingProtection.socialTrackerLabel">
         <source>Social trackers</source>
         <target>Rastreadores sociales</target>
@@ -742,7 +733,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="ContentBlocker/Info.plist" source-language="en" datatype="plaintext" target-language="es-ES">
+  <file original="ContentBlocker/Info.plist" source-language="en" datatype="plaintext" target-language="es">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
     </header>
@@ -761,7 +752,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="OpenInFocus/Info.plist" source-language="en" datatype="plaintext" target-language="es-ES">
+  <file original="OpenInFocus/Info.plist" source-language="en" datatype="plaintext" target-language="es">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
     </header>

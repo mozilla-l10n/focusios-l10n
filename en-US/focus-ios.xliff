@@ -184,8 +184,8 @@
         <note>Description for adding and managing custom autocomplete URLs</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customLabel">
-        <source>CUSTOM URLs</source>
-        <target>CUSTOM URLs</target>
+        <source>Custom URLs</source>
+        <target>Custom URLs</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customTitle">
@@ -327,10 +327,6 @@
         <source>Open Maps</source>
         <target>Open Maps</target>
         <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
-      </trans-unit>
-      <trans-unit id="FirstRun.buttonLabel">
-        <source>OK, GOT IT!</source>
-        <target>OK, GOT IT!</target>
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel">
         <source>OK, Got It!</source>
@@ -496,14 +492,6 @@
         <source>Search Engine</source>
         <target>Search Engine</target>
         <note>Label for the search engine in the search screen</note>
-      </trans-unit>
-      <trans-unit id="Settings.searchSection">
-        <source>SEARCH ENGINE</source>
-        <target>SEARCH ENGINE</target>
-      </trans-unit>
-      <trans-unit id="Settings.searchTitle">
-        <source>Search Engine</source>
-        <target>Search Engine</target>
       </trans-unit>
       <trans-unit id="Settings.searchTitle2">
         <source>SEARCH</source>
@@ -719,6 +707,11 @@
         <source>Tracking Protection off</source>
         <target>Tracking Protection off</target>
         <note>text showing the tracking protection is disabled.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.learnMore">
+        <source>Learn More</source>
+        <target>Learn More</target>
+        <note>Text for the button to learn more about Tracking Protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.socialTrackerLabel">
         <source>Social trackers</source>

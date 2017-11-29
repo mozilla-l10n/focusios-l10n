@@ -169,7 +169,7 @@
         <note>Description for adding and managing custom autocomplete URLs</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customLabel">
-        <source>CUSTOM URLs</source>
+        <source>Custom URLs</source>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customTitle">
@@ -300,10 +300,6 @@
         <source>Open Maps</source>
         <target>Buka Peta</target>
         <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
-      </trans-unit>
-      <trans-unit id="FirstRun.buttonLabel">
-        <source>OK, GOT IT!</source>
-        <target>Paham!</target>
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel">
         <source>OK, Got It!</source>
@@ -455,14 +451,6 @@
       <trans-unit id="Settings.searchLabel">
         <source>Search Engine</source>
         <note>Label for the search engine in the search screen</note>
-      </trans-unit>
-      <trans-unit id="Settings.searchSection">
-        <source>SEARCH ENGINE</source>
-        <target>MESIN PENCARI</target>
-      </trans-unit>
-      <trans-unit id="Settings.searchTitle">
-        <source>Search Engine</source>
-        <target>Mesin Pencari</target>
       </trans-unit>
       <trans-unit id="Settings.searchTitle2">
         <source>SEARCH</source>
@@ -675,6 +663,10 @@
         <source>Tracking Protection off</source>
         <target>Perlindungan Pelacakan nonaktif</target>
         <note>text showing the tracking protection is disabled.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.learnMore">
+        <source>Learn More</source>
+        <note>Text for the button to learn more about Tracking Protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.socialTrackerLabel">
         <source>Social trackers</source>

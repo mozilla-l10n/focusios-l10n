@@ -174,7 +174,7 @@
         <note>Description for adding and managing custom autocomplete URLs</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customLabel">
-        <source>CUSTOM URLs</source>
+        <source>Custom URLs</source>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customTitle">
@@ -305,10 +305,6 @@
         <source>Open Maps</source>
         <target>Fosgail Maps</target>
         <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
-      </trans-unit>
-      <trans-unit id="FirstRun.buttonLabel">
-        <source>OK, GOT IT!</source>
-        <target>Tha mi agaibh!</target>
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel">
         <source>OK, Got It!</source>
@@ -460,14 +456,6 @@
       <trans-unit id="Settings.searchLabel">
         <source>Search Engine</source>
         <note>Label for the search engine in the search screen</note>
-      </trans-unit>
-      <trans-unit id="Settings.searchSection">
-        <source>SEARCH ENGINE</source>
-        <target>EINNSEAN-LUIRG</target>
-      </trans-unit>
-      <trans-unit id="Settings.searchTitle">
-        <source>Search Engine</source>
-        <target>Einnsean-luirg</target>
       </trans-unit>
       <trans-unit id="Settings.searchTitle2">
         <source>SEARCH</source>
@@ -681,6 +669,10 @@
         <source>Tracking Protection off</source>
         <target>Tha an dìon o thracadh dheth</target>
         <note>text showing the tracking protection is disabled.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.learnMore">
+        <source>Learn More</source>
+        <note>Text for the button to learn more about Tracking Protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.socialTrackerLabel">
         <source>Social trackers</source>
