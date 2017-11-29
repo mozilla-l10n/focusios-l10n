@@ -48,6 +48,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Next.Button">
         <source>Next</source>
+        <target>Γer zdat</target>
         <note>Button to go to the next card in Focus onboarding.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description">
@@ -62,6 +63,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Skip.Button">
         <source>Skip</source>
+        <target>Suref</target>
         <note>Button to skip onboarding in Focus</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description">
