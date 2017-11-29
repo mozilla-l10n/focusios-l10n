@@ -190,14 +190,17 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customTitle">
         <source>CUSTOM URL LIST</source>
+        <target>自訂網址清單</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customUrlAdded">
         <source>New Custom URL added.</source>
+        <target>已新增自訂網址。</target>
         <note>Label for toast alerting a custom URL has been added</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin">
         <source>Enable to have %@ autocomplete over 450 popular URLs in the address bar.</source>
+        <target>開啟後，即可在 %@ 網址列自動完成超過 450 組熱門網址。</target>
         <note>Description for enabling or disabling the default list. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultLabel">
@@ -207,18 +210,22 @@
       </trans-unit>
       <trans-unit id="Autocomplete.defaultTitle">
         <source>DEFAULT URL LIST</source>
+        <target>預設網址清單</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
       <trans-unit id="Autocomplete.disabled">
         <source>Disabled</source>
+        <target>已停用</target>
         <note>label describing URL Autocomplete as disabled</note>
       </trans-unit>
       <trans-unit id="Autocomplete.emptyState">
         <source>No Custom URLs to display</source>
+        <target>沒有可顯示的自訂網址</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.enabled">
         <source>Enabled</source>
+        <target>已啟用</target>
         <note>label describing URL Autocomplete as enabled</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel">
@@ -253,14 +260,17 @@
       </trans-unit>
       <trans-unit id="Cancel">
         <source>Cancel</source>
+        <target>取消</target>
         <note>Label on button to cancel edits</note>
       </trans-unit>
       <trans-unit id="Done">
         <source>Done</source>
+        <target>完成</target>
         <note>Label on button to complete edits</note>
       </trans-unit>
       <trans-unit id="Edit">
         <source>Edit</source>
+        <target>編輯</target>
         <note>Label on button to allow edits</note>
       </trans-unit>
       <trans-unit id="Error.tryAgainButton">
@@ -324,6 +334,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel">
         <source>OK, Got It!</source>
+        <target>好，知道了！</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
@@ -393,10 +404,12 @@
       </trans-unit>
       <trans-unit id="Save">
         <source>Save</source>
+        <target>儲存</target>
         <note>Save button label</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton">
         <source>Add Another Search Engine</source>
+        <target>新增其他搜尋引擎</target>
         <note>Text for button to add another search engine in settings</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButtonWithPlus">
