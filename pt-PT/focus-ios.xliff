@@ -537,7 +537,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAdsDescription">
         <source>Some ads track site visits, even if you don’t click the ads</source>
-        <target>Alguns anúncios monitorização visitas a sites, mesmo que não clique nos anúncios</target>
+        <target>Alguns anúncios monitorizam as visitas a sites, mesmo que não clique nos anúncios</target>
         <note>Description for 'Block ad Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
@@ -572,7 +572,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocialDescription">
         <source>Embedded on sites to track your visits and to display functionality like share buttons</source>
-        <target>Embutidos em sites para monitorizar as suas visitas e para mostrar funcionalidades como botões de partilha</target>
+        <target>Incorporados em sites para monitorizar as suas visitas e para mostrar funcionalidades como botões de partilha</target>
         <note>Description for 'Block social Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
