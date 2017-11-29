@@ -185,38 +185,47 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customLabel">
         <source>Custom URLs</source>
+        <target>Vlastné URL adresy</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customTitle">
         <source>CUSTOM URL LIST</source>
+        <target>ZOZNAM VLASTNÝCH URL ADRIES</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customUrlAdded">
         <source>New Custom URL added.</source>
+        <target>Bola pridaná nová vlastná URL adresa.</target>
         <note>Label for toast alerting a custom URL has been added</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin">
         <source>Enable to have %@ autocomplete over 450 popular URLs in the address bar.</source>
+        <target>Povolením tejto možnosti umožníte aplikácii %@ automaticky dokončovať viac než 450 populárnych URL adries.</target>
         <note>Description for enabling or disabling the default list. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultLabel">
         <source>Autocomplete</source>
+        <target>Automatické dokončovanie</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultTitle">
         <source>DEFAULT URL LIST</source>
+        <target>PREDVOLENÝ ZOZNAM URL ADRIES</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
       <trans-unit id="Autocomplete.disabled">
         <source>Disabled</source>
+        <target>Zakázané</target>
         <note>label describing URL Autocomplete as disabled</note>
       </trans-unit>
       <trans-unit id="Autocomplete.emptyState">
         <source>No Custom URLs to display</source>
+        <target>Žiadne vlastné URL adresy na zobrazenie</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.enabled">
         <source>Enabled</source>
+        <target>Povolené</target>
         <note>label describing URL Autocomplete as enabled</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel">
@@ -251,14 +260,17 @@
       </trans-unit>
       <trans-unit id="Cancel">
         <source>Cancel</source>
+        <target>Zrušiť</target>
         <note>Label on button to cancel edits</note>
       </trans-unit>
       <trans-unit id="Done">
         <source>Done</source>
+        <target>Hotovo</target>
         <note>Label on button to complete edits</note>
       </trans-unit>
       <trans-unit id="Edit">
         <source>Edit</source>
+        <target>Upraviť</target>
         <note>Label on button to allow edits</note>
       </trans-unit>
       <trans-unit id="Error.tryAgainButton">
@@ -393,6 +405,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton">
         <source>Add Another Search Engine</source>
+        <target>Pridať ďalší vyhľadávací modul</target>
         <note>Text for button to add another search engine in settings</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButtonWithPlus">
