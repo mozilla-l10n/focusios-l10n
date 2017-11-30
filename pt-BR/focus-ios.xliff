@@ -168,10 +168,14 @@
         <target>Exemplo: exemplo.com</target>
         <note>A label displaying an example URL</note>
       </trans-unit>
+      <trans-unit id="Autocomplete.addCustomUrlLabel">
+        <source>URL to add</source>
+        <note>Label for the input to add a custom URL</note>
+      </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlPlaceholder">
         <source>Paste or enter URL</source>
         <target>Cole ou digite a URL</target>
-        <note>Watermark for the input field to add a custom URL</note>
+        <note>Placeholder for the input field to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlWithPlus">
         <source>+ Add Custom URL</source>
