@@ -709,6 +709,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.learnMore">
         <source>Learn More</source>
+        <target>详细了解</target>
         <note>Text for the button to learn more about Tracking Protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.socialTrackerLabel">
