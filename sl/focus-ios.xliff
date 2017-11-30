@@ -692,6 +692,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.learnMore">
         <source>Learn More</source>
+        <target>Več o tem</target>
         <note>Text for the button to learn more about Tracking Protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.socialTrackerLabel">
