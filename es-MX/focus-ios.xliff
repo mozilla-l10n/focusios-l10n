@@ -170,6 +170,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlLabel">
         <source>URL to add</source>
+        <target>URL para agregar</target>
         <note>Label for the input to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlPlaceholder">
