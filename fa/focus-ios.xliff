@@ -63,6 +63,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Skip.Button">
         <source>Skip</source>
+        <target>پرش</target>
         <note>Button to skip onboarding in Focus</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description">
@@ -204,26 +205,32 @@
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin">
         <source>Enable to have %@ autocomplete over 450 popular URLs in the address bar.</source>
+        <target>برای داشتن تکمیل خودکار %@ برای بیش از ۴۵۰ نشانی محبوب در نوار آدرس، فعال کنید.</target>
         <note>Description for enabling or disabling the default list. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultLabel">
         <source>Autocomplete</source>
+        <target>تکمیل خودکار</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultTitle">
         <source>DEFAULT URL LIST</source>
+        <target>فهرست نشانی‌های پیش‌فرض</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
       <trans-unit id="Autocomplete.disabled">
         <source>Disabled</source>
+        <target>غیرفعال شد</target>
         <note>label describing URL Autocomplete as disabled</note>
       </trans-unit>
       <trans-unit id="Autocomplete.emptyState">
         <source>No Custom URLs to display</source>
+        <target>هیچ نشانی سفارشی برای نمایش وجود ندارد</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.enabled">
         <source>Enabled</source>
+        <target>فعال شد</target>
         <note>label describing URL Autocomplete as enabled</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel">
@@ -258,14 +265,17 @@
       </trans-unit>
       <trans-unit id="Cancel">
         <source>Cancel</source>
+        <target>لغو</target>
         <note>Label on button to cancel edits</note>
       </trans-unit>
       <trans-unit id="Done">
         <source>Done</source>
+        <target>انجام شد</target>
         <note>Label on button to complete edits</note>
       </trans-unit>
       <trans-unit id="Edit">
         <source>Edit</source>
+        <target>ویرایش</target>
         <note>Label on button to allow edits</note>
       </trans-unit>
       <trans-unit id="Error.tryAgainButton">
@@ -325,6 +335,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel">
         <source>OK, Got It!</source>
+        <target>باشه، گرفتم!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
@@ -394,50 +405,62 @@
       </trans-unit>
       <trans-unit id="Save">
         <source>Save</source>
+        <target>ذخیره</target>
         <note>Save button label</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton">
         <source>Add Another Search Engine</source>
+        <target>اضافه کردن موتور جست‌وجو دیگر</target>
         <note>Text for button to add another search engine in settings</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButtonWithPlus">
         <source>+ Add Another Search Engine</source>
+        <target>+ اضافه کردن موتور جست‌وجو دیگر</target>
         <note>Text for button to add another search engine in settings with the + prefix</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineTitle">
         <source>Add Search Engine</source>
+        <target>اضافه کردن موتور جست‌وجو</target>
         <note>Title on add search engine settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.Search.InstalledSearchEngines">
         <source>INSTALLED SEARCH ENGINES</source>
+        <target>موتورهای جست‌وجو نصب شده</target>
         <note>Header for rows of installed search engines</note>
       </trans-unit>
       <trans-unit id="Settings.Search.NameToDisplay">
         <source>Name to display</source>
+        <target>نام جهت نمایش</target>
         <note>Label for input field for the name of the search engine to be added</note>
       </trans-unit>
       <trans-unit id="Settings.Search.NewSearchEngineAdded">
         <source>New Search Engine Added.</source>
+        <target>موتور جست‌وجو جدید اضافه شد.</target>
         <note>Toast displayed after adding a search engine</note>
       </trans-unit>
       <trans-unit id="Settings.Search.RestoreEngine">
         <source>Restore Default Search Engines</source>
+        <target>بازآوری موتورهای جست‌وجو پیش‌فرض</target>
         <note>Label for button to bring deleted default engines back</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchEngineName">
         <source>Search engine name</source>
+        <target>نام موتور جست‌وجو</target>
         <note>Placeholder text for input of new search engine name</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplate">
         <source>Search string to use</source>
+        <target>رشته جست‌وجو برای اضافه کردن</target>
         <note>Label for input of search engine template</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplatePlaceholder">
         <source>Paste or enter search string. If necessary, replace search term with: %s.</source>
+        <target>جای‌گذاری یا ورود رشتهٔ جست‌وجو. در صورت لزوم، شرط جست‌وجو را با %s جایگزین کنید.</target>
         <note>Placeholder text for input of new search engine template</note>
       </trans-unit>
       <trans-unit id="Settings.autocompleteSection">
         <source>URL Autocomplete</source>
+        <target>تکمیل خودکار نشانی</target>
         <note>Title for the URL Autocomplete row</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
@@ -472,6 +495,7 @@
       </trans-unit>
       <trans-unit id="Settings.searchLabel">
         <source>Search Engine</source>
+        <target>موتور جست‌وجو</target>
         <note>Label for the search engine in the search screen</note>
       </trans-unit>
       <trans-unit id="Settings.searchTitle2">
@@ -666,6 +690,7 @@
       </trans-unit>
       <trans-unit id="settings.Search.SearchTemplateExample">
         <source>Example: searchengineexample.com/search/?q=%s</source>
+        <target>مثال: searchengineexample.com/search/?q=%s</target>
         <note>Text displayed as an example of the template to add a search engine.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
