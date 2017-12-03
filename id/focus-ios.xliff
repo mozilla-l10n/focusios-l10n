@@ -406,6 +406,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.NameToDisplay">
         <source>Name to display</source>
+        <target>Nama untuk ditampilkan</target>
         <note>Label for input field for the name of the search engine to be added</note>
       </trans-unit>
       <trans-unit id="Settings.Search.NewSearchEngineAdded">
@@ -418,6 +419,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.SearchEngineName">
         <source>Search engine name</source>
+        <target>Nama mesin pencari</target>
         <note>Placeholder text for input of new search engine name</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplate">
@@ -464,6 +466,7 @@
       </trans-unit>
       <trans-unit id="Settings.searchLabel">
         <source>Search Engine</source>
+        <target>Mesin Pencari</target>
         <note>Label for the search engine in the search screen</note>
       </trans-unit>
       <trans-unit id="Settings.searchTitle2">
@@ -680,6 +683,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.learnMore">
         <source>Learn More</source>
+        <target>Pelajari Lebih Lanjut</target>
         <note>Text for the button to learn more about Tracking Protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.socialTrackerLabel">
