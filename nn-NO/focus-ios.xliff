@@ -160,6 +160,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlError">
         <source>Double-check the URL you entered.</source>
+        <target>Dobbelsjekk nettadressa du skreiv inn.</target>
         <note>Label for error state when entering an invalid URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlExample">
@@ -169,6 +170,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlLabel">
         <source>URL to add</source>
+        <target>Nettadresse å leggje til</target>
         <note>Label for the input to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlPlaceholder">
