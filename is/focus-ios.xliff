@@ -60,6 +60,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Skip.Button">
         <source>Skip</source>
+        <target>Sleppa</target>
         <note>Button to skip onboarding in Focus</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description">
@@ -249,6 +250,7 @@
       </trans-unit>
       <trans-unit id="Done">
         <source>Done</source>
+        <target>Búið</target>
         <note>Label on button to complete edits</note>
       </trans-unit>
       <trans-unit id="Edit">
