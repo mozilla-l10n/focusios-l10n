@@ -585,6 +585,7 @@
       </trans-unit>
       <trans-unit id="URL.searchLabel">
         <source>Search for %@</source>
+        <target>%@को खोजी गर्नुहोस्</target>
         <note>Label displayed for search button when typing in the URL bar</note>
       </trans-unit>
       <trans-unit id="URL.trackersBlockedLabel">
@@ -594,6 +595,7 @@
       </trans-unit>
       <trans-unit id="actionSheet.openIn">
         <source>Open in %@</source>
+        <target>%@मा खोल्नुहोस्</target>
         <note>Title for action sheet item to open the current page in another application. Placeholder is the name of the application to open the current page.</note>
       </trans-unit>
       <trans-unit id="browserShortcutDescription.selectLocationBar">
@@ -649,6 +651,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
         <source>Ad trackers</source>
+        <target>विज्ञापन ट्रयाकरहरू</target>
         <note>Label for ad trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.analyticTrackerLabel">
@@ -657,6 +660,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.contentTrackerLabel">
         <source>Content trackers</source>
+        <target>सामग्री ट्रयाकरहरू</target>
         <note>label for content trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.disabledLabel">
