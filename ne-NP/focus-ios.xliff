@@ -70,6 +70,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Title">
         <source>Power up your privacy</source>
+        <target>आफ्नो गोपनीयताको बलियो बनाउनुहोस्</target>
         <note>Title for the first panel 'Welcome' in the First Run tour.</note>
       </trans-unit>
     </body>
@@ -425,7 +426,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.RestoreEngine">
         <source>Restore Default Search Engines</source>
-        <target>पूर्वानिर्धारीत खोज इन्जिन पुनर्स्थापना गर्नुहोस् </target>
+        <target>पूर्वानिर्धारीत खोज इन्जिन पुनर्स्थापना गर्नुहोस्</target>
         <note>Label for button to bring deleted default engines back</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchEngineName">
