@@ -38,6 +38,7 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
+        <target>உங்கள் ஒட்டுமொத்த உலாவல் அமர்வு வரலாறு, கடவுச்சொற்கள், நினைவிகளை எந்நேரத்திலும் ஒரே தட்டில் துடைக்கவும்.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title">
@@ -194,6 +195,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customTitle">
         <source>CUSTOM URL LIST</source>
+        <target>தனிப்பயன் URL பட்டியல்</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customUrlAdded">
@@ -203,6 +205,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin">
         <source>Enable to have %@ autocomplete over 450 popular URLs in the address bar.</source>
+        <target>முகவரிப்பட்டையில் 450 பிரபல URLs உடைய %@ தானியங்குநிரப்பலைச் செயற்படுத்தவும்.</target>
         <note>Description for enabling or disabling the default list. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultLabel">
@@ -222,6 +225,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.emptyState">
         <source>No Custom URLs to display</source>
+        <target>காட்ட தனிப்பயன் URLs இல்லை</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.enabled">
@@ -286,6 +290,7 @@
       </trans-unit>
       <trans-unit id="ExternalAppLink.messageTitle">
         <source>%@ wants to open another App</source>
+        <target>%@ வேறொரு செயலியில் திறக்க விரும்புகிறது</target>
         <note>Dialog title used for opening an external app from Focus. The placeholder string is the app name of either Focus or Klar.</note>
       </trans-unit>
       <trans-unit id="ExternalAppLink.openTitle">
@@ -320,6 +325,7 @@
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreTitle">
         <source>%@ wants to open the App Store.</source>
+        <target>%@ செயலி கடையைத் திறக்க விரும்புகிறது.</target>
         <note>Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openMapsButton">
@@ -679,6 +685,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
         <source>Ad trackers</source>
+        <target>விளம்பர பின்தொடரிகள்</target>
         <note>Label for ad trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.analyticTrackerLabel">
@@ -691,14 +698,17 @@
       </trans-unit>
       <trans-unit id="trackingProtection.disabledLabel">
         <source>Tracking Protection off</source>
+        <target>தடமறியல் பாதுகாப்பு அணைந்துள்ளது</target>
         <note>text showing the tracking protection is disabled.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.learnMore">
         <source>Learn More</source>
+        <target>மேலும் அறிய</target>
         <note>Text for the button to learn more about Tracking Protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.socialTrackerLabel">
         <source>Social trackers</source>
+        <target>சமூக பின்தொடரிகள்</target>
         <note>label for social trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription1">
