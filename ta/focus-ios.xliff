@@ -350,6 +350,7 @@
       </trans-unit>
       <trans-unit id="Focus.handoffSyncing">
         <source>Apple Handoff is syncing</source>
+        <target>ஆப்பிள் ஹேண்ட்ஆப் ஒத்திசைக்கிறது</target>
         <note>Title for the loading screen when the handoff of clipboard delays Focus launch. “Handoff” should not be localized, see https://support.apple.com/HT204681</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
@@ -409,10 +410,12 @@
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton">
         <source>Add Another Search Engine</source>
+        <target>+ மற்றொரு தேடு பொறியைச் சேர்</target>
         <note>Text for button to add another search engine in settings</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButtonWithPlus">
         <source>+ Add Another Search Engine</source>
+        <target>+ மற்றொரு தேடு பொறியைச் சேர்</target>
         <note>Text for button to add another search engine in settings with the + prefix</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineTitle">
@@ -422,6 +425,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.InstalledSearchEngines">
         <source>INSTALLED SEARCH ENGINES</source>
+        <target>நிறுவப்பட்ட தேடுபொறிகள்</target>
         <note>Header for rows of installed search engines</note>
       </trans-unit>
       <trans-unit id="Settings.Search.NameToDisplay">
@@ -431,6 +435,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.NewSearchEngineAdded">
         <source>New Search Engine Added.</source>
+        <target>புது தேடுபொறி சேர்க்கப்பட்டது.</target>
         <note>Toast displayed after adding a search engine</note>
       </trans-unit>
       <trans-unit id="Settings.Search.RestoreEngine">
@@ -640,6 +645,7 @@
       </trans-unit>
       <trans-unit id="contextMenu.clipboardLink">
         <source>Link you copied: %@</source>
+        <target>நீங்கள் நகலெடுத்த இணைப்பு: %@</target>
         <note>Text for the context menu when a user has a link on their clipboard.</note>
       </trans-unit>
       <trans-unit id="contextMenu.copyImageTitle">
@@ -664,10 +670,12 @@
       </trans-unit>
       <trans-unit id="externalAppLinkWithAppName.messageTitle">
         <source>%1$@ wants to open %2$@</source>
+        <target>%1$@ %2$@ செயலியில் திறக்க விரும்புகிறது</target>
         <note>Dialog title used for opening an external app from Focus. First placeholder string is the app name of either Focus or Klar and the second placeholder string specifies the app it wants to open.</note>
       </trans-unit>
       <trans-unit id="photosPermission.description">
         <source>This lets you save images to your Camera Roll</source>
+        <target>இது கருவியினுள் படத்தைச் சேமிக்க அனுமதிக்கிறது</target>
         <note>Description for dialog used for requesting a user to enable access to Photos.</note>
       </trans-unit>
       <trans-unit id="photosPermission.openSettings">
@@ -677,10 +685,12 @@
       </trans-unit>
       <trans-unit id="photosPermission.title">
         <source>“%@” Would Like to Access Your Photos</source>
+        <target>“%@” உங்கள் படங்களை அணுக விரும்புகிறது</target>
         <note>Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="settings.Search.SearchTemplateExample">
         <source>Example: searchengineexample.com/search/?q=%s</source>
+        <target>எகா: searchengineexample.com/search/?q=%s</target>
         <note>Text displayed as an example of the template to add a search engine.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
@@ -690,10 +700,12 @@
       </trans-unit>
       <trans-unit id="trackingProtection.analyticTrackerLabel">
         <source>Analytic trackers</source>
+        <target>பகுப்பாய்வு பின்தொடரிகள்</target>
         <note>label for analytic trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.contentTrackerLabel">
         <source>Content trackers</source>
+        <target>உள்ளடக்க பின்தொடரிகள்</target>
         <note>label for content trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.disabledLabel">
@@ -713,6 +725,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription1">
         <source>Disable until you close %@ or tap ERASE.</source>
+        <target>%@ உலாவியை மூடும் வரையில் அல்லது அழி என்பதைத் தட்டும் வரையில் முடக்கவும்.</target>
         <note>Description for the tracking protection toggle. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel">
@@ -722,6 +735,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.trackerDescriptionLabel">
         <source>Choose whether %@ blocks ad, analytic, social, and other trackers.</source>
+        <target>Choose whether %@ விளம்பரங்கள், பகுப்பாய்வு, சமூக, மற்றும் பிற பின்தொடரிகளைத் தடுக்கிறதா என்பதைத் தேர்ந்தெடுக்கவும்.</target>
         <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
     </body>
