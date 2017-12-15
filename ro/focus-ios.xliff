@@ -480,7 +480,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData">
         <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
-        <target>Mozilla se străduieşte să colecteze doar ceea ce avem nevoie ca să oferim și să îmbunătățim %@ pentru toată lumea.</target>
+        <target>La Mozilla noi colectăm doar strictul necesar de date pentru a crea și îmbunătăți %@ pentru toată lumea.</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.learnMore">
