@@ -101,10 +101,12 @@
       </trans-unit>
       <trans-unit id="About.privateBullet3">
         <source>Erase to delete cookies as well as search and browsing history</source>
+        <target>Cancella pro eliminar le cookies e le chronologias de recerca e de navigation</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
         <source>Use it as a private browser:</source>
+        <target>Usa lo como navigator private:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp">
@@ -124,14 +126,17 @@
       </trans-unit>
       <trans-unit id="About.safariBullet1">
         <source>Block trackers for improved privacy</source>
+        <target>Bloca le traciatores pro un melior confidentialitate</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2">
         <source>Block Web fonts to reduce page size</source>
+        <target>Bloca le discargamento de characteres web pro reducer le dimension del pagina</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
         <source>Use it as a Safari extension:</source>
+        <target>Usa lo como extension de Safari:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.screenTitle">
@@ -141,6 +146,7 @@
       </trans-unit>
       <trans-unit id="About.topLabel">
         <source>%@ puts you in control.</source>
+        <target>%@ te pone al commando.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrl">
@@ -303,18 +309,22 @@
       </trans-unit>
       <trans-unit id="ExternalLink.messageTitleWithPlaceholder">
         <source>You are now leaving %@.</source>
+        <target>Tu va exir de %@.</target>
         <note>Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreButton">
         <source>Open App Store</source>
+        <target>Aperi le magazin del applicationes</target>
         <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreTitle">
         <source>%@ wants to open the App Store.</source>
+        <target>%@ vole aperir le Magazin del applicationes.</target>
         <note>Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openMapsButton">
         <source>Open Maps</source>
+        <target>Aperi Maps</target>
         <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel">
@@ -340,6 +350,7 @@
       </trans-unit>
       <trans-unit id="Home.descriptionLabel2">
         <source>Browse. Erase. Repeat.</source>
+        <target>Naviga. Elimina. Repete.</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Open.Cancel">
@@ -349,6 +360,7 @@
       </trans-unit>
       <trans-unit id="Open.Firefox">
         <source>Firefox (Private Browsing)</source>
+        <target>Firefox (Navigation private)</target>
         <note>Label in share alert to open the URL in Firefox</note>
       </trans-unit>
       <trans-unit id="Open.More">
@@ -377,6 +389,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsOpen">
         <source>Open Settings App</source>
+        <target>Aperi le parametros</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Save">
@@ -401,6 +414,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.InstalledSearchEngines">
         <source>INSTALLED SEARCH ENGINES</source>
+        <target>MOTORES de RECERCA INSTALLATE</target>
         <note>Header for rows of installed search engines</note>
       </trans-unit>
       <trans-unit id="Settings.Search.NameToDisplay">
@@ -449,6 +463,7 @@
       </trans-unit>
       <trans-unit id="Settings.blockOtherYes">
         <source>I Understand</source>
+        <target>Io ha comprendite</target>
         <note>Button label for accepting Content blocker alert</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData">
@@ -473,6 +488,7 @@
       </trans-unit>
       <trans-unit id="Settings.searchTitle2">
         <source>SEARCH</source>
+        <target>RECERCA</target>
         <note>Title for the search selection screen</note>
       </trans-unit>
       <trans-unit id="Settings.sectionIntegration">
@@ -487,10 +503,12 @@
       </trans-unit>
       <trans-unit id="Settings.sectionPerformance">
         <source>PERFORMANCE</source>
+        <target>PERFORMANCES</target>
         <note>Section label for performance toggles</note>
       </trans-unit>
       <trans-unit id="Settings.sectionPrivacy">
         <source>PRIVACY</source>
+        <target>CONFIDENTIALITATE</target>
         <note>Section label for privacy toggles</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
@@ -560,6 +578,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox">
         <source>Get the Firefox App</source>
+        <target>Discarga le application Firefox</target>
         <note>Text for the share menu option when a user wants to open a page in Firefox but doesn’t have it installed. This string will not wrap in the interface. Instead, it will truncate. To prevent this, please keep the localized string to 18 or fewer characters. If your string runs longer than 18 characters, you can use 'Get Firefox' as the basis for your string. However, if at all possible, we’d like to signal to the user that they will be going to the App Store and installing the application from there. That is why we are using Get and App in the en-US string.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.OpenInFocus">
@@ -579,6 +598,7 @@
       </trans-unit>
       <trans-unit id="URL.eraseButtonLabel">
         <source>ERASE</source>
+        <target>ELIMINA</target>
         <note>Erase button in the URL bar</note>
       </trans-unit>
       <trans-unit id="URL.eraseMessageLabel">
@@ -663,14 +683,17 @@
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
         <source>Ad trackers</source>
+        <target>Traciatores publicitari</target>
         <note>Label for ad trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.analyticTrackerLabel">
         <source>Analytic trackers</source>
+        <target>Traciatores analytic</target>
         <note>label for analytic trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.contentTrackerLabel">
         <source>Content trackers</source>
+        <target>Traciatores de contento</target>
         <note>label for content trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.disabledLabel">
@@ -685,6 +708,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.socialTrackerLabel">
         <source>Social trackers</source>
+        <target>Traciatores social</target>
         <note>label for social trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription1">
