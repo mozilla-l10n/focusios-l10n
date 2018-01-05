@@ -340,12 +340,12 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
-        <target>Automaticky blokuje sledovací prvky, zatímco procházíte. Poté stačí klepnout pro vymazání zobrazených stránek, vyhledávání, cookies a hesel z vašeho zařízení.</target>
+        <target>Automaticky blokuje sledovací prvky, zatímco prohlížíte. Poté stačí klepnout pro vymazání zobrazených stránek, vyhledávání, cookies a hesel z vašeho zařízení.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
         <source>Browse like no one’s watching.</source>
-        <target>Procházejte, jako když se nikdo nedívá.</target>
+        <target>Prohlížejte, jako když se nikdo nedívá.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="Focus.handoffSyncing">
@@ -360,7 +360,7 @@
       </trans-unit>
       <trans-unit id="Home.descriptionLabel2">
         <source>Browse. Erase. Repeat.</source>
-        <target>Procházejte. Smažte. Opakujte.</target>
+        <target>Prohlížejte. Smažte. Opakujte.</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Open.Cancel">
@@ -615,7 +615,7 @@
       </trans-unit>
       <trans-unit id="URL.eraseMessageLabel">
         <source>Your browsing history has been erased.</source>
-        <target>Vaše historie procházení byla vymazána.</target>
+        <target>Vaše historie prohlížení byla vymazána.</target>
         <note>Message shown after pressing the Erase button</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText">
