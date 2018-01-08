@@ -208,10 +208,12 @@
       </trans-unit>
       <trans-unit id="Autocomplete.defaultLabel">
         <source>Autocomplete</source>
+        <target>ສຳເລັດແບບອັດຕະໂນມັດ</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultTitle">
         <source>DEFAULT URL LIST</source>
+        <target>ລາຍການ URL ພື້ນຖານ</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
       <trans-unit id="Autocomplete.disabled">
@@ -221,6 +223,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.emptyState">
         <source>No Custom URLs to display</source>
+        <target>ບໍ່ມີ URLs ກຳນົດເອງທີ່ຈະສະແດງຜົນ</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.enabled">
@@ -330,6 +333,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel">
         <source>OK, Got It!</source>
+        <target>ໂອເຄ, ເຂົ້າໃຈແລ້ວ!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
@@ -453,6 +457,7 @@
       </trans-unit>
       <trans-unit id="Settings.autocompleteSection">
         <source>URL Autocomplete</source>
+        <target>ການເຕີມ URL ແບບອັດຕະໂນມັດ</target>
         <note>Title for the URL Autocomplete row</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
