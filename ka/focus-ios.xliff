@@ -605,7 +605,7 @@
       </trans-unit>
       <trans-unit id="URL.contextMenu">
         <source>Paste &amp; Go</source>
-        <target>ჩასმა &amp; გადასვლა</target>
+        <target>ჩასმა და გადასვლა</target>
         <note>Text for the URL context menu when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
       <trans-unit id="URL.eraseButtonLabel">
