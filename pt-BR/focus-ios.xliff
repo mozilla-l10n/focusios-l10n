@@ -215,7 +215,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.defaultTitle">
         <source>DEFAULT URL LIST</source>
-        <target>LISTA DE URLs PREDEFINIDA</target>
+        <target>LISTA DE URLs PADRÃO</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
       <trans-unit id="Autocomplete.disabled">
@@ -440,7 +440,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.RestoreEngine">
         <source>Restore Default Search Engines</source>
-        <target>Restaurar mecanismos de pesquisa predefinidos</target>
+        <target>Restaurar os mecanismos de pesquisa padrões</target>
         <note>Label for button to bring deleted default engines back</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchEngineName">
