@@ -38,7 +38,7 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
-        <target>Clara tu integre chronologia del session de navigation, contrasignos, cookies, quando tu vole con un singule tocco.</target>
+        <target>Vacua tu integre chronologia del session de navigation, contrasignos, cookies, quando tu vole con un singule tocco.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title">
