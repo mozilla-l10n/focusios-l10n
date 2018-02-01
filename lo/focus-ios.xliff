@@ -185,6 +185,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customDescriptoin">
         <source>Add and manage custom autocomplete URLs.</source>
+        <target>ເພີ່ມ ແລະ ຈັດການ URLs ທີ່ກຳໜົດເອງເຕິມອັດຕະໂນມັດ.</target>
         <note>Description for adding and managing custom autocomplete URLs</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customLabel">
@@ -453,6 +454,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplatePlaceholder">
         <source>Paste or enter search string. If necessary, replace search term with: %s.</source>
+        <target>ວາງ ຫຼື ປ້ອນ String ການຄົ້ນຫາ ຫາກຈຳເປັນໃຫ້ແທນທີ່ຄຳຄົ້ນຫາດ້ວຍ: %s.</target>
         <note>Placeholder text for input of new search engine template</note>
       </trans-unit>
       <trans-unit id="Settings.autocompleteSection">
