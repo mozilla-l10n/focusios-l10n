@@ -69,6 +69,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Title">
         <source>Power up your privacy</source>
+        <target>మీ గోప్యతను శక్తిమంతం చేసుకోండి</target>
         <note>Title for the first panel 'Welcome' in the First Run tour.</note>
       </trans-unit>
     </body>
@@ -150,6 +151,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrl">
         <source>Add Custom URL</source>
+        <target>ఇష్టానుసారమైన URLను జోడించండి</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlError">
@@ -163,6 +165,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlLabel">
         <source>URL to add</source>
+        <target>జోడించుటకు URL</target>
         <note>Label for the input to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlPlaceholder">
@@ -171,6 +174,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlWithPlus">
         <source>+ Add Custom URL</source>
+        <target>+ఇష్టానుసారమైన URLను జోడించండి</target>
         <note>Label for button to add a custom URL with the + prefix</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customDescriptoin">
@@ -179,6 +183,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customLabel">
         <source>Custom URLs</source>
+        <target>ఇష్టానుసారం URLలు</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customTitle">
@@ -195,6 +200,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.defaultLabel">
         <source>Autocomplete</source>
+        <target>స్వయంసమాప్తి</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultTitle">
@@ -694,6 +700,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel">
         <source>Tracking Protection</source>
+        <target>ట్రాకింగ్ సంరక్షణ</target>
         <note>Text for the toggle that temporarily disables tracking protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.trackerDescriptionLabel">
