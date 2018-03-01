@@ -506,6 +506,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAdsDescription">
         <source>Some ads track site visits, even if you don’t click the ads</source>
+        <target>Ορισμένες διαφημίσεις παρακολουθούν τις επισκέψεις στον ιστότοπο, ακόμη και αν δεν κάνετε κλικ στις διαφημίσεις</target>
         <note>Description for 'Block ad Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
