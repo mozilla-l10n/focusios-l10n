@@ -167,6 +167,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlPlaceholder">
         <source>Paste or enter URL</source>
+        <target>URL چسپاں یا داخل کریں</target>
         <note>Placeholder for the input field to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlWithPlus">
@@ -394,10 +395,12 @@
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton">
         <source>Add Another Search Engine</source>
+        <target>ایک اور تلاش انجن کا اضافہ کریں</target>
         <note>Text for button to add another search engine in settings</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButtonWithPlus">
         <source>+ Add Another Search Engine</source>
+        <target>+ایک اور تلاش انجن کا اضافہ کریں</target>
         <note>Text for button to add another search engine in settings with the + prefix</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineTitle">
@@ -416,10 +419,12 @@
       </trans-unit>
       <trans-unit id="Settings.Search.NewSearchEngineAdded">
         <source>New Search Engine Added.</source>
+        <target>نیا تلاش انجن شامل کر دیا گیا۔</target>
         <note>Toast displayed after adding a search engine</note>
       </trans-unit>
       <trans-unit id="Settings.Search.RestoreEngine">
         <source>Restore Default Search Engines</source>
+        <target>طےشدہ تلاش انجن بحال کریں</target>
         <note>Label for button to bring deleted default engines back</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchEngineName">
@@ -429,6 +434,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplate">
         <source>Search string to use</source>
+        <target>استعمال کرنے کے لیئے اسٹرنگ تلاش کریں</target>
         <note>Label for input of search engine template</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplatePlaceholder">
@@ -475,6 +481,7 @@
       </trans-unit>
       <trans-unit id="Settings.searchTitle2">
         <source>SEARCH</source>
+        <target>SEARCH</target>
         <note>Title for the search selection screen</note>
       </trans-unit>
       <trans-unit id="Settings.sectionIntegration">
