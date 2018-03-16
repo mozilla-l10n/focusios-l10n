@@ -38,10 +38,12 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
+        <target>اپنے تمام برائوزنگ سیشن،سابقات، پاس ورڈ، کوکیاں کسی بھی وقت ایک دبانے سے صاف کریں۔</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title">
         <source>Your history is history</source>
+        <target>آپ کے سابقات سابقات ہیں</target>
         <note>Title for the third  panel 'History' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Next.Button">
@@ -151,6 +153,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrl">
         <source>Add Custom URL</source>
+        <target>تخصیصی URL کا اظافہ کریں</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlError">
@@ -189,6 +192,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customUrlAdded">
         <source>New Custom URL added.</source>
+        <target>نئے تخصیصی URL کا اظافہ کر دیا گیا ہے۔</target>
         <note>Label for toast alerting a custom URL has been added</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin">
@@ -439,6 +443,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplatePlaceholder">
         <source>Paste or enter search string. If necessary, replace search term with: %s.</source>
+        <target>چسپاں کر دیں یا تلاش اسٹرنگ داخل کریں ۔ اگر ضروری ہو تو، تلاش کی اصطلاح کے ساتھ بدل دیں %s۔</target>
         <note>Placeholder text for input of new search engine template</note>
       </trans-unit>
       <trans-unit id="Settings.autocompleteSection">
