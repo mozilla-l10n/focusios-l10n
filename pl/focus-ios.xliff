@@ -1,602 +1,732 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<xliff version="1.2"
-       xmlns="urn:oasis:names:tc:xliff:document:1.2"
-       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-       xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
- <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="pl">
-  <header>
-   <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
-  </header>
-  <body>
-   <trans-unit id="CFBundleName">
-    <source>$(PRODUCT_NAME)</source>
-    <target>$(PRODUCT_NAME)</target>
-   </trans-unit>
-   <trans-unit id="CFBundleShortVersionString">
-    <source>3.10</source>
-    <target>3.10</target>
-   </trans-unit>
-   <trans-unit id="NSCameraUsageDescription">
-    <source>This lets you take and upload photos.</source>
-    <target>Pozwoli to robić i wgrywać zdjęcia.</target>
-   </trans-unit>
-    <trans-unit id="NSLocationWhenInUseUsageDescription">
-    <source>Websites you visit may request your location.</source>
-    <target>Pozwoli to odwiedzanym stronom żądać informacji o położeniu.</target>
-   </trans-unit>
-   <trans-unit id="NSMicrophoneUsageDescription">
-    <source>This lets you take and upload videos.</source>
-    <target>Pozwoli to kręcić i wgrywać filmy.</target>
-   </trans-unit>
-   <trans-unit id="NSPhotoLibraryUsageDescription">
-    <source>This lets you save and upload photos.</source>
-    <target>Pozwoli to zachowywać i wgrywać zdjęcia.</target>
-   </trans-unit>
-  </body>
- </file>
- <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="pl">
-  <header>
-   <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
-  </header>
-  <body>
-   <trans-unit id="About.learnMoreButton">
-    <source>Learn more</source>
-    <target>Więcej informacji</target>
-    <note>Button on About screen</note>
-   </trans-unit>
-   <trans-unit id="About.missionLabel">
-    <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
-    <target>%@ jest tworzony przez Mozillę. Naszą misją jest wspieranie zdrowego i otwartego Internetu.</target>
-    <note>Label on About screen</note>
-   </trans-unit>
-   <trans-unit id="About.privateBullet1">
-    <source>Search and browse right in the app</source>
-    <target>szukać i przeglądać prosto z aplikacji</target>
-    <note>Label on About screen</note>
-   </trans-unit>
-   <trans-unit id="About.privateBullet2">
-    <source>Block trackers (or update settings to allow trackers)</source>
-    <target>blokować śledzące elementy (można zmienić w ustawieniach)</target>
-    <note>Label on About screen</note>
-   </trans-unit>
-   <trans-unit id="About.privateBullet3">
-    <source>Erase to delete cookies as well as search and browsing history</source>
-    <target>usuwać ciasteczka i historię przeglądania</target>
-    <note>Label on About screen</note>
-   </trans-unit>
-   <trans-unit id="About.privateBulletHeader">
-    <source>Use it as a private browser:</source>
-    <target>Jako prywatna przeglądarka pozwala:</target>
-    <note>Label on About screen</note>
-   </trans-unit>
-   <trans-unit id="About.rowHelp">
-    <source>Help</source>
-    <target>Pomoc</target>
-    <note>Label for row in About screen</note>
-   </trans-unit>
-   <trans-unit id="About.rowPrivacy">
-    <source>Privacy Notice</source>
-    <target>Uwagi dotyczące prywatności</target>
-    <note>Link to Privacy Notice in the About screen</note>
-   </trans-unit>
-   <trans-unit id="About.rowRights">
-    <source>Your Rights</source>
-    <target>O prawach użytkownika</target>
-    <note>Label for row in About screen</note>
-   </trans-unit>
-   <trans-unit id="About.safariBullet1">
-    <source>Block trackers for improved privacy</source>
-    <target>blokować śledzące elementy dla większej prywatności</target>
-    <note>Label on About screen</note>
-   </trans-unit>
-   <trans-unit id="About.safariBullet2">
-    <source>Block Web fonts to reduce page size</source>
-    <target>blokować czcionki sieciowe i pobierać mniej danych</target>
-    <note>Label on About screen</note>
-   </trans-unit>
-   <trans-unit id="About.safariBulletHeader">
-    <source>Use it as a Safari extension:</source>
-    <target>Jako rozszerzenie blokad zawartości Safari pozwala:</target>
-    <note>Label on About screen</note>
-   </trans-unit>
-   <trans-unit id="About.screenTitle">
-    <source>About</source>
-    <target>O programie</target>
-    <note>Title for the About screen</note>
-   </trans-unit>
-   <trans-unit id="About.topLabel">
-    <source>%@ puts you in control.</source>
-    <target>%@ daje większą kontrolę.</target>
-    <note>Label on About screen</note>
-   </trans-unit>
-   <trans-unit id="Browser.backLabel">
-    <source>Back</source>
-    <target>Wstecz</target>
-    <note>Accessibility label for the back button</note>
-   </trans-unit>
-   <trans-unit id="Browser.forwardLabel">
-    <source>Forward</source>
-    <target>Naprzód</target>
-    <note>Accessibility label for the forward button</note>
-   </trans-unit>
-   <trans-unit id="Browser.reloadLabel">
-    <source>Reload</source>
-    <target>Wczytaj ponownie</target>
-    <note>Accessibility label for the reload button</note>
-   </trans-unit>
-   <trans-unit id="Browser.settingsLabel">
-    <source>Settings</source>
-    <target>Ustawienia</target>
-    <note>Accessibility label for the settings button</note>
-   </trans-unit>
-   <trans-unit id="Browser.shareLabel">
-    <source>Share</source>
-    <target>Udostępnij</target>
-    <note>Accessibility label for the share button</note>
-   </trans-unit>
-   <trans-unit id="Browser.stopLabel">
-    <source>Stop</source>
-    <target>Zatrzymaj</target>
-    <note>Accessibility label for the stop button</note>
-   </trans-unit>
-   <trans-unit id="Error.tryAgainButton">
-    <source>Try again</source>
-    <target>Spróbuj ponownie</target>
-    <note>Button label to reload the error page</note>
-   </trans-unit>
-   <trans-unit id="ExternalAppLink.cancelTitle">
-    <source>Cancel</source>
-    <target>Anuluj</target>
-    <note>Button label used for cancelling to open another app from Focus</note>
-   </trans-unit>
-   <trans-unit id="ExternalAppLink.messageTitle">
-    <source>%@ wants to open another App</source>
-    <target>%@ chce otworzyć inną aplikację</target>
-    <note>Dialog title used for opening an external app from Focus. The placeholder string is the app name of either Focus or Klar.</note>
-   </trans-unit>
-   <trans-unit id="ExternalAppLink.openTitle">
-    <source>Open</source>
-    <target>Otwórz</target>
-    <note>Button label for opening another app from Focus</note>
-   </trans-unit>
-   <trans-unit id="ExternalLink.callButton">
-    <source>Call</source>
-    <target>Połącz</target>
-    <note>Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
-   </trans-unit>
-   <trans-unit id="ExternalLink.cancelButton">
-    <source>Cancel</source>
-    <target>Anuluj</target>
-    <note>Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
-   </trans-unit>
-   <trans-unit id="ExternalLink.emailButton">
-    <source>Email</source>
-    <target>Nowa wiadomość</target>
-    <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
-   </trans-unit>
-   <trans-unit id="ExternalLink.messageTitleWithPlaceholder">
-    <source>You are now leaving %@.</source>
-    <target>Opuszczasz aplikację %@.</target>
-    <note>Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
-   </trans-unit>
-   <trans-unit id="ExternalLink.openAppStoreButton">
-    <source>Open App Store</source>
-    <target>Otwórz w „App Store”</target>
-    <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
-   </trans-unit>
-   <trans-unit id="ExternalLink.openAppStoreTitle">
-    <source>%@ wants to open the App Store.</source>
-    <target>%@ chce otworzyć App Store</target>
-    <note>Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
-   </trans-unit>
-   <trans-unit id="ExternalLink.openMapsButton">
-    <source>Open Maps</source>
-    <target>Otwórz w „Mapy”</target>
-    <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
-   </trans-unit>
-   <trans-unit id="FirstRun.buttonLabel">
-    <source>OK, GOT IT!</source>
-    <target>OK!</target>
-    <note>Label on button to dismiss first run UI</note>
-   </trans-unit>
-   <trans-unit id="FirstRun.messageLabelDescription">
-    <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
-    <target>Automatycznie blokuj śledzące elementy podczas przeglądania stron. Wystarczy stuknąć, by usunąć z urządzenia odwiedzone strony, wyszukiwania i hasła.</target>
-    <note>Message label on the first run screen</note>
-   </trans-unit>
-   <trans-unit id="FirstRun.messageLabelTagline">
-    <source>Browse like no one’s watching.</source>
-    <target>Przeglądaj, jak gdyby nikt nie patrzył</target>
-    <note>Message label on the first run screen</note>
-   </trans-unit>
-   <trans-unit id="Focus.handoffSyncing">
-    <source>Apple Handoff is syncing</source>
-    <target>Apple Handoff prowadzi synchronizację…</target>
-    <note>Title for the loading screen when the handoff of clipboard delays Focus launch. “Handoff” should not be localized, see https://support.apple.com/HT204681</note>
-   </trans-unit>
-   <trans-unit id="Home.descriptionLabel1">
-    <source>Automatic private browsing.</source>
-    <target>Automatyczne przeglądanie prywatne.</target>
-    <note>First label for product description on the home screen</note>
-   </trans-unit>
-   <trans-unit id="Home.descriptionLabel2">
-    <source>Browse. Erase. Repeat.</source>
-    <target>Przeglądaj. Usuwaj. Powtórz.</target>
-    <note>Second label for product description on the home screen</note>
-   </trans-unit>
-   <trans-unit id="Open.Cancel">
-    <source>Cancel</source>
-    <target>Anuluj</target>
-    <note>Label in share alert to cancel the alert</note>
-   </trans-unit>
-   <trans-unit id="Open.Firefox">
-    <source>Firefox (Private Browsing)</source>
-    <target>Firefox (tryb prywatny)</target>
-    <note>Label in share alert to open the URL in Firefox</note>
-   </trans-unit>
-   <trans-unit id="Open.More">
-    <source>More</source>
-    <target>Więcej</target>
-    <note>Label in share alert to open the full system share menu</note>
-   </trans-unit>
-   <trans-unit id="Open.Safari">
-    <source>Safari</source>
-    <target>Safari</target>
-    <note>Label in share alert to open the URL in Safari</note>
-   </trans-unit>
-   <trans-unit id="Safari.instructionsContentBlockers">
-    <source>Tap Safari, then select Content Blockers</source>
-    <target>Stuknij Safari, a następnie Blokady zawartości</target>
-    <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
-   </trans-unit>
-   <trans-unit id="Safari.instructionsEnable">
-    <source>Enable %@</source>
-    <target>Włącz %@</target>
-    <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
-   </trans-unit>
-   <trans-unit id="Safari.instructionsNotEnabled">
-    <source>%@ is not enabled.</source>
-    <target>%@ nie został włączony.</target>
-    <note>Error label when the blocker is not enabled, shown in the intro and main app when disabled</note>
-   </trans-unit>
-   <trans-unit id="Safari.instructionsOpen">
-    <source>Open Settings App</source>
-    <target>Otwórz aplikację Ustawienia</target>
-    <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
-   </trans-unit>
-   <trans-unit id="Settings.blockOtherMessage">
-    <source>Blocking other content trackers may break some videos and Web pages.</source>
-    <target>Blokowanie pozostałych elementów śledzących może uniemożliwiać oglądanie niektórych filmów i stron WWW.</target>
-    <note>Alert message shown when toggling the Content blocker</note>
-   </trans-unit>
-   <trans-unit id="Settings.blockOtherNo">
-    <source>No, Thanks</source>
-    <target>Nie, dzięki</target>
-    <note>Button label for declining Content blocker alert</note>
-   </trans-unit>
-   <trans-unit id="Settings.blockOtherYes">
-    <source>I Understand</source>
-    <target>Rozumiem</target>
-    <note>Button label for accepting Content blocker alert</note>
-   </trans-unit>
-   <trans-unit id="Settings.detailTextSendUsageData">
-    <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
-    <target>Mozilla dokłada wszelkich starań, by zbierać jedynie niezbędne dane w celu dostarczania i ulepszania aplikacji %@.</target>
-    <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)</note>
-   </trans-unit>
-   <trans-unit id="Settings.learnMore">
-    <source>Learn more.</source>
-    <target>Więcej informacji.</target>
-    <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
-   </trans-unit>
-   <trans-unit id="Settings.screenTitle">
-    <source>Settings</source>
-    <target>Ustawienia</target>
-    <note>Title for settings screen</note>
-   </trans-unit>
-   <trans-unit id="Settings.searchSection">
-    <source>SEARCH ENGINE</source>
-    <target>Wyszukiwanie</target>
-    <note>Title for the search engine row</note>
-   </trans-unit>
-   <trans-unit id="Settings.searchTitle">
-    <source>Search Engine</source>
-    <target>Wyszukiwanie</target>
-    <note>Title for the search engine selection screen</note>
-   </trans-unit>
-   <trans-unit id="Settings.sectionIntegration">
-    <source>INTEGRATION</source>
-    <target>Integracja</target>
-    <note>Label for Safari integration section</note>
-   </trans-unit>
-   <trans-unit id="Settings.sectionMozilla">
-    <source>MOZILLA</source>
-    <target>Mozilla</target>
-    <note>Section label for Mozilla toggles</note>
-   </trans-unit>
-   <trans-unit id="Settings.sectionPerformance">
-    <source>PERFORMANCE</source>
-    <target>Wydajność</target>
-    <note>Section label for performance toggles</note>
-   </trans-unit>
-   <trans-unit id="Settings.sectionPrivacy">
-    <source>PRIVACY</source>
-    <target>Prywatność</target>
-    <note>Section label for privacy toggles</note>
-   </trans-unit>
-   <trans-unit id="Settings.toggleBlockAds">
-    <source>Block ad trackers</source>
-    <target>Blokowanie śledzących reklam</target>
-    <note>Label for toggle on main screen</note>
-   </trans-unit>
-   <trans-unit id="Settings.toggleBlockAdsDescription">
-    <source>Some ads track site visits, even if you don’t click the ads</source>
-    <target>Niektóre reklamy (nawet nie kliknięte) śledzą odwiedziny zawierających je stron.</target>
-    <note>Description for 'Block ad Trackers'</note>
-   </trans-unit>
-   <trans-unit id="Settings.toggleBlockAnalytics">
-    <source>Block analytics trackers</source>
-    <target>Blokowanie śledzących statystyk</target>
-    <note>Label for toggle on main screen</note>
-   </trans-unit>
-   <trans-unit id="Settings.toggleBlockAnalyticsDescription">
-    <source>Used to collect, analyze and measure activities like tapping and scrolling</source>
-    <target>Skrypty statystyk analizują oraz mierzą aktywności takie jak kliknięcia i przewijanie.</target>
-    <note>Description for 'Block analytics Trackers'</note>
-   </trans-unit>
-   <trans-unit id="Settings.toggleBlockFonts">
-    <source>Block Web fonts</source>
-    <target>Blokowanie czcionek sieciowych</target>
-    <note>Label for toggle on main screen</note>
-   </trans-unit>
-   <trans-unit id="Settings.toggleBlockOther">
-    <source>Block other content trackers</source>
-    <target>Blokowanie pozostałych śledzących</target>
-    <note>Label for toggle on main screen</note>
-   </trans-unit>
-   <trans-unit id="Settings.toggleBlockOtherDescription">
-    <source>Enabling may cause some pages to behave unexpectedly</source>
-    <target>Włączenie tej opcji może spowodować nieoczekiwane zachowania niektórych stron.</target>
-    <note>Description for 'Block other content Trackers'</note>
-   </trans-unit>
-   <trans-unit id="Settings.toggleBlockSocial">
-    <source>Block social trackers</source>
-    <target>Blokowanie śledzących społecznościowych</target>
-    <note>Label for toggle on main screen</note>
-   </trans-unit>
-   <trans-unit id="Settings.toggleBlockSocialDescription">
-    <source>Embedded on sites to track your visits and to display functionality like share buttons</source>
-    <target>Osadzane na stronach, by śledzić odwiedziny zawierających je stron i dodawać np. przyciski udostępniania.</target>
-    <note>Description for 'Block social Trackers'</note>
-   </trans-unit>
-   <trans-unit id="Settings.toggleOtherSubtitle">
-    <source>May break some videos and Web pages</source>
-    <target>Może uniemożliwiać oglądanie niektórych filmów i stron WWW.</target>
-    <note>Label subtitle for toggle on main screen</note>
-   </trans-unit>
-   <trans-unit id="Settings.toggleSafari">
-    <source>Safari</source>
-    <target>Safari</target>
-    <note>Safari toggle label on settings screen</note>
-   </trans-unit>
-   <trans-unit id="Settings.toggleSendUsageData">
-    <source>Send usage data</source>
-    <target>Przesyłanie danych o użyciu</target>
-    <note>Label for Send Usage Data toggle on main screen</note>
-   </trans-unit>
-   <trans-unit id="Settings.whatsNewTitle">
-    <source>What's New</source>
-    <target>Co nowego?</target>
-    <note>Title for What's new screen</note>
-   </trans-unit>
-   <trans-unit id="ShareMenu.GetFirefox">
-    <source>Get the Firefox App</source>
-    <target>Pobierz Firefoksa</target>
-    <note>Text for the share menu option when a user wants to open a page in Firefox but doesn’t have it installed. This string will not wrap in the interface. Instead, it will truncate. To prevent this, please keep the localized string to 18 or fewer characters. If your string runs longer than 18 characters, you can use 'Get Firefox' as the basis for your string. However, if at all possible, we’d like to signal to the user that they will be going to the App Store and installing the application from there. That is why we are using Get and App in the en-US string.</note>
-   </trans-unit>
-   <trans-unit id="ShareMenu.OpenInFocus">
-    <source>Open in %@</source>
-    <target>Otwórz w aplikacji %@</target>
-    <note>Text for the share menu option when a user wants to open a page in Focus.</note>
-   </trans-unit>
-   <trans-unit id="URL.cancelLabel">
-    <source>Cancel</source>
-    <target>Anuluj</target>
-    <note>Label for cancel button shown when entering a URL or search</note>
-   </trans-unit>
-   <trans-unit id="URL.contextMenu">
-    <source>Paste &amp; Go</source>
-    <target>Wklej i przejdź</target>
-    <note>Text for the URL context menu when a user long presses on the URL bar with clipboard contents.</note>
-   </trans-unit>
-   <trans-unit id="URL.eraseButtonLabel">
-    <source>ERASE</source>
-    <target>Usuń</target>
-    <note>Erase button in the URL bar</note>
-   </trans-unit>
-   <trans-unit id="URL.eraseMessageLabel">
-    <source>Your browsing history has been erased.</source>
-    <target>Historia przeglądania została usunięta.</target>
-    <note>Message shown after pressing the Erase button</note>
-   </trans-unit>
-   <trans-unit id="URL.placeholderText">
-    <source>Search or enter address</source>
-    <target>Wprowadź adres lub szukaj</target>
-    <note>Placeholder text shown in the URL bar before the user navigates to a page</note>
-   </trans-unit>
-   <trans-unit id="URL.searchLabel">
-    <source>Search for %@</source>
-    <target>Szukaj „%@”</target>
-    <note>Label displayed for search button when typing in the URL bar</note>
-   </trans-unit>
-   <trans-unit id="URL.trackersBlockedLabel">
-    <source>Trackers blocked</source>
-    <target>Zablokowane elementy śledzące:</target>
-    <note>Text for the URL bar showing the number of trackers blocked on a webpage.</note>
-   </trans-unit>
-   <trans-unit id="actionSheet.openIn">
-    <source>Open in %@</source>
-    <target>Otwórz w aplikacji %@</target>
-    <note>Title for action sheet item to open the current page in another application. Placeholder is the name of the application to open the current page.</note>
-   </trans-unit>
-   <trans-unit id="browserShortcutDescription.selectLocationBar">
-    <source>Select Location Bar</source>
-    <target>Wyświetl pasek adresu</target>
-    <note>Label to display in the Discoverability overlay for keyboard shortcuts</note>
-   </trans-unit>
-   <trans-unit id="contextMenu.clipboardLink">
-    <source>Link you copied: %@</source>
-    <target>Skopiowany odnośnik: %@</target>
-    <note>Text for the context menu when a user has a link on their clipboard.</note>
-   </trans-unit>
-   <trans-unit id="contextMenu.copyImageTitle">
-    <source>Copy Image</source>
-    <target>Kopiuj obraz</target>
-    <note>Text for the context menu when a user wants to copy an image after long pressing it.</note>
-   </trans-unit>
-   <trans-unit id="contextMenu.copyLink">
-    <source>Copy Link</source>
-    <target>Kopiuj odnośnik</target>
-    <note>Text for the context menu when a user wants to copy a link after long pressing it.</note>
-   </trans-unit>
-   <trans-unit id="contextMenu.saveImageTitle">
-    <source>Save Image</source>
-    <target>Zachowaj obraz</target>
-    <note>Text for the context menu when a user wants to save an image after long pressing it.</note>
-   </trans-unit>
-   <trans-unit id="contextMenu.shareLinkTitle">
-    <source>Share Link</source>
-    <target>Udostępnij odnośnik</target>
-    <note>Text for the context menu when a user wants to share a link after long pressing it.</note>
-   </trans-unit>
-   <trans-unit id="externalAppLinkWithAppName.messageTitle">
-    <source>%1$@ wants to open %2$@</source>
-    <target>%1$@ chce otworzyć aplikację %2$@</target>
-    <note>Dialog title used for opening an external app from Focus. First placeholder string is the app name of either Focus or Klar and the second placeholder string specifies the app it wants to open.</note>
-   </trans-unit>
-   <trans-unit id="photosPermission.description">
-    <source>This lets you save images to your Camera Roll</source>
-    <target>Pozwala zachowywać obrazy w rolce aparatu</target>
-    <note>Description for dialog used for requesting a user to enable access to Photos.</note>
-   </trans-unit>
-   <trans-unit id="photosPermission.openSettings">
-    <source>Open Settings</source>
-    <target>Otwórz Ustawienia</target>
-    <note>Title for button that takes the user to system settings</note>
-   </trans-unit>
-   <trans-unit id="photosPermission.title">
-    <source>“%@” Would Like to Access Your Photos</source>
-    <target>%@ chce uzyskać dostęp do Zdjęć</target>
-    <note>Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar</note>
-   </trans-unit>
-   <trans-unit id="trackingProtection.adTrackersLabel">
-    <source>Ad trackers</source>
-    <target>Śledzące reklamy</target>
-    <note>Label for ad trackers.</note><!-- TODO: FIXME https://github.com/mozilla-mobile/focus-ios/pull/459 -->
-   </trans-unit>
-   <trans-unit id="trackingProtection.analyticTrackerLabel">
-    <source>Analytic trackers</source>
-    <target>Śledzące statystyki</target>
-    <note>label for analytic trackers.</note>
-   </trans-unit>
-   <trans-unit id="trackingProtection.contentTrackerLabel">
-    <source>Content trackers</source>
-    <target>Pozostałe śledzące</target>
-    <note>label for content trackers.</note>
-   </trans-unit>
-   <trans-unit id="trackingProtection.disabledLabel">
-    <source>Tracking Protection off</source>
-    <target>Ochrona przed śledzeniem jest wyłączona</target>
-    <note>text showing the tracking protection is disabled.</note>
-   </trans-unit>
-   <trans-unit id="trackingProtection.socialTrackerLabel">
-    <source>Social trackers</source>
-    <target>Śledzące społecznościowe</target>
-    <note>label for social trackers.</note>
-   </trans-unit>
-   <trans-unit id="trackingProtection.toggleDescription1">
-    <source>Disable until you close %@ or tap ERASE.</source>
-    <target>Wyłącz do zamknięcia aplikacji lub stuknięcia „Usuń”</target>
-    <note>Description for the tracking protection toggle. Placeholder is either Firefox Focus or Firefox Klar</note>
-   </trans-unit>
-   <trans-unit id="trackingProtection.toggleLabel">
-    <source>Tracking Protection</source>
-    <target>Ochrona przed śledzeniem</target>
-    <note>Text for the toggle that temporarily disables tracking protection.</note>
-   </trans-unit>
-   <trans-unit id="trackingProtection.trackerDescriptionLabel">
-    <source>Choose whether %@ blocks ad, analytic, social, and other trackers.</source>
-    <target>Wybierz, czy %@ będzie blokował reklamy, statystyki, elementy społecznościowe i inne śledzące.</target>
-    <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
-   </trans-unit>
-  </body>
- </file>
- <file original="ContentBlocker/Info.plist" source-language="en" datatype="plaintext" target-language="pl">
-  <header>
-   <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
-  </header>
-  <body>
-   <trans-unit id="CFBundleDisplayName">
-    <source>$(PRODUCT_NAME)</source>
-    <target>$(PRODUCT_NAME)</target>
-   </trans-unit>
-   <trans-unit id="CFBundleName">
-    <source>$(PRODUCT_NAME)</source>
-    <target>$(PRODUCT_NAME)</target>
-   </trans-unit>
-   <trans-unit id="CFBundleShortVersionString">
-    <source>3.10</source>
-    <target>3.10</target>
-   </trans-unit>
-  </body>
- </file>
- <file original="OpenInFocus/Info.plist" source-language="en" datatype="plaintext" target-language="pl">
-  <header>
-   <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
-  </header>
-  <body>
-   <trans-unit id="CFBundleDisplayName">
-    <source>$(DISPLAY_NAME)</source>
-    <target>$(DISPLAY_NAME)</target>
-   </trans-unit>
-   <trans-unit id="CFBundleName">
-    <source>$(PRODUCT_NAME)</source>
-    <target>$(PRODUCT_NAME)</target>
-   </trans-unit>
-   <trans-unit id="CFBundleShortVersionString">
-    <source>3.10</source>
-    <target>3.10</target>
-   </trans-unit>
-  </body>
- </file>
- <file original="ScreenshotTests/Info.plist" source-language="en" datatype="plaintext" target-language="pl">
-  <header>
-   <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
-  </header>
-  <body>
-   <trans-unit id="CFBundleName">
-    <source>$(PRODUCT_NAME)</source>
-    <target>$(PRODUCT_NAME)</target>
-   </trans-unit>
-   <trans-unit id="CFBundleShortVersionString">
-    <source>1.0</source>
-    <target>1.0</target>
-   </trans-unit>
-  </body>
- </file>
- <file original="XCUITest/Info.plist" source-language="en" datatype="plaintext" target-language="pl">
-  <header>
-   <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
-  </header>
-  <body>
-   <trans-unit id="CFBundleName">
-    <source>$(PRODUCT_NAME)</source>
-    <target>$(PRODUCT_NAME)</target>
-   </trans-unit>
-   <trans-unit id="CFBundleShortVersionString">
-    <source>1.0</source>
-    <target>1.0</target>
-   </trans-unit>
-  </body>
- </file>
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="pl">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit id="NSCameraUsageDescription">
+        <source>This lets you take and upload photos.</source>
+        <target>Pozwoli to robić i wgrywać zdjęcia.</target>
+      </trans-unit>
+      <trans-unit id="NSLocationWhenInUseUsageDescription">
+        <source>Websites you visit may request your location.</source>
+        <target>Pozwoli to odwiedzanym stronom żądać informacji o położeniu.</target>
+      </trans-unit>
+      <trans-unit id="NSMicrophoneUsageDescription">
+        <source>This lets you take and upload videos.</source>
+        <target>Pozwoli to kręcić i wgrywać filmy.</target>
+      </trans-unit>
+      <trans-unit id="NSPhotoLibraryAddUsageDescription">
+        <source>This lets you save and upload photos.</source>
+      </trans-unit>
+      <trans-unit id="NSPhotoLibraryUsageDescription">
+        <source>This lets you save and upload photos.</source>
+        <target>Pozwoli to zachowywać i wgrywać zdjęcia.</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Blockzilla/Intro.strings" source-language="en" datatype="plaintext" target-language="pl">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+    </header>
+    <body>
+      <trans-unit id="Intro.Slides.History.Description">
+        <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
+        <note>Description for the 'History' panel in the First Run tour.</note>
+      </trans-unit>
+      <trans-unit id="Intro.Slides.History.Title">
+        <source>Your history is history</source>
+        <note>Title for the third  panel 'History' in the First Run tour.</note>
+      </trans-unit>
+      <trans-unit id="Intro.Slides.Next.Button">
+        <source>Next</source>
+        <note>Button to go to the next card in Focus onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Intro.Slides.Search.Description">
+        <source>Searching for something different? Choose a different search engine.</source>
+        <note>Description for the 'Favorite Search Engine' panel in the First Run tour.</note>
+      </trans-unit>
+      <trans-unit id="Intro.Slides.Search.Title">
+        <source>Your search, your way</source>
+        <note>Title for the second  panel 'Search' in the First Run tour.</note>
+      </trans-unit>
+      <trans-unit id="Intro.Slides.Skip.Button">
+        <source>Skip</source>
+        <note>Button to skip onboarding in Focus</note>
+      </trans-unit>
+      <trans-unit id="Intro.Slides.Welcome.Description">
+        <source>Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.</source>
+        <note>Description for the 'Welcome' panel in the First Run tour.</note>
+      </trans-unit>
+      <trans-unit id="Intro.Slides.Welcome.Title">
+        <source>Power up your privacy</source>
+        <note>Title for the first panel 'Welcome' in the First Run tour.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="pl">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+    </header>
+    <body>
+      <trans-unit id="About.learnMoreButton">
+        <source>Learn more</source>
+        <target>Więcej informacji</target>
+        <note>Button on About screen</note>
+      </trans-unit>
+      <trans-unit id="About.missionLabel">
+        <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
+        <target>%@ jest tworzony przez Mozillę. Naszą misją jest wspieranie zdrowego i otwartego Internetu.</target>
+        <note>Label on About screen</note>
+      </trans-unit>
+      <trans-unit id="About.privateBullet1">
+        <source>Search and browse right in the app</source>
+        <target>szukać i przeglądać prosto z aplikacji</target>
+        <note>Label on About screen</note>
+      </trans-unit>
+      <trans-unit id="About.privateBullet2">
+        <source>Block trackers (or update settings to allow trackers)</source>
+        <target>blokować śledzące elementy (można zmienić w ustawieniach)</target>
+        <note>Label on About screen</note>
+      </trans-unit>
+      <trans-unit id="About.privateBullet3">
+        <source>Erase to delete cookies as well as search and browsing history</source>
+        <target>usuwać ciasteczka i historię przeglądania</target>
+        <note>Label on About screen</note>
+      </trans-unit>
+      <trans-unit id="About.privateBulletHeader">
+        <source>Use it as a private browser:</source>
+        <target>Jako prywatna przeglądarka pozwala:</target>
+        <note>Label on About screen</note>
+      </trans-unit>
+      <trans-unit id="About.rowHelp">
+        <source>Help</source>
+        <target>Pomoc</target>
+        <note>Label for row in About screen</note>
+      </trans-unit>
+      <trans-unit id="About.rowPrivacy">
+        <source>Privacy Notice</source>
+        <target>Uwagi dotyczące prywatności</target>
+        <note>Link to Privacy Notice in the About screen</note>
+      </trans-unit>
+      <trans-unit id="About.rowRights">
+        <source>Your Rights</source>
+        <target>O prawach użytkownika</target>
+        <note>Label for row in About screen</note>
+      </trans-unit>
+      <trans-unit id="About.safariBullet1">
+        <source>Block trackers for improved privacy</source>
+        <target>blokować śledzące elementy dla większej prywatności</target>
+        <note>Label on About screen</note>
+      </trans-unit>
+      <trans-unit id="About.safariBullet2">
+        <source>Block Web fonts to reduce page size</source>
+        <target>blokować czcionki sieciowe i pobierać mniej danych</target>
+        <note>Label on About screen</note>
+      </trans-unit>
+      <trans-unit id="About.safariBulletHeader">
+        <source>Use it as a Safari extension:</source>
+        <target>Jako rozszerzenie blokad zawartości Safari pozwala:</target>
+        <note>Label on About screen</note>
+      </trans-unit>
+      <trans-unit id="About.screenTitle">
+        <source>About</source>
+        <target>O programie</target>
+        <note>Title for the About screen</note>
+      </trans-unit>
+      <trans-unit id="About.topLabel">
+        <source>%@ puts you in control.</source>
+        <target>%@ daje większą kontrolę.</target>
+        <note>Label on About screen</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.addCustomUrl">
+        <source>Add Custom URL</source>
+        <note>Label for button to add a custom URL</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.addCustomUrlError">
+        <source>Double-check the URL you entered.</source>
+        <note>Label for error state when entering an invalid URL</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.addCustomUrlExample">
+        <source>Example: example.com</source>
+        <note>A label displaying an example URL</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.addCustomUrlLabel">
+        <source>URL to add</source>
+        <note>Label for the input to add a custom URL</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.addCustomUrlPlaceholder">
+        <source>Paste or enter URL</source>
+        <note>Placeholder for the input field to add a custom URL</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.addCustomUrlWithPlus">
+        <source>+ Add Custom URL</source>
+        <note>Label for button to add a custom URL with the + prefix</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.customDescriptoin">
+        <source>Add and manage custom autocomplete URLs.</source>
+        <note>Description for adding and managing custom autocomplete URLs</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.customLabel">
+        <source>Custom URLs</source>
+        <note>Label for button taking you to your custom Autocomplete URL list</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.customTitle">
+        <source>CUSTOM URL LIST</source>
+        <note>Title for the default URL list section</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.customUrlAdded">
+        <source>New Custom URL added.</source>
+        <note>Label for toast alerting a custom URL has been added</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.defaultDescriptoin">
+        <source>Enable to have %@ autocomplete over 450 popular URLs in the address bar.</source>
+        <note>Description for enabling or disabling the default list. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.defaultLabel">
+        <source>Autocomplete</source>
+        <note>Label for enabling or disabling autocomplete</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.defaultTitle">
+        <source>DEFAULT URL LIST</source>
+        <note>Title for the default URL list section</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.disabled">
+        <source>Disabled</source>
+        <note>label describing URL Autocomplete as disabled</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.emptyState">
+        <source>No Custom URLs to display</source>
+        <note>Label for button to add a custom URL</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.enabled">
+        <source>Enabled</source>
+        <note>label describing URL Autocomplete as enabled</note>
+      </trans-unit>
+      <trans-unit id="Browser.backLabel">
+        <source>Back</source>
+        <target>Wstecz</target>
+        <note>Accessibility label for the back button</note>
+      </trans-unit>
+      <trans-unit id="Browser.forwardLabel">
+        <source>Forward</source>
+        <target>Naprzód</target>
+        <note>Accessibility label for the forward button</note>
+      </trans-unit>
+      <trans-unit id="Browser.reloadLabel">
+        <source>Reload</source>
+        <target>Wczytaj ponownie</target>
+        <note>Accessibility label for the reload button</note>
+      </trans-unit>
+      <trans-unit id="Browser.settingsLabel">
+        <source>Settings</source>
+        <target>Ustawienia</target>
+        <note>Accessibility label for the settings button</note>
+      </trans-unit>
+      <trans-unit id="Browser.shareLabel">
+        <source>Share</source>
+        <target>Udostępnij</target>
+        <note>Accessibility label for the share button</note>
+      </trans-unit>
+      <trans-unit id="Browser.stopLabel">
+        <source>Stop</source>
+        <target>Zatrzymaj</target>
+        <note>Accessibility label for the stop button</note>
+      </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <note>Label on button to cancel edits</note>
+      </trans-unit>
+      <trans-unit id="Done">
+        <source>Done</source>
+        <note>Label on button to complete edits</note>
+      </trans-unit>
+      <trans-unit id="Edit">
+        <source>Edit</source>
+        <note>Label on button to allow edits</note>
+      </trans-unit>
+      <trans-unit id="Error.tryAgainButton">
+        <source>Try again</source>
+        <target>Spróbuj ponownie</target>
+        <note>Button label to reload the error page</note>
+      </trans-unit>
+      <trans-unit id="ExternalAppLink.cancelTitle">
+        <source>Cancel</source>
+        <target>Anuluj</target>
+        <note>Button label used for cancelling to open another app from Focus</note>
+      </trans-unit>
+      <trans-unit id="ExternalAppLink.messageTitle">
+        <source>%@ wants to open another App</source>
+        <target>%@ chce otworzyć inną aplikację</target>
+        <note>Dialog title used for opening an external app from Focus. The placeholder string is the app name of either Focus or Klar.</note>
+      </trans-unit>
+      <trans-unit id="ExternalAppLink.openTitle">
+        <source>Open</source>
+        <target>Otwórz</target>
+        <note>Button label for opening another app from Focus</note>
+      </trans-unit>
+      <trans-unit id="ExternalLink.callButton">
+        <source>Call</source>
+        <target>Połącz</target>
+        <note>Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
+      </trans-unit>
+      <trans-unit id="ExternalLink.cancelButton">
+        <source>Cancel</source>
+        <target>Anuluj</target>
+        <note>Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
+      </trans-unit>
+      <trans-unit id="ExternalLink.emailButton">
+        <source>Email</source>
+        <target>Nowa wiadomość</target>
+        <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
+      </trans-unit>
+      <trans-unit id="ExternalLink.messageTitleWithPlaceholder">
+        <source>You are now leaving %@.</source>
+        <target>Opuszczasz aplikację %@.</target>
+        <note>Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
+      </trans-unit>
+      <trans-unit id="ExternalLink.openAppStoreButton">
+        <source>Open App Store</source>
+        <target>Otwórz w „App Store”</target>
+        <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
+      </trans-unit>
+      <trans-unit id="ExternalLink.openAppStoreTitle">
+        <source>%@ wants to open the App Store.</source>
+        <target>%@ chce otworzyć App Store</target>
+        <note>Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
+      </trans-unit>
+      <trans-unit id="ExternalLink.openMapsButton">
+        <source>Open Maps</source>
+        <target>Otwórz w „Mapy”</target>
+        <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
+      </trans-unit>
+      <trans-unit id="FirstRun.lastSlide.buttonLabel">
+        <source>OK, Got It!</source>
+        <note>Label on button to dismiss first run UI</note>
+      </trans-unit>
+      <trans-unit id="FirstRun.messageLabelDescription">
+        <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
+        <target>Automatycznie blokuj śledzące elementy podczas przeglądania stron. Wystarczy stuknąć, by usunąć z urządzenia odwiedzone strony, wyszukiwania i hasła.</target>
+        <note>Message label on the first run screen</note>
+      </trans-unit>
+      <trans-unit id="FirstRun.messageLabelTagline">
+        <source>Browse like no one’s watching.</source>
+        <target>Przeglądaj, jak gdyby nikt nie patrzył</target>
+        <note>Message label on the first run screen</note>
+      </trans-unit>
+      <trans-unit id="Focus.handoffSyncing">
+        <source>Apple Handoff is syncing</source>
+        <target>Apple Handoff prowadzi synchronizację…</target>
+        <note>Title for the loading screen when the handoff of clipboard delays Focus launch. “Handoff” should not be localized, see https://support.apple.com/HT204681</note>
+      </trans-unit>
+      <trans-unit id="Home.descriptionLabel1">
+        <source>Automatic private browsing.</source>
+        <target>Automatyczne przeglądanie prywatne.</target>
+        <note>First label for product description on the home screen</note>
+      </trans-unit>
+      <trans-unit id="Home.descriptionLabel2">
+        <source>Browse. Erase. Repeat.</source>
+        <target>Przeglądaj. Usuwaj. Powtórz.</target>
+        <note>Second label for product description on the home screen</note>
+      </trans-unit>
+      <trans-unit id="Open.Cancel">
+        <source>Cancel</source>
+        <target>Anuluj</target>
+        <note>Label in share alert to cancel the alert</note>
+      </trans-unit>
+      <trans-unit id="Open.Firefox">
+        <source>Firefox (Private Browsing)</source>
+        <target>Firefox (tryb prywatny)</target>
+        <note>Label in share alert to open the URL in Firefox</note>
+      </trans-unit>
+      <trans-unit id="Open.More">
+        <source>More</source>
+        <target>Więcej</target>
+        <note>Label in share alert to open the full system share menu</note>
+      </trans-unit>
+      <trans-unit id="Open.Safari">
+        <source>Safari</source>
+        <target>Safari</target>
+        <note>Label in share alert to open the URL in Safari</note>
+      </trans-unit>
+      <trans-unit id="Safari.instructionsContentBlockers">
+        <source>Tap Safari, then select Content Blockers</source>
+        <target>Stuknij Safari, a następnie Blokady zawartości</target>
+        <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
+      </trans-unit>
+      <trans-unit id="Safari.instructionsEnable">
+        <source>Enable %@</source>
+        <target>Włącz %@</target>
+        <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
+      </trans-unit>
+      <trans-unit id="Safari.instructionsNotEnabled">
+        <source>%@ is not enabled.</source>
+        <target>%@ nie został włączony.</target>
+        <note>Error label when the blocker is not enabled, shown in the intro and main app when disabled</note>
+      </trans-unit>
+      <trans-unit id="Safari.instructionsOpen">
+        <source>Open Settings App</source>
+        <target>Otwórz aplikację Ustawienia</target>
+        <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
+      </trans-unit>
+      <trans-unit id="Save">
+        <source>Save</source>
+        <note>Save button label</note>
+      </trans-unit>
+      <trans-unit id="Settings.Search.AddSearchEngineButton">
+        <source>Add Another Search Engine</source>
+        <note>Text for button to add another search engine in settings</note>
+      </trans-unit>
+      <trans-unit id="Settings.Search.AddSearchEngineButtonWithPlus">
+        <source>+ Add Another Search Engine</source>
+        <note>Text for button to add another search engine in settings with the + prefix</note>
+      </trans-unit>
+      <trans-unit id="Settings.Search.AddSearchEngineTitle">
+        <source>Add Search Engine</source>
+        <note>Title on add search engine settings screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.Search.InstalledSearchEngines">
+        <source>INSTALLED SEARCH ENGINES</source>
+        <note>Header for rows of installed search engines</note>
+      </trans-unit>
+      <trans-unit id="Settings.Search.NameToDisplay">
+        <source>Name to display</source>
+        <note>Label for input field for the name of the search engine to be added</note>
+      </trans-unit>
+      <trans-unit id="Settings.Search.NewSearchEngineAdded">
+        <source>New Search Engine Added.</source>
+        <note>Toast displayed after adding a search engine</note>
+      </trans-unit>
+      <trans-unit id="Settings.Search.RestoreEngine">
+        <source>Restore Default Search Engines</source>
+        <note>Label for button to bring deleted default engines back</note>
+      </trans-unit>
+      <trans-unit id="Settings.Search.SearchEngineName">
+        <source>Search engine name</source>
+        <note>Placeholder text for input of new search engine name</note>
+      </trans-unit>
+      <trans-unit id="Settings.Search.SearchTemplate">
+        <source>Search string to use</source>
+        <note>Label for input of search engine template</note>
+      </trans-unit>
+      <trans-unit id="Settings.Search.SearchTemplatePlaceholder">
+        <source>Paste or enter search string. If necessary, replace search term with: %s.</source>
+        <note>Placeholder text for input of new search engine template</note>
+      </trans-unit>
+      <trans-unit id="Settings.autocompleteSection">
+        <source>URL Autocomplete</source>
+        <note>Title for the URL Autocomplete row</note>
+      </trans-unit>
+      <trans-unit id="Settings.blockOtherMessage">
+        <source>Blocking other content trackers may break some videos and Web pages.</source>
+        <target>Blokowanie pozostałych elementów śledzących może uniemożliwiać oglądanie niektórych filmów i stron WWW.</target>
+        <note>Alert message shown when toggling the Content blocker</note>
+      </trans-unit>
+      <trans-unit id="Settings.blockOtherNo">
+        <source>No, Thanks</source>
+        <target>Nie, dzięki</target>
+        <note>Button label for declining Content blocker alert</note>
+      </trans-unit>
+      <trans-unit id="Settings.blockOtherYes">
+        <source>I Understand</source>
+        <target>Rozumiem</target>
+        <note>Button label for accepting Content blocker alert</note>
+      </trans-unit>
+      <trans-unit id="Settings.detailTextSendUsageData">
+        <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
+        <target>Mozilla dokłada wszelkich starań, by zbierać jedynie niezbędne dane w celu dostarczania i ulepszania aplikacji %@.</target>
+        <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)</note>
+      </trans-unit>
+      <trans-unit id="Settings.learnMore">
+        <source>Learn more.</source>
+        <target>Więcej informacji.</target>
+        <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.screenTitle">
+        <source>Settings</source>
+        <target>Ustawienia</target>
+        <note>Title for settings screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.searchLabel">
+        <source>Search Engine</source>
+        <note>Label for the search engine in the search screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.searchTitle2">
+        <source>SEARCH</source>
+        <note>Title for the search selection screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.sectionIntegration">
+        <source>INTEGRATION</source>
+        <target>Integracja</target>
+        <note>Label for Safari integration section</note>
+      </trans-unit>
+      <trans-unit id="Settings.sectionMozilla">
+        <source>MOZILLA</source>
+        <target>Mozilla</target>
+        <note>Section label for Mozilla toggles</note>
+      </trans-unit>
+      <trans-unit id="Settings.sectionPerformance">
+        <source>PERFORMANCE</source>
+        <target>Wydajność</target>
+        <note>Section label for performance toggles</note>
+      </trans-unit>
+      <trans-unit id="Settings.sectionPrivacy">
+        <source>PRIVACY</source>
+        <target>Prywatność</target>
+        <note>Section label for privacy toggles</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleBlockAds">
+        <source>Block ad trackers</source>
+        <target>Blokowanie śledzących reklam</target>
+        <note>Label for toggle on main screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleBlockAdsDescription">
+        <source>Some ads track site visits, even if you don’t click the ads</source>
+        <target>Niektóre reklamy (nawet nie kliknięte) śledzą odwiedziny zawierających je stron.</target>
+        <note>Description for 'Block ad Trackers'</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleBlockAnalytics">
+        <source>Block analytics trackers</source>
+        <target>Blokowanie śledzących statystyk</target>
+        <note>Label for toggle on main screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleBlockAnalyticsDescription">
+        <source>Used to collect, analyze and measure activities like tapping and scrolling</source>
+        <target>Skrypty statystyk analizują oraz mierzą aktywności takie jak kliknięcia i przewijanie.</target>
+        <note>Description for 'Block analytics Trackers'</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleBlockFonts">
+        <source>Block Web fonts</source>
+        <target>Blokowanie czcionek sieciowych</target>
+        <note>Label for toggle on main screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleBlockOther">
+        <source>Block other content trackers</source>
+        <target>Blokowanie pozostałych śledzących</target>
+        <note>Label for toggle on main screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleBlockOtherDescription">
+        <source>Enabling may cause some pages to behave unexpectedly</source>
+        <target>Włączenie tej opcji może spowodować nieoczekiwane zachowania niektórych stron.</target>
+        <note>Description for 'Block other content Trackers'</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleBlockSocial">
+        <source>Block social trackers</source>
+        <target>Blokowanie śledzących społecznościowych</target>
+        <note>Label for toggle on main screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleBlockSocialDescription">
+        <source>Embedded on sites to track your visits and to display functionality like share buttons</source>
+        <target>Osadzane na stronach, by śledzić odwiedziny zawierających je stron i dodawać np. przyciski udostępniania.</target>
+        <note>Description for 'Block social Trackers'</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleOtherSubtitle">
+        <source>May break some videos and Web pages</source>
+        <target>Może uniemożliwiać oglądanie niektórych filmów i stron WWW.</target>
+        <note>Label subtitle for toggle on main screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleSafari">
+        <source>Safari</source>
+        <target>Safari</target>
+        <note>Safari toggle label on settings screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleSendUsageData">
+        <source>Send usage data</source>
+        <target>Przesyłanie danych o użyciu</target>
+        <note>Label for Send Usage Data toggle on main screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.whatsNewTitle">
+        <source>What’s New</source>
+        <note>Title for What's new screen</note>
+      </trans-unit>
+      <trans-unit id="ShareMenu.GetFirefox">
+        <source>Get the Firefox App</source>
+        <target>Pobierz Firefoksa</target>
+        <note>Text for the share menu option when a user wants to open a page in Firefox but doesn’t have it installed. This string will not wrap in the interface. Instead, it will truncate. To prevent this, please keep the localized string to 18 or fewer characters. If your string runs longer than 18 characters, you can use 'Get Firefox' as the basis for your string. However, if at all possible, we’d like to signal to the user that they will be going to the App Store and installing the application from there. That is why we are using Get and App in the en-US string.</note>
+      </trans-unit>
+      <trans-unit id="ShareMenu.OpenInFocus">
+        <source>Open in %@</source>
+        <target>Otwórz w aplikacji %@</target>
+        <note>Text for the share menu option when a user wants to open a page in Focus.</note>
+      </trans-unit>
+      <trans-unit id="URL.cancelLabel">
+        <source>Cancel</source>
+        <target>Anuluj</target>
+        <note>Label for cancel button shown when entering a URL or search</note>
+      </trans-unit>
+      <trans-unit id="URL.contextMenu">
+        <source>Paste &amp; Go</source>
+        <target>Wklej i przejdź</target>
+        <note>Text for the URL context menu when a user long presses on the URL bar with clipboard contents.</note>
+      </trans-unit>
+      <trans-unit id="URL.eraseButtonLabel">
+        <source>ERASE</source>
+        <target>Usuń</target>
+        <note>Erase button in the URL bar</note>
+      </trans-unit>
+      <trans-unit id="URL.eraseMessageLabel">
+        <source>Your browsing history has been erased.</source>
+        <target>Historia przeglądania została usunięta.</target>
+        <note>Message shown after pressing the Erase button</note>
+      </trans-unit>
+      <trans-unit id="URL.placeholderText">
+        <source>Search or enter address</source>
+        <target>Wprowadź adres lub szukaj</target>
+        <note>Placeholder text shown in the URL bar before the user navigates to a page</note>
+      </trans-unit>
+      <trans-unit id="URL.searchLabel">
+        <source>Search for %@</source>
+        <target>Szukaj „%@”</target>
+        <note>Label displayed for search button when typing in the URL bar</note>
+      </trans-unit>
+      <trans-unit id="URL.trackersBlockedLabel">
+        <source>Trackers blocked</source>
+        <target>Zablokowane elementy śledzące:</target>
+        <note>Text for the URL bar showing the number of trackers blocked on a webpage.</note>
+      </trans-unit>
+      <trans-unit id="actionSheet.openIn">
+        <source>Open in %@</source>
+        <target>Otwórz w aplikacji %@</target>
+        <note>Title for action sheet item to open the current page in another application. Placeholder is the name of the application to open the current page.</note>
+      </trans-unit>
+      <trans-unit id="browserShortcutDescription.selectLocationBar">
+        <source>Select Location Bar</source>
+        <target>Wyświetl pasek adresu</target>
+        <note>Label to display in the Discoverability overlay for keyboard shortcuts</note>
+      </trans-unit>
+      <trans-unit id="contextMenu.clipboardLink">
+        <source>Link you copied: %@</source>
+        <target>Skopiowany odnośnik: %@</target>
+        <note>Text for the context menu when a user has a link on their clipboard.</note>
+      </trans-unit>
+      <trans-unit id="contextMenu.copyImageTitle">
+        <source>Copy Image</source>
+        <target>Kopiuj obraz</target>
+        <note>Text for the context menu when a user wants to copy an image after long pressing it.</note>
+      </trans-unit>
+      <trans-unit id="contextMenu.copyLink">
+        <source>Copy Link</source>
+        <target>Kopiuj odnośnik</target>
+        <note>Text for the context menu when a user wants to copy a link after long pressing it.</note>
+      </trans-unit>
+      <trans-unit id="contextMenu.saveImageTitle">
+        <source>Save Image</source>
+        <target>Zachowaj obraz</target>
+        <note>Text for the context menu when a user wants to save an image after long pressing it.</note>
+      </trans-unit>
+      <trans-unit id="contextMenu.shareLinkTitle">
+        <source>Share Link</source>
+        <target>Udostępnij odnośnik</target>
+        <note>Text for the context menu when a user wants to share a link after long pressing it.</note>
+      </trans-unit>
+      <trans-unit id="externalAppLinkWithAppName.messageTitle">
+        <source>%1$@ wants to open %2$@</source>
+        <target>%1$@ chce otworzyć aplikację %2$@</target>
+        <note>Dialog title used for opening an external app from Focus. First placeholder string is the app name of either Focus or Klar and the second placeholder string specifies the app it wants to open.</note>
+      </trans-unit>
+      <trans-unit id="photosPermission.description">
+        <source>This lets you save images to your Camera Roll</source>
+        <target>Pozwala zachowywać obrazy w rolce aparatu</target>
+        <note>Description for dialog used for requesting a user to enable access to Photos.</note>
+      </trans-unit>
+      <trans-unit id="photosPermission.openSettings">
+        <source>Open Settings</source>
+        <target>Otwórz Ustawienia</target>
+        <note>Title for button that takes the user to system settings</note>
+      </trans-unit>
+      <trans-unit id="photosPermission.title">
+        <source>“%@” Would Like to Access Your Photos</source>
+        <target>%@ chce uzyskać dostęp do Zdjęć</target>
+        <note>Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar</note>
+      </trans-unit>
+      <trans-unit id="settings.Search.SearchTemplateExample">
+        <source>Example: searchengineexample.com/search/?q=%s</source>
+        <note>Text displayed as an example of the template to add a search engine.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.adTrackersLabel">
+        <source>Ad trackers</source>
+        <target>Śledzące reklamy</target>
+        <note>Label for ad trackers.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.analyticTrackerLabel">
+        <source>Analytic trackers</source>
+        <target>Śledzące statystyki</target>
+        <note>label for analytic trackers.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.contentTrackerLabel">
+        <source>Content trackers</source>
+        <target>Pozostałe śledzące</target>
+        <note>label for content trackers.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.disabledLabel">
+        <source>Tracking Protection off</source>
+        <target>Ochrona przed śledzeniem jest wyłączona</target>
+        <note>text showing the tracking protection is disabled.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.learnMore">
+        <source>Learn More</source>
+        <note>Text for the button to learn more about Tracking Protection.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.socialTrackerLabel">
+        <source>Social trackers</source>
+        <target>Śledzące społecznościowe</target>
+        <note>label for social trackers.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.toggleDescription1">
+        <source>Disable until you close %@ or tap ERASE.</source>
+        <target>Wyłącz do zamknięcia aplikacji lub stuknięcia „Usuń”</target>
+        <note>Description for the tracking protection toggle. Placeholder is either Firefox Focus or Firefox Klar</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.toggleLabel">
+        <source>Tracking Protection</source>
+        <target>Ochrona przed śledzeniem</target>
+        <note>Text for the toggle that temporarily disables tracking protection.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.trackerDescriptionLabel">
+        <source>Choose whether %@ blocks ad, analytic, social, and other trackers.</source>
+        <target>Wybierz, czy %@ będzie blokował reklamy, statystyki, elementy społecznościowe i inne śledzące.</target>
+        <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="ContentBlocker/Info.plist" source-language="en" datatype="plaintext" target-language="pl">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>4.0</source>
+        <target>4.0</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="OpenInFocus/Info.plist" source-language="en" datatype="plaintext" target-language="pl">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>$(DISPLAY_NAME)</source>
+        <target>$(DISPLAY_NAME)</target>
+      </trans-unit>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
+      </trans-unit>
+    </body>
+  </file>
 </xliff>
+
