@@ -185,7 +185,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customDescriptoin">
         <source>Add and manage custom autocomplete URLs.</source>
-        <target>დაამატეთ და მართეთ საკუთარი URLs მისამართები.</target>
+        <target>დაამატეთ და მართეთ საკუთარი URL მისამართები.</target>
         <note>Description for adding and managing custom autocomplete URLs</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customLabel">
@@ -205,7 +205,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin">
         <source>Enable to have %@ autocomplete over 450 popular URLs in the address bar.</source>
-        <target>ჩართეთ და %@-ში გექნებათ 450-ზე მეტი სასურველი URLs ბმული მისამართების ზოლში.</target>
+        <target>ჩართეთ და %@-ში გექნებათ 450-ზე მეტი სასურველი URL ბმულები მისამართების ზოლში.</target>
         <note>Description for enabling or disabling the default list. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultLabel">
@@ -225,7 +225,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.emptyState">
         <source>No Custom URLs to display</source>
-        <target>საკუთარი URLs მისამართები არაა დამატებული</target>
+        <target>საკუთარი URL მისამართები არაა დამატებული</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.enabled">
