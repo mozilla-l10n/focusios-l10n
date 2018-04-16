@@ -195,7 +195,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customTitle">
         <source>CUSTOM URL LIST</source>
-        <target>AANGEPASTE URL-LIJST</target>
+        <target>LIJST VAN AANGEPASTE URL’S</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customUrlAdded">
@@ -215,7 +215,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.defaultTitle">
         <source>DEFAULT URL LIST</source>
-        <target>STANDAARD URL-LIJST</target>
+        <target>LIJST VAN STANDAARD-URL’S</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
       <trans-unit id="Autocomplete.disabled">
