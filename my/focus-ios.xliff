@@ -23,6 +23,7 @@
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription">
         <source>This lets you save and upload photos.</source>
+        <target>ဓါတ်ပုံသိမ်းခြင်းနှင့် တင်ပို့ခြင်းတို့ကို ဆောင်ရွက်နိုင်စေသည်။</target>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription">
         <source>This lets you save and upload photos.</source>
@@ -57,14 +58,17 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Skip.Button">
         <source>Skip</source>
+        <target>ကျော်ပါ</target>
         <note>Button to skip onboarding in Focus</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description">
         <source>Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.</source>
+        <target>သီးသန့်ကြည့်ရှုမှုကို ပိုမိုကောင်းမွန်စေပါ။ စာမျက်နှာဖွင့်ချိန်ကို ကြာမြင့်စေနိုင်သော ကြော်ငြာများနှင့် ဆိုက်များကတဆင့် နောက်ယောင်ခံနိုင်သော အကြောင်းအရာတို့ကို ပိတ်ပင်တားဆီးပါ။</target>
         <note>Description for the 'Welcome' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Title">
         <source>Power up your privacy</source>
+        <target>ကိုယ်ရေးကာကွယ်မှုကို တိုးမြှင့်ပါ</target>
         <note>Title for the first panel 'Welcome' in the First Run tour.</note>
       </trans-unit>
     </body>
@@ -146,6 +150,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrl">
         <source>Add Custom URL</source>
+        <target>စိတ်ကြိုက် URLs တိုးရန်</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlError">
@@ -158,6 +163,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlLabel">
         <source>URL to add</source>
+        <target>တိုးမဲ့ URL</target>
         <note>Label for the input to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlPlaceholder">
@@ -166,6 +172,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlWithPlus">
         <source>+ Add Custom URL</source>
+        <target>+ စိတ်ကြိုက် URLs တိုးရန်</target>
         <note>Label for button to add a custom URL with the + prefix</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customDescriptoin">
@@ -174,6 +181,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customLabel">
         <source>Custom URLs</source>
+        <target>စိတ်ကြိုက် URLs</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customTitle">
@@ -198,6 +206,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.disabled">
         <source>Disabled</source>
+        <target>ပိတ်ထားသည်</target>
         <note>label describing URL Autocomplete as disabled</note>
       </trans-unit>
       <trans-unit id="Autocomplete.emptyState">
@@ -206,6 +215,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.enabled">
         <source>Enabled</source>
+        <target>ဖွင့်ထားသည်</target>
         <note>label describing URL Autocomplete as enabled</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel">
@@ -240,14 +250,17 @@
       </trans-unit>
       <trans-unit id="Cancel">
         <source>Cancel</source>
+        <target>မဆောင်ရွက်တော့ပါ</target>
         <note>Label on button to cancel edits</note>
       </trans-unit>
       <trans-unit id="Done">
         <source>Done</source>
+        <target>ပြီးပြီ</target>
         <note>Label on button to complete edits</note>
       </trans-unit>
       <trans-unit id="Edit">
         <source>Edit</source>
+        <target>ပြင်ဆင်ရန်</target>
         <note>Label on button to allow edits</note>
       </trans-unit>
       <trans-unit id="Error.tryAgainButton">
