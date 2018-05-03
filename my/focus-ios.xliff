@@ -320,6 +320,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel">
         <source>OK, Got It!</source>
+        <target>အိုကေ၊ သိပါပြီ!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
@@ -389,6 +390,7 @@
       </trans-unit>
       <trans-unit id="Save">
         <source>Save</source>
+        <target>သိမ်းရန်</target>
         <note>Save button label</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton">
