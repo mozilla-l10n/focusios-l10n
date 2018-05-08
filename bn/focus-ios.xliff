@@ -268,10 +268,12 @@
       </trans-unit>
       <trans-unit id="Done">
         <source>Done</source>
+        <target>সম্পন্ন</target>
         <note>Label on button to complete edits</note>
       </trans-unit>
       <trans-unit id="Edit">
         <source>Edit</source>
+        <target>সম্পাদন করুন</target>
         <note>Label on button to allow edits</note>
       </trans-unit>
       <trans-unit id="Error.tryAgainButton">
@@ -331,6 +333,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel">
         <source>OK, Got It!</source>
+        <target>ঠিক আছে, বুঝেছি!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
@@ -400,26 +403,32 @@
       </trans-unit>
       <trans-unit id="Save">
         <source>Save</source>
+        <target>সংরক্ষণ করুন</target>
         <note>Save button label</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton">
         <source>Add Another Search Engine</source>
+        <target>অন্য আরেকটি সার্চ ইঞ্জিন যোগ করুন</target>
         <note>Text for button to add another search engine in settings</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButtonWithPlus">
         <source>+ Add Another Search Engine</source>
+        <target>+ অন্য আরেকটি সার্চ ইঞ্জিন যোগ করুন</target>
         <note>Text for button to add another search engine in settings with the + prefix</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineTitle">
         <source>Add Search Engine</source>
+        <target>সার্চ ইঞ্জিন যোগ করুন</target>
         <note>Title on add search engine settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.Search.InstalledSearchEngines">
         <source>INSTALLED SEARCH ENGINES</source>
+        <target>INSTALLED SEARCH ENGINES</target>
         <note>Header for rows of installed search engines</note>
       </trans-unit>
       <trans-unit id="Settings.Search.NameToDisplay">
         <source>Name to display</source>
+        <target>প্রদর্শনের জন্য নাম</target>
         <note>Label for input field for the name of the search engine to be added</note>
       </trans-unit>
       <trans-unit id="Settings.Search.NewSearchEngineAdded">
