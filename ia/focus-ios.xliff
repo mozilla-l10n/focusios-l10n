@@ -120,7 +120,7 @@
       </trans-unit>
       <trans-unit id="About.rowPrivacy">
         <source>Privacy Notice</source>
-        <target>Advertentia de confidentialitate</target>
+        <target>Notification de confidentialitate</target>
         <note>Link to Privacy Notice in the About screen</note>
       </trans-unit>
       <trans-unit id="About.rowRights">
