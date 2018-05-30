@@ -385,7 +385,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers">
         <source>Tap Safari, then select Content Blockers</source>
-        <target>แตะ Safari จากนั้นเลือก ตัวปิดกั้นเนื้อหา</target>
+        <target>แตะที่ Safari จากนั้นเลือก ตัวปิดกั้นเนื้อหา</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsEnable">
@@ -725,7 +725,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription1">
         <source>Disable until you close %@ or tap ERASE.</source>
-        <target>ปิดใช้งานจนกระทั่งคุณปิด %@ หรือแตะ ล้าง</target>
+        <target>ปิดใช้งานจนกระทั่งคุณปิด %@ หรือแตะที่ ล้าง</target>
         <note>Description for the tracking protection toggle. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel">
