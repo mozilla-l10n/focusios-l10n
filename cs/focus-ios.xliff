@@ -130,7 +130,7 @@
       </trans-unit>
       <trans-unit id="About.safariBullet1">
         <source>Block trackers for improved privacy</source>
-        <target>Blokujte sledující prvky pro vylepšení soukromí</target>
+        <target>Blokujte sledovací prvky pro vylepšení soukromí</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2">
@@ -465,7 +465,7 @@
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
         <source>Blocking other content trackers may break some videos and Web pages.</source>
-        <target>Blokování ostatních sledujících prvků může rozbít některá videa a webové stránky.</target>
+        <target>Blokování ostatních sledovacích prvků může rozbít některá videa a webové stránky.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo">
@@ -540,7 +540,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalyticsDescription">
         <source>Used to collect, analyze and measure activities like tapping and scrolling</source>
-        <target>Slouží k shromážďování, analýze a měření aktivit jako je klepnutí nebo posouvání</target>
+        <target>Slouží k shromažďování, analýze a měření aktivit jako je klepnutí nebo posouvání</target>
         <note>Description for 'Block analytics Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
@@ -550,7 +550,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther">
         <source>Block other content trackers</source>
-        <target>Blokovat ostatní sledující prvky</target>
+        <target>Blokovat ostatní sledovací prvky</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOtherDescription">
@@ -560,7 +560,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
         <source>Block social trackers</source>
-        <target>Blokovat sledující prvky sociálních sítí</target>
+        <target>Blokovat sledovací prvky sociálních sítí</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocialDescription">
@@ -630,7 +630,7 @@
       </trans-unit>
       <trans-unit id="URL.trackersBlockedLabel">
         <source>Trackers blocked</source>
-        <target>Zablokováno sledujících prvků</target>
+        <target>Zablokováno sledovacích prvků</target>
         <note>Text for the URL bar showing the number of trackers blocked on a webpage.</note>
       </trans-unit>
       <trans-unit id="actionSheet.openIn">
@@ -735,7 +735,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.trackerDescriptionLabel">
         <source>Choose whether %@ blocks ad, analytic, social, and other trackers.</source>
-        <target>Zvolte, zda má %@ blokovat reklamy, analytické prvky, sociální sítě a jiné sledující prvky.</target>
+        <target>Zvolte, zda má %@ blokovat reklamy, analytické prvky, sociální sítě a jiné sledovací prvky.</target>
         <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
     </body>
