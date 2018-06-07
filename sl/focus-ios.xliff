@@ -580,7 +580,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleSendUsageData">
         <source>Send usage data</source>
-        <target>Pošlji podatke o uporabi</target>
+        <target>Pošiljaj podatke o uporabi</target>
         <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
