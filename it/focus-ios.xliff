@@ -1,86 +1,102 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="it">
+  <file original="Blockzilla/en.lproj/FindInPage.strings" datatype="plaintext" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
+    </header>
+    <body>
+      <trans-unit id="Done">
+        <source>Done</source>
+        <note>Done button in Find in Page Toolbar.</note>
+      </trans-unit>
+      <trans-unit id="Next in-page result">
+        <source>Next in-page result</source>
+        <note>Accessibility label for next result button in Find in Page Toolbar.</note>
+      </trans-unit>
+      <trans-unit id="Previous in-page result">
+        <source>Previous in-page result</source>
+        <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Blockzilla/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
     </header>
     <body>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
         <target>$(PRODUCT_NAME)</target>
+        <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
-        <target>Garantisci il permesso di scattare e caricare foto.</target>
+        <note>Privacy - Camera Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSFaceIDUsageDescription">
+        <source>This lets you unlock the app.</source>
+        <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
-        <target>I siti web visitati possono richiedere la tua posizione.</target>
+        <note>Privacy - Location When In Use Usage Description</note>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription">
         <source>This lets you take and upload videos.</source>
-        <target>Garantisci il permesso di registrare e caricare video.</target>
+        <note>Privacy - Microphone Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription">
         <source>This lets you save and upload photos.</source>
-        <target>Garantisci il permesso di salvare e caricare foto.</target>
+        <note>Privacy - Photo Library Additions Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription">
         <source>This lets you save and upload photos.</source>
-        <target>Garantisci il permesso di salvare e caricare foto.</target>
+        <note>Privacy - Photo Library Usage Description</note>
       </trans-unit>
     </body>
   </file>
-  <file original="Blockzilla/Intro.strings" source-language="en" datatype="plaintext" target-language="it">
+  <file original="Blockzilla/en.lproj/Intro.strings" datatype="plaintext" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
     </header>
     <body>
       <trans-unit id="Intro.Slides.History.Description">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
-        <target>Cancella l'intera cronologia di navigazione, le password e i cookie con un semplice tocco, in qualunque momento.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title">
         <source>Your history is history</source>
-        <target>La cronologia è storia passata</target>
         <note>Title for the third  panel 'History' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Next.Button">
         <source>Next</source>
-        <target>Avanti</target>
         <note>Button to go to the next card in Focus onboarding.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description">
         <source>Searching for something different? Choose a different search engine.</source>
-        <target>Stavi cercando qualcos’altro? Scegli un altro motore di ricerca.</target>
         <note>Description for the 'Favorite Search Engine' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Title">
         <source>Your search, your way</source>
-        <target>La ricerca a modo tuo</target>
         <note>Title for the second  panel 'Search' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Skip.Button">
         <source>Skip</source>
-        <target>Ignora</target>
         <note>Button to skip onboarding in Focus</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description">
         <source>Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.</source>
-        <target>Porta la navigazione anonima al livello superiore. Blocca pubblicità e altri contenuti che cercano di seguirti attraverso siti diversi e rallentano il caricamento delle pagine.</target>
         <note>Description for the 'Welcome' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Title">
         <source>Power up your privacy</source>
-        <target>Potenzia la tua privacy</target>
         <note>Title for the first panel 'Welcome' in the First Run tour.</note>
       </trans-unit>
     </body>
   </file>
-  <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="it">
+  <file original="Blockzilla/en.lproj/Localizable.strings" datatype="plaintext" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
     </header>
     <body>
       <trans-unit id="About.learnMoreButton">
@@ -144,8 +160,7 @@
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.screenTitle">
-        <source>About</source>
-        <target>Informazioni su</target>
+        <source>About Firefox Focus</source>
         <note>Title for the About screen</note>
       </trans-unit>
       <trans-unit id="About.topLabel">
@@ -233,10 +248,26 @@
         <target>Attivato</target>
         <note>label describing URL Autocomplete as enabled</note>
       </trans-unit>
+      <trans-unit id="BiometricPrompt.cancel">
+        <source>New Session</source>
+        <note>Cancel option after failing biometric check</note>
+      </trans-unit>
+      <trans-unit id="BiometricPrompt.reason">
+        <source>Authenticate to continue session.</source>
+        <note>Reason for requesting biometric access</note>
+      </trans-unit>
       <trans-unit id="Browser.backLabel">
         <source>Back</source>
         <target>Indietro</target>
         <note>Accessibility label for the back button</note>
+      </trans-unit>
+      <trans-unit id="Browser.copyMenuLabel">
+        <source>Copy</source>
+        <note>Copy URL button in URL long press menu</note>
+      </trans-unit>
+      <trans-unit id="Browser.customURLMenuLabel">
+        <source>Add Custom URL</source>
+        <note>Custom URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.forwardLabel">
         <source>Forward</source>
@@ -268,6 +299,10 @@
         <target>Annulla</target>
         <note>Label on button to cancel edits</note>
       </trans-unit>
+      <trans-unit id="Disabled">
+        <source>Disabled</source>
+        <note>label describing something as disabled</note>
+      </trans-unit>
       <trans-unit id="Done">
         <source>Done</source>
         <target>Fatto</target>
@@ -277,6 +312,10 @@
         <source>Edit</source>
         <target>Modifica</target>
         <note>Label on button to allow edits</note>
+      </trans-unit>
+      <trans-unit id="Enabled">
+        <source>Enabled</source>
+        <note>label describing something as enabled</note>
       </trans-unit>
       <trans-unit id="Error.tryAgainButton">
         <source>Try again</source>
@@ -363,6 +402,18 @@
         <target>Naviga. Elimina. Ripeti.</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
+      <trans-unit id="Intro.stackView">
+        <source>Intro.stackView</source>
+        <note>Accessibility identifier for onboarding page indicator stack view</note>
+      </trans-unit>
+      <trans-unit id="Notification.findInPage">
+        <source>Notification.findInPage</source>
+        <note>Notification name for opening the find in page menu.</note>
+      </trans-unit>
+      <trans-unit id="Notification.requestDesktop">
+        <source>Notification.requestDesktop</source>
+        <note>Notification name for requesting a website in desktop form.</note>
+      </trans-unit>
       <trans-unit id="Open.Cancel">
         <source>Cancel</source>
         <target>Annulla</target>
@@ -382,6 +433,10 @@
         <source>Safari</source>
         <target>Safari</target>
         <note>Label in share alert to open the URL in Safari</note>
+      </trans-unit>
+      <trans-unit id="Request Desktop Site">
+        <source>Request Desktop Site</source>
+        <note>Action Sheet Button for Requesting the Desktop Site</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers">
         <source>Tap Safari, then select Content Blockers</source>
@@ -409,8 +464,7 @@
         <note>Save button label</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton">
-        <source>Add Another Search Engine</source>
-        <target>Aggiungi un altro motore di ricerca</target>
+        <source>+ Add Another Search Engine</source>
         <note>Text for button to add another search engine in settings</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButtonWithPlus">
@@ -434,8 +488,7 @@
         <note>Label for input field for the name of the search engine to be added</note>
       </trans-unit>
       <trans-unit id="Settings.Search.NewSearchEngineAdded">
-        <source>New Search Engine Added.</source>
-        <target>Aggiunto nuovo motore di ricerca.</target>
+        <source>New Search Engine Added</source>
         <note>Toast displayed after adding a search engine</note>
       </trans-unit>
       <trans-unit id="Settings.Search.RestoreEngine">
@@ -454,8 +507,7 @@
         <note>Label for input of search engine template</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplatePlaceholder">
-        <source>Paste or enter search string. If necessary, replace search term with: %s.</source>
-        <target>Incolla o inserisci la stringa di ricerca. Se necessario sostituisci i termini di ricerca con %s.</target>
+        <source>Paste or enter search string. If necessary, replace search term with: %s</source>
         <note>Placeholder text for input of new search engine template</note>
       </trans-unit>
       <trans-unit id="Settings.autocompleteSection">
@@ -487,6 +539,10 @@
         <source>Learn more.</source>
         <target>Ulteriori informazioni.</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.rate">
+        <source>Rate Firefox Focus</source>
+        <note>Title for rating firefox in settings</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
         <source>Settings</source>
@@ -522,6 +578,10 @@
         <source>PRIVACY</source>
         <target>PRIVACY</target>
         <note>Section label for privacy toggles</note>
+      </trans-unit>
+      <trans-unit id="Settings.sectionSecurity">
+        <source>SECURITY</source>
+        <note>Section label for security toggles</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
         <source>Block ad trackers</source>
@@ -568,6 +628,14 @@
         <target>Inseriti nei siti per tenere traccia delle visite e fornire funzionalità come i pulsanti di condivisione</target>
         <note>Description for 'Block social Trackers'</note>
       </trans-unit>
+      <trans-unit id="Settings.toggleFaceID">
+        <source>Use Face ID to unlock app</source>
+        <note>Label for toggle on settings screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleFaceIDDescription">
+        <source>Face ID can unlock Firefox Focus if a URL is already open in the app</source>
+        <note>Description for 'Enable Face ID'</note>
+      </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
         <target>Alcuni video e pagine web potrebbero non funzionare</target>
@@ -583,10 +651,22 @@
         <target>Invia dati sull’uso</target>
         <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
+      <trans-unit id="Settings.toggleTouchID">
+        <source>Use Touch ID to unlock app</source>
+        <note>Label for toggle on settings screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleTouchIDDescription">
+        <source>Touch ID can unlock Firefox Focus if a URL is already open in the app</source>
+        <note>Description for 'Enable Touch ID'</note>
+      </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
         <source>What’s New</source>
         <target>Novità</target>
         <note>Title for What's new screen</note>
+      </trans-unit>
+      <trans-unit id="ShareMenu.FindInPage">
+        <source>Find in Page</source>
+        <note>Text for the share menu option when a user wants to open the find in page menu</note>
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox">
         <source>Get the Firefox App</source>
@@ -597,6 +677,10 @@
         <source>Open in %@</source>
         <target>Apri in %@</target>
         <note>Text for the share menu option when a user wants to open a page in Focus.</note>
+      </trans-unit>
+      <trans-unit id="ShareMenu.RequestDesktop">
+        <source>Request Desktop Site</source>
+        <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
         <source>Cancel</source>
@@ -617,6 +701,10 @@
         <source>Your browsing history has been erased.</source>
         <target>La cronologia di navigazione è stata eliminata.</target>
         <note>Message shown after pressing the Erase button</note>
+      </trans-unit>
+      <trans-unit id="URL.findOnPageLabel">
+        <source>Find in page: %@</source>
+        <note>Label displayed for find in page button when typing in the URL Bar</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText">
         <source>Search or enter address</source>
@@ -693,6 +781,18 @@
         <target>Esempio: searchengineexample.com/search/?q=%s</target>
         <note>Text displayed as an example of the template to add a search engine.</note>
       </trans-unit>
+      <trans-unit id="share">
+        <source>Share</source>
+        <note>Text for a share button</note>
+      </trans-unit>
+      <trans-unit id="share.trackerStatsLabel">
+        <source>%@ trackers blocked so far</source>
+        <note>Text used when the user shares their trackers blocked stats</note>
+      </trans-unit>
+      <trans-unit id="share.trackerStatsText">
+        <source>%1$@, the privacy browser from Mozilla, has already blocked %2$@ trackers for me. Fewer ads and trackers following me around means faster browsing! Get Focus for yourself here</source>
+        <note>The text shared to users after the user chooses to share there tracker stats</note>
+      </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
         <source>Ad trackers</source>
         <target>Pubblicità traccianti</target>
@@ -740,37 +840,73 @@
       </trans-unit>
     </body>
   </file>
-  <file original="ContentBlocker/Info.plist" source-language="en" datatype="plaintext" target-language="it">
+  <file original="ClientTests/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="ContentBlocker/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>$(PRODUCT_NAME)</source>
         <target>$(PRODUCT_NAME)</target>
+        <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
         <target>$(PRODUCT_NAME)</target>
-      </trans-unit>
-      <trans-unit id="CFBundleShortVersionString">
-        <source>4.0</source>
-        <target>4.0</target>
+        <note>Bundle name</note>
       </trans-unit>
     </body>
   </file>
-  <file original="OpenInFocus/Info.plist" source-language="en" datatype="plaintext" target-language="it">
+  <file original="OpenInFocus/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>$(DISPLAY_NAME)</source>
         <target>$(DISPLAY_NAME)</target>
+        <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
         <target>$(PRODUCT_NAME)</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="ScreenshotTests/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="XCUITest/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
+        <note>Bundle name</note>
       </trans-unit>
     </body>
   </file>
