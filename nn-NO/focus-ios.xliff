@@ -19,7 +19,7 @@
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription">
         <source>This lets you take and upload videos.</source>
-        <target>Dette gjer det muleg å ta og lasta opp videoar.</target>
+        <target>Dette gjer det mogleg å ta og lasta opp videoar.</target>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription">
         <source>This lets you save and upload photos.</source>
@@ -565,7 +565,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocialDescription">
         <source>Embedded on sites to track your visits and to display functionality like share buttons</source>
-        <target>Innebygd på nettstadar for å spore besøka dine og å vise funksjonalitet som dele-knappar</target>
+        <target>Innebygd på nettstadar for å spora besøka dine og å visa funksjonalitet som dele-knappar</target>
         <note>Description for 'Block social Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
@@ -595,7 +595,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.OpenInFocus">
         <source>Open in %@</source>
-        <target>Opne i %@</target>
+        <target>Opna i %@</target>
         <note>Text for the share menu option when a user wants to open a page in Focus.</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
@@ -605,7 +605,7 @@
       </trans-unit>
       <trans-unit id="URL.contextMenu">
         <source>Paste &amp; Go</source>
-        <target>Lim inn og opne</target>
+        <target>Lim inn og opna</target>
         <note>Text for the URL context menu when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
       <trans-unit id="URL.eraseButtonLabel">
@@ -635,7 +635,7 @@
       </trans-unit>
       <trans-unit id="actionSheet.openIn">
         <source>Open in %@</source>
-        <target>Opne i %@</target>
+        <target>Opna i %@</target>
         <note>Title for action sheet item to open the current page in another application. Placeholder is the name of the application to open the current page.</note>
       </trans-unit>
       <trans-unit id="browserShortcutDescription.selectLocationBar">
@@ -670,17 +670,17 @@
       </trans-unit>
       <trans-unit id="externalAppLinkWithAppName.messageTitle">
         <source>%1$@ wants to open %2$@</source>
-        <target>%1$@ ønskjer å opne %2$@</target>
+        <target>%1$@ ønskjer å opna %2$@</target>
         <note>Dialog title used for opening an external app from Focus. First placeholder string is the app name of either Focus or Klar and the second placeholder string specifies the app it wants to open.</note>
       </trans-unit>
       <trans-unit id="photosPermission.description">
         <source>This lets you save images to your Camera Roll</source>
-        <target>Dette lèt deg lagre bilde til kamerarullen din</target>
+        <target>Dette lèt deg lagra bilde til kamerarullen din</target>
         <note>Description for dialog used for requesting a user to enable access to Photos.</note>
       </trans-unit>
       <trans-unit id="photosPermission.openSettings">
         <source>Open Settings</source>
-        <target>Opne innstillingar</target>
+        <target>Opna innstillingar</target>
         <note>Title for button that takes the user to system settings</note>
       </trans-unit>
       <trans-unit id="photosPermission.title">
