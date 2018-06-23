@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription">
         <source>This lets you save and upload photos.</source>
-        <target>Lar deg lagre og laste opp bilde.</target>
+        <target>Lar deg lagra og lasta opp bilde.</target>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription">
         <source>This lets you save and upload photos.</source>
@@ -290,12 +290,12 @@
       </trans-unit>
       <trans-unit id="ExternalAppLink.messageTitle">
         <source>%@ wants to open another App</source>
-        <target>%@ ønskjer å opne ein annan app</target>
+        <target>%@ ønskjer å opna ein annan app</target>
         <note>Dialog title used for opening an external app from Focus. The placeholder string is the app name of either Focus or Klar.</note>
       </trans-unit>
       <trans-unit id="ExternalAppLink.openTitle">
         <source>Open</source>
-        <target>Opne</target>
+        <target>Opna</target>
         <note>Button label for opening another app from Focus</note>
       </trans-unit>
       <trans-unit id="ExternalLink.callButton">
@@ -325,7 +325,7 @@
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreTitle">
         <source>%@ wants to open the App Store.</source>
-        <target>%@ ønskjer å opne App Store.</target>
+        <target>%@ ønskjer å opna App Store.</target>
         <note>Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openMapsButton">
@@ -340,7 +340,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
-        <target>Automatisk blokkering av sporarar medan du surfar. Deretter trykkjer du for å slette besøkte sider, søk, informasjonskapslar og passord frå eininga.</target>
+        <target>Automatisk blokkering av sporarar medan du surfar. Deretter trykkjer du for å sletta besøkte sider, søk, informasjonskapslar og passord frå eininga.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
@@ -405,7 +405,7 @@
       </trans-unit>
       <trans-unit id="Save">
         <source>Save</source>
-        <target>Lagre</target>
+        <target>Lagra</target>
         <note>Save button label</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton">
@@ -480,7 +480,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData">
         <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
-        <target>Mozilla strevar etter å berre samle inn det vi treng for å tilby og forbetre %@ for alle.</target>
+        <target>Mozilla strevar etter å berre samla inn det vi treng for å tilby og forbetre %@ for alle.</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.learnMore">
@@ -540,7 +540,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalyticsDescription">
         <source>Used to collect, analyze and measure activities like tapping and scrolling</source>
-        <target>Brukt for å samle inn, analysere og måle aktivitetar som tastetrykk og rulling</target>
+        <target>Brukt for å samla inn, analysera og måle aktivitetar som tastetrykk og rulling</target>
         <note>Description for 'Block analytics Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
