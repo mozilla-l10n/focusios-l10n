@@ -215,7 +215,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.defaultTitle">
         <source>DEFAULT URL LIST</source>
-        <target>LISTA DEGLI INDIRIZZI PREDEFINITI</target>
+        <target>ELENCO INDIRIZZI PREDEFINITI</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
       <trans-unit id="Autocomplete.disabled">
