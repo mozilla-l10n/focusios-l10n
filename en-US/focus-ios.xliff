@@ -1,17 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Blockzilla/FindInPage.strings" source-language="en" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
+    </header>
+    <body>
+      <trans-unit id="Done">
+        <source>Done</source>
+        <target>Done</target>
+        <note>Done button in Find in Page Toolbar.</note>
+      </trans-unit>
+      <trans-unit id="Next in-page result">
+        <source>Next in-page result</source>
+        <target>Next in-page result</target>
+        <note>Accessibility label for next result button in Find in Page Toolbar.</note>
+      </trans-unit>
+      <trans-unit id="Previous in-page result">
+        <source>Previous in-page result</source>
+        <target>Previous in-page result</target>
+        <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
+      </trans-unit>
+    </body>
+  </file>
   <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
     </header>
     <body>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>4.1</source>
+        <target>4.1</target>
+      </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
         <target>This lets you take and upload photos.</target>
+      </trans-unit>
+      <trans-unit id="NSFaceIDUsageDescription">
+        <source>This lets you unlock the app.</source>
+        <target>This lets you unlock the app.</target>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
@@ -31,9 +61,9 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Blockzilla/Intro.strings" source-language="en" datatype="plaintext" target-language="en">
+  <file original="Blockzilla/en.lproj/Intro.strings" source-language="en" datatype="plaintext" target-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
     </header>
     <body>
       <trans-unit id="Intro.Slides.History.Description">
@@ -80,7 +110,7 @@
   </file>
   <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
     </header>
     <body>
       <trans-unit id="About.learnMoreButton">
@@ -233,10 +263,30 @@
         <target>Enabled</target>
         <note>label describing URL Autocomplete as enabled</note>
       </trans-unit>
+      <trans-unit id="BiometricPrompt.cancel">
+        <source>New Session</source>
+        <target>New Session</target>
+        <note>Cancel option after failing biometric check</note>
+      </trans-unit>
+      <trans-unit id="BiometricPrompt.reason">
+        <source>Authenticate to continue session.</source>
+        <target>Authenticate to continue session.</target>
+        <note>Reason for requesting biometric access</note>
+      </trans-unit>
       <trans-unit id="Browser.backLabel">
         <source>Back</source>
         <target>Back</target>
         <note>Accessibility label for the back button</note>
+      </trans-unit>
+      <trans-unit id="Browser.copyMenuLabel">
+        <source>Copy</source>
+        <target>Copy</target>
+        <note>Copy URL button in URL long press menu</note>
+      </trans-unit>
+      <trans-unit id="Browser.customURLMenuLabel">
+        <source>Add Custom URL</source>
+        <target>Add Custom URL</target>
+        <note>Custom URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.forwardLabel">
         <source>Forward</source>
@@ -268,6 +318,11 @@
         <target>Cancel</target>
         <note>Label on button to cancel edits</note>
       </trans-unit>
+      <trans-unit id="Disabled">
+        <source>Disabled</source>
+        <target>Disabled</target>
+        <note>label describing something as disabled</note>
+      </trans-unit>
       <trans-unit id="Done">
         <source>Done</source>
         <target>Done</target>
@@ -277,6 +332,11 @@
         <source>Edit</source>
         <target>Edit</target>
         <note>Label on button to allow edits</note>
+      </trans-unit>
+      <trans-unit id="Enabled">
+        <source>Enabled</source>
+        <target>Enabled</target>
+        <note>label describing something as enabled</note>
       </trans-unit>
       <trans-unit id="Error.tryAgainButton">
         <source>Try again</source>
@@ -363,6 +423,21 @@
         <target>Browse. Erase. Repeat.</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
+      <trans-unit id="Intro.stackView">
+        <source>Intro.stackView</source>
+        <target>Intro.stackView</target>
+        <note>Accessibility identifier for onboarding page indicator stack view</note>
+      </trans-unit>
+      <trans-unit id="Notification.findInPage">
+        <source>Notification.findInPage</source>
+        <target>Notification.findInPage</target>
+        <note>Notification name for opening the find in page menu.</note>
+      </trans-unit>
+      <trans-unit id="Notification.requestDesktop">
+        <source>Notification.requestDesktop</source>
+        <target>Notification.requestDesktop</target>
+        <note>Notification name for requesting a website in desktop form.</note>
+      </trans-unit>
       <trans-unit id="Open.Cancel">
         <source>Cancel</source>
         <target>Cancel</target>
@@ -382,6 +457,11 @@
         <source>Safari</source>
         <target>Safari</target>
         <note>Label in share alert to open the URL in Safari</note>
+      </trans-unit>
+      <trans-unit id="Request Desktop Site">
+        <source>Request Desktop Site</source>
+        <target>Request Desktop Site</target>
+        <note>Action Sheet Button for Requesting the Desktop Site</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers">
         <source>Tap Safari, then select Content Blockers</source>
@@ -488,6 +568,11 @@
         <target>Learn more.</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
+      <trans-unit id="Settings.rate">
+        <source>Rate Firefox Focus</source>
+        <target>Rate Firefox Focus</target>
+        <note>Title for rating firefox in settings</note>
+      </trans-unit>
       <trans-unit id="Settings.screenTitle">
         <source>Settings</source>
         <target>Settings</target>
@@ -522,6 +607,11 @@
         <source>PRIVACY</source>
         <target>PRIVACY</target>
         <note>Section label for privacy toggles</note>
+      </trans-unit>
+      <trans-unit id="Settings.sectionSecurity">
+        <source>SECURITY</source>
+        <target>SECURITY</target>
+        <note>Section label for security toggles</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
         <source>Block ad trackers</source>
@@ -568,6 +658,16 @@
         <target>Embedded on sites to track your visits and to display functionality like share buttons</target>
         <note>Description for 'Block social Trackers'</note>
       </trans-unit>
+      <trans-unit id="Settings.toggleFaceID">
+        <source>Use Face ID to unlock app</source>
+        <target>Use Face ID to unlock app</target>
+        <note>Label for toggle on settings screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleFaceIDDescription">
+        <source>Face ID can unlock Firefox Focus if a URL is already open in the app</source>
+        <target>Face ID can unlock Firefox Focus if a URL is already open in the app</target>
+        <note>Description for 'Enable Face ID'</note>
+      </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
         <target>May break some videos and Web pages</target>
@@ -583,10 +683,25 @@
         <target>Send usage data</target>
         <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
+      <trans-unit id="Settings.toggleTouchID">
+        <source>Use Touch ID to unlock app</source>
+        <target>Use Touch ID to unlock app</target>
+        <note>Label for toggle on settings screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleTouchIDDescription">
+        <source>Touch ID can unlock Firefox Focus if a URL is already open in the app</source>
+        <target>Touch ID can unlock Firefox Focus if a URL is already open in the app</target>
+        <note>Description for 'Enable Touch ID'</note>
+      </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
         <source>What’s New</source>
         <target>What’s New</target>
         <note>Title for What's new screen</note>
+      </trans-unit>
+      <trans-unit id="ShareMenu.FindInPage">
+        <source>Find in Page</source>
+        <target>Find in Page</target>
+        <note>Text for the share menu option when a user wants to open the find in page menu</note>
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox">
         <source>Get the Firefox App</source>
@@ -597,6 +712,11 @@
         <source>Open in %@</source>
         <target>Open in %@</target>
         <note>Text for the share menu option when a user wants to open a page in Focus.</note>
+      </trans-unit>
+      <trans-unit id="ShareMenu.RequestDesktop">
+        <source>Request Desktop Site</source>
+        <target>Request Desktop Site</target>
+        <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
         <source>Cancel</source>
@@ -617,6 +737,11 @@
         <source>Your browsing history has been erased.</source>
         <target>Your browsing history has been erased.</target>
         <note>Message shown after pressing the Erase button</note>
+      </trans-unit>
+      <trans-unit id="URL.findOnPageLabel">
+        <source>Find in page: %@</source>
+        <target>Find in page: %@</target>
+        <note>Label displayed for find in page button when typing in the URL Bar</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText">
         <source>Search or enter address</source>
@@ -693,6 +818,21 @@
         <target>Example: searchengineexample.com/search/?q=%s</target>
         <note>Text displayed as an example of the template to add a search engine.</note>
       </trans-unit>
+      <trans-unit id="share">
+        <source>Share</source>
+        <target>Share</target>
+        <note>Text for a share button</note>
+      </trans-unit>
+      <trans-unit id="share.trackerStatsLabel">
+        <source>%@ trackers blocked so far</source>
+        <target>%@ trackers blocked so far</target>
+        <note>Text used when the user shares their trackers blocked stats</note>
+      </trans-unit>
+      <trans-unit id="share.trackerStatsText">
+        <source>%1$@, the privacy browser from Mozilla, has already blocked %2$@ trackers for me. Fewer ads and trackers following me around means faster browsing! Get Focus for yourself here</source>
+        <target>%1$@, the privacy browser from Mozilla, has already blocked %2$@ trackers for me. Fewer ads and trackers following me around means faster browsing! Get Focus for yourself here</target>
+        <note>The text shared to users after the user chooses to share there tracker stats</note>
+      </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
         <source>Ad trackers</source>
         <target>Ad trackers</target>
@@ -740,9 +880,24 @@
       </trans-unit>
     </body>
   </file>
+  <file original="ClientTests/Info.plist" source-language="en" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+        <target>1.0</target>
+      </trans-unit>
+    </body>
+  </file>
   <file original="ContentBlocker/Info.plist" source-language="en" datatype="plaintext" target-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
@@ -754,14 +909,14 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>4.0</source>
-        <target>4.0</target>
+        <source>6.0</source>
+        <target>6.0</target>
       </trans-unit>
     </body>
   </file>
   <file original="OpenInFocus/Info.plist" source-language="en" datatype="plaintext" target-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
@@ -771,6 +926,40 @@
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
         <target>$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>6.0</source>
+        <target>6.0</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="ScreenshotTests/Info.plist" source-language="en" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+        <target>1.0</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="XCUITest/Info.plist" source-language="en" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+        <target>1.0</target>
       </trans-unit>
     </body>
   </file>
