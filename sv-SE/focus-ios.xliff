@@ -130,7 +130,7 @@
       </trans-unit>
       <trans-unit id="About.safariBullet1">
         <source>Block trackers for improved privacy</source>
-        <target>Blockera trackers för förbättrad integritet</target>
+        <target>Blockera trackers för ökad integritet</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2">
@@ -140,7 +140,7 @@
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
         <source>Use it as a Safari extension:</source>
-        <target>Använd som ett Safari tillägg:</target>
+        <target>Använd som ett Safari-tillägg:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.screenTitle">
@@ -370,7 +370,7 @@
       </trans-unit>
       <trans-unit id="Open.Firefox">
         <source>Firefox (Private Browsing)</source>
-        <target>Firefox (Privat surfning)</target>
+        <target>Firefox (privat surfning)</target>
         <note>Label in share alert to open the URL in Firefox</note>
       </trans-unit>
       <trans-unit id="Open.More">
@@ -525,7 +525,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
         <source>Block ad trackers</source>
-        <target>Blockera annons trackers</target>
+        <target>Blockera annonstrackers</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAdsDescription">
@@ -535,7 +535,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
         <source>Block analytics trackers</source>
-        <target>Blockera analys trackers</target>
+        <target>Blockera analystrackers</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalyticsDescription">
