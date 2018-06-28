@@ -11,18 +11,23 @@
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
+        <target>याद्वारे आपण फोटो घेऊ व अपलोड करू शकता.</target>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
+        <target>आपण ज्या संकेतस्थळांना भेट देत आहात ती आपल्या स्थानाची मागणी करू शकतात.</target>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription">
         <source>This lets you take and upload videos.</source>
+        <target>याद्वारे आपण व्हिडिओ घेऊ व अपलोड करू शकता.</target>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription">
         <source>This lets you save and upload photos.</source>
+        <target>याद्वारे आपण फोटो साठवू व अपलोड करू शकता.</target>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription">
         <source>This lets you save and upload photos.</source>
+        <target>याद्वारे आपण फोटो साठवू व अपलोड करू शकता.</target>
       </trans-unit>
     </body>
   </file>
@@ -33,26 +38,32 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
+        <target>आपला संपूर्ण ब्राऊझिंग इतिहास, पासवर्ड आणि कुकीज केव्हाही एका टॅप मध्ये नष्ट करा.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title">
         <source>Your history is history</source>
+        <target>आपला ब्राऊझिंग इतिहास इतिहासजमा आहे</target>
         <note>Title for the third  panel 'History' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Next.Button">
         <source>Next</source>
+        <target>पुढे</target>
         <note>Button to go to the next card in Focus onboarding.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description">
         <source>Searching for something different? Choose a different search engine.</source>
+        <target>काही वेगळे शोधताय? एखादे वेगळे शोध इंजिन वापरा.</target>
         <note>Description for the 'Favorite Search Engine' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Title">
         <source>Your search, your way</source>
+        <target>आपला शोध, आपल्या प्रमाणे</target>
         <note>Title for the second  panel 'Search' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Skip.Button">
         <source>Skip</source>
+        <target>वगळा</target>
         <note>Button to skip onboarding in Focus</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description">
@@ -61,6 +72,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Title">
         <source>Power up your privacy</source>
+        <target>आपली गोपनीयता सक्षम करा</target>
         <note>Title for the first panel 'Welcome' in the First Run tour.</note>
       </trans-unit>
     </body>
@@ -72,6 +84,7 @@
     <body>
       <trans-unit id="About.learnMoreButton">
         <source>Learn more</source>
+        <target>अधिक जाणून घ्या</target>
         <note>Button on About screen</note>
       </trans-unit>
       <trans-unit id="About.missionLabel">
@@ -80,10 +93,12 @@
       </trans-unit>
       <trans-unit id="About.privateBullet1">
         <source>Search and browse right in the app</source>
+        <target>अँप मध्येच शोध किंवा ब्राउझ करा</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet2">
         <source>Block trackers (or update settings to allow trackers)</source>
+        <target>मागोवा यंत्रणेला आडवा (किंवा मागोवा यंत्रणेला परवानगी देण्यासाठी सेटिंग करा)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3">
@@ -92,18 +107,22 @@
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
         <source>Use it as a private browser:</source>
+        <target>हे एका खाजगी ब्राउझर म्हणून वापरा:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp">
         <source>Help</source>
+        <target>मदत</target>
         <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.rowPrivacy">
         <source>Privacy Notice</source>
+        <target>गोपणीयता सूचना</target>
         <note>Link to Privacy Notice in the About screen</note>
       </trans-unit>
       <trans-unit id="About.rowRights">
         <source>Your Rights</source>
+        <target>आपले हक्क</target>
         <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet1">
@@ -116,54 +135,67 @@
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
         <source>Use it as a Safari extension:</source>
+        <target>हे Safari विस्तार म्हणून वापरा:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.screenTitle">
         <source>About</source>
+        <target>याबद्दल</target>
         <note>Title for the About screen</note>
       </trans-unit>
       <trans-unit id="About.topLabel">
         <source>%@ puts you in control.</source>
+        <target>%@ आपल्याला नियंत्रणात ठेवते.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrl">
         <source>Add Custom URL</source>
+        <target>सानुकूल URL जोडा</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlError">
         <source>Double-check the URL you entered.</source>
+        <target>आपण प्रविष्ट केलेली URL दोनदा-तपासा.</target>
         <note>Label for error state when entering an invalid URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlExample">
         <source>Example: example.com</source>
+        <target>उदाहरण: example.com</target>
         <note>A label displaying an example URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlLabel">
         <source>URL to add</source>
+        <target>जोडण्यासाठी URL</target>
         <note>Label for the input to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlPlaceholder">
         <source>Paste or enter URL</source>
+        <target>चिकटवा किंवा URL प्रविष्ट करा</target>
         <note>Placeholder for the input field to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlWithPlus">
         <source>+ Add Custom URL</source>
+        <target>+ सानुकूल URL जोडा</target>
         <note>Label for button to add a custom URL with the + prefix</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customDescriptoin">
         <source>Add and manage custom autocomplete URLs.</source>
+        <target>सानुकूल स्वयंपूर्ण URLs जोडा आणि व्यवस्थापित करा.</target>
         <note>Description for adding and managing custom autocomplete URLs</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customLabel">
         <source>Custom URLs</source>
+        <target>सानुकूल URLs</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customTitle">
         <source>CUSTOM URL LIST</source>
+        <target>CUSTOM URL LIST</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customUrlAdded">
         <source>New Custom URL added.</source>
+        <target>नवीन सानुकूल URL जोडली.</target>
         <note>Label for toast alerting a custom URL has been added</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin">
@@ -172,66 +204,82 @@
       </trans-unit>
       <trans-unit id="Autocomplete.defaultLabel">
         <source>Autocomplete</source>
+        <target>स्वयंपूर्ण</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultTitle">
         <source>DEFAULT URL LIST</source>
+        <target>DEFAULT URL LIST</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
       <trans-unit id="Autocomplete.disabled">
         <source>Disabled</source>
+        <target>अक्षम केलेले</target>
         <note>label describing URL Autocomplete as disabled</note>
       </trans-unit>
       <trans-unit id="Autocomplete.emptyState">
         <source>No Custom URLs to display</source>
+        <target>प्रदर्शित करण्यासाठी कोणतीही सानुकूल URL नाहीत</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.enabled">
         <source>Enabled</source>
+        <target>सक्षम</target>
         <note>label describing URL Autocomplete as enabled</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel">
         <source>Back</source>
+        <target>मागे</target>
         <note>Accessibility label for the back button</note>
       </trans-unit>
       <trans-unit id="Browser.forwardLabel">
         <source>Forward</source>
+        <target>पुढे</target>
         <note>Accessibility label for the forward button</note>
       </trans-unit>
       <trans-unit id="Browser.reloadLabel">
         <source>Reload</source>
+        <target>पुन्हा लोड करा</target>
         <note>Accessibility label for the reload button</note>
       </trans-unit>
       <trans-unit id="Browser.settingsLabel">
         <source>Settings</source>
+        <target>सेटिंग</target>
         <note>Accessibility label for the settings button</note>
       </trans-unit>
       <trans-unit id="Browser.shareLabel">
         <source>Share</source>
+        <target>शेअर करा</target>
         <note>Accessibility label for the share button</note>
       </trans-unit>
       <trans-unit id="Browser.stopLabel">
         <source>Stop</source>
+        <target>थांबा</target>
         <note>Accessibility label for the stop button</note>
       </trans-unit>
       <trans-unit id="Cancel">
         <source>Cancel</source>
+        <target>रद्द करा</target>
         <note>Label on button to cancel edits</note>
       </trans-unit>
       <trans-unit id="Done">
         <source>Done</source>
+        <target>पूर्ण झाले</target>
         <note>Label on button to complete edits</note>
       </trans-unit>
       <trans-unit id="Edit">
         <source>Edit</source>
+        <target>संपादित करा</target>
         <note>Label on button to allow edits</note>
       </trans-unit>
       <trans-unit id="Error.tryAgainButton">
         <source>Try again</source>
+        <target>पुन्हा प्रयत्न करा</target>
         <note>Button label to reload the error page</note>
       </trans-unit>
       <trans-unit id="ExternalAppLink.cancelTitle">
         <source>Cancel</source>
+        <target>रद्द करा</target>
         <note>Button label used for cancelling to open another app from Focus</note>
       </trans-unit>
       <trans-unit id="ExternalAppLink.messageTitle">
@@ -240,38 +288,47 @@
       </trans-unit>
       <trans-unit id="ExternalAppLink.openTitle">
         <source>Open</source>
+        <target>उघडा</target>
         <note>Button label for opening another app from Focus</note>
       </trans-unit>
       <trans-unit id="ExternalLink.callButton">
         <source>Call</source>
+        <target>कॉल करा</target>
         <note>Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.cancelButton">
         <source>Cancel</source>
+        <target>रद्द करा</target>
         <note>Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.emailButton">
         <source>Email</source>
+        <target>ईमेल</target>
         <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.messageTitleWithPlaceholder">
         <source>You are now leaving %@.</source>
+        <target>आपण आता %@ वर जात आहात.</target>
         <note>Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreButton">
         <source>Open App Store</source>
+        <target>App Store उघडा</target>
         <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreTitle">
         <source>%@ wants to open the App Store.</source>
+        <target>%@ ला App Store उघडायचे आहे.</target>
         <note>Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openMapsButton">
         <source>Open Maps</source>
+        <target>नकाशे उघडा</target>
         <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel">
         <source>OK, Got It!</source>
+        <target>ठीक आहे, समजले!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
@@ -280,14 +337,17 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
         <source>Browse like no one’s watching.</source>
+        <target>कोणीच पाहत नाही आहे असे ब्राउजिंग करा.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="Focus.handoffSyncing">
         <source>Apple Handoff is syncing</source>
+        <target>Apple Handoff सिंक करीत आहे</target>
         <note>Title for the loading screen when the handoff of clipboard delays Focus launch. “Handoff” should not be localized, see https://support.apple.com/HT204681</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
         <source>Automatic private browsing.</source>
+        <target>स्वयंचलित खाजगी ब्राउझिंग.</target>
         <note>First label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel2">
