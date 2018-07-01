@@ -710,7 +710,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.disabledLabel">
         <source>Tracking Protection off</source>
-        <target>Schutz vor Aktivitätenverfolgung aus</target>
+        <target>Tracking-Schutz aus</target>
         <note>text showing the tracking protection is disabled.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.learnMore">
@@ -730,7 +730,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel">
         <source>Tracking Protection</source>
-        <target>Schutz vor Aktivitätenverfolgung</target>
+        <target>Tracking-Schutz</target>
         <note>Text for the toggle that temporarily disables tracking protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.trackerDescriptionLabel">
