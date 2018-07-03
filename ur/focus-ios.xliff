@@ -177,6 +177,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlWithPlus">
         <source>+ Add Custom URL</source>
+        <target>تخصیصی URL کا + اظافہ کریں</target>
         <note>Label for button to add a custom URL with the + prefix</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customDescriptoin">
