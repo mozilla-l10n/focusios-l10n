@@ -1,5 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Blockzilla/Find in page done.strings" source-language="en" datatype="plaintext" target-language="pt-BR">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+    </header>
+    <body>
+      <trans-unit id="FindInPage.Done">
+        <source>FindInPage.Done</source>
+        <note>Done button in Find in Page Toolbar.</note>
+      </trans-unit>
+    </body>
+  </file>
   <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="pt-BR">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
@@ -12,6 +23,9 @@
       <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
         <target>Isso permite tirar fotos e enviá-las.</target>
+      </trans-unit>
+      <trans-unit id="NSFaceIDUsageDescription">
+        <source>This lets you unlock the app.</source>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
@@ -146,7 +160,7 @@
       <trans-unit id="About.screenTitle">
         <source>About</source>
         <target>Sobre</target>
-        <note>Title for the About screen</note>
+        <note>%@ is the product name (Focus/Klar). Title for the About screen</note>
       </trans-unit>
       <trans-unit id="About.topLabel">
         <source>%@ puts you in control.</source>
@@ -233,10 +247,26 @@
         <target>Ativado</target>
         <note>label describing URL Autocomplete as enabled</note>
       </trans-unit>
+      <trans-unit id="BiometricPrompt.newSession">
+        <source>New Session</source>
+        <note>Create a new session after failing a biometric check</note>
+      </trans-unit>
+      <trans-unit id="BiometricPrompt.reason">
+        <source>Unlock %@ when re-opening in order to prevent unauthorized access.</source>
+        <note>%@ is app name. Explanation for why the app needs access to biometric information. Prompt is only shown once when the user first tries to enable Face ID to open the app.</note>
+      </trans-unit>
       <trans-unit id="Browser.backLabel">
         <source>Back</source>
         <target>Voltar</target>
         <note>Accessibility label for the back button</note>
+      </trans-unit>
+      <trans-unit id="Browser.copyMenuLabel">
+        <source>Copy</source>
+        <note>Copy URL button in URL long press menu</note>
+      </trans-unit>
+      <trans-unit id="Browser.customURLMenuLabel">
+        <source>Add Custom URL</source>
+        <note>Custom URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.forwardLabel">
         <source>Forward</source>
@@ -333,6 +363,14 @@
         <target>Abrir Maps</target>
         <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
+      <trans-unit id="FindInPage.NextResult">
+        <source>Find next in page</source>
+        <note>Accessibility label for next result button in Find in Page Toolbar.</note>
+      </trans-unit>
+      <trans-unit id="FindInPage.PreviousResult">
+        <source>Find previous in page</source>
+        <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
+      </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel">
         <source>OK, Got It!</source>
         <target>OK, entendi!</target>
@@ -382,6 +420,10 @@
         <source>Safari</source>
         <target>Safari</target>
         <note>Label in share alert to open the URL in Safari</note>
+      </trans-unit>
+      <trans-unit id="Request Desktop Site">
+        <source>Request Desktop Site</source>
+        <note>Label for button that requests the desktop version of the currently loaded website.</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers">
         <source>Tap Safari, then select Content Blockers</source>
@@ -488,6 +530,10 @@
         <target>Saiba mais.</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
+      <trans-unit id="Settings.rate">
+        <source>Rate %@</source>
+        <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, allows the user to leave a review for the app on the app store.</note>
+      </trans-unit>
       <trans-unit id="Settings.screenTitle">
         <source>Settings</source>
         <target>Configurações</target>
@@ -522,6 +568,10 @@
         <source>PRIVACY</source>
         <target>PRIVACIDADE</target>
         <note>Section label for privacy toggles</note>
+      </trans-unit>
+      <trans-unit id="Settings.sectionSecurity">
+        <source>SECURITY</source>
+        <note>Header label for security toggles displayed in the settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
         <source>Block ad trackers</source>
@@ -568,6 +618,14 @@
         <target>Inserido em sites para rastrear suas visitas e exibir funcionalidades como botões de compartilhamento</target>
         <note>Description for 'Block social Trackers'</note>
       </trans-unit>
+      <trans-unit id="Settings.toggleFaceID">
+        <source>Use Face ID to unlock app</source>
+        <note>Label for toggle on settings screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleFaceIDDescription">
+        <source>Face ID can unlock %@ if a URL is already open in the app</source>
+        <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
+      </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
         <target>Pode quebrar alguns vídeos e páginas web</target>
@@ -583,10 +641,22 @@
         <target>Enviar dados de uso</target>
         <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
+      <trans-unit id="Settings.toggleTouchID">
+        <source>Use Touch ID to unlock app</source>
+        <note>Label for toggle on settings screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleTouchIDDescription">
+        <source>Touch ID can unlock %@ if a URL is already open in the app</source>
+        <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
+      </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
         <source>What’s New</source>
         <target>O que há de novo</target>
         <note>Title for What's new screen</note>
+      </trans-unit>
+      <trans-unit id="ShareMenu.FindInPage">
+        <source>Find in Page</source>
+        <note>Text for the share menu option when a user wants to open the find in page menu</note>
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox">
         <source>Get the Firefox App</source>
@@ -597,6 +667,10 @@
         <source>Open in %@</source>
         <target>Abrir no %@</target>
         <note>Text for the share menu option when a user wants to open a page in Focus.</note>
+      </trans-unit>
+      <trans-unit id="ShareMenu.RequestDesktop">
+        <source>Request Desktop Site</source>
+        <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
         <source>Cancel</source>
@@ -617,6 +691,10 @@
         <source>Your browsing history has been erased.</source>
         <target>Seu histórico de navegação foi apagado.</target>
         <note>Message shown after pressing the Erase button</note>
+      </trans-unit>
+      <trans-unit id="URL.findOnPageLabel">
+        <source>Find in page: %@</source>
+        <note>Label displayed for find in page button when typing in the URL Bar. %@ is any text the user has typed into the URL bar that they want to find on the current page.</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText">
         <source>Search or enter address</source>
@@ -693,6 +771,10 @@
         <target>Exemplo: nomedomecanismodepesquisa.com/search/?q= %s</target>
         <note>Text displayed as an example of the template to add a search engine.</note>
       </trans-unit>
+      <trans-unit id="share">
+        <source>Share</source>
+        <note>Text for a share button</note>
+      </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
         <source>Ad trackers</source>
         <target>Rastreadores de anúncios</target>
@@ -752,10 +834,6 @@
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
         <target>$(PRODUCT_NAME)</target>
-      </trans-unit>
-      <trans-unit id="CFBundleShortVersionString">
-        <source>4.0</source>
-        <target>4.0</target>
       </trans-unit>
     </body>
   </file>
