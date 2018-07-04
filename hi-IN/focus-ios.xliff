@@ -1,17 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Blockzilla/Find in page done.strings" source-language="en" datatype="plaintext" target-language="hi-IN">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3" build-num="8E162"/>
+    </header>
+    <body>
+      <trans-unit id="FindInPage.Done">
+        <source>FindInPage.Done</source>
+        <note>Done button in Find in Page Toolbar.</note>
+      </trans-unit>
+    </body>
+  </file>
   <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="hi-IN">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3" build-num="8E162"/>
     </header>
     <body>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>6.0</source>
+        <target>6.0</target>
+      </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
         <target>यह आपको तस्वीरें लेने और अपलोड करने देता है.</target>
+      </trans-unit>
+      <trans-unit id="NSFaceIDUsageDescription">
+        <source>This lets you unlock the app.</source>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
@@ -31,56 +49,48 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Blockzilla/Intro.strings" source-language="en" datatype="plaintext" target-language="hi-IN">
+  <file original="Blockzilla/en.lproj/Intro.strings" source-language="en" datatype="plaintext" target-language="hi-IN">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3" build-num="8E162"/>
     </header>
     <body>
       <trans-unit id="Intro.Slides.History.Description">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
-        <target>अपने ब्राउज़िंग सत्र का इतिहास, कूटशब्दो, और स्मृतिशेषों को किसी भी समय एक टैप में मिटाएँ.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title">
         <source>Your history is history</source>
-        <target>आपका इतिहास अब इतिहास है</target>
         <note>Title for the third  panel 'History' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Next.Button">
         <source>Next</source>
-        <target>अगला</target>
         <note>Button to go to the next card in Focus onboarding.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description">
         <source>Searching for something different? Choose a different search engine.</source>
-        <target>कुछ अलग खोज रहे हैं? एक दूसरा खोज इंजन चुनें.</target>
         <note>Description for the 'Favorite Search Engine' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Title">
         <source>Your search, your way</source>
-        <target>आपकी खोज, आपका तरीका</target>
         <note>Title for the second  panel 'Search' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Skip.Button">
         <source>Skip</source>
-        <target>छोड़ें</target>
         <note>Button to skip onboarding in Focus</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description">
         <source>Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.</source>
-        <target>निजी ब्राउज़िंग को अगले स्तर पर ले जाएँ. उन विज्ञापनों और अन्य तत्वों को रोकें जो आपको साइटों पर पीछा करते हैं और पृष्ट लोड समय को बढ़ाते हैं.</target>
         <note>Description for the 'Welcome' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Title">
         <source>Power up your privacy</source>
-        <target>अपनी गोपनीयता को बढ़ाएं</target>
         <note>Title for the first panel 'Welcome' in the First Run tour.</note>
       </trans-unit>
     </body>
   </file>
   <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="hi-IN">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3" build-num="8E162"/>
     </header>
     <body>
       <trans-unit id="About.learnMoreButton">
@@ -146,7 +156,7 @@
       <trans-unit id="About.screenTitle">
         <source>About</source>
         <target>के बारे में</target>
-        <note>Title for the About screen</note>
+        <note>%@ is the product name (Focus/Klar). Title for the About screen</note>
       </trans-unit>
       <trans-unit id="About.topLabel">
         <source>%@ puts you in control.</source>
@@ -233,10 +243,26 @@
         <target>सक्रिय</target>
         <note>label describing URL Autocomplete as enabled</note>
       </trans-unit>
+      <trans-unit id="BiometricPrompt.newSession">
+        <source>New Session</source>
+        <note>Create a new session after failing a biometric check</note>
+      </trans-unit>
+      <trans-unit id="BiometricPrompt.reason">
+        <source>Unlock %@ when re-opening in order to prevent unauthorized access.</source>
+        <note>%@ is app name. Explanation for why the app needs access to biometric information. Prompt is only shown once when the user first tries to enable Face ID to open the app.</note>
+      </trans-unit>
       <trans-unit id="Browser.backLabel">
         <source>Back</source>
         <target>वापस</target>
         <note>Accessibility label for the back button</note>
+      </trans-unit>
+      <trans-unit id="Browser.copyMenuLabel">
+        <source>Copy</source>
+        <note>Copy URL button in URL long press menu</note>
+      </trans-unit>
+      <trans-unit id="Browser.customURLMenuLabel">
+        <source>Add Custom URL</source>
+        <note>Custom URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.forwardLabel">
         <source>Forward</source>
@@ -333,6 +359,14 @@
         <target>नक्शा खोलें</target>
         <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
+      <trans-unit id="FindInPage.NextResult">
+        <source>Find next in page</source>
+        <note>Accessibility label for next result button in Find in Page Toolbar.</note>
+      </trans-unit>
+      <trans-unit id="FindInPage.PreviousResult">
+        <source>Find previous in page</source>
+        <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
+      </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel">
         <source>OK, Got It!</source>
         <target>ठीक है, समझ गया!</target>
@@ -382,6 +416,10 @@
         <source>Safari</source>
         <target>Safari</target>
         <note>Label in share alert to open the URL in Safari</note>
+      </trans-unit>
+      <trans-unit id="Request Desktop Site">
+        <source>Request Desktop Site</source>
+        <note>Label for button that requests the desktop version of the currently loaded website.</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers">
         <source>Tap Safari, then select Content Blockers</source>
@@ -488,6 +526,10 @@
         <target>और जानें.</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
+      <trans-unit id="Settings.rate">
+        <source>Rate %@</source>
+        <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, allows the user to leave a review for the app on the app store.</note>
+      </trans-unit>
       <trans-unit id="Settings.screenTitle">
         <source>Settings</source>
         <target>सेटिंग्स</target>
@@ -522,6 +564,10 @@
         <source>PRIVACY</source>
         <target>गोपनीयता</target>
         <note>Section label for privacy toggles</note>
+      </trans-unit>
+      <trans-unit id="Settings.sectionSecurity">
+        <source>SECURITY</source>
+        <note>Header label for security toggles displayed in the settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
         <source>Block ad trackers</source>
@@ -568,6 +614,14 @@
         <target>साइटों पर सन्निहित, आपके भ्रमणों पर निगाह रखने और साझा बटन जैसे कार्यक्षमता प्रदर्शित करने के लिए</target>
         <note>Description for 'Block social Trackers'</note>
       </trans-unit>
+      <trans-unit id="Settings.toggleFaceID">
+        <source>Use Face ID to unlock app</source>
+        <note>Label for toggle on settings screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleFaceIDDescription">
+        <source>Face ID can unlock %@ if a URL is already open in the app</source>
+        <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
+      </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
         <target>कुछ वीडियो और वेब पृष्ठों को नुकसान पहुँच सकता है</target>
@@ -583,10 +637,22 @@
         <target>उपयोग डेटा भेजें</target>
         <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
+      <trans-unit id="Settings.toggleTouchID">
+        <source>Use Touch ID to unlock app</source>
+        <note>Label for toggle on settings screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleTouchIDDescription">
+        <source>Touch ID can unlock %@ if a URL is already open in the app</source>
+        <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
+      </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
         <source>What’s New</source>
         <target>क्या नया है</target>
         <note>Title for What's new screen</note>
+      </trans-unit>
+      <trans-unit id="ShareMenu.FindInPage">
+        <source>Find in Page</source>
+        <note>Text for the share menu option when a user wants to open the find in page menu</note>
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox">
         <source>Get the Firefox App</source>
@@ -597,6 +663,10 @@
         <source>Open in %@</source>
         <target>%@ में खोलें</target>
         <note>Text for the share menu option when a user wants to open a page in Focus.</note>
+      </trans-unit>
+      <trans-unit id="ShareMenu.RequestDesktop">
+        <source>Request Desktop Site</source>
+        <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
         <source>Cancel</source>
@@ -617,6 +687,10 @@
         <source>Your browsing history has been erased.</source>
         <target>आपका ब्राउज़िंग इतिहास मिटा दिया गया है.</target>
         <note>Message shown after pressing the Erase button</note>
+      </trans-unit>
+      <trans-unit id="URL.findOnPageLabel">
+        <source>Find in page: %@</source>
+        <note>Label displayed for find in page button when typing in the URL Bar. %@ is any text the user has typed into the URL bar that they want to find on the current page.</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText">
         <source>Search or enter address</source>
@@ -693,6 +767,10 @@
         <target>उदाहरण: searchengineexample.com/search/?q=%s</target>
         <note>Text displayed as an example of the template to add a search engine.</note>
       </trans-unit>
+      <trans-unit id="share">
+        <source>Share</source>
+        <note>Text for a share button</note>
+      </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
         <source>Ad trackers</source>
         <target>विज्ञापन ट्रैकर्स</target>
@@ -740,9 +818,24 @@
       </trans-unit>
     </body>
   </file>
+  <file original="ClientTests/Info.plist" source-language="en" datatype="plaintext" target-language="hi-IN">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3" build-num="8E162"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+        <target>1.0</target>
+      </trans-unit>
+    </body>
+  </file>
   <file original="ContentBlocker/Info.plist" source-language="en" datatype="plaintext" target-language="hi-IN">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3" build-num="8E162"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
@@ -754,14 +847,14 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>4.0</source>
-        <target>4.0</target>
+        <source>6.0</source>
+        <target>6.0</target>
       </trans-unit>
     </body>
   </file>
   <file original="OpenInFocus/Info.plist" source-language="en" datatype="plaintext" target-language="hi-IN">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3" build-num="8E162"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
@@ -771,6 +864,40 @@
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
         <target>$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>6.0</source>
+        <target>6.0</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="ScreenshotTests/Info.plist" source-language="en" datatype="plaintext" target-language="hi-IN">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3" build-num="8E162"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+        <target>1.0</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="XCUITest/Info.plist" source-language="en" datatype="plaintext" target-language="hi-IN">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3" build-num="8E162"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+        <target>1.0</target>
       </trans-unit>
     </body>
   </file>
