@@ -1,86 +1,79 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="fa">
+  <file original="Blockzilla/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
     </header>
     <body>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
         <target>$(PRODUCT_NAME)</target>
+        <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
-        <target>به شما اجازه گرفتن و بارگذاری تصاویر را می‌دهد.</target>
+        <note>Privacy - Camera Usage Description</note>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
-        <target>وب‌سایت‌هایی که بازدید می‌کنید ممکن است مکان شما را درخواست کنند.</target>
+        <note>Privacy - Location When In Use Usage Description</note>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription">
         <source>This lets you take and upload videos.</source>
-        <target>به شما اجازه گرفتن و بارگذاری ویدئوها را می‌دهد.</target>
+        <note>Privacy - Microphone Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription">
         <source>This lets you save and upload photos.</source>
-        <target>این به شما اجازه می‌ دهد تصاویر ذخیره و بارگذاری کنید.</target>
+        <note>Privacy - Photo Library Additions Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription">
         <source>This lets you save and upload photos.</source>
-        <target>به شما اجازه گرفتن و بارگذاری تصاویر را می‌دهد.</target>
+        <note>Privacy - Photo Library Usage Description</note>
       </trans-unit>
     </body>
   </file>
-  <file original="Blockzilla/Intro.strings" source-language="en" datatype="plaintext" target-language="fa">
+  <file original="Blockzilla/en.lproj/Intro.strings" datatype="plaintext" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
     </header>
     <body>
       <trans-unit id="Intro.Slides.History.Description">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
-        <target>تمام تاریخچه،‌کلمه عبور،‌و کوکی های جلسه مرورگر خود را در هر زمانی تنها با یک لمس پاک کنید.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title">
         <source>Your history is history</source>
-        <target>تایخچه شما تاریخچه خود شماست</target>
         <note>Title for the third  panel 'History' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Next.Button">
         <source>Next</source>
-        <target>بعدی</target>
         <note>Button to go to the next card in Focus onboarding.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description">
         <source>Searching for something different? Choose a different search engine.</source>
-        <target>دنبال چیز متفاوتی میگردید؟ موتور جست‌وجو متفاوتی را انتخاب کنید.</target>
         <note>Description for the 'Favorite Search Engine' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Title">
         <source>Your search, your way</source>
-        <target>جست‌وجو شما،‌راه شما</target>
         <note>Title for the second  panel 'Search' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Skip.Button">
         <source>Skip</source>
-        <target>پرش</target>
         <note>Button to skip onboarding in Focus</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description">
         <source>Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.</source>
-        <target>پیشرفت مرورگر خصوصی به سطحی بالاتر. مسدود کردن تبلیغات و محتواهای دیگر که می‌تواند شما را در طول بازدید وب‌سایت ها رهگیری کنند یا زمان بارگذاری صفحه را همانند گیرکردن در باتلاق کم کنند.</target>
         <note>Description for the 'Welcome' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Title">
         <source>Power up your privacy</source>
-        <target>حریم شخصی خود را ارتقاع دهید</target>
         <note>Title for the first panel 'Welcome' in the First Run tour.</note>
       </trans-unit>
     </body>
   </file>
-  <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="fa">
+  <file original="Blockzilla/en.lproj/Localizable.strings" datatype="plaintext" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
     </header>
     <body>
       <trans-unit id="About.learnMoreButton">
@@ -144,8 +137,7 @@
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.screenTitle">
-        <source>About</source>
-        <target>درباره</target>
+        <source>About Firefox Focus</source>
         <note>Title for the About screen</note>
       </trans-unit>
       <trans-unit id="About.topLabel">
@@ -268,6 +260,10 @@
         <target>لغو</target>
         <note>Label on button to cancel edits</note>
       </trans-unit>
+      <trans-unit id="Disabled">
+        <source>Disabled</source>
+        <note>label describing something as disabled</note>
+      </trans-unit>
       <trans-unit id="Done">
         <source>Done</source>
         <target>انجام شد</target>
@@ -277,6 +273,10 @@
         <source>Edit</source>
         <target>ویرایش</target>
         <note>Label on button to allow edits</note>
+      </trans-unit>
+      <trans-unit id="Enabled">
+        <source>Enabled</source>
+        <note>label describing something as enabled</note>
       </trans-unit>
       <trans-unit id="Error.tryAgainButton">
         <source>Try again</source>
@@ -409,8 +409,7 @@
         <note>Save button label</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton">
-        <source>Add Another Search Engine</source>
-        <target>اضافه کردن موتور جست‌وجو دیگر</target>
+        <source>+ Add Another Search Engine</source>
         <note>Text for button to add another search engine in settings</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButtonWithPlus">
@@ -434,8 +433,7 @@
         <note>Label for input field for the name of the search engine to be added</note>
       </trans-unit>
       <trans-unit id="Settings.Search.NewSearchEngineAdded">
-        <source>New Search Engine Added.</source>
-        <target>موتور جست‌وجو جدید اضافه شد.</target>
+        <source>New Search Engine Added</source>
         <note>Toast displayed after adding a search engine</note>
       </trans-unit>
       <trans-unit id="Settings.Search.RestoreEngine">
@@ -454,8 +452,7 @@
         <note>Label for input of search engine template</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplatePlaceholder">
-        <source>Paste or enter search string. If necessary, replace search term with: %s.</source>
-        <target>جای‌گذاری یا ورود رشتهٔ جست‌وجو. در صورت لزوم، شرط جست‌وجو را با %s جایگزین کنید.</target>
+        <source>Paste or enter search string. If necessary, replace search term with: %s</source>
         <note>Placeholder text for input of new search engine template</note>
       </trans-unit>
       <trans-unit id="Settings.autocompleteSection">
@@ -693,6 +690,18 @@
         <target>مثال: searchengineexample.com/search/?q=%s</target>
         <note>Text displayed as an example of the template to add a search engine.</note>
       </trans-unit>
+      <trans-unit id="share">
+        <source>Share</source>
+        <note>Text for a share button</note>
+      </trans-unit>
+      <trans-unit id="share.trackerStatsLabel">
+        <source>%@ trackers blocked so far</source>
+        <note>Text used when the user shares their trackers blocked stats</note>
+      </trans-unit>
+      <trans-unit id="share.trackerStatsText">
+        <source>%1$@, the privacy browser from Mozilla, has already blocked %2$@ trackers for me. Fewer ads and trackers following me around means faster browsing! Get Focus for yourself here</source>
+        <note>The text shared to users after the user chooses to share there tracker stats</note>
+      </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
         <source>Ad trackers</source>
         <target>دنبال کننده تبلیغ</target>
@@ -740,37 +749,73 @@
       </trans-unit>
     </body>
   </file>
-  <file original="ContentBlocker/Info.plist" source-language="en" datatype="plaintext" target-language="fa">
+  <file original="ClientTests/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="ContentBlocker/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>$(PRODUCT_NAME)</source>
         <target>$(PRODUCT_NAME)</target>
+        <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
         <target>$(PRODUCT_NAME)</target>
-      </trans-unit>
-      <trans-unit id="CFBundleShortVersionString">
-        <source>4.0</source>
-        <target>4.0</target>
+        <note>Bundle name</note>
       </trans-unit>
     </body>
   </file>
-  <file original="OpenInFocus/Info.plist" source-language="en" datatype="plaintext" target-language="fa">
+  <file original="OpenInFocus/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>$(DISPLAY_NAME)</source>
         <target>$(DISPLAY_NAME)</target>
+        <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
         <target>$(PRODUCT_NAME)</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="ScreenshotTests/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="XCUITest/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
+        <note>Bundle name</note>
       </trans-unit>
     </body>
   </file>
