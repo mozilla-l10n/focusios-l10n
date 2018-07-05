@@ -1,17 +1,43 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Blockzilla/FindInPage.strings" source-language="en" datatype="plaintext" target-language="bs">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3" build-num="8E162"/>
+    </header>
+    <body>
+      <trans-unit id="Done">
+        <source>Done</source>
+        <note>Done button in Find in Page Toolbar.</note>
+      </trans-unit>
+      <trans-unit id="Next in-page result">
+        <source>Next in-page result</source>
+        <note>Accessibility label for next result button in Find in Page Toolbar.</note>
+      </trans-unit>
+      <trans-unit id="Previous in-page result">
+        <source>Previous in-page result</source>
+        <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
+      </trans-unit>
+    </body>
+  </file>
   <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="bs">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3" build-num="8E162"/>
     </header>
     <body>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>4.1</source>
+        <target>4.1</target>
+      </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
         <target>Ovo vam omogućava slikanje i otpremanje fotografija.</target>
+      </trans-unit>
+      <trans-unit id="NSFaceIDUsageDescription">
+        <source>This lets you unlock the app.</source>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
@@ -31,56 +57,48 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Blockzilla/Intro.strings" source-language="en" datatype="plaintext" target-language="bs">
+  <file original="Blockzilla/en.lproj/Intro.strings" source-language="en" datatype="plaintext" target-language="bs">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3" build-num="8E162"/>
     </header>
     <body>
       <trans-unit id="Intro.Slides.History.Description">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
-        <target>Izbrišite svoju historiju pretraživanja, lozinke i kolačiće bilo kada s jednim dodirom.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title">
         <source>Your history is history</source>
-        <target>Vaša historija je historija</target>
         <note>Title for the third  panel 'History' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Next.Button">
         <source>Next</source>
-        <target>Sljedeće</target>
         <note>Button to go to the next card in Focus onboarding.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description">
         <source>Searching for something different? Choose a different search engine.</source>
-        <target>Tražite nešto drugačije? Izaberite drugi pretraživač.</target>
         <note>Description for the 'Favorite Search Engine' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Title">
         <source>Your search, your way</source>
-        <target>Tražite, na svoj način</target>
         <note>Title for the second  panel 'Search' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Skip.Button">
         <source>Skip</source>
-        <target>Preskoči</target>
         <note>Button to skip onboarding in Focus</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description">
         <source>Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.</source>
-        <target>Unaprijedite privatno pretraživanje. Blokirajte reklame i drugi sadržaj koji vas mogu pratiti putem stranica i ubrzajte učitavanje stranica.</target>
         <note>Description for the 'Welcome' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Title">
         <source>Power up your privacy</source>
-        <target>Osnažite vašu privatnost</target>
         <note>Title for the first panel 'Welcome' in the First Run tour.</note>
       </trans-unit>
     </body>
   </file>
   <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="bs">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3" build-num="8E162"/>
     </header>
     <body>
       <trans-unit id="About.learnMoreButton">
@@ -233,10 +251,26 @@
         <target>Omogućeno</target>
         <note>label describing URL Autocomplete as enabled</note>
       </trans-unit>
+      <trans-unit id="BiometricPrompt.cancel">
+        <source>New Session</source>
+        <note>Cancel option after failing biometric check</note>
+      </trans-unit>
+      <trans-unit id="BiometricPrompt.reason">
+        <source>Authenticate to continue session.</source>
+        <note>Reason for requesting biometric access</note>
+      </trans-unit>
       <trans-unit id="Browser.backLabel">
         <source>Back</source>
         <target>Nazad</target>
         <note>Accessibility label for the back button</note>
+      </trans-unit>
+      <trans-unit id="Browser.copyMenuLabel">
+        <source>Copy</source>
+        <note>Copy URL button in URL long press menu</note>
+      </trans-unit>
+      <trans-unit id="Browser.customURLMenuLabel">
+        <source>Add Custom URL</source>
+        <note>Custom URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.forwardLabel">
         <source>Forward</source>
@@ -268,6 +302,10 @@
         <target>Otkaži</target>
         <note>Label on button to cancel edits</note>
       </trans-unit>
+      <trans-unit id="Disabled">
+        <source>Disabled</source>
+        <note>label describing something as disabled</note>
+      </trans-unit>
       <trans-unit id="Done">
         <source>Done</source>
         <target>Gotovo</target>
@@ -277,6 +315,10 @@
         <source>Edit</source>
         <target>Uredi</target>
         <note>Label on button to allow edits</note>
+      </trans-unit>
+      <trans-unit id="Enabled">
+        <source>Enabled</source>
+        <note>label describing something as enabled</note>
       </trans-unit>
       <trans-unit id="Error.tryAgainButton">
         <source>Try again</source>
@@ -363,6 +405,18 @@
         <target>Pretražuj. Briši. Ponovi.</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
+      <trans-unit id="Intro.stackView">
+        <source>Intro.stackView</source>
+        <note>Accessibility identifier for onboarding page indicator stack view</note>
+      </trans-unit>
+      <trans-unit id="Notification.findInPage">
+        <source>Notification.findInPage</source>
+        <note>Notification name for opening the find in page menu.</note>
+      </trans-unit>
+      <trans-unit id="Notification.requestDesktop">
+        <source>Notification.requestDesktop</source>
+        <note>Notification name for requesting a website in desktop form.</note>
+      </trans-unit>
       <trans-unit id="Open.Cancel">
         <source>Cancel</source>
         <target>Otkaži</target>
@@ -382,6 +436,10 @@
         <source>Safari</source>
         <target>Safari</target>
         <note>Label in share alert to open the URL in Safari</note>
+      </trans-unit>
+      <trans-unit id="Request Desktop Site">
+        <source>Request Desktop Site</source>
+        <note>Action Sheet Button for Requesting the Desktop Site</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers">
         <source>Tap Safari, then select Content Blockers</source>
@@ -488,6 +546,10 @@
         <target>Saznajte više.</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
+      <trans-unit id="Settings.rate">
+        <source>Rate Firefox Focus</source>
+        <note>Title for rating firefox in settings</note>
+      </trans-unit>
       <trans-unit id="Settings.screenTitle">
         <source>Settings</source>
         <target>Postavke</target>
@@ -522,6 +584,10 @@
         <source>PRIVACY</source>
         <target>PRIVACY</target>
         <note>Section label for privacy toggles</note>
+      </trans-unit>
+      <trans-unit id="Settings.sectionSecurity">
+        <source>SECURITY</source>
+        <note>Section label for security toggles</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
         <source>Block ad trackers</source>
@@ -568,6 +634,14 @@
         <target>Ugrađene u stranice kako bi pratile vaše posjete i da prikažu funkcije kao što su dugmići za dijeljenje</target>
         <note>Description for 'Block social Trackers'</note>
       </trans-unit>
+      <trans-unit id="Settings.toggleFaceID">
+        <source>Use Face ID to unlock app</source>
+        <note>Label for toggle on settings screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleFaceIDDescription">
+        <source>Face ID can unlock Firefox Focus if a URL is already open in the app</source>
+        <note>Description for 'Enable Face ID'</note>
+      </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
         <target>Može oštetiti neki video i web stranice</target>
@@ -583,10 +657,22 @@
         <target>Šalji podatke o korištenju</target>
         <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
+      <trans-unit id="Settings.toggleTouchID">
+        <source>Use Touch ID to unlock app</source>
+        <note>Label for toggle on settings screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleTouchIDDescription">
+        <source>Touch ID can unlock Firefox Focus if a URL is already open in the app</source>
+        <note>Description for 'Enable Touch ID'</note>
+      </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
         <source>What’s New</source>
         <target>Šta je novo</target>
         <note>Title for What's new screen</note>
+      </trans-unit>
+      <trans-unit id="ShareMenu.FindInPage">
+        <source>Find in Page</source>
+        <note>Text for the share menu option when a user wants to open the find in page menu</note>
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox">
         <source>Get the Firefox App</source>
@@ -597,6 +683,10 @@
         <source>Open in %@</source>
         <target>Otvori u %@</target>
         <note>Text for the share menu option when a user wants to open a page in Focus.</note>
+      </trans-unit>
+      <trans-unit id="ShareMenu.RequestDesktop">
+        <source>Request Desktop Site</source>
+        <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
         <source>Cancel</source>
@@ -617,6 +707,10 @@
         <source>Your browsing history has been erased.</source>
         <target>Vaša historija pretraživanja je izbrisana.</target>
         <note>Message shown after pressing the Erase button</note>
+      </trans-unit>
+      <trans-unit id="URL.findOnPageLabel">
+        <source>Find in page: %@</source>
+        <note>Label displayed for find in page button when typing in the URL Bar</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText">
         <source>Search or enter address</source>
@@ -693,6 +787,18 @@
         <target>Primjer: searchengineexample.com/search/?q=%s</target>
         <note>Text displayed as an example of the template to add a search engine.</note>
       </trans-unit>
+      <trans-unit id="share">
+        <source>Share</source>
+        <note>Text for a share button</note>
+      </trans-unit>
+      <trans-unit id="share.trackerStatsLabel">
+        <source>%@ trackers blocked so far</source>
+        <note>Text used when the user shares their trackers blocked stats</note>
+      </trans-unit>
+      <trans-unit id="share.trackerStatsText">
+        <source>%1$@, the privacy browser from Mozilla, has already blocked %2$@ trackers for me. Fewer ads and trackers following me around means faster browsing! Get Focus for yourself here</source>
+        <note>The text shared to users after the user chooses to share there tracker stats</note>
+      </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
         <source>Ad trackers</source>
         <target>Reklamni tragači</target>
@@ -740,9 +846,24 @@
       </trans-unit>
     </body>
   </file>
+  <file original="ClientTests/Info.plist" source-language="en" datatype="plaintext" target-language="bs">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3" build-num="8E162"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+        <target>1.0</target>
+      </trans-unit>
+    </body>
+  </file>
   <file original="ContentBlocker/Info.plist" source-language="en" datatype="plaintext" target-language="bs">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3" build-num="8E162"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
@@ -754,14 +875,14 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>4.0</source>
-        <target>4.0</target>
+        <source>6.0</source>
+        <target>6.0</target>
       </trans-unit>
     </body>
   </file>
   <file original="OpenInFocus/Info.plist" source-language="en" datatype="plaintext" target-language="bs">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3" build-num="8E162"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
@@ -771,6 +892,40 @@
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
         <target>$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>6.0</source>
+        <target>6.0</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="ScreenshotTests/Info.plist" source-language="en" datatype="plaintext" target-language="bs">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3" build-num="8E162"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+        <target>1.0</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="XCUITest/Info.plist" source-language="en" datatype="plaintext" target-language="bs">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3" build-num="8E162"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+        <target>1.0</target>
       </trans-unit>
     </body>
   </file>
