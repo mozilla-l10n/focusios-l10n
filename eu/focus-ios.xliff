@@ -15,6 +15,7 @@
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription">
         <source>This lets you unlock the app.</source>
+        <target>Honekin aplikazioa desblokea dezakezu.</target>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
@@ -152,6 +153,7 @@
       </trans-unit>
       <trans-unit id="About.title">
         <source>About %@</source>
+        <target>%@(r)i buruz</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, takes the user to a page with information about the product. Also displayed as a header for the About page.</note>
       </trans-unit>
       <trans-unit id="About.topLabel">
@@ -241,10 +243,12 @@
       </trans-unit>
       <trans-unit id="BiometricPrompt.newSession">
         <source>New Session</source>
+        <target>Saio berria</target>
         <note>Create a new session after failing a biometric check</note>
       </trans-unit>
       <trans-unit id="BiometricPrompt.reason">
         <source>Unlock %@ when re-opening in order to prevent unauthorized access.</source>
+        <target>Desblokeatu %@ berriro irekitzean baimenik gabeko sarbidea galarazteko.</target>
         <note>%@ is app name. Explanation for why the app needs access to biometric information. Prompt is only shown once when the user first tries to enable Face ID to open the app.</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel">
@@ -254,10 +258,12 @@
       </trans-unit>
       <trans-unit id="Browser.copyMenuLabel">
         <source>Copy</source>
+        <target>Kopiatu</target>
         <note>Copy URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.customURLMenuLabel">
         <source>Add Custom URL</source>
+        <target>Gehitu URL perstonalizatua</target>
         <note>Custom URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.forwardLabel">
@@ -357,14 +363,17 @@
       </trans-unit>
       <trans-unit id="FindInPage.Done">
         <source>Find in page done</source>
+        <target>Orriko bilaketa eginda</target>
         <note>Accessibility label for done button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.NextResult">
         <source>Find next in page</source>
+        <target>Bilatu hurrengoa orrian</target>
         <note>Accessibility label for next result button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.PreviousResult">
         <source>Find previous in page</source>
+        <target>Bilatu aurrekoa orrian</target>
         <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel">
@@ -419,6 +428,7 @@
       </trans-unit>
       <trans-unit id="Request Desktop Site">
         <source>Request Desktop Site</source>
+        <target>Mahaigaineko gunea</target>
         <note>Label for button that requests the desktop version of the currently loaded website.</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers">
@@ -528,6 +538,7 @@
       </trans-unit>
       <trans-unit id="Settings.rate">
         <source>Rate %@</source>
+        <target>Baloratu %@</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, allows the user to leave a review for the app on the app store.</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
@@ -567,6 +578,7 @@
       </trans-unit>
       <trans-unit id="Settings.sectionSecurity">
         <source>SECURITY</source>
+        <target>SEGURTASUNA</target>
         <note>Header label for security toggles displayed in the settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
@@ -616,6 +628,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleFaceID">
         <source>Use Face ID to unlock app</source>
+        <target>Erabili Face ID aplikazioa desblokeatzeko</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceIDDescription">
