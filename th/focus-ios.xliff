@@ -538,7 +538,7 @@
       </trans-unit>
       <trans-unit id="Settings.rate">
         <source>Rate %@</source>
-        <target>จัดอันดับ %@</target>
+        <target>ให้คะแนน %@</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, allows the user to leave a review for the app on the app store.</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
@@ -633,7 +633,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleFaceIDDescription">
         <source>Face ID can unlock %@ if a URL is already open in the app</source>
-        <target>Face ID ช่วยปลดล็อค %@ เมื่อ URL ได้ถูกเปิดอยู่ในเอป</target>
+        <target>Face ID สามารถปลดล็อค %@ หาก URL ถูกเปิดอยู่แล้วในแอป</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
@@ -658,7 +658,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleTouchIDDescription">
         <source>Touch ID can unlock %@ if a URL is already open in the app</source>
-        <target>Touch ID ช่วยปลดล็อค %@ เมื่อ URL ได้ถูกเปิดอยู่ในเอป</target>
+        <target>Touch ID สามารถปลดล็อค %@ หาก URL ถูกเปิดอยู่แล้วในแอป</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
