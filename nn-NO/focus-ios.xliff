@@ -357,6 +357,7 @@
       </trans-unit>
       <trans-unit id="FindInPage.Done">
         <source>Find in page done</source>
+        <target>Søk på sida ferdiig</target>
         <note>Accessibility label for done button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.NextResult">
@@ -769,6 +770,7 @@
       </trans-unit>
       <trans-unit id="share">
         <source>Share</source>
+        <target>Del</target>
         <note>Text for a share button</note>
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
