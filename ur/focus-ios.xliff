@@ -150,6 +150,7 @@
       </trans-unit>
       <trans-unit id="About.title">
         <source>About %@</source>
+        <target>%@ کے بارے میں</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, takes the user to a page with information about the product. Also displayed as a header for the About page.</note>
       </trans-unit>
       <trans-unit id="About.topLabel">
@@ -164,6 +165,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlError">
         <source>Double-check the URL you entered.</source>
+        <target>درج شدہ URL دو دفعہ پڑتال کریں۔</target>
         <note>Label for error state when entering an invalid URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlExample">
@@ -236,6 +238,7 @@
       </trans-unit>
       <trans-unit id="BiometricPrompt.newSession">
         <source>New Session</source>
+        <target>نیا سیشن</target>
         <note>Create a new session after failing a biometric check</note>
       </trans-unit>
       <trans-unit id="BiometricPrompt.reason">
@@ -249,10 +252,12 @@
       </trans-unit>
       <trans-unit id="Browser.copyMenuLabel">
         <source>Copy</source>
+        <target>نقل کریں</target>
         <note>Copy URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.customURLMenuLabel">
         <source>Add Custom URL</source>
+        <target>تخصیصی URL کا اظافہ کریں</target>
         <note>Custom URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.forwardLabel">
@@ -414,6 +419,7 @@
       </trans-unit>
       <trans-unit id="Request Desktop Site">
         <source>Request Desktop Site</source>
+        <target>ڈیسک ٹاپ سائٹ کی درخواست کریں</target>
         <note>Label for button that requests the desktop version of the currently loaded website.</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers">
@@ -522,6 +528,7 @@
       </trans-unit>
       <trans-unit id="Settings.rate">
         <source>Rate %@</source>
+        <target>%@ کی شرح</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, allows the user to leave a review for the app on the app store.</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
@@ -561,6 +568,7 @@
       </trans-unit>
       <trans-unit id="Settings.sectionSecurity">
         <source>SECURITY</source>
+        <target>SECURITY</target>
         <note>Header label for security toggles displayed in the settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
@@ -645,6 +653,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.FindInPage">
         <source>Find in Page</source>
+        <target>صفحے میں ڈھونڈیں</target>
         <note>Text for the share menu option when a user wants to open the find in page menu</note>
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox">
@@ -659,6 +668,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop">
         <source>Request Desktop Site</source>
+        <target>ڈیسک ٹاپ سائٹ کی درخواست کریں</target>
         <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
@@ -761,6 +771,7 @@
       </trans-unit>
       <trans-unit id="share">
         <source>Share</source>
+        <target>شیئر کریں</target>
         <note>Text for a share button</note>
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
