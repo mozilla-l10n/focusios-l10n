@@ -15,7 +15,7 @@
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription">
         <source>This lets you unlock the app.</source>
-        <target>يتيح لك هذا فتح التطبيق.</target>
+        <target>يتيح لك هذا إلغاء قفل التطبيق.</target>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
@@ -248,6 +248,7 @@
       </trans-unit>
       <trans-unit id="BiometricPrompt.reason">
         <source>Unlock %@ when re-opening in order to prevent unauthorized access.</source>
+        <target>ألغِ قفل %@ عند إعادة فتحه لتمنع الوصول غير المخوّل به.</target>
         <note>%@ is app name. Explanation for why the app needs access to biometric information. Prompt is only shown once when the user first tries to enable Face ID to open the app.</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel">
@@ -627,12 +628,12 @@
       </trans-unit>
       <trans-unit id="Settings.toggleFaceID">
         <source>Use Face ID to unlock app</source>
-        <target>استخدم معّرف الوجه لفتح التطبيق</target>
+        <target>استخدم معّرف الوجه لإلغاء قفل التطبيق</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceIDDescription">
         <source>Face ID can unlock %@ if a URL is already open in the app</source>
-        <target>يمكن أن يفكّ معرّف الوجه %@ إن كان ثمة مسار مفتوح في التطبيق بالفعل</target>
+        <target>يمكن أن يُلغي معرّف الوجه قفل %@ إن كان ثمة مسار مفتوح في التطبيق بالفعل</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
@@ -652,11 +653,12 @@
       </trans-unit>
       <trans-unit id="Settings.toggleTouchID">
         <source>Use Touch ID to unlock app</source>
-        <target>استخدم معرّف اللمس لفتح التطبيق</target>
+        <target>استخدم معرّف اللمس لفكّ قفل التطبيق</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleTouchIDDescription">
         <source>Touch ID can unlock %@ if a URL is already open in the app</source>
+        <target>يمكن أن يُلغي معرّف اللمس قفل %@ إن كان ثمة مسار مفتوح في التطبيق بالفعل</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
@@ -681,6 +683,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop">
         <source>Request Desktop Site</source>
+        <target>اطلب موقع سطح مكتب</target>
         <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
