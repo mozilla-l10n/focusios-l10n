@@ -15,6 +15,7 @@
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription">
         <source>This lets you unlock the app.</source>
+        <target>یہ آُپکو ایپ کھولنے دیتا ہے۔</target>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
