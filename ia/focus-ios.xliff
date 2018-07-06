@@ -15,6 +15,7 @@
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription">
         <source>This lets you unlock the app.</source>
+        <target>Isto te lassa disblocar le application.</target>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
@@ -152,6 +153,7 @@
       </trans-unit>
       <trans-unit id="About.title">
         <source>About %@</source>
+        <target>A proposito de %@</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, takes the user to a page with information about the product. Also displayed as a header for the About page.</note>
       </trans-unit>
       <trans-unit id="About.topLabel">
@@ -241,6 +243,7 @@
       </trans-unit>
       <trans-unit id="BiometricPrompt.newSession">
         <source>New Session</source>
+        <target>Nove session</target>
         <note>Create a new session after failing a biometric check</note>
       </trans-unit>
       <trans-unit id="BiometricPrompt.reason">
@@ -254,10 +257,12 @@
       </trans-unit>
       <trans-unit id="Browser.copyMenuLabel">
         <source>Copy</source>
+        <target>Copiar</target>
         <note>Copy URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.customURLMenuLabel">
         <source>Add Custom URL</source>
+        <target>Adder URL personalisate</target>
         <note>Custom URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.forwardLabel">
@@ -357,6 +362,7 @@
       </trans-unit>
       <trans-unit id="FindInPage.Done">
         <source>Find in page done</source>
+        <target>Finite de trovar in pagina</target>
         <note>Accessibility label for done button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.NextResult">
