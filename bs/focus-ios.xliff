@@ -363,14 +363,17 @@
       </trans-unit>
       <trans-unit id="FindInPage.Done">
         <source>Find in page done</source>
+        <target>Traženje na stranici završeno</target>
         <note>Accessibility label for done button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.NextResult">
         <source>Find next in page</source>
+        <target>Pronađi sljedeće na stranici</target>
         <note>Accessibility label for next result button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.PreviousResult">
         <source>Find previous in page</source>
+        <target>Pronađi prethodno na stranici</target>
         <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel">
@@ -425,6 +428,7 @@
       </trans-unit>
       <trans-unit id="Request Desktop Site">
         <source>Request Desktop Site</source>
+        <target>Zahtjevaj desktop stranicu</target>
         <note>Label for button that requests the desktop version of the currently loaded website.</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers">
@@ -534,6 +538,7 @@
       </trans-unit>
       <trans-unit id="Settings.rate">
         <source>Rate %@</source>
+        <target>Ocijeni %@</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, allows the user to leave a review for the app on the app store.</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
@@ -573,6 +578,7 @@
       </trans-unit>
       <trans-unit id="Settings.sectionSecurity">
         <source>SECURITY</source>
+        <target>SIGURNOST</target>
         <note>Header label for security toggles displayed in the settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
@@ -622,10 +628,12 @@
       </trans-unit>
       <trans-unit id="Settings.toggleFaceID">
         <source>Use Face ID to unlock app</source>
+        <target>Koristite Face ID za otključavanje aplikacije</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceIDDescription">
         <source>Face ID can unlock %@ if a URL is already open in the app</source>
+        <target>Face ID može otključati %@ ako je URL već otvoren u aplikaciji</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
@@ -645,10 +653,12 @@
       </trans-unit>
       <trans-unit id="Settings.toggleTouchID">
         <source>Use Touch ID to unlock app</source>
+        <target>Koristite Touch ID za otključavanje aplikacije</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleTouchIDDescription">
         <source>Touch ID can unlock %@ if a URL is already open in the app</source>
+        <target>Touch ID može otključati %@ ako je URL već otvoren u aplikaciji</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
@@ -658,6 +668,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.FindInPage">
         <source>Find in Page</source>
+        <target>Pronađi na stranici</target>
         <note>Text for the share menu option when a user wants to open the find in page menu</note>
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox">
@@ -672,6 +683,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop">
         <source>Request Desktop Site</source>
+        <target>Zahtjevaj desktop stranicu</target>
         <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
@@ -696,6 +708,7 @@
       </trans-unit>
       <trans-unit id="URL.findOnPageLabel">
         <source>Find in page: %@</source>
+        <target>Pronađi na stranici: %@</target>
         <note>Label displayed for find in page button when typing in the URL Bar. %@ is any text the user has typed into the URL bar that they want to find on the current page.</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText">
@@ -775,6 +788,7 @@
       </trans-unit>
       <trans-unit id="share">
         <source>Share</source>
+        <target>Dijeli</target>
         <note>Text for a share button</note>
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
