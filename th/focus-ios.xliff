@@ -15,7 +15,7 @@
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription">
         <source>This lets you unlock the app.</source>
-        <target>ช่วยปลดล็อคแอป</target>
+        <target>สิ่งนี้ช่วยให้คุณปลดล็อคแอป</target>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
@@ -363,7 +363,7 @@
       </trans-unit>
       <trans-unit id="FindInPage.Done">
         <source>Find in page done</source>
-        <target>ส้ินสุดการค้นหาหน้า</target>
+        <target>เสร็จสิ้นการค้นหาในหน้า</target>
         <note>Accessibility label for done button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.NextResult">
@@ -373,7 +373,7 @@
       </trans-unit>
       <trans-unit id="FindInPage.PreviousResult">
         <source>Find previous in page</source>
-        <target>ค้นหาในหน้าก่อนหน้า</target>
+        <target>ค้นหาก่อนหน้าในหน้า</target>
         <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel">
@@ -538,7 +538,7 @@
       </trans-unit>
       <trans-unit id="Settings.rate">
         <source>Rate %@</source>
-        <target>ประเมิน %@</target>
+        <target>จัดอันดับ %@</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, allows the user to leave a review for the app on the app store.</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
