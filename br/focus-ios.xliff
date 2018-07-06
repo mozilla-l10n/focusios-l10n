@@ -15,7 +15,7 @@
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription">
         <source>This lets you unlock the app.</source>
-        <target>An dra-mañ a ro deoc'h an aotre deoc'h da zivorailhañ an arload.</target>
+        <target>Gant se e c'hallit dibrennañ an arload.</target>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
@@ -248,7 +248,7 @@
       </trans-unit>
       <trans-unit id="BiometricPrompt.reason">
         <source>Unlock %@ when re-opening in order to prevent unauthorized access.</source>
-        <target>Distantik %@ pa addigor evit mirout ouzh kement ahez diaotreet.</target>
+        <target>DIbrennit %@ pa addigor evit mirout ouzh kement haeziñ diaotreet.</target>
         <note>%@ is app name. Explanation for why the app needs access to biometric information. Prompt is only shown once when the user first tries to enable Face ID to open the app.</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel">
@@ -363,17 +363,17 @@
       </trans-unit>
       <trans-unit id="FindInPage.Done">
         <source>Find in page done</source>
-        <target>Kavout er bajenn graet gant berzh</target>
+        <target>Kavet er bajenn</target>
         <note>Accessibility label for done button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.NextResult">
         <source>Find next in page</source>
-        <target>Kavout da-heul er bajenn</target>
+        <target>Kavout an hini da-heul er bajenn</target>
         <note>Accessibility label for next result button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.PreviousResult">
         <source>Find previous in page</source>
-        <target>Kavout kent er bajenn</target>
+        <target>Kavout an hini kent er bajenn</target>
         <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel">
@@ -578,7 +578,7 @@
       </trans-unit>
       <trans-unit id="Settings.sectionSecurity">
         <source>SECURITY</source>
-        <target>SURENTEZ</target>
+        <target>DIOGELROEZ</target>
         <note>Header label for security toggles displayed in the settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
@@ -598,7 +598,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalyticsDescription">
         <source>Used to collect, analyze and measure activities like tapping and scrolling</source>
-        <target>Implijet evit dastum, analizañ ha muzuliañ an oberiadennoù evel pouezañ ha dibunañ</target>
+        <target>Implijet evit dastum, dielfennañ ha muzuliañ an oberiadennoù evel stokañ ha dibunañ</target>
         <note>Description for 'Block analytics Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
@@ -628,12 +628,12 @@
       </trans-unit>
       <trans-unit id="Settings.toggleFaceID">
         <source>Use Face ID to unlock app</source>
-        <target>Implijit Face ID evit divorailhañ an arload</target>
+        <target>Implijit Face ID evit dibrennañ an arload</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceIDDescription">
         <source>Face ID can unlock %@ if a URL is already open in the app</source>
-        <target>Face ID a c'hall divorailhañ %@ ma vez digoret un URL en arload</target>
+        <target>Face ID a c'hall dibrennañ %@ m'eo digoret un URL en arload endeo</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
@@ -653,12 +653,12 @@
       </trans-unit>
       <trans-unit id="Settings.toggleTouchID">
         <source>Use Touch ID to unlock app</source>
-        <target>Implijit Touch ID evit divorailhañ an arload</target>
+        <target>Implijit Touch ID evit dibrennañ an arload</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleTouchIDDescription">
         <source>Touch ID can unlock %@ if a URL is already open in the app</source>
-        <target>Touch ID a c'hall divorailhañ %@ ma vez digoret un URL en arload</target>
+        <target>Touch ID a c'hall dibrennañ %@ m'eo digoret un URL en arload endeo</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
