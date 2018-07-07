@@ -157,7 +157,7 @@
       </trans-unit>
       <trans-unit id="About.topLabel">
         <source>%@ puts you in control.</source>
-        <target>%@ でプライバシーを管理できます。</target>
+        <target>%@ でプライバシー保護。</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrl">
@@ -212,7 +212,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin">
         <source>Enable to have %@ autocomplete over 450 popular URLs in the address bar.</source>
-        <target>有効にすると、%1$s のアドレスバーで 450 以上の人気の URL が自動補完されます。</target>
+        <target>有効にすると、%@ のアドレスバーで 450 以上の人気の URL が自動補完されます。</target>
         <note>Description for enabling or disabling the default list. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultLabel">
@@ -527,12 +527,12 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData">
         <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
-        <target>Mozilla は %@ を皆さんに提供し改善するために必要な情報だけを収集するよう努めています。</target>
+        <target>Mozilla は皆さんに %@ を提供し改善するのに必要な情報だけを収集するよう努めています。</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.learnMore">
         <source>Learn more.</source>
-        <target>詳しくはこちら</target>
+        <target>詳細情報。</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.rate">
@@ -716,7 +716,7 @@
       </trans-unit>
       <trans-unit id="URL.trackersBlockedLabel">
         <source>Trackers blocked</source>
-        <target>追跡をブロックしました</target>
+        <target>ブロックした追跡</target>
         <note>Text for the URL bar showing the number of trackers blocked on a webpage.</note>
       </trans-unit>
       <trans-unit id="actionSheet.openIn">
