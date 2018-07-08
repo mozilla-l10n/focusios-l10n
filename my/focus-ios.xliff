@@ -15,6 +15,7 @@
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription">
         <source>This lets you unlock the app.</source>
+        <target>၎င်းသည် သင့်အက်ပ်ကို ပွင့်စေသည်</target>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
@@ -41,10 +42,12 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
+        <target>ရှာဖွေမှုမှတ်တမ်း၊ စကားဝှက်များနှင့် အခြား စသည်တို့ကို တစ်ခါတို့ထိရုံဖြင့် ဖျက်နိုင်သည်။</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title">
         <source>Your history is history</source>
+        <target>သင့်သုံးဆွဲမှုမှတ်တမ်းသည် သမိုင်းဖြစ်သွားပြီ</target>
         <note>Title for the third  panel 'History' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Next.Button">
