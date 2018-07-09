@@ -31,7 +31,7 @@
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription">
         <source>This lets you save and upload photos.</source>
-        <target>S waya ad teskelseḍ daɣ ad d-tessidreḍ tugniwin.</target>
+        <target>S waya ad teskelseḍ daɣ ad d-tessaliḍ tiwlafin.</target>
       </trans-unit>
     </body>
   </file>
@@ -158,7 +158,7 @@
       </trans-unit>
       <trans-unit id="About.topLabel">
         <source>%@ puts you in control.</source>
-        <target>%@ ak-d-yefk afus ad teqqimeḍ d aqeṛṛu.</target>
+        <target>%@ ad ak-d-yefk afus ad teqqimeḍ d aqeṛṛu.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrl">
