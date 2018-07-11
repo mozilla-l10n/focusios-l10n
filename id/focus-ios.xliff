@@ -47,7 +47,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title">
         <source>Your history is history</source>
-        <target>Riwayat Anda adalah sejarah</target>
+        <target>Riwayat Anda, tinggal sejarah</target>
         <note>Title for the third  panel 'History' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Next.Button">
@@ -72,7 +72,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description">
         <source>Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.</source>
-        <target>Membawa penjelajahan pribadi ke tingkat lebih tinggi. Blokir iklan dan konten lainnya yang dapat melacak Anda di seluruh situs dan memperlambat waktu buka laman.</target>
+        <target>Bawa penjelajahan pribadi ke tingkat lebih tinggi. Blokir iklan dan konten lainnya yang dapat melacak Anda di berbagai situs dan memperlambat waktu membuka laman.</target>
         <note>Description for the 'Welcome' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Title">
@@ -223,7 +223,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.defaultTitle">
         <source>DEFAULT URL LIST</source>
-        <target>DAFTAR URL BAKU</target>
+        <target>DAFTAR URL BAWAAN</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
       <trans-unit id="Autocomplete.disabled">
@@ -488,7 +488,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.RestoreEngine">
         <source>Restore Default Search Engines</source>
-        <target>Pulihkan Mesin Pencari Baku</target>
+        <target>Pulihkan Mesin Pencari Bawaan</target>
         <note>Label for button to bring deleted default engines back</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchEngineName">
@@ -588,7 +588,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAdsDescription">
         <source>Some ads track site visits, even if you don’t click the ads</source>
-        <target>Beberapa iklan melacak kunjungan situs, meski Anda tidak mengklik iklan</target>
+        <target>Beberapa iklan melacak kunjungan situs, meski Anda tidak mengeklik iklan</target>
         <note>Description for 'Block ad Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
@@ -613,7 +613,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOtherDescription">
         <source>Enabling may cause some pages to behave unexpectedly</source>
-        <target>Mengaktifkan fitur ini mungkin menyebabkan beberapa laman bertindak tidak terduga</target>
+        <target>Mengaktifkan fitur ini mungkin menyebabkan beberapa laman berfungsi tidak seperti yang diharapkan</target>
         <note>Description for 'Block other content Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
@@ -798,7 +798,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.analyticTrackerLabel">
         <source>Analytic trackers</source>
-        <target>Pelacak analitik</target>
+        <target>Pelacak analitis</target>
         <note>label for analytic trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.contentTrackerLabel">
@@ -833,7 +833,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.trackerDescriptionLabel">
         <source>Choose whether %@ blocks ad, analytic, social, and other trackers.</source>
-        <target>Pilih apakah %@ memblokir iklan, pelacak analitik, sosial, dan lainnya.</target>
+        <target>Pilih apakah %@ memblokir iklan, pelacak analitis, sosial, dan lainnya.</target>
         <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
     </body>
