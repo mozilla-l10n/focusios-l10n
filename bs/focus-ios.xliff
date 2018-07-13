@@ -249,7 +249,6 @@
       <trans-unit id="BiometricPrompt.reason">
         <source>Unlock %@ when re-opening in order to prevent unauthorized access.</source>
         <target>Otključajte %@ kada ponovo otvarate narudžbu da spriječite nedozvoljeni pristup.</target>
-        <note>%@ is app name. Explanation for why the app needs access to biometric information. Prompt is only shown once when the user first tries to enable Face ID to open the app.</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel">
         <source>Back</source>
@@ -790,6 +789,10 @@
         <source>Share</source>
         <target>Dijeli</target>
         <note>Text for a share button</note>
+      </trans-unit>
+      <trans-unit id="touchId.reason">
+        <source>Use Touch ID to return to %@</source>
+        <note>%@ is app name. Prompt shown to ask the user to use Touch ID to continue browsing after returning to the app.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
         <source>Ad trackers</source>
