@@ -15,6 +15,7 @@
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription">
         <source>This lets you unlock the app.</source>
+        <target>Эта позволит вам блокировать приложение.</target>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
@@ -152,6 +153,7 @@
       </trans-unit>
       <trans-unit id="About.title">
         <source>About %@</source>
+        <target>О %@</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, takes the user to a page with information about the product. Also displayed as a header for the About page.</note>
       </trans-unit>
       <trans-unit id="About.topLabel">
@@ -241,10 +243,12 @@
       </trans-unit>
       <trans-unit id="BiometricPrompt.newSession">
         <source>New Session</source>
+        <target>Новая сессия</target>
         <note>Create a new session after failing a biometric check</note>
       </trans-unit>
       <trans-unit id="BiometricPrompt.reason">
         <source>Unlock %@ when re-opening in order to prevent unauthorized access.</source>
+        <target>Блокируйте %@, при открытии его заново, чтобы предотвратить доступ посторонних.</target>
         <note>%@ is app name. Explanation for why the app needs access to biometric information. Prompt is only shown once when the user first tries to enable Face ID to open the app.</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel">
@@ -254,10 +258,12 @@
       </trans-unit>
       <trans-unit id="Browser.copyMenuLabel">
         <source>Copy</source>
+        <target>Копировать</target>
         <note>Copy URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.customURLMenuLabel">
         <source>Add Custom URL</source>
+        <target>Добавить пользовательский URL</target>
         <note>Custom URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.forwardLabel">
@@ -357,14 +363,17 @@
       </trans-unit>
       <trans-unit id="FindInPage.Done">
         <source>Find in page done</source>
+        <target>Поиск на странице закончен</target>
         <note>Accessibility label for done button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.NextResult">
         <source>Find next in page</source>
+        <target>Найти следующее</target>
         <note>Accessibility label for next result button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.PreviousResult">
         <source>Find previous in page</source>
+        <target>Найти предыдущее</target>
         <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel">
@@ -419,6 +428,7 @@
       </trans-unit>
       <trans-unit id="Request Desktop Site">
         <source>Request Desktop Site</source>
+        <target>Запросить полную версию сайта</target>
         <note>Label for button that requests the desktop version of the currently loaded website.</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers">
@@ -528,6 +538,7 @@
       </trans-unit>
       <trans-unit id="Settings.rate">
         <source>Rate %@</source>
+        <target>Оценить %@</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, allows the user to leave a review for the app on the app store.</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
@@ -567,6 +578,7 @@
       </trans-unit>
       <trans-unit id="Settings.sectionSecurity">
         <source>SECURITY</source>
+        <target>БЕЗОПАСНОСТЬ</target>
         <note>Header label for security toggles displayed in the settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
@@ -616,10 +628,12 @@
       </trans-unit>
       <trans-unit id="Settings.toggleFaceID">
         <source>Use Face ID to unlock app</source>
+        <target>Использовать Face ID для разблокировки приложения</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceIDDescription">
         <source>Face ID can unlock %@ if a URL is already open in the app</source>
+        <target>Face ID будет блокировать %@, если в нём открыта какая-либо страница</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
@@ -639,10 +653,12 @@
       </trans-unit>
       <trans-unit id="Settings.toggleTouchID">
         <source>Use Touch ID to unlock app</source>
+        <target>Использовать Touch ID для разблокировки приложения</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleTouchIDDescription">
         <source>Touch ID can unlock %@ if a URL is already open in the app</source>
+        <target>Touch ID будет блокировать %@, если в нём открыта какая-либо страница</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
@@ -652,6 +668,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.FindInPage">
         <source>Find in Page</source>
+        <target>Найти на странице</target>
         <note>Text for the share menu option when a user wants to open the find in page menu</note>
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox">
