@@ -72,6 +72,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description">
         <source>Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.</source>
+        <target>Αυτό είναι το επόμενο επίπεδο ιδιωτικής περιήγησης. Αποκλείστε διαφημίσεις και περιεχόμενο που μπορεί να καταγράψει τη δραστηριότητά σας και να επιβραδύνει τη φόρτωση σελίδων.</target>
         <note>Description for the 'Welcome' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Title">
@@ -192,6 +193,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customDescriptoin">
         <source>Add and manage custom autocomplete URLs.</source>
+        <target>Προσθέστε και διαχειριστείτε προσαρμοσμένα URLs αυτόματης συμπλήρωσης.</target>
         <note>Description for adding and managing custom autocomplete URLs</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customLabel">
