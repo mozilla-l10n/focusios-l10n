@@ -15,6 +15,7 @@
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription">
         <source>This lets you unlock the app.</source>
+        <target>Це дозволить вам блокувати програму.</target>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
@@ -152,6 +153,7 @@
       </trans-unit>
       <trans-unit id="About.title">
         <source>About %@</source>
+        <target>Про %@</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, takes the user to a page with information about the product. Also displayed as a header for the About page.</note>
       </trans-unit>
       <trans-unit id="About.topLabel">
@@ -241,6 +243,7 @@
       </trans-unit>
       <trans-unit id="BiometricPrompt.newSession">
         <source>New Session</source>
+        <target>Новий сеанс</target>
         <note>Create a new session after failing a biometric check</note>
       </trans-unit>
       <trans-unit id="BiometricPrompt.reason">
