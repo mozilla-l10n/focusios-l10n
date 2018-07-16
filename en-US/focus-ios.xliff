@@ -791,6 +791,11 @@
         <target>Share</target>
         <note>Text for a share button</note>
       </trans-unit>
+      <trans-unit id="touchId.reason">
+        <source>Use Touch ID to return to %@</source>
+        <target>Use Touch ID to return to %@</target>
+        <note>%@ is app name. Prompt shown to ask the user to use Touch ID to continue browsing after returning to the app.</note>
+      </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
         <source>Ad trackers</source>
         <target>Ad trackers</target>
