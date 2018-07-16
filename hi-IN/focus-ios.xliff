@@ -373,6 +373,7 @@
       </trans-unit>
       <trans-unit id="FindInPage.PreviousResult">
         <source>Find previous in page</source>
+        <target>पृष्ठ में पिछला ढूंढें</target>
         <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel">
@@ -427,6 +428,7 @@
       </trans-unit>
       <trans-unit id="Request Desktop Site">
         <source>Request Desktop Site</source>
+        <target>डेस्कटॉप साइट का अनुरोध करें</target>
         <note>Label for button that requests the desktop version of the currently loaded website.</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers">
@@ -536,6 +538,7 @@
       </trans-unit>
       <trans-unit id="Settings.rate">
         <source>Rate %@</source>
+        <target>%@ का मूल्यांकन करें</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, allows the user to leave a review for the app on the app store.</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
@@ -575,6 +578,7 @@
       </trans-unit>
       <trans-unit id="Settings.sectionSecurity">
         <source>SECURITY</source>
+        <target>सुरक्षा</target>
         <note>Header label for security toggles displayed in the settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
@@ -624,10 +628,12 @@
       </trans-unit>
       <trans-unit id="Settings.toggleFaceID">
         <source>Use Face ID to unlock app</source>
+        <target>एप्लिकेशन अनलॉक करने के लिए मुख आईडी का प्रयोग करें</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceIDDescription">
         <source>Face ID can unlock %@ if a URL is already open in the app</source>
+        <target>अगर ऐप में यूआरएल पहले से खुला है तो मुख आईडी %@ को अनलॉक कर सकती है</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
@@ -647,10 +653,12 @@
       </trans-unit>
       <trans-unit id="Settings.toggleTouchID">
         <source>Use Touch ID to unlock app</source>
+        <target>ऐप अनलॉक करने के लिए स्पर्श आईडी का उपयोग करें</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleTouchIDDescription">
         <source>Touch ID can unlock %@ if a URL is already open in the app</source>
+        <target>अगर ऐप में यूआरएल पहले से खुला है तो स्पर्श आईडी %@ को अनलॉक कर सकती है</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
@@ -660,6 +668,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.FindInPage">
         <source>Find in Page</source>
+        <target>पृष्ठ में ढूँढें</target>
         <note>Text for the share menu option when a user wants to open the find in page menu</note>
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox">
@@ -674,6 +683,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop">
         <source>Request Desktop Site</source>
+        <target>डेस्कटॉप साइट का अनुरोध करें</target>
         <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
@@ -698,6 +708,7 @@
       </trans-unit>
       <trans-unit id="URL.findOnPageLabel">
         <source>Find in page: %@</source>
+        <target>पृष्ठ में ढूँढें: %@</target>
         <note>Label displayed for find in page button when typing in the URL Bar. %@ is any text the user has typed into the URL bar that they want to find on the current page.</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText">
@@ -777,6 +788,7 @@
       </trans-unit>
       <trans-unit id="share">
         <source>Share</source>
+        <target>साझा करें</target>
         <note>Text for a share button</note>
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
