@@ -41,6 +41,7 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
+        <target>ఎప్పుడైనా కేవలం ఒకే నొక్కుతో మీ విహరణ సెషను చరిత్ర అంతా, సంకేతపదాలు, కుకీలు తుడిచివేసుకోండి.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title">
@@ -55,11 +56,12 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description">
         <source>Searching for something different? Choose a different search engine.</source>
+        <target>వేరే దానికోసం వెతుకుతున్నారా? మరో సెర్చింజనుని ఎంచుకోండి.</target>
         <note>Description for the 'Favorite Search Engine' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Title">
         <source>Your search, your way</source>
-        <target>మీ శోధన, మీ లాగే</target>
+        <target>మీ శోధన, మీకు తగ్గట్టు</target>
         <note>Title for the second  panel 'Search' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Skip.Button">
@@ -69,6 +71,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description">
         <source>Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.</source>
+        <target>అంతరంగిక విహారణను కొత్త స్థాయికి తీసుకెళ్ళండి. ప్రకటనలను, సైట్లన్నింటిలో మీ జాడ తెలుసుకుంటూ పేజీలు తెరుచుకునే సమయాన్ని పెంచే ఇతర విషయాలను నిరోధించండి.</target>
         <note>Description for the 'Welcome' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Title">
@@ -232,6 +235,7 @@
       </trans-unit>
       <trans-unit id="BiometricPrompt.newSession">
         <source>New Session</source>
+        <target>కొత్త సెషన్</target>
         <note>Create a new session after failing a biometric check</note>
       </trans-unit>
       <trans-unit id="BiometricPrompt.reason">
@@ -245,6 +249,7 @@
       </trans-unit>
       <trans-unit id="Browser.copyMenuLabel">
         <source>Copy</source>
+        <target>కాపీచేయి</target>
         <note>Copy URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.customURLMenuLabel">
