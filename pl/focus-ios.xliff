@@ -793,7 +793,7 @@
       </trans-unit>
       <trans-unit id="touchId.reason">
         <source>Use Touch ID to return to %@</source>
-        <target>Użyj Touch ID, by wrócić do aplikacji %@</target>
+        <target>Użyj Touch ID, by wrócić do aplikacji %@</target>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID to continue browsing after returning to the app.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
