@@ -627,6 +627,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleFaceID">
         <source>Use Face ID to unlock app</source>
+        <target>Bruk «Face ID» for å låse opp appen</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceIDDescription">
