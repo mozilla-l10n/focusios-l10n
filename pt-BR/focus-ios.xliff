@@ -89,12 +89,12 @@
     <body>
       <trans-unit id="About.learnMoreButton">
         <source>Learn more</source>
-        <target>Saber mais</target>
+        <target>Saiba mais</target>
         <note>Button on About screen</note>
       </trans-unit>
       <trans-unit id="About.missionLabel">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
-        <target>%@ é produzido pela Mozilla. Nossa missão é promover uma Internet saudável e aberta.</target>
+        <target>O %@ é produzido pela Mozilla. Nossa missão é promover uma Internet saudável e aberta.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet1">
@@ -318,7 +318,7 @@
       </trans-unit>
       <trans-unit id="ExternalAppLink.messageTitle">
         <source>%@ wants to open another App</source>
-        <target>%@ quer abrir outro App</target>
+        <target>%@ quer abrir outro aplicativo</target>
         <note>Dialog title used for opening an external app from Focus. The placeholder string is the app name of either Focus or Klar.</note>
       </trans-unit>
       <trans-unit id="ExternalAppLink.openTitle">
@@ -353,7 +353,7 @@
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreTitle">
         <source>%@ wants to open the App Store.</source>
-        <target>%@ deseja abrir o App Store.</target>
+        <target>%@ deseja abrir a App Store.</target>
         <note>Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openMapsButton">
@@ -438,7 +438,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsEnable">
         <source>Enable %@</source>
-        <target>Habilitar %@</target>
+        <target>Habilitar o %@</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsNotEnabled">
@@ -828,7 +828,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription1">
         <source>Disable until you close %@ or tap ERASE.</source>
-        <target>Desabilitar até você fechar o %@ ou tocar em ERASE.</target>
+        <target>Desabilitar até você fechar o %@ ou tocar em APAGAR.</target>
         <note>Description for the tracking protection toggle. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel">
