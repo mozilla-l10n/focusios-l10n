@@ -368,10 +368,12 @@
       </trans-unit>
       <trans-unit id="FindInPage.NextResult">
         <source>Find next in page</source>
+        <target>Buscar próximo en página</target>
         <note>Accessibility label for next result button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.PreviousResult">
         <source>Find previous in page</source>
+        <target>Buscar anterior en página</target>
         <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel">
@@ -790,6 +792,7 @@
       </trans-unit>
       <trans-unit id="touchId.reason">
         <source>Use Touch ID to return to %@</source>
+        <target>Usar Touch ID para volver a %@</target>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID to continue browsing after returning to the app.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
