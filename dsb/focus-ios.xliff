@@ -778,7 +778,7 @@
       </trans-unit>
       <trans-unit id="photosPermission.title">
         <source>“%@” Would Like to Access Your Photos</source>
-        <target>„%@“ pšosy wó pśistup na waše fota</target>
+        <target>„%@“ pšosy wó pśistup k wašym fotam</target>
         <note>Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="settings.Search.SearchTemplateExample">
