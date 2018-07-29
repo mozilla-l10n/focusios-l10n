@@ -183,6 +183,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlPlaceholder">
         <source>Paste or enter URL</source>
+        <target>URLကို ကူးယူ သို့မဟုတ် ဝင်ရောက်ပါ</target>
         <note>Placeholder for the input field to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlWithPlus">
@@ -192,6 +193,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customDescriptoin">
         <source>Add and manage custom autocomplete URLs.</source>
+        <target>URLs ကို မိမိနည်းမိမိဟန်ဖြင့် ပေါင်းထည့် စီမံမည်</target>
         <note>Description for adding and managing custom autocomplete URLs</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customLabel">
