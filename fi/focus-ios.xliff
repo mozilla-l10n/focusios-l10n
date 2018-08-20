@@ -275,7 +275,7 @@
       </trans-unit>
       <trans-unit id="Cancel">
         <source>Cancel</source>
-        <target>Peruuta</target>
+        <target>Kumoa</target>
         <note>Label on button to cancel edits</note>
       </trans-unit>
       <trans-unit id="Done">
@@ -295,7 +295,7 @@
       </trans-unit>
       <trans-unit id="ExternalAppLink.cancelTitle">
         <source>Cancel</source>
-        <target>Peruuta</target>
+        <target>Kumoa</target>
         <note>Button label used for cancelling to open another app from Focus</note>
       </trans-unit>
       <trans-unit id="ExternalAppLink.messageTitle">
@@ -315,7 +315,7 @@
       </trans-unit>
       <trans-unit id="ExternalLink.cancelButton">
         <source>Cancel</source>
-        <target>Peruuta</target>
+        <target>Kumoa</target>
         <note>Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.emailButton">
@@ -383,7 +383,7 @@
       </trans-unit>
       <trans-unit id="Open.Cancel">
         <source>Cancel</source>
-        <target>Peruuta</target>
+        <target>Kumoa</target>
         <note>Label in share alert to cancel the alert</note>
       </trans-unit>
       <trans-unit id="Open.Firefox">
@@ -650,7 +650,7 @@
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
         <source>Cancel</source>
-        <target>Peruuta</target>
+        <target>Kumoa</target>
         <note>Label for cancel button shown when entering a URL or search</note>
       </trans-unit>
       <trans-unit id="URL.contextMenu">
