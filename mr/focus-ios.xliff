@@ -383,6 +383,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
+        <target>ब्राउझ करताना मागोवा घेणाऱ्यांना आपोआप बंद करा. मग उपकरणावर पाहिलेले पृष्ठ, शोध, कुकीज आणि पासवर्ड पुसण्यासाठी टॅप करा.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
@@ -427,6 +428,7 @@
       </trans-unit>
       <trans-unit id="Request Desktop Site">
         <source>Request Desktop Site</source>
+        <target>डेस्कटॉप साइटची विनंती करा</target>
         <note>Label for button that requests the desktop version of the currently loaded website.</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers">
@@ -501,6 +503,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplatePlaceholder">
         <source>Paste or enter search string. If necessary, replace search term with: %s.</source>
+        <target>शोध संज्ञा चिकटवा किंवा प्रविष्ट करा. गरज वाटल्यास शोध संज्ञा याने बदला: %s.</target>
         <note>Placeholder text for input of new search engine template</note>
       </trans-unit>
       <trans-unit id="Settings.autocompleteSection">
@@ -510,6 +513,7 @@
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
         <source>Blocking other content trackers may break some videos and Web pages.</source>
+        <target>मजकुराचा मागोवा घेणारे इतर घटक बंद केल्यास काही विडिओ आणि वेब पृष्ठे निकामी होऊ शकतात.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo">
@@ -524,6 +528,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData">
         <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
+        <target>सर्वांसाठी %@ उपलब्ध करण्यासाठी व सुधारण्यास जी गरजेची आहे फक्त तीच माहिती जमा करण्यास Mozilla तत्पर आहे.</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.learnMore">
@@ -533,6 +538,7 @@
       </trans-unit>
       <trans-unit id="Settings.rate">
         <source>Rate %@</source>
+        <target>%@ ला गुण द्या</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, allows the user to leave a review for the app on the app store.</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
@@ -582,6 +588,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAdsDescription">
         <source>Some ads track site visits, even if you don’t click the ads</source>
+        <target>काही जाहिराती संकेतस्थळावरील भेटीची नोंद करून ठेवतात, जरी तुम्ही जाहिरातीवर क्लिक केले नाही तरी</target>
         <note>Description for 'Block ad Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics">
@@ -591,6 +598,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalyticsDescription">
         <source>Used to collect, analyze and measure activities like tapping and scrolling</source>
+        <target>टॅपिंग आणि स्क्रोलिंगसारख्या क्रियाकलाप एकत्रित करण्यासाठी, मोजमाप आणि विश्लेषण करण्यासाठी वापरला जातो</target>
         <note>Description for 'Block analytics Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
@@ -605,6 +613,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOtherDescription">
         <source>Enabling may cause some pages to behave unexpectedly</source>
+        <target>सक्षम करण्यामुळे काही पृष्ठ अनपेक्षितरित्या वागू शकतात</target>
         <note>Description for 'Block other content Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
@@ -614,10 +623,12 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocialDescription">
         <source>Embedded on sites to track your visits and to display functionality like share buttons</source>
+        <target>आपल्या भेटींचा मागोवा घेण्यासाठी आणि शेअर बटन सारखी सुविधा दर्शवण्यासाठी साईट वर ठेवले आहे</target>
         <note>Description for 'Block social Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceID">
         <source>Use Face ID to unlock app</source>
+        <target>अँप उघडण्यासाठी Face ID वापरा</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceIDDescription">
