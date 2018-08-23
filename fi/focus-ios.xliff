@@ -42,7 +42,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title">
         <source>Your history is history</source>
-        <target>Historiasi on sinun</target>
+        <target>Historiasi on mennyttä</target>
         <note>Title for the third  panel 'History' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Next.Button">
@@ -67,6 +67,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description">
         <source>Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.</source>
+        <target>Entistä parempi yksityinen selaus. Estä mainokset ja muu seurantaa suorittava sisältö, nopeuta samalla sivujen latausaikoja.</target>
         <note>Description for the 'Welcome' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Title">
@@ -373,7 +374,7 @@
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
         <source>Automatic private browsing.</source>
-        <target>Automaattinen yksityinen selaus.</target>
+        <target>Automaattista yksityistä selausta.</target>
         <note>First label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel2">
