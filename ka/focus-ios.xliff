@@ -508,7 +508,7 @@
       </trans-unit>
       <trans-unit id="Settings.autocompleteSection">
         <source>URL Autocomplete</source>
-        <target>URL თვითშევსება</target>
+        <target>URL-ს თვითშევსება</target>
         <note>Title for the URL Autocomplete row</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
