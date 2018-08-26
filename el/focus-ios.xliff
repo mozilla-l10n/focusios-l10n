@@ -713,7 +713,7 @@
       </trans-unit>
       <trans-unit id="URL.placeholderText">
         <source>Search or enter address</source>
-        <target>Αναζήτηση ή πληκτρολόγηση διεύθυνσης</target>
+        <target>Αναζήτηση ή εισαγωγή διεύθυνσης</target>
         <note>Placeholder text shown in the URL bar before the user navigates to a page</note>
       </trans-unit>
       <trans-unit id="URL.searchLabel">
