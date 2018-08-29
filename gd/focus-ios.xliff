@@ -159,6 +159,10 @@
         <target>Bheir %@ smachd dhut.</target>
         <note>Label on About screen</note>
       </trans-unit>
+      <trans-unit id="Authentication.reason">
+        <source>Authenticate to return to %@</source>
+        <note>%@ is app name. Prompt shown to ask the user to use Touch ID, Face ID, or passcode to continue browsing after returning to the app.</note>
+      </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrl">
         <source>Add Custom URL</source>
         <target>Cuir URL gnàthaichte ris</target>
@@ -251,6 +255,10 @@
         <source>Back</source>
         <target>Air ais</target>
         <note>Accessibility label for the back button</note>
+      </trans-unit>
+      <trans-unit id="Browser.copyAddressLabel">
+        <source>Copy Address</source>
+        <note>Copy URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.copyMenuLabel">
         <source>Copy</source>
@@ -397,6 +405,10 @@
         <target>Dèan brabhsadh. Dèan suathadh às. Agus a‑rithist.</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
+      <trans-unit id="Menu.Close">
+        <source>Close</source>
+        <note>Button label used to close a menu that displays as a popup.</note>
+      </trans-unit>
       <trans-unit id="Open.Cancel">
         <source>Cancel</source>
         <target>Sguir dheth</target>
@@ -445,6 +457,10 @@
         <source>Save</source>
         <target>Sàbhail</target>
         <note>Save button label</note>
+      </trans-unit>
+      <trans-unit id="SearchEngine.addEngineError">
+        <source>That didn't work. Try replacing the search term with this: %s.</source>
+        <note>Label for error state when entering an invalid search engine URL. %s is a search term in a URL.</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton">
         <source>Add Another Search Engine</source>
@@ -529,6 +545,10 @@
       <trans-unit id="Settings.rate">
         <source>Rate %@</source>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, allows the user to leave a review for the app on the app store.</note>
+      </trans-unit>
+      <trans-unit id="Settings.safariTitle">
+        <source>SAFARI INTEGRATION</source>
+        <note>Label for Safari integration section</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
         <source>Settings</source>
@@ -650,6 +670,10 @@
         <target>Na tha ùr</target>
         <note>Title for What's new screen</note>
       </trans-unit>
+      <trans-unit id="Settinsg.siriShortcutsTitle">
+        <source>SIRI SHORTCUTS</source>
+        <note>Title for settings section to enable different Siri Shortcuts.</note>
+      </trans-unit>
       <trans-unit id="ShareMenu.FindInPage">
         <source>Find in Page</source>
         <note>Text for the share menu option when a user wants to open the find in page menu</note>
@@ -664,9 +688,61 @@
         <target>Fosgail ann am %@</target>
         <note>Text for the share menu option when a user wants to open a page in Focus.</note>
       </trans-unit>
+      <trans-unit id="ShareMenu.PageActions">
+        <source>Page Actions</source>
+        <note>Title for the share menu where users can take actions for the current website they are on.</note>
+      </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop">
         <source>Request Desktop Site</source>
         <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
+      </trans-unit>
+      <trans-unit id="ShareMenu.ShareOpenChrome">
+        <source>Open in Chrome</source>
+        <note>Text for the share menu option when a user wants to open the current website in the Chrome app.</note>
+      </trans-unit>
+      <trans-unit id="ShareMenu.ShareOpenFirefox">
+        <source>Open in Firefox</source>
+        <note>Text for the share menu option when a user wants to open the current website in the Firefox app.</note>
+      </trans-unit>
+      <trans-unit id="ShareMenu.ShareOpenSafari">
+        <source>Open in Safari</source>
+        <note>Text for the share menu option when a user wants to open the current website in the Safari app.</note>
+      </trans-unit>
+      <trans-unit id="ShareMenu.SharePage">
+        <source>Share Page With...</source>
+        <note>Text for the share menu option when a user wants to share the current website they are on through another app.</note>
+      </trans-unit>
+      <trans-unit id="Siri.add">
+        <source>Add</source>
+        <note>Button to add a favorite URL to Siri.</note>
+      </trans-unit>
+      <trans-unit id="Siri.addTo">
+        <source>Add to Siri</source>
+        <note>Button to add a specified shortcut option to Siri.</note>
+      </trans-unit>
+      <trans-unit id="Siri.editOpenUrl">
+        <source>Re-Record or Delete Shortcut</source>
+        <note>Label for button to edit the Siri phrase or delete the Siri functionality.</note>
+      </trans-unit>
+      <trans-unit id="Siri.erase">
+        <source>Erase</source>
+        <note>Title of option in settings to set up Siri to erase</note>
+      </trans-unit>
+      <trans-unit id="Siri.eraseAndOpen">
+        <source>Erase &amp; Open</source>
+        <note>Title of option in settings to set up Siri to erase and then open the app.</note>
+      </trans-unit>
+      <trans-unit id="Siri.favoriteUrl">
+        <source>Open Favorite Site</source>
+        <note>Title for screen to add a favorite URL to Siri.</note>
+      </trans-unit>
+      <trans-unit id="Siri.openURL">
+        <source>Open Favorite Site</source>
+        <note>Title of option in settings to set up Siri to open a specified URL in Focus/Klar.</note>
+      </trans-unit>
+      <trans-unit id="Siri.urlToOpen">
+        <source>URL to open</source>
+        <note>Label for input to set a favorite URL to be opened by Siri.</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
         <source>Cancel</source>
@@ -692,6 +768,10 @@
         <source>Find in page: %@</source>
         <note>Label displayed for find in page button when typing in the URL Bar. %@ is any text the user has typed into the URL bar that they want to find on the current page.</note>
       </trans-unit>
+      <trans-unit id="URL.paste">
+        <source>Paste</source>
+        <note>Text for a menu displayed from the bottom of the screen when a user long presses on the URL bar with clipboard contents.</note>
+      </trans-unit>
       <trans-unit id="URL.placeholderText">
         <source>Search or enter address</source>
         <target>Lorg no seòladh an‑seo</target>
@@ -712,6 +792,10 @@
         <target>Fosgail ann an %@</target>
         <note>Title for action sheet item to open the current page in another application. Placeholder is the name of the application to open the current page.</note>
       </trans-unit>
+      <trans-unit id="browser.copyAddressToast">
+        <source>URL Copied To Clipboard</source>
+        <note>Toast displayed after a URL has been copied to the clipboard</note>
+      </trans-unit>
       <trans-unit id="browserShortcutDescription.selectLocationBar">
         <source>Select Location Bar</source>
         <target>Tagh bar an ionaid</target>
@@ -731,6 +815,10 @@
         <source>Copy Link</source>
         <target>Dèan lethbhreac dhen cheangal</target>
         <note>Text for the context menu when a user wants to copy a link after long pressing it.</note>
+      </trans-unit>
+      <trans-unit id="contextMenu.linkCopied">
+        <source>Link you copied: </source>
+        <note>Text for the context menu when a user has a link on their clipboard.</note>
       </trans-unit>
       <trans-unit id="contextMenu.saveImageTitle">
         <source>Save Image</source>
@@ -771,6 +859,10 @@
         <source>Share</source>
         <note>Text for a share button</note>
       </trans-unit>
+      <trans-unit id="shareMenu.copyAddress">
+        <source>Copy Address</source>
+        <note>Text for the share menu when a user wants to copy a URL.</note>
+      </trans-unit>
       <trans-unit id="touchId.reason">
         <source>Use Touch ID to return to %@</source>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID to continue browsing after returning to the app.</note>
@@ -794,6 +886,10 @@
         <source>Tracking Protection off</source>
         <target>Tha an dìon o thracadh dheth</target>
         <note>text showing the tracking protection is disabled.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.label">
+        <source>Tracking Protection</source>
+        <note>Title for the tracking settings page to change what trackers are blocked.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.learnMore">
         <source>Learn More</source>
@@ -830,6 +926,20 @@
       <trans-unit id="CFBundleDisplayName">
         <source>$(PRODUCT_NAME)</source>
         <target>$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="FocusIntentExtension/Info.plist" source-language="en" datatype="plaintext" target-language="gd">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>FocusIntentExtension</source>
       </trans-unit>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
