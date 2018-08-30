@@ -262,6 +262,7 @@
       </trans-unit>
       <trans-unit id="Browser.copyAddressLabel">
         <source>Copy Address</source>
+        <target>انسخ العنوان</target>
         <note>Copy URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.copyMenuLabel">
@@ -416,6 +417,7 @@
       </trans-unit>
       <trans-unit id="Menu.Close">
         <source>Close</source>
+        <target>أغلِق</target>
         <note>Button label used to close a menu that displays as a popup.</note>
       </trans-unit>
       <trans-unit id="Open.Cancel">
@@ -559,6 +561,7 @@
       </trans-unit>
       <trans-unit id="Settings.safariTitle">
         <source>SAFARI INTEGRATION</source>
+        <target>التكامل مع سفاري</target>
         <note>Label for Safari integration section</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
@@ -688,6 +691,7 @@
       </trans-unit>
       <trans-unit id="Settinsg.siriShortcutsTitle">
         <source>SIRI SHORTCUTS</source>
+        <target>اختصارات سيري</target>
         <note>Title for settings section to enable different Siri Shortcuts.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.FindInPage">
@@ -707,6 +711,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.PageActions">
         <source>Page Actions</source>
+        <target>إجراءات الصفحة</target>
         <note>Title for the share menu where users can take actions for the current website they are on.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop">
@@ -716,26 +721,32 @@
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenChrome">
         <source>Open in Chrome</source>
+        <target>افتح في كروم</target>
         <note>Text for the share menu option when a user wants to open the current website in the Chrome app.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenFirefox">
         <source>Open in Firefox</source>
+        <target>افتح في فَيَرفُكس</target>
         <note>Text for the share menu option when a user wants to open the current website in the Firefox app.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenSafari">
         <source>Open in Safari</source>
+        <target>افتح في سفاري</target>
         <note>Text for the share menu option when a user wants to open the current website in the Safari app.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.SharePage">
         <source>Share Page With...</source>
+        <target>شارِك الصفحة مع…</target>
         <note>Text for the share menu option when a user wants to share the current website they are on through another app.</note>
       </trans-unit>
       <trans-unit id="Siri.add">
         <source>Add</source>
+        <target>أضِف</target>
         <note>Button to add a favorite URL to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.addTo">
         <source>Add to Siri</source>
+        <target>أضِف إلى سيري</target>
         <note>Button to add a specified shortcut option to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.editOpenUrl">
@@ -744,10 +755,12 @@
       </trans-unit>
       <trans-unit id="Siri.erase">
         <source>Erase</source>
+        <target>امسح</target>
         <note>Title of option in settings to set up Siri to erase</note>
       </trans-unit>
       <trans-unit id="Siri.eraseAndOpen">
         <source>Erase &amp; Open</source>
+        <target>امسح وافتح</target>
         <note>Title of option in settings to set up Siri to erase and then open the app.</note>
       </trans-unit>
       <trans-unit id="Siri.favoriteUrl">
@@ -789,6 +802,7 @@
       </trans-unit>
       <trans-unit id="URL.paste">
         <source>Paste</source>
+        <target>ألصِق</target>
         <note>Text for a menu displayed from the bottom of the screen when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText">
@@ -813,6 +827,7 @@
       </trans-unit>
       <trans-unit id="browser.copyAddressToast">
         <source>URL Copied To Clipboard</source>
+        <target>نُسخ المسار إلى الحافظة</target>
         <note>Toast displayed after a URL has been copied to the clipboard</note>
       </trans-unit>
       <trans-unit id="browserShortcutDescription.selectLocationBar">
@@ -881,6 +896,7 @@
       </trans-unit>
       <trans-unit id="shareMenu.copyAddress">
         <source>Copy Address</source>
+        <target>انسخ العنوان</target>
         <note>Text for the share menu when a user wants to copy a URL.</note>
       </trans-unit>
       <trans-unit id="touchId.reason">
@@ -910,6 +926,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.label">
         <source>Tracking Protection</source>
+        <target>الحماية من التعقّب</target>
         <note>Title for the tracking settings page to change what trackers are blocked.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.learnMore">
