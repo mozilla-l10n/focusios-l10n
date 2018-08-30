@@ -262,6 +262,7 @@
       </trans-unit>
       <trans-unit id="Browser.copyAddressLabel">
         <source>Copy Address</source>
+        <target>複製網址</target>
         <note>Copy URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.copyMenuLabel">
@@ -416,6 +417,7 @@
       </trans-unit>
       <trans-unit id="Menu.Close">
         <source>Close</source>
+        <target>關閉</target>
         <note>Button label used to close a menu that displays as a popup.</note>
       </trans-unit>
       <trans-unit id="Open.Cancel">
@@ -559,6 +561,7 @@
       </trans-unit>
       <trans-unit id="Settings.safariTitle">
         <source>SAFARI INTEGRATION</source>
+        <target>Safari 整合</target>
         <note>Label for Safari integration section</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
@@ -688,6 +691,7 @@
       </trans-unit>
       <trans-unit id="Settinsg.siriShortcutsTitle">
         <source>SIRI SHORTCUTS</source>
+        <target>Siri 捷徑</target>
         <note>Title for settings section to enable different Siri Shortcuts.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.FindInPage">
@@ -707,6 +711,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.PageActions">
         <source>Page Actions</source>
+        <target>頁面操作</target>
         <note>Title for the share menu where users can take actions for the current website they are on.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop">
@@ -716,50 +721,62 @@
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenChrome">
         <source>Open in Chrome</source>
+        <target>使用 Chrome 開啟</target>
         <note>Text for the share menu option when a user wants to open the current website in the Chrome app.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenFirefox">
         <source>Open in Firefox</source>
+        <target>使用 Firefox 開啟</target>
         <note>Text for the share menu option when a user wants to open the current website in the Firefox app.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenSafari">
         <source>Open in Safari</source>
+        <target>使用 Safari 開啟</target>
         <note>Text for the share menu option when a user wants to open the current website in the Safari app.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.SharePage">
         <source>Share Page With...</source>
+        <target>分享頁面…</target>
         <note>Text for the share menu option when a user wants to share the current website they are on through another app.</note>
       </trans-unit>
       <trans-unit id="Siri.add">
         <source>Add</source>
+        <target>新增</target>
         <note>Button to add a favorite URL to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.addTo">
         <source>Add to Siri</source>
+        <target>新增至 Siri</target>
         <note>Button to add a specified shortcut option to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.editOpenUrl">
         <source>Re-Record or Delete Shortcut</source>
+        <target>重新記錄或刪除捷徑</target>
         <note>Label for button to edit the Siri phrase or delete the Siri functionality.</note>
       </trans-unit>
       <trans-unit id="Siri.erase">
         <source>Erase</source>
+        <target>清除</target>
         <note>Title of option in settings to set up Siri to erase</note>
       </trans-unit>
       <trans-unit id="Siri.eraseAndOpen">
         <source>Erase &amp; Open</source>
+        <target>清除並開啟</target>
         <note>Title of option in settings to set up Siri to erase and then open the app.</note>
       </trans-unit>
       <trans-unit id="Siri.favoriteUrl">
         <source>Open Favorite Site</source>
+        <target>開啟最愛網站</target>
         <note>Title for screen to add a favorite URL to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.openURL">
         <source>Open Favorite Site</source>
+        <target>開啟最愛網站</target>
         <note>Title of option in settings to set up Siri to open a specified URL in Focus/Klar.</note>
       </trans-unit>
       <trans-unit id="Siri.urlToOpen">
         <source>URL to open</source>
+        <target>要開啟的網址</target>
         <note>Label for input to set a favorite URL to be opened by Siri.</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
@@ -789,6 +806,7 @@
       </trans-unit>
       <trans-unit id="URL.paste">
         <source>Paste</source>
+        <target>貼上</target>
         <note>Text for a menu displayed from the bottom of the screen when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText">
@@ -813,6 +831,7 @@
       </trans-unit>
       <trans-unit id="browser.copyAddressToast">
         <source>URL Copied To Clipboard</source>
+        <target>已將網址複製至剪貼簿</target>
         <note>Toast displayed after a URL has been copied to the clipboard</note>
       </trans-unit>
       <trans-unit id="browserShortcutDescription.selectLocationBar">
@@ -837,6 +856,7 @@
       </trans-unit>
       <trans-unit id="contextMenu.linkCopied">
         <source>Link you copied: </source>
+        <target>您複製的鏈結:</target>
         <note>Text for the context menu when a user has a link on their clipboard.</note>
       </trans-unit>
       <trans-unit id="contextMenu.saveImageTitle">
@@ -881,6 +901,7 @@
       </trans-unit>
       <trans-unit id="shareMenu.copyAddress">
         <source>Copy Address</source>
+        <target>複製網址</target>
         <note>Text for the share menu when a user wants to copy a URL.</note>
       </trans-unit>
       <trans-unit id="touchId.reason">
@@ -910,6 +931,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.label">
         <source>Tracking Protection</source>
+        <target>追蹤保護</target>
         <note>Title for the tracking settings page to change what trackers are blocked.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.learnMore">
@@ -961,6 +983,7 @@
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>FocusIntentExtension</source>
+        <target>FocusIntentExtension</target>
       </trans-unit>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
