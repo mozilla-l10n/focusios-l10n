@@ -15,6 +15,7 @@
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription">
         <source>This lets you unlock the app.</source>
+        <target>Điều này cho phép bạn mở khóa ứng dụng.</target>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
@@ -162,6 +163,7 @@
       </trans-unit>
       <trans-unit id="Authentication.reason">
         <source>Authenticate to return to %@</source>
+        <target>Xác thực để quay lại %@</target>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID, Face ID, or passcode to continue browsing after returning to the app.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrl">
@@ -246,10 +248,12 @@
       </trans-unit>
       <trans-unit id="BiometricPrompt.newSession">
         <source>New Session</source>
+        <target>Phiên mới</target>
         <note>Create a new session after failing a biometric check</note>
       </trans-unit>
       <trans-unit id="BiometricPrompt.reason">
         <source>Unlock %@ when re-opening in order to prevent unauthorized access.</source>
+        <target>Mở khóa %@ khi mở lại để ngăn chặn truy cập trái phép.</target>
         <note>%@ is app name. Explanation for why the app needs access to biometric information. Prompt is only shown once when the user first tries to enable Face ID to open the app.</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel">
@@ -259,6 +263,7 @@
       </trans-unit>
       <trans-unit id="Browser.copyAddressLabel">
         <source>Copy Address</source>
+        <target>Sao chép địa chỉ liên kết</target>
         <note>Copy URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.copyMenuLabel">
@@ -410,6 +415,7 @@
       </trans-unit>
       <trans-unit id="Menu.Close">
         <source>Close</source>
+        <target>Đóng</target>
         <note>Button label used to close a menu that displays as a popup.</note>
       </trans-unit>
       <trans-unit id="Open.Cancel">
@@ -464,6 +470,7 @@
       </trans-unit>
       <trans-unit id="SearchEngine.addEngineError">
         <source>That didn't work. Try replacing the search term with this: %s.</source>
+        <target>Điều đó không hoạt động. Hãy thử thay thế cụm từ tìm kiếm bằng cái này: %s.</target>
         <note>Label for error state when entering an invalid search engine URL. %s is a search term in a URL.</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton">
@@ -548,10 +555,12 @@
       </trans-unit>
       <trans-unit id="Settings.rate">
         <source>Rate %@</source>
+        <target>Đánh giá %@</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, allows the user to leave a review for the app on the app store.</note>
       </trans-unit>
       <trans-unit id="Settings.safariTitle">
         <source>SAFARI INTEGRATION</source>
+        <target>SAFARI INTEGRATION</target>
         <note>Label for Safari integration section</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
@@ -591,6 +600,7 @@
       </trans-unit>
       <trans-unit id="Settings.sectionSecurity">
         <source>SECURITY</source>
+        <target>SECURITY</target>
         <note>Header label for security toggles displayed in the settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
@@ -645,6 +655,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleFaceIDDescription">
         <source>Face ID can unlock %@ if a URL is already open in the app</source>
+        <target>Face ID có thể mở khóa %@ nếu một URL đã được mở trong ứng dụng</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
@@ -664,10 +675,12 @@
       </trans-unit>
       <trans-unit id="Settings.toggleTouchID">
         <source>Use Touch ID to unlock app</source>
+        <target>Sử dụng Touch ID để mở ứng dụng</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleTouchIDDescription">
         <source>Touch ID can unlock %@ if a URL is already open in the app</source>
+        <target>Touch ID có thể mở khóa %@ nếu một URL đã được mở trong ứng dụng</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
@@ -677,6 +690,7 @@
       </trans-unit>
       <trans-unit id="Settinsg.siriShortcutsTitle">
         <source>SIRI SHORTCUTS</source>
+        <target>SIRI SHORTCUTS</target>
         <note>Title for settings section to enable different Siri Shortcuts.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.FindInPage">
@@ -705,38 +719,47 @@
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenChrome">
         <source>Open in Chrome</source>
+        <target>Mở trong Chrome</target>
         <note>Text for the share menu option when a user wants to open the current website in the Chrome app.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenFirefox">
         <source>Open in Firefox</source>
+        <target>Mở trong Firefox</target>
         <note>Text for the share menu option when a user wants to open the current website in the Firefox app.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenSafari">
         <source>Open in Safari</source>
+        <target>Mở trong Safafi</target>
         <note>Text for the share menu option when a user wants to open the current website in the Safari app.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.SharePage">
         <source>Share Page With...</source>
+        <target>Chia sẻ trang Với...</target>
         <note>Text for the share menu option when a user wants to share the current website they are on through another app.</note>
       </trans-unit>
       <trans-unit id="Siri.add">
         <source>Add</source>
+        <target>Thêm</target>
         <note>Button to add a favorite URL to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.addTo">
         <source>Add to Siri</source>
+        <target>Thêm vào Siri</target>
         <note>Button to add a specified shortcut option to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.editOpenUrl">
         <source>Re-Record or Delete Shortcut</source>
+        <target>Ghi lại hoặc xóa phím tắt</target>
         <note>Label for button to edit the Siri phrase or delete the Siri functionality.</note>
       </trans-unit>
       <trans-unit id="Siri.erase">
         <source>Erase</source>
+        <target>Xóa</target>
         <note>Title of option in settings to set up Siri to erase</note>
       </trans-unit>
       <trans-unit id="Siri.eraseAndOpen">
         <source>Erase &amp; Open</source>
+        <target>Xóa &amp; mở</target>
         <note>Title of option in settings to set up Siri to erase and then open the app.</note>
       </trans-unit>
       <trans-unit id="Siri.favoriteUrl">
@@ -749,6 +772,7 @@
       </trans-unit>
       <trans-unit id="Siri.urlToOpen">
         <source>URL to open</source>
+        <target>URL để mở</target>
         <note>Label for input to set a favorite URL to be opened by Siri.</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
@@ -778,6 +802,7 @@
       </trans-unit>
       <trans-unit id="URL.paste">
         <source>Paste</source>
+        <target>Dán</target>
         <note>Text for a menu displayed from the bottom of the screen when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText">
@@ -802,6 +827,7 @@
       </trans-unit>
       <trans-unit id="browser.copyAddressToast">
         <source>URL Copied To Clipboard</source>
+        <target>URL đã được sao chép vào Clipboard</target>
         <note>Toast displayed after a URL has been copied to the clipboard</note>
       </trans-unit>
       <trans-unit id="browserShortcutDescription.selectLocationBar">
@@ -826,6 +852,7 @@
       </trans-unit>
       <trans-unit id="contextMenu.linkCopied">
         <source>Link you copied: </source>
+        <target>Liên kết bạn đã sao chép:</target>
         <note>Text for the context menu when a user has a link on their clipboard.</note>
       </trans-unit>
       <trans-unit id="contextMenu.saveImageTitle">
@@ -870,10 +897,12 @@
       </trans-unit>
       <trans-unit id="shareMenu.copyAddress">
         <source>Copy Address</source>
+        <target>Sao chép địa chỉ liên kết</target>
         <note>Text for the share menu when a user wants to copy a URL.</note>
       </trans-unit>
       <trans-unit id="touchId.reason">
         <source>Use Touch ID to return to %@</source>
+        <target>Sử dụng Touch ID để quay lại %@</target>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID to continue browsing after returning to the app.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
@@ -898,6 +927,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.label">
         <source>Tracking Protection</source>
+        <target>Trình chống theo dõi</target>
         <note>Title for the tracking settings page to change what trackers are blocked.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.learnMore">
@@ -949,6 +979,7 @@
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>FocusIntentExtension</source>
+        <target>FocusIntentExtension</target>
       </trans-unit>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
