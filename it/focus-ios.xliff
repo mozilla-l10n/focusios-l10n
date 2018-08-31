@@ -473,6 +473,7 @@
       </trans-unit>
       <trans-unit id="SearchEngine.addEngineError">
         <source>That didn't work. Try replacing the search term with this: %s.</source>
+        <target>Qualcosa non ha funzionato. Riprova sostituendo il termine di ricerca con: %s.</target>
         <note>Label for error state when entering an invalid search engine URL. %s is a search term in a URL.</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton">
