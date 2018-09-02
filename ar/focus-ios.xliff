@@ -853,6 +853,7 @@
       </trans-unit>
       <trans-unit id="contextMenu.linkCopied">
         <source>Link you copied: </source>
+        <target>الرابط الذي نسخته:</target>
         <note>Text for the context menu when a user has a link on their clipboard.</note>
       </trans-unit>
       <trans-unit id="contextMenu.saveImageTitle">
