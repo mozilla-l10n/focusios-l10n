@@ -693,6 +693,7 @@
       </trans-unit>
       <trans-unit id="Settinsg.siriShortcutsTitle">
         <source>SIRI SHORTCUTS</source>
+        <target>ΣΥΝΤΟΜΕΥΣΕΙΣ SIRI</target>
         <note>Title for settings section to enable different Siri Shortcuts.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.FindInPage">
@@ -712,6 +713,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.PageActions">
         <source>Page Actions</source>
+        <target>Ενέργειες σελίδας</target>
         <note>Title for the share menu where users can take actions for the current website they are on.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop">
@@ -721,26 +723,32 @@
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenChrome">
         <source>Open in Chrome</source>
+        <target>Άνοιγμα σε Chrome</target>
         <note>Text for the share menu option when a user wants to open the current website in the Chrome app.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenFirefox">
         <source>Open in Firefox</source>
+        <target>Άνοιγμα σε Firefox</target>
         <note>Text for the share menu option when a user wants to open the current website in the Firefox app.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenSafari">
         <source>Open in Safari</source>
+        <target>Άνοιγμα σε Safari</target>
         <note>Text for the share menu option when a user wants to open the current website in the Safari app.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.SharePage">
         <source>Share Page With...</source>
+        <target>Κοινή χρήση σελίδας με...</target>
         <note>Text for the share menu option when a user wants to share the current website they are on through another app.</note>
       </trans-unit>
       <trans-unit id="Siri.add">
         <source>Add</source>
+        <target>Προσθήκη</target>
         <note>Button to add a favorite URL to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.addTo">
         <source>Add to Siri</source>
+        <target>Προσθήκη στο Siri</target>
         <note>Button to add a specified shortcut option to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.editOpenUrl">
@@ -749,22 +757,27 @@
       </trans-unit>
       <trans-unit id="Siri.erase">
         <source>Erase</source>
+        <target>Διαγραφή</target>
         <note>Title of option in settings to set up Siri to erase</note>
       </trans-unit>
       <trans-unit id="Siri.eraseAndOpen">
         <source>Erase &amp; Open</source>
+        <target>Διαγραφή &amp; Άνοιγμα</target>
         <note>Title of option in settings to set up Siri to erase and then open the app.</note>
       </trans-unit>
       <trans-unit id="Siri.favoriteUrl">
         <source>Open Favorite Site</source>
+        <target>Άνοιγμα αγαπημένης ιστοσελίδας</target>
         <note>Title for screen to add a favorite URL to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.openURL">
         <source>Open Favorite Site</source>
+        <target>Άνοιγμα αγαπημένης ιστοσελίδας</target>
         <note>Title of option in settings to set up Siri to open a specified URL in Focus/Klar.</note>
       </trans-unit>
       <trans-unit id="Siri.urlToOpen">
         <source>URL to open</source>
+        <target>URL για άνοιγμα</target>
         <note>Label for input to set a favorite URL to be opened by Siri.</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
@@ -794,6 +807,7 @@
       </trans-unit>
       <trans-unit id="URL.paste">
         <source>Paste</source>
+        <target>Επικόλληση</target>
         <note>Text for a menu displayed from the bottom of the screen when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText">
@@ -886,6 +900,7 @@
       </trans-unit>
       <trans-unit id="shareMenu.copyAddress">
         <source>Copy Address</source>
+        <target>Αντιγραφή διεύθυνσης</target>
         <note>Text for the share menu when a user wants to copy a URL.</note>
       </trans-unit>
       <trans-unit id="touchId.reason">
@@ -915,6 +930,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.label">
         <source>Tracking Protection</source>
+        <target>Προστασία από καταγραφή</target>
         <note>Title for the tracking settings page to change what trackers are blocked.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.learnMore">
@@ -966,6 +982,7 @@
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>FocusIntentExtension</source>
+        <target>FocusIntentExtension</target>
       </trans-unit>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
