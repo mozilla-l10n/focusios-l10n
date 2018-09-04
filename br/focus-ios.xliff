@@ -35,6 +35,19 @@
       </trans-unit>
     </body>
   </file>
+  <file original="Blockzilla/en.lproj/Intents.strings" source-language="en" datatype="plaintext" target-language="br">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+    </header>
+    <body>
+      <trans-unit id="Erase">
+        <source>Erase</source>
+      </trans-unit>
+      <trans-unit id="Erase browsing session">
+        <source>Erase browsing session</source>
+      </trans-unit>
+    </body>
+  </file>
   <file original="Blockzilla/Intro.strings" source-language="en" datatype="plaintext" target-language="br">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
