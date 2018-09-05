@@ -163,6 +163,7 @@
       </trans-unit>
       <trans-unit id="Authentication.reason">
         <source>Authenticate to return to %@</source>
+        <target>%@’a dönmek için kimliğinizi doğrulayın</target>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID, Face ID, or passcode to continue browsing after returning to the app.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrl">
@@ -472,6 +473,7 @@
       </trans-unit>
       <trans-unit id="SearchEngine.addEngineError">
         <source>That didn't work. Try replacing the search term with this: %s.</source>
+        <target>Olmadı. Arama teriminin yerine şunu yazmayı deneyin: %s.</target>
         <note>Label for error state when entering an invalid search engine URL. %s is a search term in a URL.</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton">
@@ -561,6 +563,7 @@
       </trans-unit>
       <trans-unit id="Settings.safariTitle">
         <source>SAFARI INTEGRATION</source>
+        <target>SAFARI ENTEGRASYONU</target>
         <note>Label for Safari integration section</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
@@ -735,6 +738,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.SharePage">
         <source>Share Page With...</source>
+        <target>Sayfayı Paylaş...</target>
         <note>Text for the share menu option when a user wants to share the current website they are on through another app.</note>
       </trans-unit>
       <trans-unit id="Siri.add">
@@ -749,22 +753,27 @@
       </trans-unit>
       <trans-unit id="Siri.editOpenUrl">
         <source>Re-Record or Delete Shortcut</source>
+        <target>Yeniden kaydet veya kısayolu sil</target>
         <note>Label for button to edit the Siri phrase or delete the Siri functionality.</note>
       </trans-unit>
       <trans-unit id="Siri.erase">
         <source>Erase</source>
+        <target>Sil</target>
         <note>Title of option in settings to set up Siri to erase</note>
       </trans-unit>
       <trans-unit id="Siri.eraseAndOpen">
         <source>Erase &amp; Open</source>
+        <target>Sil ve aç</target>
         <note>Title of option in settings to set up Siri to erase and then open the app.</note>
       </trans-unit>
       <trans-unit id="Siri.favoriteUrl">
         <source>Open Favorite Site</source>
+        <target>Favori siteyi aç</target>
         <note>Title for screen to add a favorite URL to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.openURL">
         <source>Open Favorite Site</source>
+        <target>Favori siteyi aç</target>
         <note>Title of option in settings to set up Siri to open a specified URL in Focus/Klar.</note>
       </trans-unit>
       <trans-unit id="Siri.urlToOpen">
@@ -976,6 +985,7 @@
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>FocusIntentExtension</source>
+        <target>FocusIntentExtension</target>
       </trans-unit>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
