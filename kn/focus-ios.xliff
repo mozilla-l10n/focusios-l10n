@@ -48,6 +48,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Next.Button">
         <source>Next</source>
+        <target>ಮುಂದೆ</target>
         <note>Button to go to the next card in Focus onboarding.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description">
@@ -60,6 +61,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Skip.Button">
         <source>Skip</source>
+        <target>ಬಿಟ್ಟುಬಿಡು</target>
         <note>Button to skip onboarding in Focus</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description">
@@ -143,6 +145,7 @@
       </trans-unit>
       <trans-unit id="About.title">
         <source>About %@</source>
+        <target>ಬಗ್ಗೆ %@</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, takes the user to a page with information about the product. Also displayed as a header for the About page.</note>
       </trans-unit>
       <trans-unit id="About.topLabel">
@@ -208,6 +211,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.disabled">
         <source>Disabled</source>
+        <target>ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು</target>
         <note>label describing URL Autocomplete as disabled</note>
       </trans-unit>
       <trans-unit id="Autocomplete.emptyState">
@@ -216,10 +220,12 @@
       </trans-unit>
       <trans-unit id="Autocomplete.enabled">
         <source>Enabled</source>
+        <target>ಸಕ್ರಿಯಗೊಳಿಸು</target>
         <note>label describing URL Autocomplete as enabled</note>
       </trans-unit>
       <trans-unit id="BiometricPrompt.newSession">
         <source>New Session</source>
+        <target>ಹೊಸ ಅಧಿವೇಶನ</target>
         <note>Create a new session after failing a biometric check</note>
       </trans-unit>
       <trans-unit id="BiometricPrompt.reason">
@@ -237,6 +243,7 @@
       </trans-unit>
       <trans-unit id="Browser.copyMenuLabel">
         <source>Copy</source>
+        <target>ನಕಲಿಸು</target>
         <note>Copy URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.customURLMenuLabel">
@@ -270,14 +277,17 @@
       </trans-unit>
       <trans-unit id="Cancel">
         <source>Cancel</source>
+        <target>ರದ್ದು ಮಾಡು</target>
         <note>Label on button to cancel edits</note>
       </trans-unit>
       <trans-unit id="Done">
         <source>Done</source>
+        <target>ಆಯಿತು</target>
         <note>Label on button to complete edits</note>
       </trans-unit>
       <trans-unit id="Edit">
         <source>Edit</source>
+        <target>ಸಂಪಾದಿಸಿ</target>
         <note>Label on button to allow edits</note>
       </trans-unit>
       <trans-unit id="Error.tryAgainButton">
@@ -337,6 +347,7 @@
       </trans-unit>
       <trans-unit id="FindInPage.Done">
         <source>Find in page done</source>
+        <target>ಪುಟದಲ್ಲಿ ಹುಡುಕು ಮುಗಿದಿದೆ</target>
         <note>Accessibility label for done button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.NextResult">
@@ -378,6 +389,7 @@
       </trans-unit>
       <trans-unit id="Menu.Close">
         <source>Close</source>
+        <target>ಮುಚ್ಚು</target>
         <note>Button label used to close a menu that displays as a popup.</note>
       </trans-unit>
       <trans-unit id="Open.Cancel">
@@ -426,6 +438,7 @@
       </trans-unit>
       <trans-unit id="Save">
         <source>Save</source>
+        <target>ಉಳಿಸು</target>
         <note>Save button label</note>
       </trans-unit>
       <trans-unit id="SearchEngine.addEngineError">
@@ -507,6 +520,7 @@
       </trans-unit>
       <trans-unit id="Settings.safariTitle">
         <source>SAFARI INTEGRATION</source>
+        <target>SAFARI INTEGRATION</target>
         <note>Label for Safari integration section</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
@@ -516,10 +530,12 @@
       </trans-unit>
       <trans-unit id="Settings.searchLabel">
         <source>Search Engine</source>
+        <target>ಹುಡುಕು ಸಾಧನ</target>
         <note>Label for the search engine in the search screen</note>
       </trans-unit>
       <trans-unit id="Settings.searchTitle2">
         <source>SEARCH</source>
+        <target>SEARCH</target>
         <note>Title for the search selection screen</note>
       </trans-unit>
       <trans-unit id="Settings.sectionIntegration">
@@ -544,6 +560,7 @@
       </trans-unit>
       <trans-unit id="Settings.sectionSecurity">
         <source>SECURITY</source>
+        <target>SECURITY</target>
         <note>Header label for security toggles displayed in the settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
@@ -722,6 +739,7 @@
       </trans-unit>
       <trans-unit id="URL.paste">
         <source>Paste</source>
+        <target>ಅಂಟಿಸು</target>
         <note>Text for a menu displayed from the bottom of the screen when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText">
@@ -807,6 +825,7 @@
       </trans-unit>
       <trans-unit id="share">
         <source>Share</source>
+        <target>ಹಂಚು</target>
         <note>Text for a share button</note>
       </trans-unit>
       <trans-unit id="shareMenu.copyAddress">
@@ -839,10 +858,12 @@
       </trans-unit>
       <trans-unit id="trackingProtection.learnMore">
         <source>Learn More</source>
+        <target>ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ</target>
         <note>Text for the button to learn more about Tracking Protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.socialTrackerLabel">
         <source>Social trackers</source>
+        <target>ಸಾಮಾಜಿಕ ಜಾಡುಹಿಡಿಯುವವರು</target>
         <note>label for social trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription1">
