@@ -693,6 +693,7 @@
       </trans-unit>
       <trans-unit id="Settinsg.siriShortcutsTitle">
         <source>SIRI SHORTCUTS</source>
+        <target>SIRI GYORS PARANCSOK</target>
         <note>Title for settings section to enable different Siri Shortcuts.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.FindInPage">
@@ -752,6 +753,7 @@
       </trans-unit>
       <trans-unit id="Siri.editOpenUrl">
         <source>Re-Record or Delete Shortcut</source>
+        <target>Gyors parancs újrarögzítése vagy törlése</target>
         <note>Label for button to edit the Siri phrase or delete the Siri functionality.</note>
       </trans-unit>
       <trans-unit id="Siri.erase">
