@@ -928,7 +928,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.disabledLabel">
         <source>Tracking Protection off</source>
-        <target>关闭追踪保护</target>
+        <target>关闭跟踪保护</target>
         <note>text showing the tracking protection is disabled.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.label">
