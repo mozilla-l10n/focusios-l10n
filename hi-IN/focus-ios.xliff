@@ -693,7 +693,7 @@
       </trans-unit>
       <trans-unit id="Settinsg.siriShortcutsTitle">
         <source>SIRI SHORTCUTS</source>
-        <target>सिरी शॉर्टकट</target>
+        <target>SIRI शॉर्टकट</target>
         <note>Title for settings section to enable different Siri Shortcuts.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.FindInPage">
@@ -748,7 +748,7 @@
       </trans-unit>
       <trans-unit id="Siri.addTo">
         <source>Add to Siri</source>
-        <target>सिरी में जोड़ें</target>
+        <target>Siri में जोड़ें</target>
         <note>Button to add a specified shortcut option to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.editOpenUrl">
