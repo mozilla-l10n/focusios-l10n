@@ -163,6 +163,7 @@
       </trans-unit>
       <trans-unit id="Authentication.reason">
         <source>Authenticate to return to %@</source>
+        <target>Autentiser for å gå tilbake til %@</target>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID, Face ID, or passcode to continue browsing after returning to the app.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrl">
@@ -262,6 +263,7 @@
       </trans-unit>
       <trans-unit id="Browser.copyAddressLabel">
         <source>Copy Address</source>
+        <target>Kopier adresse</target>
         <note>Copy URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.copyMenuLabel">
@@ -416,6 +418,7 @@
       </trans-unit>
       <trans-unit id="Menu.Close">
         <source>Close</source>
+        <target>Lukk</target>
         <note>Button label used to close a menu that displays as a popup.</note>
       </trans-unit>
       <trans-unit id="Open.Cancel">
@@ -732,10 +735,12 @@
       </trans-unit>
       <trans-unit id="Siri.add">
         <source>Add</source>
+        <target>Legg til</target>
         <note>Button to add a favorite URL to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.addTo">
         <source>Add to Siri</source>
+        <target>Legg til Siri</target>
         <note>Button to add a specified shortcut option to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.editOpenUrl">
@@ -744,10 +749,12 @@
       </trans-unit>
       <trans-unit id="Siri.erase">
         <source>Erase</source>
+        <target>Slett</target>
         <note>Title of option in settings to set up Siri to erase</note>
       </trans-unit>
       <trans-unit id="Siri.eraseAndOpen">
         <source>Erase &amp; Open</source>
+        <target>Slett og åpne</target>
         <note>Title of option in settings to set up Siri to erase and then open the app.</note>
       </trans-unit>
       <trans-unit id="Siri.favoriteUrl">
@@ -789,6 +796,7 @@
       </trans-unit>
       <trans-unit id="URL.paste">
         <source>Paste</source>
+        <target>Lim inn</target>
         <note>Text for a menu displayed from the bottom of the screen when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText">
