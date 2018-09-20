@@ -748,7 +748,7 @@
       </trans-unit>
       <trans-unit id="Siri.addTo">
         <source>Add to Siri</source>
-        <target>Siri’ye Ekle</target>
+        <target>Siri’ye ekle</target>
         <note>Button to add a specified shortcut option to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.editOpenUrl">
