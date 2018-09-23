@@ -320,7 +320,7 @@
       </trans-unit>
       <trans-unit id="ExternalAppLink.messageTitle">
         <source>%@ wants to open another App</source>
-        <target>„%2“ bando atverti kitą programą</target>
+        <target>„%@“ bando atverti kitą programą</target>
         <note>Dialog title used for opening an external app from Focus. The placeholder string is the app name of either Focus or Klar.</note>
       </trans-unit>
       <trans-unit id="ExternalAppLink.openTitle">
@@ -330,46 +330,57 @@
       </trans-unit>
       <trans-unit id="ExternalLink.callButton">
         <source>Call</source>
+        <target>Skambinti</target>
         <note>Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.cancelButton">
         <source>Cancel</source>
+        <target>Atsisakyti</target>
         <note>Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.emailButton">
         <source>Email</source>
+        <target>Rašyti laišką</target>
         <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.messageTitleWithPlaceholder">
         <source>You are now leaving %@.</source>
+        <target>Dabar darbas su „%@“ bus baigtas.</target>
         <note>Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreButton">
         <source>Open App Store</source>
+        <target>Atverti „App Store“</target>
         <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreTitle">
         <source>%@ wants to open the App Store.</source>
+        <target>„%@“ bando atverti programą „App Store“.</target>
         <note>Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openMapsButton">
         <source>Open Maps</source>
+        <target>Atverti „Maps“</target>
         <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="FindInPage.Done">
         <source>Find in page done</source>
+        <target>Paieška tinklalapyje baigta</target>
         <note>Accessibility label for done button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.NextResult">
         <source>Find next in page</source>
+        <target>Rasti tolesnį</target>
         <note>Accessibility label for next result button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.PreviousResult">
         <source>Find previous in page</source>
+        <target>Rasti ankstesnį</target>
         <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel">
         <source>OK, Got It!</source>
+        <target>Gerai, supratau!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
@@ -852,6 +863,7 @@
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>FocusIntentExtension</source>
+        <target>FocusIntentExtension</target>
       </trans-unit>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
