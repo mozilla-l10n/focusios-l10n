@@ -37,6 +37,7 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
+        <target>Bet kuriuo metu išvalykite visą savo naršymo žurnalą, slaptažodžius ir slapukus vienu bakstelėjimu.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title">
@@ -45,26 +46,32 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Next.Button">
         <source>Next</source>
+        <target>Toliau</target>
         <note>Button to go to the next card in Focus onboarding.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description">
         <source>Searching for something different? Choose a different search engine.</source>
+        <target>Ieškote kažko kito? Pasirinkite kitą ieškyklę.</target>
         <note>Description for the 'Favorite Search Engine' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Title">
         <source>Your search, your way</source>
+        <target>Jūsų paieška, jūsų skoniui</target>
         <note>Title for the second  panel 'Search' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Skip.Button">
         <source>Skip</source>
+        <target>Praleisti</target>
         <note>Button to skip onboarding in Focus</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description">
         <source>Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.</source>
+        <target>Pereikite į aukštesnį privačiojo naršymo lygį. Blokuokite reklamas ir kitą jūsų naršymą galintį stebėti turinį, tuo pačiu sutrumpindami svetainių įkėlimo laiką.</target>
         <note>Description for the 'Welcome' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Title">
         <source>Power up your privacy</source>
+        <target>Pagerinkite savo privatumą</target>
         <note>Title for the first panel 'Welcome' in the First Run tour.</note>
       </trans-unit>
     </body>
@@ -76,30 +83,37 @@
     <body>
       <trans-unit id="About.learnMoreButton">
         <source>Learn more</source>
+        <target>Sužinoti daugiau</target>
         <note>Button on About screen</note>
       </trans-unit>
       <trans-unit id="About.missionLabel">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
+        <target>„%@“ yra „Mozillos“ kūrinys. Mūsų misija yra skatinti sveiką, atvirą internetą.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet1">
         <source>Search and browse right in the app</source>
+        <target>Ieškokite ir naršykite pačioje programoje</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet2">
         <source>Block trackers (or update settings to allow trackers)</source>
+        <target>Blokuokite stebėjimo elementus (arba atnaujinkite nuostatas, jeigu norite juos leisti)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3">
         <source>Erase to delete cookies as well as search and browsing history</source>
+        <target>Išvalykite, norėdami pašalinti slapukus, paieškos ir naršymo žurnalus</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
         <source>Use it as a private browser:</source>
+        <target>Naudokite ją kaip privačią naršyklę:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp">
         <source>Help</source>
+        <target>Žinynas</target>
         <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.rowPrivacy">
