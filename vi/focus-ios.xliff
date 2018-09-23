@@ -373,14 +373,17 @@
       </trans-unit>
       <trans-unit id="FindInPage.Done">
         <source>Find in page done</source>
+        <target>Hoàn thành tìm kiếm</target>
         <note>Accessibility label for done button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.NextResult">
         <source>Find next in page</source>
+        <target>Kết quả tiếp theo trong trang</target>
         <note>Accessibility label for next result button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.PreviousResult">
         <source>Find previous in page</source>
+        <target>Kết quả trước trong trang</target>
         <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel">
@@ -764,10 +767,12 @@
       </trans-unit>
       <trans-unit id="Siri.favoriteUrl">
         <source>Open Favorite Site</source>
+        <target>Mở trang yêu thích</target>
         <note>Title for screen to add a favorite URL to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.openURL">
         <source>Open Favorite Site</source>
+        <target>Mở trang yêu thích</target>
         <note>Title of option in settings to set up Siri to open a specified URL in Focus/Klar.</note>
       </trans-unit>
       <trans-unit id="Siri.urlToOpen">
