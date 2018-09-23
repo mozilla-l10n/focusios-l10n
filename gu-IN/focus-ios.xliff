@@ -671,22 +671,27 @@
       </trans-unit>
       <trans-unit id="Siri.erase">
         <source>Erase</source>
+        <target>કાઢી નાંખો</target>
         <note>Title of option in settings to set up Siri to erase</note>
       </trans-unit>
       <trans-unit id="Siri.eraseAndOpen">
         <source>Erase &amp; Open</source>
+        <target>કાઢી નાખો અને ખોલો</target>
         <note>Title of option in settings to set up Siri to erase and then open the app.</note>
       </trans-unit>
       <trans-unit id="Siri.favoriteUrl">
         <source>Open Favorite Site</source>
+        <target>મનપસંદ સાઇટ ખોલો</target>
         <note>Title for screen to add a favorite URL to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.openURL">
         <source>Open Favorite Site</source>
+        <target>મનપસંદ સાઇટ ખોલો</target>
         <note>Title of option in settings to set up Siri to open a specified URL in Focus/Klar.</note>
       </trans-unit>
       <trans-unit id="Siri.urlToOpen">
         <source>URL to open</source>
+        <target>ખોલવા માટેની URL</target>
         <note>Label for input to set a favorite URL to be opened by Siri.</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
@@ -701,14 +706,17 @@
       </trans-unit>
       <trans-unit id="URL.eraseButtonLabel">
         <source>ERASE</source>
+        <target>કાઢી નાંખો</target>
         <note>Erase button in the URL bar</note>
       </trans-unit>
       <trans-unit id="URL.eraseMessageLabel">
         <source>Your browsing history has been erased.</source>
+        <target>તમારો બ્રાઉઝિંગ ઇતિહાસ કાઢી નાખવામાં આવ્યો છે.</target>
         <note>Message shown after pressing the Erase button</note>
       </trans-unit>
       <trans-unit id="URL.findOnPageLabel">
         <source>Find in page: %@</source>
+        <target>પૃષ્ઠમાં શોધો: %@</target>
         <note>Label displayed for find in page button when typing in the URL Bar. %@ is any text the user has typed into the URL bar that they want to find on the current page.</note>
       </trans-unit>
       <trans-unit id="URL.paste">
@@ -717,6 +725,7 @@
       </trans-unit>
       <trans-unit id="URL.placeholderText">
         <source>Search or enter address</source>
+        <target>સરનામું શોધો અથવા દાખલ કરો</target>
         <note>Placeholder text shown in the URL bar before the user navigates to a page</note>
       </trans-unit>
       <trans-unit id="URL.searchLabel">
@@ -763,6 +772,7 @@
       </trans-unit>
       <trans-unit id="contextMenu.saveImageTitle">
         <source>Save Image</source>
+        <target>ઈમેજ સાચવો</target>
         <note>Text for the context menu when a user wants to save an image after long pressing it.</note>
       </trans-unit>
       <trans-unit id="contextMenu.shareLinkTitle">
@@ -776,6 +786,7 @@
       </trans-unit>
       <trans-unit id="photosPermission.description">
         <source>This lets you save images to your Camera Roll</source>
+        <target>આ તમને છબીઓને તમારા કૅમેરા રોલમાં સાચવવા દે છે</target>
         <note>Description for dialog used for requesting a user to enable access to Photos.</note>
       </trans-unit>
       <trans-unit id="photosPermission.openSettings">
@@ -825,6 +836,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.label">
         <source>Tracking Protection</source>
+        <target>ટ્રેકિંગથી રક્ષણ</target>
         <note>Title for the tracking settings page to change what trackers are blocked.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.learnMore">
@@ -874,6 +886,7 @@
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>FocusIntentExtension</source>
+        <target>FocusIntentExtension</target>
       </trans-unit>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
