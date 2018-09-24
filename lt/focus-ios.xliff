@@ -129,10 +129,12 @@
       </trans-unit>
       <trans-unit id="About.safariBullet1">
         <source>Block trackers for improved privacy</source>
+        <target>Blokuokite stebėjimo elementus vardan didesnio privatumo</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2">
         <source>Block Web fonts to reduce page size</source>
+        <target>Blokuokite saityno šriftus, taip sumažindami tinklalapių apimtis</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
@@ -161,12 +163,12 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrl">
         <source>Add Custom URL</source>
-        <target>Pridėti savo URL</target>
+        <target>Pridėti savą adresą</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlError">
         <source>Double-check the URL you entered.</source>
-        <target>Patikrinkite savo įvestą URL.</target>
+        <target>Patikrinkite įvestą URL adresą.</target>
         <note>Label for error state when entering an invalid URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlExample">
@@ -176,17 +178,17 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlLabel">
         <source>URL to add</source>
-        <target>Pridedamas URL</target>
+        <target>Pridedamas adresas</target>
         <note>Label for the input to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlPlaceholder">
         <source>Paste or enter URL</source>
-        <target>Įdėkite arba įrašykite URL</target>
+        <target>Įdėkite arba įveskite URL adresą</target>
         <note>Placeholder for the input field to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlWithPlus">
         <source>+ Add Custom URL</source>
-        <target>+ Pridėti savo URL</target>
+        <target>+ Pridėti savą adresą</target>
         <note>Label for button to add a custom URL with the + prefix</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customDescriptoin">
@@ -196,7 +198,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customLabel">
         <source>Custom URLs</source>
-        <target>Pasirinktiniai URL</target>
+        <target>Pasirinktiniai adresai</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customTitle">
@@ -206,7 +208,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customUrlAdded">
         <source>New Custom URL added.</source>
-        <target>Pridėtas naujas URL.</target>
+        <target>Pridėtas naujas adresas.</target>
         <note>Label for toast alerting a custom URL has been added</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin">
@@ -266,7 +268,7 @@
       </trans-unit>
       <trans-unit id="Browser.customURLMenuLabel">
         <source>Add Custom URL</source>
-        <target>Pridėti savo URL</target>
+        <target>Pridėti savą adresą</target>
         <note>Custom URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.forwardLabel">
