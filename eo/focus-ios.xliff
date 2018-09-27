@@ -416,6 +416,7 @@
       </trans-unit>
       <trans-unit id="Menu.Close">
         <source>Close</source>
+        <target>Fermi</target>
         <note>Button label used to close a menu that displays as a popup.</note>
       </trans-unit>
       <trans-unit id="Open.Cancel">
@@ -732,6 +733,7 @@
       </trans-unit>
       <trans-unit id="Siri.add">
         <source>Add</source>
+        <target>Aldoni</target>
         <note>Button to add a favorite URL to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.addTo">
