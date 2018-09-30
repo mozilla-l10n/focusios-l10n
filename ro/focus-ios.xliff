@@ -473,7 +473,7 @@
       </trans-unit>
       <trans-unit id="SearchEngine.addEngineError">
         <source>That didn't work. Try replacing the search term with this: %s.</source>
-        <target>Nu a funcționat. Încearcă să înlocuiești termenul  de căutare cu: %s.</target>
+        <target>Nu a funcționat. Încearcă să înlocuiești termenul de căutare cu: %s.</target>
         <note>Label for error state when entering an invalid search engine URL. %s is a search term in a URL.</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton">
@@ -928,12 +928,12 @@
       </trans-unit>
       <trans-unit id="trackingProtection.disabledLabel">
         <source>Tracking Protection off</source>
-        <target>Protecție față de urmărire dezactivată</target>
+        <target>Protecție împotriva urmăririi dezactivată</target>
         <note>text showing the tracking protection is disabled.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.label">
         <source>Tracking Protection</source>
-        <target>Protecție față de urmărire</target>
+        <target>Protecție împotriva urmăririi</target>
         <note>Title for the tracking settings page to change what trackers are blocked.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.learnMore">
@@ -953,7 +953,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel">
         <source>Tracking Protection</source>
-        <target>Protecție față de urmărire</target>
+        <target>Protecție împotriva urmăririi</target>
         <note>Text for the toggle that temporarily disables tracking protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.trackerDescriptionLabel">
