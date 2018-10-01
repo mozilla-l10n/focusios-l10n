@@ -376,6 +376,7 @@
       </trans-unit>
       <trans-unit id="Menu.Close">
         <source>Close</source>
+        <target>બંધ કરો</target>
         <note>Button label used to close a menu that displays as a popup.</note>
       </trans-unit>
       <trans-unit id="Open.Cancel">
@@ -418,6 +419,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsOpen">
         <source>Open Settings App</source>
+        <target>સેટિંગ્સ એપ્લિકેશન ખોલો</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Save">
@@ -439,6 +441,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineTitle">
         <source>Add Search Engine</source>
+        <target>શોધ એન્જિન ઉમેરો</target>
         <note>Title on add search engine settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.Search.InstalledSearchEngines">
@@ -532,14 +535,17 @@
       </trans-unit>
       <trans-unit id="Settings.sectionMozilla">
         <source>MOZILLA</source>
+        <target>MOZILLA</target>
         <note>Section label for Mozilla toggles</note>
       </trans-unit>
       <trans-unit id="Settings.sectionPerformance">
         <source>PERFORMANCE</source>
+        <target>દેખાવ</target>
         <note>Section label for performance toggles</note>
       </trans-unit>
       <trans-unit id="Settings.sectionPrivacy">
         <source>PRIVACY</source>
+        <target>ગોપનીય</target>
         <note>Section label for privacy toggles</note>
       </trans-unit>
       <trans-unit id="Settings.sectionSecurity">
