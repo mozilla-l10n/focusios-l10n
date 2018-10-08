@@ -711,7 +711,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop">
         <source>Request Desktop Site</source>
-        <target>Bed om desktop-site</target>
+        <target>Bed om desktop-version</target>
         <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenChrome">
