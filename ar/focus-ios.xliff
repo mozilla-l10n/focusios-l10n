@@ -473,6 +473,7 @@
       </trans-unit>
       <trans-unit id="SearchEngine.addEngineError">
         <source>That didn't work. Try replacing the search term with this: %s.</source>
+        <target>لم ينجح الأمر. جرّب استخدام نص البحث هذا بدل الحالي: %s.</target>
         <note>Label for error state when entering an invalid search engine URL. %s is a search term in a URL.</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton">
@@ -775,6 +776,7 @@
       </trans-unit>
       <trans-unit id="Siri.urlToOpen">
         <source>URL to open</source>
+        <target>المسار الذي سيُفتح</target>
         <note>Label for input to set a favorite URL to be opened by Siri.</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
