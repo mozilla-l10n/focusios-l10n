@@ -658,7 +658,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleFaceIDDescription">
         <source>Face ID can unlock %@ if a URL is already open in the app</source>
-        <target>如果网址已在应用中打开，则可用面容 ID 解锁 %@</target>
+        <target>如果已有网址在应用中打开，则可用面容 ID 解锁 %@</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
@@ -683,7 +683,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleTouchIDDescription">
         <source>Touch ID can unlock %@ if a URL is already open in the app</source>
-        <target>如果网址已在应用中打开，则可用触控 ID 解锁 %@</target>
+        <target>如果已有网址在应用中打开，则可用触控 ID 解锁 %@</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
