@@ -593,17 +593,17 @@
       </trans-unit>
       <trans-unit id="Settings.sectionPerformance">
         <source>PERFORMANCE</source>
-        <target>PERFORMANCE</target>
+        <target>HIỆU SUẤT</target>
         <note>Section label for performance toggles</note>
       </trans-unit>
       <trans-unit id="Settings.sectionPrivacy">
         <source>PRIVACY</source>
-        <target>PRIVACY</target>
+        <target>RIÊNG TƯ</target>
         <note>Section label for privacy toggles</note>
       </trans-unit>
       <trans-unit id="Settings.sectionSecurity">
         <source>SECURITY</source>
-        <target>SECURITY</target>
+        <target>BẢO MẬT</target>
         <note>Header label for security toggles displayed in the settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
@@ -792,7 +792,7 @@
       </trans-unit>
       <trans-unit id="URL.eraseButtonLabel">
         <source>ERASE</source>
-        <target>ERASE</target>
+        <target>XÓA</target>
         <note>Erase button in the URL bar</note>
       </trans-unit>
       <trans-unit id="URL.eraseMessageLabel">
