@@ -663,7 +663,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
-        <target>შესაძლოა ზოგიერთმა საიტმა, ან ვიდეომ არ იმუშაოს გამართულად</target>
+        <target>შესაძლოა, ზოგიერთმა საიტმა ან ვიდეომ არ იმუშაოს გამართულად</target>
         <note>Label subtitle for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSafari">
