@@ -623,7 +623,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalyticsDescription">
         <source>Used to collect, analyze and measure activities like tapping and scrolling</source>
-        <target>Folosit pentru a colecta, analiza şi măsura activităţi ca atingere şi derulare</target>
+        <target>Folosit pentru a colecta, analiza și măsura activități precum atingerea și derularea</target>
         <note>Description for 'Block analytics Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
@@ -648,7 +648,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocialDescription">
         <source>Embedded on sites to track your visits and to display functionality like share buttons</source>
-        <target>Încorporat pe site-uri pentru a urmări vizitele tale şi a afişa funcţii precum butoanele de partajare</target>
+        <target>Încorporat în site-uri pentru a-ți urmări vizitele și a afișa funcții precum butoane de distribuire</target>
         <note>Description for 'Block social Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceID">
@@ -948,7 +948,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription1">
         <source>Disable until you close %@ or tap ERASE.</source>
-        <target>Dezactivare până când închizi %@ sau apeşi ERASE.</target>
+        <target>Dezactivează până când închizi %@ sau apeși ȘTERGE.</target>
         <note>Description for the tracking protection toggle. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel">
@@ -958,7 +958,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.trackerDescriptionLabel">
         <source>Choose whether %@ blocks ad, analytic, social, and other trackers.</source>
-        <target>Alege dacă %@ blochează mecanisme de urmărire de anunţuri, analitice, sociale şi alte.</target>
+        <target>Alege dacă %@ blochează mecanisme de urmărire de anunţuri, analitice, sociale și alte.</target>
         <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
     </body>
