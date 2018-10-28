@@ -528,7 +528,7 @@
       </trans-unit>
       <trans-unit id="Settings.autocompleteSection">
         <source>URL Autocomplete</source>
-        <target>URL tự động điền</target>
+        <target>Tự động điền URL</target>
         <note>Title for the URL Autocomplete row</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
@@ -713,6 +713,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.PageActions">
         <source>Page Actions</source>
+        <target>Hành động trang</target>
         <note>Title for the share menu where users can take actions for the current website they are on.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop">
