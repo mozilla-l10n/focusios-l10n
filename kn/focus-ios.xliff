@@ -467,6 +467,7 @@
       </trans-unit>
       <trans-unit id="SearchEngine.addEngineError">
         <source>That didn't work. Try replacing the search term with this: %s.</source>
+        <target>ಅದು ಕೆಲಸ ಮಾಡಲಿಲ್ಲ. ಹುಡುಕಾಟ ಪದವನ್ನು ಇದರೊಂದಿಗೆ ಬದಲಿಸಿ ಪ್ರಯತ್ನಿಸಿ: %s.</target>
         <note>Label for error state when entering an invalid search engine URL. %s is a search term in a URL.</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton">
@@ -515,6 +516,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplatePlaceholder">
         <source>Paste or enter search string. If necessary, replace search term with: %s.</source>
+        <target>ಅಂಟಿಸಿ ಅಥವಾ ಹುಡುಕಾಟ ಸಾಲನ್ನು ನಮೂದಿಸಿ. ಅಗತ್ಯವಿದ್ದರೆ, ಹುಡುಕಾಟ ಪದವನ್ನು ಇದರೊಂದಿಗೆ ಬದಲಾಯಿಸಿ: %s.</target>
         <note>Placeholder text for input of new search engine template</note>
       </trans-unit>
       <trans-unit id="Settings.autocompleteSection">
