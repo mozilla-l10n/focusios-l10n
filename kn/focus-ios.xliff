@@ -15,6 +15,7 @@
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription">
         <source>This lets you unlock the app.</source>
+        <target>ಇದು ನಿಮಗೆ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಅನ್ಲಾಕ್ ಮಾಡಲು ಅನುಮತಿಸುತ್ತದೆ.</target>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
@@ -26,6 +27,7 @@
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription">
         <source>This lets you save and upload photos.</source>
+        <target>‍ಇದು ನಿಮ್ಮನ್ನು ಫೋಟೊ‌ಗಳನ್ನು ಉಳಿಸಲು ಮತ್ತು ಅಪ್ಲೋಡ್ ಮಾಡಲು ಬಿಡುತ್ತದೆ.</target>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription">
         <source>This lets you save and upload photos.</source>
@@ -40,10 +42,12 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
+        <target>ನಿಮ್ಮ ಸಂಪೂರ್ಣ ಬ್ರೌಸಿಂಗ್ ಸೆಷನ್ ಇತಿಹಾಸ, ಪಾಸ್ವರ್ಡ್ಗಳು, ಕುಕೀಸ್ ಅನ್ನು ಒಮ್ಮೆ ತಟ್ಟುವುದರಿಂದ ಯಾವುದೇ ಸಮಯದಲ್ಲಿ ತೆರವುಗೊಳಿಸಿ.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title">
         <source>Your history is history</source>
+        <target>ನಿಮ್ಮ ಇತಿಹಾಸವು ಇತಿಹಾಸವಾಗಿದೆ</target>
         <note>Title for the third  panel 'History' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Next.Button">
@@ -53,6 +57,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description">
         <source>Searching for something different? Choose a different search engine.</source>
+        <target>ಬೇರೆಯದನ್ನು ಹುಡುಕಲಾಗುತ್ತಿದೆಯೇ? ಬೇರೆ ಹುಡುಕಾಟ ಎಂಜಿನ್ ಆಯ್ಕೆಮಾಡಿ.</target>
         <note>Description for the 'Favorite Search Engine' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Title">
@@ -157,6 +162,7 @@
       </trans-unit>
       <trans-unit id="Authentication.reason">
         <source>Authenticate to return to %@</source>
+        <target>%@ ಗೆ ಮರಳಲು ದೃಢೀಕರಿಸಿ</target>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID, Face ID, or passcode to continue browsing after returning to the app.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrl">
@@ -475,18 +481,22 @@
       </trans-unit>
       <trans-unit id="Settings.Search.NameToDisplay">
         <source>Name to display</source>
+        <target>ಪ್ರದರ್ಶಿಸಲು ಹೆಸರು</target>
         <note>Label for input field for the name of the search engine to be added</note>
       </trans-unit>
       <trans-unit id="Settings.Search.NewSearchEngineAdded">
         <source>New Search Engine Added.</source>
+        <target>ಹೊಸ ಹುಡುಕಾಟ ಎಂಜಿನ್ ಸೇರಿಸಲಾಗಿದೆ.</target>
         <note>Toast displayed after adding a search engine</note>
       </trans-unit>
       <trans-unit id="Settings.Search.RestoreEngine">
         <source>Restore Default Search Engines</source>
+        <target>ಪೂರ್ವನಿಯೋಜಿತ ಹುಡುಕು ಎಂಜಿನ್‌ ಮರುಹೊಂದಿಸು</target>
         <note>Label for button to bring deleted default engines back</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchEngineName">
         <source>Search engine name</source>
+        <target>ಹುಡುಕಾಟ ಎಂಜಿನ್ ಹೆಸರು</target>
         <note>Placeholder text for input of new search engine name</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplate">
@@ -620,10 +630,12 @@
       </trans-unit>
       <trans-unit id="Settings.toggleFaceID">
         <source>Use Face ID to unlock app</source>
+        <target>ಅಪ್ಲಿಕೇಶನ್ ಅನ್ಲಾಕ್ ಮಾಡಲು ಫೇಸ್ ID ಬಳಸಿ</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceIDDescription">
         <source>Face ID can unlock %@ if a URL is already open in the app</source>
+        <target>ಅಪ್ಲಿಕೇಶನ್ನಲ್ಲಿ ಈಗಾಗಲೇ URL ತೆರೆದಿದ್ದರೆ ಫೇಸ್ ID ಯು %@ ಅನ್ನು ಅನ್ಲಾಕ್ ಮಾಡಬಹುದು</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
@@ -643,6 +655,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleTouchID">
         <source>Use Touch ID to unlock app</source>
+        <target>ಅಪ್ಲಿಕೇಶನ್ ಅನ್ಲಾಕ್ ಮಾಡಲು ಫೇಸ್ ID ಬಳಸಿ</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleTouchIDDescription">
@@ -701,6 +714,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.SharePage">
         <source>Share Page With...</source>
+        <target>ಇದರೊಂದಿಗೆ ಪುಟ ಹಂಚಿಕೊಳ್ಳಿ...</target>
         <note>Text for the share menu option when a user wants to share the current website they are on through another app.</note>
       </trans-unit>
       <trans-unit id="Siri.add">
@@ -739,6 +753,7 @@
       </trans-unit>
       <trans-unit id="Siri.urlToOpen">
         <source>URL to open</source>
+        <target>ತೆರೆಯಲು URL</target>
         <note>Label for input to set a favorite URL to be opened by Siri.</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
@@ -876,10 +891,12 @@
       </trans-unit>
       <trans-unit id="trackingProtection.analyticTrackerLabel">
         <source>Analytic trackers</source>
+        <target>ವಿಶ್ಲೇಷಣಾತ್ಮಕ ಅನ್ವೇಷಕಗಳು</target>
         <note>label for analytic trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.contentTrackerLabel">
         <source>Content trackers</source>
+        <target>ವಿಷಯ ಅನ್ವೇಷಕಗಳು</target>
         <note>label for content trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.disabledLabel">
@@ -908,6 +925,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel">
         <source>Tracking Protection</source>
+        <target>ಟ್ರ್ಯಾಕಿಂಗ್ ಪ್ರೊಟೆಕ್ಷನ್</target>
         <note>Text for the toggle that temporarily disables tracking protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.trackerDescriptionLabel">
