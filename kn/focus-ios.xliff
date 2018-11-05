@@ -167,14 +167,17 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrl">
         <source>Add Custom URL</source>
+        <target>ಕಸ್ಟಮ್ URL ಸೇರಿಸಿ</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlError">
         <source>Double-check the URL you entered.</source>
+        <target>ನೀವು ನಮೂದಿಸಿದ URL ಮತ್ತೊಮ್ಮೆ-ಮಗದೊಮ್ಮೆ ಪರಿಶೀಲಿಸಿ.</target>
         <note>Label for error state when entering an invalid URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlExample">
         <source>Example: example.com</source>
+        <target>ಉದಾಹರಣೆ: example.com</target>
         <note>A label displaying an example URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlLabel">
@@ -184,10 +187,12 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlPlaceholder">
         <source>Paste or enter URL</source>
+        <target>ಅಂಟಿಸಿ ಅಥವಾ URL ಅನ್ನು ನಮೂದಿಸಿ</target>
         <note>Placeholder for the input field to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlWithPlus">
         <source>+ Add Custom URL</source>
+        <target>+ ಕಸ್ಟಮ್ URL ಅನ್ನು ಸೇರಿಸಿ</target>
         <note>Label for button to add a custom URL with the + prefix</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customDescriptoin">
@@ -196,14 +201,17 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customLabel">
         <source>Custom URLs</source>
+        <target>ಕಸ್ಟಮ್ URL ಗಳು</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customTitle">
         <source>CUSTOM URL LIST</source>
+        <target>CUSTOM URL LIST</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customUrlAdded">
         <source>New Custom URL added.</source>
+        <target>ಹೊಸ ಕಸ್ಟಮ್ URL ಸೇರಿಸಲಾಗಿದೆ.</target>
         <note>Label for toast alerting a custom URL has been added</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin">
@@ -463,10 +471,12 @@
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton">
         <source>Add Another Search Engine</source>
+        <target>ಮತ್ತೊಂದು ಹುಡುಕಾಟ ಇಂಜಿನ್ ಅನ್ನು ಸೇರಿಸಿ</target>
         <note>Text for button to add another search engine in settings</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButtonWithPlus">
         <source>+ Add Another Search Engine</source>
+        <target>+ ಮತ್ತೊಂದು ಹುಡುಕಾಟ ಎಂಜಿನ್ ಸೇರಿಸಿ</target>
         <note>Text for button to add another search engine in settings with the + prefix</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineTitle">
@@ -660,6 +670,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleTouchIDDescription">
         <source>Touch ID can unlock %@ if a URL is already open in the app</source>
+        <target>ಅಪ್ಲಿಕೇಶನ್ನಲ್ಲಿ ಈಗಾಗಲೇ URL ತೆರೆದಿದ್ದರೆ ಫೇಸ್ ID ಯು %@ ಅನ್ನು ಅನ್ಲಾಕ್ ಮಾಡಬಹುದು</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
@@ -868,6 +879,7 @@
       </trans-unit>
       <trans-unit id="settings.Search.SearchTemplateExample">
         <source>Example: searchengineexample.com/search/?q=%s</source>
+        <target>ಉದಾಹರಣೆ: searchengineexample.com/search/?q=%s</target>
         <note>Text displayed as an example of the template to add a search engine.</note>
       </trans-unit>
       <trans-unit id="share">
@@ -882,6 +894,7 @@
       </trans-unit>
       <trans-unit id="touchId.reason">
         <source>Use Touch ID to return to %@</source>
+        <target>%@ ಗೆ ಹಿಂತಿರುಗಲು ಟಚ್ ID ಅನ್ನು ಬಳಸಿ</target>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID to continue browsing after returning to the app.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
@@ -921,6 +934,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription1">
         <source>Disable until you close %@ or tap ERASE.</source>
+        <target>ನೀವು %@ ಅನ್ನು ಮುಚ್ಚಿ ಅಥವಾ ERASE ಅನ್ನು ಟ್ಯಾಪ್ ಮಾಡುವವರೆಗೆ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ.</target>
         <note>Description for the tracking protection toggle. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel">
@@ -930,6 +944,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.trackerDescriptionLabel">
         <source>Choose whether %@ blocks ad, analytic, social, and other trackers.</source>
+        <target>%@ ಬ್ಲಾಕ್ಗಳ ಜಾಹೀರಾತು, ವಿಶ್ಲೇಷಣಾತ್ಮಕ, ಸಾಮಾಜಿಕ ಮತ್ತು ಇತರ ಟ್ರ್ಯಾಕರ್ಗಳು ಎಂಬುದನ್ನು ಆಯ್ಕೆಮಾಡಿ.</target>
         <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
     </body>
