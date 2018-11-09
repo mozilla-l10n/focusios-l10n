@@ -373,7 +373,7 @@
       </trans-unit>
       <trans-unit id="FindInPage.Done">
         <source>Find in page done</source>
-        <target>Caută în pagina actuală</target>
+        <target>Căutarea în pagină s-a terminat</target>
         <note>Accessibility label for done button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.NextResult">
@@ -893,7 +893,7 @@
       </trans-unit>
       <trans-unit id="settings.Search.SearchTemplateExample">
         <source>Example: searchengineexample.com/search/?q=%s</source>
-        <target>Exemplu: motor-de-căutare-exemplu.com/search/?q=%s</target>
+        <target>Exemplu: exempludemotordecăutare.com/search/?q=%s</target>
         <note>Text displayed as an example of the template to add a search engine.</note>
       </trans-unit>
       <trans-unit id="share">
@@ -943,7 +943,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.socialTrackerLabel">
         <source>Social trackers</source>
-        <target>Urmăritori ai rețelor sociale</target>
+        <target>Urmăritori ai rețelelor sociale</target>
         <note>label for social trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription1">
