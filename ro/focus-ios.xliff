@@ -198,7 +198,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customDescriptoin">
         <source>Add and manage custom autocomplete URLs.</source>
-        <target>Adaugă și gestionează autocompletare URL-uri.</target>
+        <target>Adaugă și gestionează completarea automată personalizată de URL-uri.</target>
         <note>Description for adding and managing custom autocomplete URLs</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customLabel">
@@ -213,7 +213,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customUrlAdded">
         <source>New Custom URL added.</source>
-        <target>Nou URL personalizat adăugat.</target>
+        <target>URL nou personalizat adăugat.</target>
         <note>Label for toast alerting a custom URL has been added</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin">
@@ -223,7 +223,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.defaultLabel">
         <source>Autocomplete</source>
-        <target>Autocompletare</target>
+        <target>Completare automată</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultTitle">
@@ -273,7 +273,7 @@
       </trans-unit>
       <trans-unit id="Browser.customURLMenuLabel">
         <source>Add Custom URL</source>
-        <target>Adaugă adresă particularizată</target>
+        <target>Adaugă adresă personalizată</target>
         <note>Custom URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.forwardLabel">
@@ -308,7 +308,7 @@
       </trans-unit>
       <trans-unit id="Done">
         <source>Done</source>
-        <target>Gata</target>
+        <target>Terminat</target>
         <note>Label on button to complete edits</note>
       </trans-unit>
       <trans-unit id="Edit">
@@ -378,12 +378,12 @@
       </trans-unit>
       <trans-unit id="FindInPage.NextResult">
         <source>Find next in page</source>
-        <target>Caută în pagina următoare</target>
+        <target>Caută rezultatul următor în pagină</target>
         <note>Accessibility label for next result button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.PreviousResult">
         <source>Find previous in page</source>
-        <target>Caută în pagina anterioară</target>
+        <target>Caută rezultatul anterior în pagină</target>
         <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel">
@@ -503,7 +503,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.NewSearchEngineAdded">
         <source>New Search Engine Added.</source>
-        <target>Noul motor de căutare a fost adăugat.</target>
+        <target>Motor nou de căutare adăugat.</target>
         <note>Toast displayed after adding a search engine</note>
       </trans-unit>
       <trans-unit id="Settings.Search.RestoreEngine">
@@ -518,7 +518,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplate">
         <source>Search string to use</source>
-        <target>Format de căutare</target>
+        <target>Text de căutare spre utilizare</target>
         <note>Label for input of search engine template</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplatePlaceholder">
@@ -548,7 +548,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData">
         <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
-        <target>La Mozilla noi colectăm doar strictul necesar de date pentru a crea și îmbunătăți %@ pentru toată lumea.</target>
+        <target>Mozilla se străduiește să colecteze doar strictul necesar pentru a furniza și a îmbunătăți %@ pentru toți.</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.learnMore">
@@ -558,7 +558,7 @@
       </trans-unit>
       <trans-unit id="Settings.rate">
         <source>Rate %@</source>
-        <target>Acordă o recenzie pentru %@</target>
+        <target>Evaluează %@</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, allows the user to leave a review for the app on the app store.</note>
       </trans-unit>
       <trans-unit id="Settings.safariTitle">
@@ -643,7 +643,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
         <source>Block social trackers</source>
-        <target>Blochează urmăritorii de rețele sociale</target>
+        <target>Blochează urmăritorii rețelelor sociale</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocialDescription">
@@ -713,7 +713,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.PageActions">
         <source>Page Actions</source>
-        <target>Acțiuni pagină</target>
+        <target>Acțiuni pe pagină</target>
         <note>Title for the share menu where users can take actions for the current website they are on.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop">
@@ -753,7 +753,7 @@
       </trans-unit>
       <trans-unit id="Siri.editOpenUrl">
         <source>Re-Record or Delete Shortcut</source>
-        <target>Re-înregistrează sau șterge scurtătura</target>
+        <target>Reînregistrează sau șterge scurtătura</target>
         <note>Label for button to edit the Siri phrase or delete the Siri functionality.</note>
       </trans-unit>
       <trans-unit id="Siri.erase">
@@ -833,7 +833,7 @@
       </trans-unit>
       <trans-unit id="browser.copyAddressToast">
         <source>URL Copied To Clipboard</source>
-        <target>Adresa a fost copiată în clipboard</target>
+        <target>URL copiat în clipboard</target>
         <note>Toast displayed after a URL has been copied to the clipboard</note>
       </trans-unit>
       <trans-unit id="browserShortcutDescription.selectLocationBar">
@@ -873,7 +873,7 @@
       </trans-unit>
       <trans-unit id="externalAppLinkWithAppName.messageTitle">
         <source>%1$@ wants to open %2$@</source>
-        <target>%1$@ dorește să deschidă %2$@</target>
+        <target>%1$@ vrea să deschidă %2$@</target>
         <note>Dialog title used for opening an external app from Focus. First placeholder string is the app name of either Focus or Klar and the second placeholder string specifies the app it wants to open.</note>
       </trans-unit>
       <trans-unit id="photosPermission.description">
@@ -943,7 +943,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.socialTrackerLabel">
         <source>Social trackers</source>
-        <target>Urmăritori de rețele sociale</target>
+        <target>Urmăritori ai rețelor sociale</target>
         <note>label for social trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription1">
@@ -958,7 +958,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.trackerDescriptionLabel">
         <source>Choose whether %@ blocks ad, analytic, social, and other trackers.</source>
-        <target>Alege dacă %@ blochează mecanisme de urmărire de anunţuri, analitice, sociale și alte.</target>
+        <target>Alege dacă %@ blochează urmăritorii publicitari, analtici, ai rețelelor sociale și alții.</target>
         <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
     </body>
