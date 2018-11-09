@@ -42,7 +42,7 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
-        <target>Curăță tot istoricul de sesiuni, parole și cookie-uri oricând, cu o singură atingere.</target>
+        <target>Șterge întregul istoric al sesiunii, parolele și cookie-urile oricând, cu o singură atingere.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title">
@@ -52,7 +52,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Next.Button">
         <source>Next</source>
-        <target>Mai departe</target>
+        <target>Înainte</target>
         <note>Button to go to the next card in Focus onboarding.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description">
@@ -62,7 +62,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Title">
         <source>Your search, your way</source>
-        <target>Caută cum vrei tu</target>
+        <target>Caută în felul tău</target>
         <note>Title for the second  panel 'Search' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Skip.Button">
@@ -77,7 +77,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Title">
         <source>Power up your privacy</source>
-        <target>Activează confidențialitatea</target>
+        <target>Consolidează-ți confidențialitatea</target>
         <note>Title for the first panel 'Welcome' in the First Run tour.</note>
       </trans-unit>
     </body>
@@ -94,7 +94,7 @@
       </trans-unit>
       <trans-unit id="About.missionLabel">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
-        <target>%@ este produs de Mozilla. Misiunea noastră este de a promova un internet sănătos și deschis.</target>
+        <target>%@ este produs de Mozilla. Misiunea noastră este să promovăm un internet sănătos și deschis.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet1">
@@ -109,7 +109,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet3">
         <source>Erase to delete cookies as well as search and browsing history</source>
-        <target>Șterge pentru a elimina cookie-urile și istoricul de navigare și căutare</target>
+        <target>Șterge pentru a elimina cookie-urile, precum și istoricul de căutare și navigare</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
@@ -178,7 +178,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlExample">
         <source>Example: example.com</source>
-        <target>Exemplu: example.com</target>
+        <target>Exemplu: exemplu.com</target>
         <note>A label displaying an example URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlLabel">
