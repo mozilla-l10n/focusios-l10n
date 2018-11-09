@@ -681,6 +681,7 @@
       </trans-unit>
       <trans-unit id="Settinsg.siriShortcutsTitle">
         <source>SIRI SHORTCUTS</source>
+        <target>SIRI SHORTCUTS</target>
         <note>Title for settings section to enable different Siri Shortcuts.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.FindInPage">
@@ -709,14 +710,17 @@
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenChrome">
         <source>Open in Chrome</source>
+        <target>Chrome میں کھولیں</target>
         <note>Text for the share menu option when a user wants to open the current website in the Chrome app.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenFirefox">
         <source>Open in Firefox</source>
+        <target>Firefox میں کھولیں</target>
         <note>Text for the share menu option when a user wants to open the current website in the Firefox app.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenSafari">
         <source>Open in Safari</source>
+        <target>Safari میں کھولیں</target>
         <note>Text for the share menu option when a user wants to open the current website in the Safari app.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.SharePage">
@@ -743,6 +747,7 @@
       </trans-unit>
       <trans-unit id="Siri.eraseAndOpen">
         <source>Erase &amp; Open</source>
+        <target>مٹائیں اور کھولیں</target>
         <note>Title of option in settings to set up Siri to erase and then open the app.</note>
       </trans-unit>
       <trans-unit id="Siri.favoriteUrl">
@@ -908,6 +913,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.label">
         <source>Tracking Protection</source>
+        <target>سراغ راہ حفاظت</target>
         <note>Title for the tracking settings page to change what trackers are blocked.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.learnMore">
@@ -959,6 +965,7 @@
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>FocusIntentExtension</source>
+        <target>FocusIntentExtension</target>
       </trans-unit>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
