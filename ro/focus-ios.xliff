@@ -638,7 +638,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOtherDescription">
         <source>Enabling may cause some pages to behave unexpectedly</source>
-        <target>Activarea poate cauza ca unele pagini să comporte în mod neașteptat</target>
+        <target>Activarea poate cauza un comportament neașteptat al unor pagini</target>
         <note>Description for 'Block other content Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial">
@@ -648,7 +648,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocialDescription">
         <source>Embedded on sites to track your visits and to display functionality like share buttons</source>
-        <target>Încorporat în site-uri pentru a-ți urmări vizitele și a afișa funcții precum butoane de distribuire</target>
+        <target>Încorporat în site-uri pentru a-ți urmări vizitele și a afișa funcții precum butoanele de distribuire</target>
         <note>Description for 'Block social Trackers'</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceID">
