@@ -1,42 +1,63 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="an">
+  <file original="Blockzilla/InfoPlist.strings" datatype="plaintext" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.1" build-num="10B61"/>
     </header>
     <body>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
         <target>$(PRODUCT_NAME)</target>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="Erase and Open">
+        <source>Erase and Open</source>
+        <note/>
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
-        <target>Esto te permite de fer y cargar fotos.</target>
+        <note>Privacy - Camera Usage Description</note>
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription">
         <source>This lets you unlock the app.</source>
+        <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
-        <target>Los puestos web que vesites pueden demandar la tuya ubicación.</target>
+        <note>Privacy - Location When In Use Usage Description</note>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription">
         <source>This lets you take and upload videos.</source>
-        <target>Esto te permite de fer y cargar videos.</target>
+        <note>Privacy - Microphone Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription">
         <source>This lets you save and upload photos.</source>
-        <target>Esto de permite d'alzar y cargar fotos.</target>
+        <note>Privacy - Photo Library Additions Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription">
         <source>This lets you save and upload photos.</source>
-        <target>Esto de permite d'alzar y cargar fotos.</target>
+        <note>Privacy - Photo Library Usage Description</note>
       </trans-unit>
     </body>
   </file>
-  <file original="Blockzilla/Intro.strings" source-language="en" datatype="plaintext" target-language="an">
+  <file original="Blockzilla/Intents.strings" datatype="plaintext" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.1" build-num="10B61"/>
+    </header>
+    <body>
+      <trans-unit id="Erase">
+        <source>Erase</source>
+        <note>Verb to erase history</note>
+      </trans-unit>
+      <trans-unit id="Erase browsing session">
+        <source>Erase browsing session</source>
+        <note>(No Comment)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Blockzilla/Intro.strings" datatype="plaintext" source-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.1" build-num="10B61"/>
     </header>
     <body>
       <trans-unit id="Intro.Slides.History.Description">
@@ -81,9 +102,9 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="an">
+  <file original="Blockzilla/en.lproj/Localizable.strings" datatype="plaintext" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.1" build-num="10B61"/>
     </header>
     <body>
       <trans-unit id="About.learnMoreButton">
@@ -149,6 +170,7 @@
       <trans-unit id="About.screenTitle">
         <source>About</source>
         <target>Quanto a</target>
+        <note>(No Comment)</note>
       </trans-unit>
       <trans-unit id="About.title">
         <source>About %@</source>
@@ -233,6 +255,10 @@
         <target>Desactivau</target>
         <note>label describing URL Autocomplete as disabled</note>
       </trans-unit>
+      <trans-unit id="Autocomplete.duplicateUrl">
+        <source>URL already exists</source>
+        <note>Label for toast alerting that the custom URL being added is a duplicateß</note>
+      </trans-unit>
       <trans-unit id="Autocomplete.emptyState">
         <source>No Custom URLs to display</source>
         <target>No i hai garra URL personalizada a amostrar</target>
@@ -242,6 +268,22 @@
         <source>Enabled</source>
         <target>Activada</target>
         <note>label describing URL Autocomplete as enabled</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.manageSites">
+        <source>Manage Sites</source>
+        <note>Label for button taking you to your custom Autocomplete URL list</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.mySites">
+        <source>My Sites</source>
+        <note>Label for enabling or disabling autocomplete</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.mySitesDesc">
+        <source>Enable to have %@ autocomplete your favorite URLs.</source>
+        <note>Description for adding and managing custom autocomplete URLs</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.topSites">
+        <source>Top Sites</source>
+        <note>Label for enabling or disabling top sites</note>
       </trans-unit>
       <trans-unit id="BiometricPrompt.newSession">
         <source>New Session</source>
@@ -462,9 +504,24 @@
         <source>That didn't work. Try replacing the search term with this: %s.</source>
         <note>Label for error state when entering an invalid search engine URL. %s is a search term in a URL.</note>
       </trans-unit>
+      <trans-unit id="SearchSuggestions.promptDisable">
+        <source>No</source>
+        <note>Label for disable option on search suggestions prompt</note>
+      </trans-unit>
+      <trans-unit id="SearchSuggestions.promptEnable">
+        <source>Yes</source>
+        <note>Label for enable option on search suggestions prompt</note>
+      </trans-unit>
+      <trans-unit id="SearchSuggestions.promptMessage">
+        <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
+        <note>%@ is the name of the app (Focus / Klar). Label for search suggestions prompt message</note>
+      </trans-unit>
+      <trans-unit id="SearchSuggestions.promptTitle">
+        <source>Show Search Suggestions?</source>
+        <note>Title for search suggestions prompt</note>
+      </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton">
-        <source>Add Another Search Engine</source>
-        <target>Anyader belatro motor de busqueda</target>
+        <source>+ Add Another Search Engine</source>
         <note>Text for button to add another search engine in settings</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButtonWithPlus">
@@ -488,8 +545,7 @@
         <note>Label for input field for the name of the search engine to be added</note>
       </trans-unit>
       <trans-unit id="Settings.Search.NewSearchEngineAdded">
-        <source>New Search Engine Added.</source>
-        <target>Nuevo motor de busqueda anyadiu.</target>
+        <source>New Search Engine Added</source>
         <note>Toast displayed after adding a search engine</note>
       </trans-unit>
       <trans-unit id="Settings.Search.RestoreEngine">
@@ -508,8 +564,7 @@
         <note>Label for input of search engine template</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplatePlaceholder">
-        <source>Paste or enter search string. If necessary, replace search term with: %s.</source>
-        <target>Apega u escribe la cadena de busqueda. Si cal, substituye lo termen de busqueda per: %s.</target>
+        <source>Paste or enter search string. If necessary, replace search term with: %s</source>
         <note>Placeholder text for input of new search engine template</note>
       </trans-unit>
       <trans-unit id="Settings.autocompleteSection">
@@ -531,6 +586,10 @@
         <source>I Understand</source>
         <target>Comprendo</target>
         <note>Button label for accepting Content blocker alert</note>
+      </trans-unit>
+      <trans-unit id="Settings.detailTextSearchSuggestion">
+        <source>%@ will send what you type in the address bar to your search engine.</source>
+        <note>Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData">
         <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
@@ -559,6 +618,11 @@
         <source>Search Engine</source>
         <target>Motors de busca</target>
         <note>Label for the search engine in the search screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.searchSuggestions">
+        <source>Get Search Suggestions</source>
+        <note>Label for the Search Suggestions toggle row
+   URL for the learn more of the search suggestions toggle</note>
       </trans-unit>
       <trans-unit id="Settings.searchTitle2">
         <source>SEARCH</source>
@@ -642,6 +706,10 @@
         <source>Face ID can unlock %@ if a URL is already open in the app</source>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
+      <trans-unit id="Settings.toggleHomeScreenTips">
+        <source>Show home screen tips</source>
+        <note>Show home screen tips toggle label on settings screen</note>
+      </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
         <target>Puede privar que se veigan bien bells videos y pachinas web</target>
@@ -664,6 +732,10 @@
       <trans-unit id="Settings.toggleTouchIDDescription">
         <source>Touch ID can unlock %@ if a URL is already open in the app</source>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
+      </trans-unit>
+      <trans-unit id="Settings.usageData">
+        <source>usage-data</source>
+        <note>URL for the learn more of the send usage data toggle</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
         <source>What’s New</source>
@@ -743,6 +815,10 @@
       <trans-unit id="Siri.urlToOpen">
         <source>URL to open</source>
         <note>Label for input to set a favorite URL to be opened by Siri.</note>
+      </trans-unit>
+      <trans-unit id="URL.addToAutocompleteLabel">
+        <source>Add link to autocomplete</source>
+        <note>Label displayed for button used as a shortcut to add a link to the list of URLs to autocomplete.</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
         <source>Cancel</source>
@@ -918,47 +994,87 @@
       </trans-unit>
     </body>
   </file>
-  <file original="ContentBlocker/Info.plist" source-language="en" datatype="plaintext" target-language="an">
+  <file original="ContentBlocker/InfoPlist.strings" datatype="plaintext" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.1" build-num="10B61"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>$(PRODUCT_NAME)</source>
         <target>$(PRODUCT_NAME)</target>
+        <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
         <target>$(PRODUCT_NAME)</target>
+        <note>Bundle name</note>
       </trans-unit>
     </body>
   </file>
-  <file original="FocusIntentExtension/Info.plist" source-language="en" datatype="plaintext" target-language="an">
+  <file original="FocusIntentExtension/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.1" build-num="10B61"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>FocusIntentExtension</source>
+        <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
         <target>$(PRODUCT_NAME)</target>
+        <note>Bundle name</note>
       </trans-unit>
     </body>
   </file>
-  <file original="OpenInFocus/Info.plist" source-language="en" datatype="plaintext" target-language="an">
+  <file original="OpenInFocus/InfoPlist.strings" datatype="plaintext" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.1" build-num="10B61"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>$(DISPLAY_NAME)</source>
         <target>$(DISPLAY_NAME)</target>
+        <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
         <target>$(PRODUCT_NAME)</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="ScreenshotTests/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.1" build-num="10B61"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
+        <note>(No Commment)</note>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+        <target>1.0</target>
+        <note>(No Commment)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="XCUITest/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.1" build-num="10B61"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
+        <note>(No Commment)</note>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+        <target>1.0</target>
+        <note>(No Commment)</note>
       </trans-unit>
     </body>
   </file>
