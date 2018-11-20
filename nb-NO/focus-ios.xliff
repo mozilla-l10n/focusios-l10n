@@ -35,6 +35,19 @@
       </trans-unit>
     </body>
   </file>
+  <file original="Blockzilla/en.lproj/Intents.strings" source-language="en" datatype="plaintext" target-language="nb">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+    </header>
+    <body>
+      <trans-unit id="Erase">
+        <source>Erase</source>
+      </trans-unit>
+      <trans-unit id="Erase browsing session">
+        <source>Erase browsing session</source>
+      </trans-unit>
+    </body>
+  </file>
   <file original="Blockzilla/Intro.strings" source-language="en" datatype="plaintext" target-language="nb">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
@@ -236,6 +249,10 @@
         <target>Slått av</target>
         <note>label describing URL Autocomplete as disabled</note>
       </trans-unit>
+      <trans-unit id="Autocomplete.duplicateUrl">
+        <source>URL already exists</source>
+        <note>Label for toast alerting that the custom URL being added is a duplicate</note>
+      </trans-unit>
       <trans-unit id="Autocomplete.emptyState">
         <source>No Custom URLs to display</source>
         <target>Ingen tilpassede adresser å vise</target>
@@ -245,6 +262,22 @@
         <source>Enabled</source>
         <target>Påslått</target>
         <note>label describing URL Autocomplete as enabled</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.manageSites">
+        <source>Manage Sites</source>
+        <note>Label for button taking you to your custom Autocomplete URL list</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.mySites">
+        <source>My Sites</source>
+        <note>Label for enabling or disabling autocomplete</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.mySitesDesc">
+        <source>Enable to have %@ autocomplete your favorite URLs.</source>
+        <note>Description for adding and managing custom autocomplete URLs. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.topSites">
+        <source>Top Sites</source>
+        <note>Label for enabling or disabling top sites</note>
       </trans-unit>
       <trans-unit id="BiometricPrompt.newSession">
         <source>New Session</source>
@@ -476,6 +509,22 @@
         <target>Det fungerte ikke. Prøv å erstatte søkordet med dette: %s.</target>
         <note>Label for error state when entering an invalid search engine URL. %s is a search term in a URL.</note>
       </trans-unit>
+      <trans-unit id="SearchSuggestions.promptDisable">
+        <source>No</source>
+        <note>Label for disable option on search suggestions prompt</note>
+      </trans-unit>
+      <trans-unit id="SearchSuggestions.promptEnable">
+        <source>Yes</source>
+        <note>Label for enable option on search suggestions prompt</note>
+      </trans-unit>
+      <trans-unit id="SearchSuggestions.promptMessage">
+        <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
+        <note>%@ is the name of the app (Focus / Klar). Label for search suggestions prompt message</note>
+      </trans-unit>
+      <trans-unit id="SearchSuggestions.promptTitle">
+        <source>Show Search Suggestions?</source>
+        <note>Title for search suggestions prompt</note>
+      </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton">
         <source>Add Another Search Engine</source>
         <target>Legg til en annen søkemotor</target>
@@ -546,6 +595,10 @@
         <target>Jeg forstår</target>
         <note>Button label for accepting Content blocker alert</note>
       </trans-unit>
+      <trans-unit id="Settings.detailTextSearchSuggestion">
+        <source>%@ will send what you type in the address bar to your search engine.</source>
+        <note>Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar)</note>
+      </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData">
         <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
         <target>Mozilla strever etter å bare samle inn det vi trenger for å tilby og forbedre %@ for alle.</target>
@@ -575,6 +628,10 @@
         <source>Search Engine</source>
         <target>Søkemotor</target>
         <note>Label for the search engine in the search screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.searchSuggestions">
+        <source>Get Search Suggestions</source>
+        <note>Label for the Search Suggestions toggle row</note>
       </trans-unit>
       <trans-unit id="Settings.searchTitle2">
         <source>SEARCH</source>
@@ -661,6 +718,10 @@
         <target>«Face ID» kan låse opp %@ om en adresse allerede er åpen i appen</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
+      <trans-unit id="Settings.toggleHomeScreenTips">
+        <source>Show home screen tips</source>
+        <note>Show home screen tips toggle label on settings screen</note>
+      </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
         <target>Kan ødelegge noen videoer og nettsider</target>
@@ -685,6 +746,10 @@
         <source>Touch ID can unlock %@ if a URL is already open in the app</source>
         <target>«Touch ID» kan låse opp %@ om en adresse allerede er åpen i appen</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
+      </trans-unit>
+      <trans-unit id="Settings.usageData">
+        <source>usage-data</source>
+        <note>URL for the learn more of the send usage data toggle</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
         <source>What’s New</source>
@@ -780,6 +845,10 @@
         <source>URL to open</source>
         <target>URL for å åpne</target>
         <note>Label for input to set a favorite URL to be opened by Siri.</note>
+      </trans-unit>
+      <trans-unit id="URL.addToAutocompleteLabel">
+        <source>Add link to autocomplete</source>
+        <note>Label displayed for button used as a shortcut to add a link to the list of URLs to autocomplete.</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
         <source>Cancel</source>
