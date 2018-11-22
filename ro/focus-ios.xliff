@@ -218,7 +218,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin">
         <source>Enable to have %@ autocomplete over 450 popular URLs in the address bar.</source>
-        <target>Activează pentru ca %@ să completeze automat peste 450 de URL-uri populare în bara de adrese.</target>
+        <target>Activează pentru ca %@ să completeze automat peste 450 de URL-uri populare în bara de adresă.</target>
         <note>Description for enabling or disabling the default list. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultLabel">
@@ -513,11 +513,12 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptMessage">
         <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
-        <target>Pentru a obține sugestii, %@ trebuie să trimită ce tastezi în bara de adrese la motorul de căutare.</target>
+        <target>Pentru a obține sugestii, %@ trebuie să trimită ce tastezi în bara de adresă la motorul de căutare.</target>
         <note>%@ is the name of the app (Focus / Klar). Label for search suggestions prompt message</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptTitle">
         <source>Show Search Suggestions?</source>
+        <target>Afișezi sugestiile de căutare?</target>
         <note>Title for search suggestions prompt</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton">
@@ -592,6 +593,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion">
         <source>%@ will send what you type in the address bar to your search engine.</source>
+        <target>%@ va trimite ce tastezi în bara de adresă la motorul de căutare.</target>
         <note>Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData">
@@ -746,6 +748,7 @@
       </trans-unit>
       <trans-unit id="Settings.usageData">
         <source>usage-data</source>
+        <target>utilizarea-datelor</target>
         <note>URL for the learn more of the send usage data toggle</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
@@ -845,6 +848,7 @@
       </trans-unit>
       <trans-unit id="URL.addToAutocompleteLabel">
         <source>Add link to autocomplete</source>
+        <target>Adaugă un link pentru completare automată</target>
         <note>Label displayed for button used as a shortcut to add a link to the list of URLs to autocomplete.</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
