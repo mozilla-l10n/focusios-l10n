@@ -734,10 +734,6 @@
         <target>Pokud je otevřena nějaká stránka, pro odemčení bude %@ potřeba Touch ID</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
-      <trans-unit id="Settings.usageData">
-        <source>usage-data</source>
-        <note>URL for the learn more of the send usage data toggle</note>
-      </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
         <source>What’s New</source>
         <target>Co je nového</target>
