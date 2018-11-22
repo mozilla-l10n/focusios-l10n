@@ -513,10 +513,12 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptMessage">
         <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
+        <target>Evit kaout alioù en deus ezhomm %@ da gas ar pezh a viziatait er varrenn glask d'al lusker klask.</target>
         <note>%@ is the name of the app (Focus / Klar). Label for search suggestions prompt message</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptTitle">
         <source>Show Search Suggestions?</source>
+        <target>Diskouez an alioù klask?</target>
         <note>Title for search suggestions prompt</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton">
@@ -591,6 +593,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion">
         <source>%@ will send what you type in the address bar to your search engine.</source>
+        <target>%@ a gaso ar pezh a vizskrivit er varrenn chomlec'hioù d'ho lusker enklask.</target>
         <note>Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData">
@@ -625,6 +628,7 @@
       </trans-unit>
       <trans-unit id="Settings.searchSuggestions">
         <source>Get Search Suggestions</source>
+        <target>Kaout alioù klask</target>
         <note>Label for the Search Suggestions toggle row</note>
       </trans-unit>
       <trans-unit id="Settings.searchTitle2">
@@ -714,6 +718,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleHomeScreenTips">
         <source>Show home screen tips</source>
+        <target>Diskouez tunioù pennbajenn</target>
         <note>Show home screen tips toggle label on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
@@ -743,6 +748,7 @@
       </trans-unit>
       <trans-unit id="Settings.usageData">
         <source>usage-data</source>
+        <target>usage-data</target>
         <note>URL for the learn more of the send usage data toggle</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
@@ -842,6 +848,7 @@
       </trans-unit>
       <trans-unit id="URL.addToAutocompleteLabel">
         <source>Add link to autocomplete</source>
+        <target>Ouzhpennañ un ere d'al leuniadur emgefreek</target>
         <note>Label displayed for button used as a shortcut to add a link to the list of URLs to autocomplete.</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
