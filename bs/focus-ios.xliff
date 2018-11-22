@@ -729,10 +729,6 @@
         <target>Touch ID može otključati %@ ako je URL već otvoren u aplikaciji</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
-      <trans-unit id="Settings.usageData">
-        <source>usage-data</source>
-        <note>URL for the learn more of the send usage data toggle</note>
-      </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
         <source>What’s New</source>
         <target>Šta je novo</target>
