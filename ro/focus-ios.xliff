@@ -213,7 +213,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customUrlAdded">
         <source>New Custom URL added.</source>
-        <target>URL nou personalizat adăugat.</target>
+        <target>Nou URL personalizat adăugat.</target>
         <note>Label for toast alerting a custom URL has been added</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin">
@@ -238,6 +238,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.duplicateUrl">
         <source>URL already exists</source>
+        <target>URL-ul există deja</target>
         <note>Label for toast alerting that the custom URL being added is a duplicate</note>
       </trans-unit>
       <trans-unit id="Autocomplete.emptyState">
@@ -252,18 +253,22 @@
       </trans-unit>
       <trans-unit id="Autocomplete.manageSites">
         <source>Manage Sites</source>
+        <target>Gestionează site-urile</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
       <trans-unit id="Autocomplete.mySites">
         <source>My Sites</source>
+        <target>Site-urile mele</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
       <trans-unit id="Autocomplete.mySitesDesc">
         <source>Enable to have %@ autocomplete your favorite URLs.</source>
+        <target>Permite ca %@ să completeze automat URL-urile tale favorite.</target>
         <note>Description for adding and managing custom autocomplete URLs. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.topSites">
         <source>Top Sites</source>
+        <target>Site-uri de top</target>
         <note>Label for enabling or disabling top sites</note>
       </trans-unit>
       <trans-unit id="BiometricPrompt.newSession">
@@ -498,14 +503,17 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptDisable">
         <source>No</source>
+        <target>Nu</target>
         <note>Label for disable option on search suggestions prompt</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptEnable">
         <source>Yes</source>
+        <target>Da</target>
         <note>Label for enable option on search suggestions prompt</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptMessage">
         <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
+        <target>Pentru a obține sugestii, %@ trebuie să trimită ce tastezi în bara de adrese la motorul de căutare.</target>
         <note>%@ is the name of the app (Focus / Klar). Label for search suggestions prompt message</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptTitle">
@@ -618,6 +626,7 @@
       </trans-unit>
       <trans-unit id="Settings.searchSuggestions">
         <source>Get Search Suggestions</source>
+        <target>Obține sugestii de căutare</target>
         <note>Label for the Search Suggestions toggle row</note>
       </trans-unit>
       <trans-unit id="Settings.searchTitle2">
@@ -707,6 +716,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleHomeScreenTips">
         <source>Show home screen tips</source>
+        <target>Afișează ponturi în ecranul principal</target>
         <note>Show home screen tips toggle label on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
