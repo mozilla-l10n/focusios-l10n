@@ -513,6 +513,7 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptMessage">
         <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
+        <target>Akken ad tawiḍ isumar n unadi,  %@ isra ad yazen  ayen tettaruḍ deg ufeggag n tansa ɣer umsedday n unadi.</target>
         <note>%@ is the name of the app (Focus / Klar). Label for search suggestions prompt message</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptTitle">
