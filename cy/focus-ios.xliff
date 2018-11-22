@@ -746,11 +746,6 @@
         <target>Gall Touch ID ddatgloi %@ os oes URL eisoes ar agor yn yr ap</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
-      <trans-unit id="Settings.usageData">
-        <source>usage-data</source>
-        <target>data defnydd</target>
-        <note>URL for the learn more of the send usage data toggle</note>
-      </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
         <source>What’s New</source>
         <target>Be sy'n Newydd</target>
