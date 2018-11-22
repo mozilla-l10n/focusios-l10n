@@ -734,10 +734,6 @@
         <target>Maaaring i-unlock ng Touch ID ang %@ kung bukas ang isang URL sa app</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
-      <trans-unit id="Settings.usageData">
-        <source>usage-data</source>
-        <note>URL for the learn more of the send usage data toggle</note>
-      </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
         <source>What’s New</source>
         <target>Ano ang Bago</target>
