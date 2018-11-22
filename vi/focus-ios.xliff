@@ -468,7 +468,7 @@
       </trans-unit>
       <trans-unit id="Request Desktop Site">
         <source>Request Desktop Site</source>
-        <target>Yêu cầu giao diện máy tính</target>
+        <target>Yêu cầu trang web trên máy tính</target>
         <note>Label for button that requests the desktop version of the currently loaded website.</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers">
@@ -782,7 +782,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop">
         <source>Request Desktop Site</source>
-        <target>Yêu cầu giao diện máy tính</target>
+        <target>Yêu cầu trang web trên máy tính</target>
         <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenChrome">
