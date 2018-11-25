@@ -288,12 +288,12 @@
       </trans-unit>
       <trans-unit id="Browser.copyAddressLabel">
         <source>Copy Address</source>
-        <target>მისამართის დაკოპირება</target>
+        <target>მისამართის ასლი</target>
         <note>Copy URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.copyMenuLabel">
         <source>Copy</source>
-        <target>დაკოპირება</target>
+        <target>ასლი</target>
         <note>Copy URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.customURLMenuLabel">
@@ -903,7 +903,7 @@
       </trans-unit>
       <trans-unit id="browser.copyAddressToast">
         <source>URL Copied To Clipboard</source>
-        <target>URL-მისამართი დაკოპირებულია</target>
+        <target>URL-მისამართის ასლი აღებულია</target>
         <note>Toast displayed after a URL has been copied to the clipboard</note>
       </trans-unit>
       <trans-unit id="browserShortcutDescription.selectLocationBar">
@@ -918,12 +918,12 @@
       </trans-unit>
       <trans-unit id="contextMenu.copyImageTitle">
         <source>Copy Image</source>
-        <target>სურათის დაკოპირება</target>
+        <target>სურათის ასლი</target>
         <note>Text for the context menu when a user wants to copy an image after long pressing it.</note>
       </trans-unit>
       <trans-unit id="contextMenu.copyLink">
         <source>Copy Link</source>
-        <target>ბმულის დაკოპირება</target>
+        <target>ბმულის ასლი</target>
         <note>Text for the context menu when a user wants to copy a link after long pressing it.</note>
       </trans-unit>
       <trans-unit id="contextMenu.linkCopied">
@@ -973,7 +973,7 @@
       </trans-unit>
       <trans-unit id="shareMenu.copyAddress">
         <source>Copy Address</source>
-        <target>მისამართის დაკოპირება</target>
+        <target>მისამართის ასლი</target>
         <note>Text for the share menu when a user wants to copy a URL.</note>
       </trans-unit>
       <trans-unit id="touchId.reason">
