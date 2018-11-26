@@ -263,10 +263,12 @@
       </trans-unit>
       <trans-unit id="Autocomplete.mySitesDesc">
         <source>Enable to have %@ autocomplete your favorite URLs.</source>
+        <target>Activer pour que %@ complète automatiquement vos adresses web favorites.</target>
         <note>Description for adding and managing custom autocomplete URLs. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.topSites">
         <source>Top Sites</source>
+        <target>Sites les plus visités</target>
         <note>Label for enabling or disabling top sites</note>
       </trans-unit>
       <trans-unit id="BiometricPrompt.newSession">
@@ -511,6 +513,7 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptMessage">
         <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
+        <target>Pour obtenir des suggestions, %@ doit envoyer ce que vous saisissez dans la barre d’adresse vers le moteur de recherche.</target>
         <note>%@ is the name of the app (Focus / Klar). Label for search suggestions prompt message</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptTitle">
@@ -590,6 +593,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion">
         <source>%@ will send what you type in the address bar to your search engine.</source>
+        <target>%@ enverra ce que vous saisissez dans la barre d’adresse à votre moteur de recherche.</target>
         <note>Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData">
@@ -843,6 +847,7 @@
       </trans-unit>
       <trans-unit id="URL.addToAutocompleteLabel">
         <source>Add link to autocomplete</source>
+        <target>Ajouter un lien à la saisie semi-automatique</target>
         <note>Label displayed for button used as a shortcut to add a link to the list of URLs to autocomplete.</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
