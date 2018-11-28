@@ -513,6 +513,7 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptMessage">
         <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
+        <target>Para obtener sugerencias, %@ necesita enviar lo que escribes en la barra de direcciones para el motor de búsqueda.</target>
         <note>%@ is the name of the app (Focus / Klar). Label for search suggestions prompt message</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptTitle">
@@ -592,6 +593,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion">
         <source>%@ will send what you type in the address bar to your search engine.</source>
+        <target>%@ enviará lo que escribes en la barra de direcciones para tu motor de búsqueda.</target>
         <note>Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData">
@@ -746,6 +748,7 @@
       </trans-unit>
       <trans-unit id="Settings.usageData">
         <source>usage-data</source>
+        <target>uso-de-datos</target>
         <note>URL for the learn more of the send usage data toggle</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
@@ -845,6 +848,7 @@
       </trans-unit>
       <trans-unit id="URL.addToAutocompleteLabel">
         <source>Add link to autocomplete</source>
+        <target>Agregar enlace para autocompletar</target>
         <note>Label displayed for button used as a shortcut to add a link to the list of URLs to autocomplete.</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
