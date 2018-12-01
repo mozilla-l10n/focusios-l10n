@@ -1028,7 +1028,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.trackerDescriptionLabel">
         <source>Choose whether %@ blocks ad, analytic, social, and other trackers.</source>
-        <target>Alege dacă %@ blochează elementele de urmărire publicitare, analtice, ale rețelelor sociale și altele.</target>
+        <target>Alege dacă %@ blochează elementele de urmărire publicitare, analitice, ale rețelelor sociale și altele.</target>
         <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
     </body>
