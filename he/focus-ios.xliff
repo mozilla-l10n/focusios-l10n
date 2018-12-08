@@ -163,6 +163,7 @@
       </trans-unit>
       <trans-unit id="Authentication.reason">
         <source>Authenticate to return to %@</source>
+        <target>עליך לעבור אימות כדי לחזור אל %@</target>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID, Face ID, or passcode to continue browsing after returning to the app.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrl">
@@ -237,6 +238,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.duplicateUrl">
         <source>URL already exists</source>
+        <target>הכתובת כבר קיימת</target>
         <note>Label for toast alerting that the custom URL being added is a duplicate</note>
       </trans-unit>
       <trans-unit id="Autocomplete.emptyState">
@@ -251,10 +253,12 @@
       </trans-unit>
       <trans-unit id="Autocomplete.manageSites">
         <source>Manage Sites</source>
+        <target>ניהול אתרים</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
       <trans-unit id="Autocomplete.mySites">
         <source>My Sites</source>
+        <target>האתרים שלי</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
       <trans-unit id="Autocomplete.mySitesDesc">
@@ -263,10 +267,12 @@
       </trans-unit>
       <trans-unit id="Autocomplete.topSites">
         <source>Top Sites</source>
+        <target>אתרים מובילים</target>
         <note>Label for enabling or disabling top sites</note>
       </trans-unit>
       <trans-unit id="BiometricPrompt.newSession">
         <source>New Session</source>
+        <target>הפעלה חדשה</target>
         <note>Create a new session after failing a biometric check</note>
       </trans-unit>
       <trans-unit id="BiometricPrompt.reason">
@@ -280,6 +286,7 @@
       </trans-unit>
       <trans-unit id="Browser.copyAddressLabel">
         <source>Copy Address</source>
+        <target>העתקת כתובת</target>
         <note>Copy URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.copyMenuLabel">
@@ -389,6 +396,7 @@
       </trans-unit>
       <trans-unit id="FindInPage.Done">
         <source>Find in page done</source>
+        <target>החיפוש בדף הסתיים</target>
         <note>Accessibility label for done button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.NextResult">
@@ -433,6 +441,7 @@
       </trans-unit>
       <trans-unit id="Menu.Close">
         <source>Close</source>
+        <target>סגירה</target>
         <note>Button label used to close a menu that displays as a popup.</note>
       </trans-unit>
       <trans-unit id="Open.Cancel">
@@ -491,10 +500,12 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptDisable">
         <source>No</source>
+        <target>לא</target>
         <note>Label for disable option on search suggestions prompt</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptEnable">
         <source>Yes</source>
+        <target>כן</target>
         <note>Label for enable option on search suggestions prompt</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptMessage">
