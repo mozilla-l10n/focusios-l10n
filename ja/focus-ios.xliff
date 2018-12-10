@@ -726,12 +726,12 @@
       </trans-unit>
       <trans-unit id="Settings.toggleTouchID">
         <source>Use Touch ID to unlock app</source>
-        <target>アプリのロック解除にタッチ ID を使用</target>
+        <target>アプリのロック解除に Touch ID を使用</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleTouchIDDescription">
         <source>Touch ID can unlock %@ if a URL is already open in the app</source>
-        <target>URL をアプリ内ですでに開いていても、タッチ ID で %@ のロックを解除できます</target>
+        <target>URL をアプリ内ですでに開いていても、Touch ID で %@ のロックを解除できます</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.usageData">
