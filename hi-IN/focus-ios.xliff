@@ -238,6 +238,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.duplicateUrl">
         <source>URL already exists</source>
+        <target>URL पहले से मौजूद है</target>
         <note>Label for toast alerting that the custom URL being added is a duplicate</note>
       </trans-unit>
       <trans-unit id="Autocomplete.emptyState">
@@ -252,10 +253,12 @@
       </trans-unit>
       <trans-unit id="Autocomplete.manageSites">
         <source>Manage Sites</source>
+        <target>साइटों को प्रबंधित करें</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
       <trans-unit id="Autocomplete.mySites">
         <source>My Sites</source>
+        <target>मेरी साइटें</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
       <trans-unit id="Autocomplete.mySitesDesc">
@@ -264,6 +267,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.topSites">
         <source>Top Sites</source>
+        <target>सर्वोत्तम साइटें</target>
         <note>Label for enabling or disabling top sites</note>
       </trans-unit>
       <trans-unit id="BiometricPrompt.newSession">
@@ -498,10 +502,12 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptDisable">
         <source>No</source>
+        <target>नहीं</target>
         <note>Label for disable option on search suggestions prompt</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptEnable">
         <source>Yes</source>
+        <target>हाँ‌</target>
         <note>Label for enable option on search suggestions prompt</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptMessage">
@@ -510,6 +516,7 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptTitle">
         <source>Show Search Suggestions?</source>
+        <target>खोज सुझाव दिखाएँ?</target>
         <note>Title for search suggestions prompt</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton">
@@ -618,6 +625,7 @@
       </trans-unit>
       <trans-unit id="Settings.searchSuggestions">
         <source>Get Search Suggestions</source>
+        <target>खोज सुझाव प्राप्त करें</target>
         <note>Label for the Search Suggestions toggle row</note>
       </trans-unit>
       <trans-unit id="Settings.searchTitle2">
@@ -707,6 +715,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleHomeScreenTips">
         <source>Show home screen tips</source>
+        <target>मुख पृष्ठ युक्तियाँ दिखाएँ</target>
         <note>Show home screen tips toggle label on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
@@ -736,6 +745,7 @@
       </trans-unit>
       <trans-unit id="Settings.usageData">
         <source>usage-data</source>
+        <target>डेटा का उपयोग</target>
         <note>URL for the learn more of the send usage data toggle</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
@@ -835,6 +845,7 @@
       </trans-unit>
       <trans-unit id="URL.addToAutocompleteLabel">
         <source>Add link to autocomplete</source>
+        <target>स्वतः पूर्णता हेतु लिंक जोड़ें</target>
         <note>Label displayed for button used as a shortcut to add a link to the list of URLs to autocomplete.</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
