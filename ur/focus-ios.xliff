@@ -234,6 +234,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.duplicateUrl">
         <source>URL already exists</source>
+        <target>URLپہلے ہی موجود ہے</target>
         <note>Label for toast alerting that the custom URL being added is a duplicate</note>
       </trans-unit>
       <trans-unit id="Autocomplete.emptyState">
@@ -248,6 +249,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.manageSites">
         <source>Manage Sites</source>
+        <target>سائٹس بندرست کریں</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
       <trans-unit id="Autocomplete.mySites">
@@ -508,6 +510,7 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptTitle">
         <source>Show Search Suggestions?</source>
+        <target>تلاش تجاویز دکھائیں؟</target>
         <note>Title for search suggestions prompt</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton">
@@ -701,6 +704,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleHomeScreenTips">
         <source>Show home screen tips</source>
+        <target>ابتدائی صفحہ کی تجاویز دکھائیں</target>
         <note>Show home screen tips toggle label on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
@@ -782,6 +786,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.SharePage">
         <source>Share Page With...</source>
+        <target>…کے ساتھ صفحہ شیئر کریں</target>
         <note>Text for the share menu option when a user wants to share the current website they are on through another app.</note>
       </trans-unit>
       <trans-unit id="Siri.add">
@@ -878,6 +883,7 @@
       </trans-unit>
       <trans-unit id="browser.copyAddressToast">
         <source>URL Copied To Clipboard</source>
+        <target>URL تختہ تراشہ پر نقل ہو گیا</target>
         <note>Toast displayed after a URL has been copied to the clipboard</note>
       </trans-unit>
       <trans-unit id="browserShortcutDescription.selectLocationBar">
@@ -902,6 +908,7 @@
       </trans-unit>
       <trans-unit id="contextMenu.linkCopied">
         <source>Link you copied: </source>
+        <target>جو ربط آپ نے نقل کیا:</target>
         <note>Text for the context menu when a user has a link on their clipboard.</note>
       </trans-unit>
       <trans-unit id="contextMenu.saveImageTitle">
