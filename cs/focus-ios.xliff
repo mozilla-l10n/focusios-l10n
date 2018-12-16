@@ -547,7 +547,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.RestoreEngine">
         <source>Restore Default Search Engines</source>
-        <target>Obnovit výchozí sadu vyhledávačů</target>
+        <target>Obnovit výchozí seznam vyhledávačů</target>
         <note>Label for button to bring deleted default engines back</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchEngineName">
