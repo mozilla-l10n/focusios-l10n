@@ -263,6 +263,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.mySitesDesc">
         <source>Enable to have %@ autocomplete your favorite URLs.</source>
+        <target>Ενεργοποιήστε για να συμπληρώνει αυτόματα το %@ τα αγαπημένα σας URLs.</target>
         <note>Description for adding and managing custom autocomplete URLs. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.topSites">
@@ -512,10 +513,12 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptMessage">
         <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
+        <target>Για να λάβετε προτάσεις, το %@ πρέπει να στείλει ό,τι πληκτρολογείτε στη γραμμή διευθύνσεων στη μηχανή αναζήτησης.</target>
         <note>%@ is the name of the app (Focus / Klar). Label for search suggestions prompt message</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptTitle">
         <source>Show Search Suggestions?</source>
+        <target>Εμφάνιση προτάσεων αναζήτησης;</target>
         <note>Title for search suggestions prompt</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton">
@@ -590,6 +593,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion">
         <source>%@ will send what you type in the address bar to your search engine.</source>
+        <target>Το %@ θα στείλει ό,τι πληκτρολογείτε στη γραμμή διευθύνσεων στη μηχανή αναζήτησης.</target>
         <note>Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData">
@@ -624,6 +628,7 @@
       </trans-unit>
       <trans-unit id="Settings.searchSuggestions">
         <source>Get Search Suggestions</source>
+        <target>Λήψη προτάσεων αναζήτησης</target>
         <note>Label for the Search Suggestions toggle row</note>
       </trans-unit>
       <trans-unit id="Settings.searchTitle2">
@@ -713,6 +718,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleHomeScreenTips">
         <source>Show home screen tips</source>
+        <target>Εμφάνιση συμβουλών αρχικής οθόνης</target>
         <note>Show home screen tips toggle label on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
@@ -842,6 +848,7 @@
       </trans-unit>
       <trans-unit id="URL.addToAutocompleteLabel">
         <source>Add link to autocomplete</source>
+        <target>Προσθήκη συνδέσμου για αυτόματη συμπλήρωση</target>
         <note>Label displayed for button used as a shortcut to add a link to the list of URLs to autocomplete.</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
