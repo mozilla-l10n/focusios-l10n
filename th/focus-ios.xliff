@@ -218,7 +218,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin">
         <source>Enable to have %@ autocomplete over 450 popular URLs in the address bar.</source>
-        <target>เปิดใช้งานเพื่อให้มีการเติมมากกว่า 450 URL ยอดนิยมโดยอัตโนมัติของ %@ ในแถบที่อยู่</target>
+        <target>เปิดใช้งานเพื่อให้ %@ เติมมากกว่า 450 URL ยอดนิยมโดยอัตโนมัติในแถบที่อยู่</target>
         <note>Description for enabling or disabling the default list. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultLabel">
@@ -263,7 +263,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.mySitesDesc">
         <source>Enable to have %@ autocomplete your favorite URLs.</source>
-        <target>เปิดใช้งานเพื่อให้มีการเติม URL โปรดของคุณโดยอัตโนมัติของ %@</target>
+        <target>เปิดใช้งานเพื่อให้ %@ เติม URL โปรดของคุณโดยอัตโนมัติ</target>
         <note>Description for adding and managing custom autocomplete URLs. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.topSites">
