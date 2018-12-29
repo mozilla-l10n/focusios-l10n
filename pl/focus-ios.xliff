@@ -308,7 +308,7 @@
       </trans-unit>
       <trans-unit id="Browser.reloadLabel">
         <source>Reload</source>
-        <target>Wczytaj ponownie</target>
+        <target>Odśwież</target>
         <note>Accessibility label for the reload button</note>
       </trans-unit>
       <trans-unit id="Browser.settingsLabel">
