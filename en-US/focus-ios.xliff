@@ -786,6 +786,11 @@
         <target>Request Desktop Site</target>
         <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
       </trans-unit>
+      <trans-unit id="ShareMenu.RequestMobile">
+        <source>Request Mobile Site</source>
+        <target>Request Mobile Site</target>
+        <note>Text for the share menu option when a user wants to reload the site as a mobile device</note>
+      </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenChrome">
         <source>Open in Chrome</source>
         <target>Open in Chrome</target>
@@ -1005,6 +1010,11 @@
         <source>Tracking Protection</source>
         <target>Tracking Protection</target>
         <note>Title for the tracking settings page to change what trackers are blocked.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.labelDescription">
+        <source>Turning this off may fix some site problems</source>
+        <target>Turning this off may fix some site problems</target>
+        <note>Description/subtitle for the tracking protection label.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.learnMore">
         <source>Learn More</source>
