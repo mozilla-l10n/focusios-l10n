@@ -35,6 +35,19 @@
       </trans-unit>
     </body>
   </file>
+  <file original="Blockzilla/en.lproj/Intents.strings" source-language="en" datatype="plaintext" target-language="gd">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+    </header>
+    <body>
+      <trans-unit id="Erase">
+        <source>Erase</source>
+      </trans-unit>
+      <trans-unit id="Erase browsing session">
+        <source>Erase browsing session</source>
+      </trans-unit>
+    </body>
+  </file>
   <file original="Blockzilla/Intro.strings" source-language="en" datatype="plaintext" target-language="gd">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
@@ -773,6 +786,10 @@
         <target>Iarr an làrach desktop</target>
         <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
       </trans-unit>
+      <trans-unit id="ShareMenu.RequestMobile">
+        <source>Request Mobile Site</source>
+        <note>Text for the share menu option when a user wants to reload the site as a mobile device</note>
+      </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenChrome">
         <source>Open in Chrome</source>
         <target>Fosgail ann an Chrome</target>
@@ -991,6 +1008,10 @@
         <source>Tracking Protection</source>
         <target>Dìon o thracadh</target>
         <note>Title for the tracking settings page to change what trackers are blocked.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.labelDescription">
+        <source>Turning this off may fix some site problems</source>
+        <note>Description/subtitle for the tracking protection label.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.learnMore">
         <source>Learn More</source>
