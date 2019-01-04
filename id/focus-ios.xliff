@@ -788,6 +788,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.RequestMobile">
         <source>Request Mobile Site</source>
+        <target>Meminta Situs Seluler</target>
         <note>Text for the share menu option when a user wants to reload the site as a mobile device</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenChrome">
@@ -1012,6 +1013,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.labelDescription">
         <source>Turning this off may fix some site problems</source>
+        <target>Menonaktifkan ini mungkin membantu memecahkan masalah beberapa situs</target>
         <note>Description/subtitle for the tracking protection label.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.learnMore">
