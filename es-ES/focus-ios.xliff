@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="es">
+  <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="es-ES">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
     </header>
@@ -35,7 +35,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Blockzilla/Intro.strings" source-language="en" datatype="plaintext" target-language="es">
+  <file original="Blockzilla/Intro.strings" source-language="en" datatype="plaintext" target-language="es-ES">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
     </header>
@@ -82,7 +82,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="es">
+  <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="es-ES">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
     </header>
@@ -788,6 +788,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.RequestMobile">
         <source>Request Mobile Site</source>
+        <target>Solicitar sitio para móviles</target>
         <note>Text for the share menu option when a user wants to reload the site as a mobile device</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenChrome">
@@ -1012,6 +1013,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.labelDescription">
         <source>Turning this off may fix some site problems</source>
+        <target>Desactivar esto puede solucionar algunos problemas del sitio</target>
         <note>Description/subtitle for the tracking protection label.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.learnMore">
@@ -1041,7 +1043,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="ContentBlocker/Info.plist" source-language="en" datatype="plaintext" target-language="es">
+  <file original="ContentBlocker/Info.plist" source-language="en" datatype="plaintext" target-language="es-ES">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
     </header>
@@ -1056,7 +1058,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="FocusIntentExtension/Info.plist" source-language="en" datatype="plaintext" target-language="es">
+  <file original="FocusIntentExtension/Info.plist" source-language="en" datatype="plaintext" target-language="es-ES">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
     </header>
@@ -1071,7 +1073,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="OpenInFocus/Info.plist" source-language="en" datatype="plaintext" target-language="es">
+  <file original="OpenInFocus/Info.plist" source-language="en" datatype="plaintext" target-language="es-ES">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
     </header>
