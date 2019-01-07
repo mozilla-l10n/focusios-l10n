@@ -398,17 +398,17 @@
       </trans-unit>
       <trans-unit id="FindInPage.Done">
         <source>Find in page done</source>
-        <target>Busca na página finalizada</target>
+        <target>Procurar na página concluído</target>
         <note>Accessibility label for done button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.NextResult">
         <source>Find next in page</source>
-        <target>Localizar próxima ocorrência na página</target>
+        <target>Procurar próxima ocorrência na página</target>
         <note>Accessibility label for next result button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.PreviousResult">
         <source>Find previous in page</source>
-        <target>Localizar ocorrência anterior na página</target>
+        <target>Procurar ocorrência anterior na página</target>
         <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel">
@@ -763,7 +763,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.FindInPage">
         <source>Find in Page</source>
-        <target>Localizar na página</target>
+        <target>Procurar na página</target>
         <note>Text for the share menu option when a user wants to open the find in page menu</note>
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox">
@@ -878,7 +878,7 @@
       </trans-unit>
       <trans-unit id="URL.findOnPageLabel">
         <source>Find in page: %@</source>
-        <target>Localizar na página: %@</target>
+        <target>Procurar na página: %@</target>
         <note>Label displayed for find in page button when typing in the URL Bar. %@ is any text the user has typed into the URL bar that they want to find on the current page.</note>
       </trans-unit>
       <trans-unit id="URL.paste">
