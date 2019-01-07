@@ -163,6 +163,7 @@
       </trans-unit>
       <trans-unit id="Authentication.reason">
         <source>Authenticate to return to %@</source>
+        <target>Autentiser for å gå tilbake til %@</target>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID, Face ID, or passcode to continue browsing after returning to the app.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrl">
@@ -237,6 +238,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.duplicateUrl">
         <source>URL already exists</source>
+        <target>URL-en finst allereie</target>
         <note>Label for toast alerting that the custom URL being added is a duplicate</note>
       </trans-unit>
       <trans-unit id="Autocomplete.emptyState">
@@ -251,18 +253,22 @@
       </trans-unit>
       <trans-unit id="Autocomplete.manageSites">
         <source>Manage Sites</source>
+        <target>Handter nettsider</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
       <trans-unit id="Autocomplete.mySites">
         <source>My Sites</source>
+        <target>Mine nettsider</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
       <trans-unit id="Autocomplete.mySitesDesc">
         <source>Enable to have %@ autocomplete your favorite URLs.</source>
+        <target>Aktiver for å få %@ til å autofullføre dei føretrekte nettadressene dine.</target>
         <note>Description for adding and managing custom autocomplete URLs. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.topSites">
         <source>Top Sites</source>
+        <target>Mest besøkte nettstadar</target>
         <note>Label for enabling or disabling top sites</note>
       </trans-unit>
       <trans-unit id="BiometricPrompt.newSession">
@@ -282,6 +288,7 @@
       </trans-unit>
       <trans-unit id="Browser.copyAddressLabel">
         <source>Copy Address</source>
+        <target>Kopier adresse</target>
         <note>Copy URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.copyMenuLabel">
@@ -436,6 +443,7 @@
       </trans-unit>
       <trans-unit id="Menu.Close">
         <source>Close</source>
+        <target>Lat att</target>
         <note>Button label used to close a menu that displays as a popup.</note>
       </trans-unit>
       <trans-unit id="Open.Cancel">
@@ -490,18 +498,22 @@
       </trans-unit>
       <trans-unit id="SearchEngine.addEngineError">
         <source>That didn't work. Try replacing the search term with this: %s.</source>
+        <target>Det fungerte ikkje. Prøv å erstatte søkjeordet med dette: %s.</target>
         <note>Label for error state when entering an invalid search engine URL. %s is a search term in a URL.</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptDisable">
         <source>No</source>
+        <target>Nei</target>
         <note>Label for disable option on search suggestions prompt</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptEnable">
         <source>Yes</source>
+        <target>Ja</target>
         <note>Label for enable option on search suggestions prompt</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptMessage">
         <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
+        <target>For å få forslag må %@ sende det du skriv i adressefeltet til søkjemotoren.</target>
         <note>%@ is the name of the app (Focus / Klar). Label for search suggestions prompt message</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptTitle">
