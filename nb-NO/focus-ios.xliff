@@ -498,7 +498,7 @@
       </trans-unit>
       <trans-unit id="SearchEngine.addEngineError">
         <source>That didn't work. Try replacing the search term with this: %s.</source>
-        <target>Det fungerte ikke. Prøv å erstatte søkordet med dette: %s.</target>
+        <target>Det fungerte ikke. Prøv å erstatte søkeordet med dette: %s.</target>
         <note>Label for error state when entering an invalid search engine URL. %s is a search term in a URL.</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptDisable">
@@ -518,7 +518,7 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptTitle">
         <source>Show Search Suggestions?</source>
-        <target>Vis søkeforslag?</target>
+        <target>Vise søkeforslag?</target>
         <note>Title for search suggestions prompt</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton">
@@ -818,7 +818,7 @@
       </trans-unit>
       <trans-unit id="Siri.addTo">
         <source>Add to Siri</source>
-        <target>Legg til Siri</target>
+        <target>Legg til i Siri</target>
         <note>Button to add a specified shortcut option to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.editOpenUrl">
