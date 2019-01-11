@@ -778,7 +778,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.PageActions">
         <source>Page Actions</source>
-        <target>การกระทำของหน้า</target>
+        <target>การกระทำหน้า</target>
         <note>Title for the share menu where users can take actions for the current website they are on.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop">
