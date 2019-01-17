@@ -772,6 +772,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.RequestMobile">
         <source>Request Mobile Site</source>
+        <target>موبائل سائٹ کی درخواست کریں</target>
         <note>Text for the share menu option when a user wants to reload the site as a mobile device</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenChrome">
