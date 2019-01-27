@@ -513,7 +513,7 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptMessage">
         <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
-        <target>Để nhận đề xuất, %@ cần gửi những gì bạn nhập vào thanh địa chỉ cho công cụ tìm kiếm.</target>
+        <target>Để nhận gợi ý, %@ cần gửi những gì bạn nhập vào thanh địa chỉ cho công cụ tìm kiếm.</target>
         <note>%@ is the name of the app (Focus / Klar). Label for search suggestions prompt message</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptTitle">
@@ -628,7 +628,7 @@
       </trans-unit>
       <trans-unit id="Settings.searchSuggestions">
         <source>Get Search Suggestions</source>
-        <target>Nhận đề xuất tìm kiếm</target>
+        <target>Nhận gợi ý tìm kiếm</target>
         <note>Label for the Search Suggestions toggle row</note>
       </trans-unit>
       <trans-unit id="Settings.searchTitle2">
