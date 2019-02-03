@@ -152,6 +152,7 @@
       </trans-unit>
       <trans-unit id="About.title">
         <source>About %@</source>
+        <target>ກ່ຽວກັບ %@</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, takes the user to a page with information about the product. Also displayed as a header for the About page.</note>
       </trans-unit>
       <trans-unit id="About.topLabel">
@@ -427,6 +428,7 @@
       </trans-unit>
       <trans-unit id="Menu.Close">
         <source>Close</source>
+        <target>ປິດ</target>
         <note>Button label used to close a menu that displays as a popup.</note>
       </trans-unit>
       <trans-unit id="Open.Cancel">
@@ -742,6 +744,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.PageActions">
         <source>Page Actions</source>
+        <target>ການກະທຳຂອງຫນ້າ</target>
         <note>Title for the share menu where users can take actions for the current website they are on.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop">
@@ -754,14 +757,17 @@
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenChrome">
         <source>Open in Chrome</source>
+        <target>ເປີດໃນ Chrome</target>
         <note>Text for the share menu option when a user wants to open the current website in the Chrome app.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenFirefox">
         <source>Open in Firefox</source>
+        <target>ເປີດໃນ Firefox</target>
         <note>Text for the share menu option when a user wants to open the current website in the Firefox app.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenSafari">
         <source>Open in Safari</source>
+        <target>ເປີດໃນ Safari</target>
         <note>Text for the share menu option when a user wants to open the current website in the Safari app.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.SharePage">
@@ -770,6 +776,7 @@
       </trans-unit>
       <trans-unit id="Siri.add">
         <source>Add</source>
+        <target>ເພີ່ມ</target>
         <note>Button to add a favorite URL to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.addTo">
@@ -917,6 +924,7 @@
       </trans-unit>
       <trans-unit id="share">
         <source>Share</source>
+        <target>ແບ່ງປັນ</target>
         <note>Text for a share button</note>
       </trans-unit>
       <trans-unit id="shareMenu.copyAddress">
@@ -949,6 +957,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.label">
         <source>Tracking Protection</source>
+        <target>ການປ້ອງກັນການຕິດຕາມ</target>
         <note>Title for the tracking settings page to change what trackers are blocked.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.labelDescription">
