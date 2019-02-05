@@ -15,6 +15,7 @@
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription">
         <source>This lets you unlock the app.</source>
+        <target>આ તમને એપ્લિકેશનને ખોલવા દે છે.</target>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
@@ -22,12 +23,15 @@
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription">
         <source>This lets you take and upload videos.</source>
+        <target>તમને વિડિઓ લેવા અને અપલોડ કરવા દે છે.</target>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription">
         <source>This lets you save and upload photos.</source>
+        <target>તમને ફોટા સાચવવા અને અપલોડ કરવા દે છે.</target>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription">
         <source>This lets you save and upload photos.</source>
+        <target>આ તમને ફોટા સાચવવા અને અપલોડ કરવા દે છે.</target>
       </trans-unit>
     </body>
   </file>
