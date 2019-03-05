@@ -788,6 +788,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.RequestMobile">
         <source>Request Mobile Site</source>
+        <target>မိုဘိုင်းဖုန်းကြည့် ဝဘ်ဆိုက်ဖြင့် ပြရန်</target>
         <note>Text for the share menu option when a user wants to reload the site as a mobile device</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenChrome">
@@ -1012,6 +1013,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.labelDescription">
         <source>Turning this off may fix some site problems</source>
+        <target>ယခုအရာကို ပိတ်ခြင်းအားဖြင့် အချို့သော ဝဘ်ဆိုက်ပြဿနာများကို ပြေလည်စေနိုင်သည်</target>
         <note>Description/subtitle for the tracking protection label.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.learnMore">
