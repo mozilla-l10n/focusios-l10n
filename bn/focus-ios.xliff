@@ -198,6 +198,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customDescriptoin">
         <source>Add and manage custom autocomplete URLs.</source>
+        <target>কাস্টম অটোকমপ্লিট URLs যুক্ত ও ব্যবস্থাপনা করুন।</target>
         <note>Description for adding and managing custom autocomplete URLs</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customLabel">
@@ -217,6 +218,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin">
         <source>Enable to have %@ autocomplete over 450 popular URLs in the address bar.</source>
+        <target>অ্যাড্রেস বারে 450 টি জনপ্রিয় URLs %@ কে অটোকমপ্লিট করতে সক্ষম করুন।</target>
         <note>Description for enabling or disabling the default list. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultLabel">
@@ -236,6 +238,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.duplicateUrl">
         <source>URL already exists</source>
+        <target>URL আগে থেকেই রয়েছে</target>
         <note>Label for toast alerting that the custom URL being added is a duplicate</note>
       </trans-unit>
       <trans-unit id="Autocomplete.emptyState">
@@ -619,6 +622,7 @@
       </trans-unit>
       <trans-unit id="Settings.searchSuggestions">
         <source>Get Search Suggestions</source>
+        <target>অনুসন্ধান পরামর্শ পান</target>
         <note>Label for the Search Suggestions toggle row</note>
       </trans-unit>
       <trans-unit id="Settings.searchTitle2">
@@ -648,6 +652,7 @@
       </trans-unit>
       <trans-unit id="Settings.sectionSecurity">
         <source>SECURITY</source>
+        <target>নিরাপত্তা</target>
         <note>Header label for security toggles displayed in the settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
@@ -772,26 +777,32 @@
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenChrome">
         <source>Open in Chrome</source>
+        <target>Chrome এ খুলুন</target>
         <note>Text for the share menu option when a user wants to open the current website in the Chrome app.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenFirefox">
         <source>Open in Firefox</source>
+        <target>Firefox এ খুলুন</target>
         <note>Text for the share menu option when a user wants to open the current website in the Firefox app.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenSafari">
         <source>Open in Safari</source>
+        <target>Safari তে খুলুন</target>
         <note>Text for the share menu option when a user wants to open the current website in the Safari app.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.SharePage">
         <source>Share Page With...</source>
+        <target>পাতা শেয়ার করুন...</target>
         <note>Text for the share menu option when a user wants to share the current website they are on through another app.</note>
       </trans-unit>
       <trans-unit id="Siri.add">
         <source>Add</source>
+        <target>যোগ</target>
         <note>Button to add a favorite URL to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.addTo">
         <source>Add to Siri</source>
+        <target>Siri তে যোগ করুন</target>
         <note>Button to add a specified shortcut option to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.editOpenUrl">
@@ -800,18 +811,22 @@
       </trans-unit>
       <trans-unit id="Siri.erase">
         <source>Erase</source>
+        <target>মুছে ফেলুন</target>
         <note>Title of option in settings to set up Siri to erase</note>
       </trans-unit>
       <trans-unit id="Siri.eraseAndOpen">
         <source>Erase &amp; Open</source>
+        <target>মুছে ফেলুন ও খুলুন</target>
         <note>Title of option in settings to set up Siri to erase and then open the app.</note>
       </trans-unit>
       <trans-unit id="Siri.favoriteUrl">
         <source>Open Favorite Site</source>
+        <target>প্রিয় সাইট খুলুন</target>
         <note>Title for screen to add a favorite URL to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.openURL">
         <source>Open Favorite Site</source>
+        <target>প্রিয় সাইট খুলুন</target>
         <note>Title of option in settings to set up Siri to open a specified URL in Focus/Klar.</note>
       </trans-unit>
       <trans-unit id="Siri.urlToOpen">
@@ -848,6 +863,7 @@
       </trans-unit>
       <trans-unit id="URL.paste">
         <source>Paste</source>
+        <target>প্রতিলেপন</target>
         <note>Text for a menu displayed from the bottom of the screen when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText">
@@ -935,10 +951,12 @@
       </trans-unit>
       <trans-unit id="share">
         <source>Share</source>
+        <target>শেয়ার</target>
         <note>Text for a share button</note>
       </trans-unit>
       <trans-unit id="shareMenu.copyAddress">
         <source>Copy Address</source>
+        <target>ঠিকানা অনুলিপি করুন</target>
         <note>Text for the share menu when a user wants to copy a URL.</note>
       </trans-unit>
       <trans-unit id="touchId.reason">
@@ -967,6 +985,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.label">
         <source>Tracking Protection</source>
+        <target>ট্র্যাকিং সুরক্ষা</target>
         <note>Title for the tracking settings page to change what trackers are blocked.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.labelDescription">
@@ -1022,6 +1041,7 @@
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>FocusIntentExtension</source>
+        <target>FocusIntentExtension</target>
       </trans-unit>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
