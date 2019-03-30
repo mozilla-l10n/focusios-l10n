@@ -233,7 +233,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.disabled">
         <source>Disabled</source>
-        <target>ถูกปิดใช้งาน</target>
+        <target>ปิดใช้งานอยู่</target>
         <note>label describing URL Autocomplete as disabled</note>
       </trans-unit>
       <trans-unit id="Autocomplete.duplicateUrl">
@@ -248,7 +248,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.enabled">
         <source>Enabled</source>
-        <target>ถูกเปิดใช้งาน</target>
+        <target>เปิดใช้งานอยู่</target>
         <note>label describing URL Autocomplete as enabled</note>
       </trans-unit>
       <trans-unit id="Autocomplete.manageSites">
@@ -483,7 +483,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsNotEnabled">
         <source>%@ is not enabled.</source>
-        <target>%@ ไม่ได้ถูกเปิดใช้งาน</target>
+        <target>ไม่ได้เปิดใช้งาน %@</target>
         <note>Error label when the blocker is not enabled, shown in the intro and main app when disabled</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsOpen">
@@ -713,7 +713,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleFaceIDDescription">
         <source>Face ID can unlock %@ if a URL is already open in the app</source>
-        <target>Face ID สามารถปลดล็อค %@ หาก URL ถูกเปิดอยู่แล้วในแอป</target>
+        <target>Face ID สามารถปลดล็อค %@ หากเปิด URL อยู่แล้วในแอป</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.toggleHomeScreenTips">
@@ -743,7 +743,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleTouchIDDescription">
         <source>Touch ID can unlock %@ if a URL is already open in the app</source>
-        <target>Touch ID สามารถปลดล็อค %@ หาก URL ถูกเปิดอยู่แล้วในแอป</target>
+        <target>Touch ID สามารถปลดล็อค %@ หากเปิด URL อยู่แล้วในแอป</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.usageData">
@@ -898,7 +898,7 @@
       </trans-unit>
       <trans-unit id="URL.trackersBlockedLabel">
         <source>Trackers blocked</source>
-        <target>ตัวติดตามที่ถูกปิดกั้น</target>
+        <target>ตัวติดตามที่ปิดกั้น</target>
         <note>Text for the URL bar showing the number of trackers blocked on a webpage.</note>
       </trans-unit>
       <trans-unit id="actionSheet.openIn">
