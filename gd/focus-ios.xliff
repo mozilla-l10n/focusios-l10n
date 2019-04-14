@@ -238,6 +238,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.duplicateUrl">
         <source>URL already exists</source>
+        <target>Tha an URL seo ann mu thràth</target>
         <note>Label for toast alerting that the custom URL being added is a duplicate</note>
       </trans-unit>
       <trans-unit id="Autocomplete.emptyState">
@@ -252,18 +253,22 @@
       </trans-unit>
       <trans-unit id="Autocomplete.manageSites">
         <source>Manage Sites</source>
+        <target>Stiùirich na làraichean</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
       <trans-unit id="Autocomplete.mySites">
         <source>My Sites</source>
+        <target>Na làraichean agam</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
       <trans-unit id="Autocomplete.mySitesDesc">
         <source>Enable to have %@ autocomplete your favorite URLs.</source>
+        <target>Cuir seo an comas airson ’s gun coilean %@ na URLaichean a chleachdas tu gu tric.</target>
         <note>Description for adding and managing custom autocomplete URLs. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.topSites">
         <source>Top Sites</source>
+        <target>Brod nan làrach</target>
         <note>Label for enabling or disabling top sites</note>
       </trans-unit>
       <trans-unit id="BiometricPrompt.newSession">
@@ -498,18 +503,22 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptDisable">
         <source>No</source>
+        <target>Chan eil</target>
         <note>Label for disable option on search suggestions prompt</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptEnable">
         <source>Yes</source>
+        <target>Tha</target>
         <note>Label for enable option on search suggestions prompt</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptMessage">
         <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
+        <target>Mus fhaigh thu molaidhean, feumaidh %@ na sgrìobhas tu ann am bàr an t-seòlaidh a chur gun einnsean-luirg.</target>
         <note>%@ is the name of the app (Focus / Klar). Label for search suggestions prompt message</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptTitle">
         <source>Show Search Suggestions?</source>
+        <target>A bheil thu airson molaidhean-luirg a shealltainn?</target>
         <note>Title for search suggestions prompt</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton">
@@ -584,6 +593,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion">
         <source>%@ will send what you type in the address bar to your search engine.</source>
+        <target>Cuiridh %@ na sgrìobhas tu ann am bàr an t-seòlaidh gun einnsan-luirg agad.</target>
         <note>Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData">
@@ -618,6 +628,7 @@
       </trans-unit>
       <trans-unit id="Settings.searchSuggestions">
         <source>Get Search Suggestions</source>
+        <target>Faigh molaidhean-luirg</target>
         <note>Label for the Search Suggestions toggle row</note>
       </trans-unit>
       <trans-unit id="Settings.searchTitle2">
@@ -707,6 +718,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleHomeScreenTips">
         <source>Show home screen tips</source>
+        <target>Seall na gliocasan air an sgrìn-dhachaidh</target>
         <note>Show home screen tips toggle label on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
@@ -736,6 +748,7 @@
       </trans-unit>
       <trans-unit id="Settings.usageData">
         <source>usage-data</source>
+        <target>usage-data</target>
         <note>URL for the learn more of the send usage data toggle</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
@@ -775,6 +788,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.RequestMobile">
         <source>Request Mobile Site</source>
+        <target>Iarr an làrach mobile</target>
         <note>Text for the share menu option when a user wants to reload the site as a mobile device</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenChrome">
@@ -839,6 +853,7 @@
       </trans-unit>
       <trans-unit id="URL.addToAutocompleteLabel">
         <source>Add link to autocomplete</source>
+        <target>Cuir ceangal ris airson a choileanadh gu fèin-obrachail</target>
         <note>Label displayed for button used as a shortcut to add a link to the list of URLs to autocomplete.</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
@@ -998,6 +1013,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.labelDescription">
         <source>Turning this off may fix some site problems</source>
+        <target>Ma chuireas tu seo dheth, dh’fhaoidte gun cuir sin ceart cuid a dhuilgheadasan le làraichean</target>
         <note>Description/subtitle for the tracking protection label.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.learnMore">
