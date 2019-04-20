@@ -863,7 +863,7 @@
       </trans-unit>
       <trans-unit id="URL.contextMenu">
         <source>Paste &amp; Go</source>
-        <target>Dán &amp; Mở đường dẫn</target>
+        <target>Dán &amp; mở</target>
         <note>Text for the URL context menu when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
       <trans-unit id="URL.eraseButtonLabel">
@@ -908,7 +908,7 @@
       </trans-unit>
       <trans-unit id="browser.copyAddressToast">
         <source>URL Copied To Clipboard</source>
-        <target>URL đã được sao chép vào Clipboard</target>
+        <target>URL đã được sao chép vào clipboard</target>
         <note>Toast displayed after a URL has been copied to the clipboard</note>
       </trans-unit>
       <trans-unit id="browserShortcutDescription.selectLocationBar">
