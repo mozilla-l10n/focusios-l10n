@@ -1,43 +1,43 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="hi-IN">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Blockzilla/en.lproj/InfoPlist.strings" source-language="en" target-language="hi-IN" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName">
-        <source>$(PRODUCT_NAME)</source>
-        <target>$(PRODUCT_NAME)</target>
-      </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
         <target>यह आपको तस्वीरें लेने और अपलोड करने देता है.</target>
+        <note>Privacy - Camera Usage Description</note>
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription">
         <source>This lets you unlock the app.</source>
         <target>यह आपको ऐप खोलने देता है.</target>
+        <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
         <target>आपके द्वारा देखे गये वेबसाइट आपके पते के लिए अनुरोध कर सकते हैं.</target>
+        <note>Privacy - Location When In Use Usage Description</note>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription">
         <source>This lets you take and upload videos.</source>
         <target>यह आपको वीडियो लेने और अपलोड करने देता है.</target>
+        <note>Privacy - Microphone Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription">
         <source>This lets you save and upload photos.</source>
         <target>यह आपको तस्वीरें सहेजने और अपलोड करने देता है.</target>
+        <note>Privacy - Photo Library Additions Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSPhotoLibraryUsageDescription">
-        <source>This lets you save and upload photos.</source>
-        <target>यह आपको तस्वीरें सहेजने और अपलोड करने देता है.</target>
+      <trans-unit id="UIApplicationShortcutItemTitle.EraseAndOpen">
+        <source>Erase and Open</source>
+        <note>This is the menu item that appears when you long press the Focus icon on the phone home screen.</note>
       </trans-unit>
     </body>
   </file>
-  <file original="Blockzilla/Intro.strings" source-language="en" datatype="plaintext" target-language="hi-IN">
+  <file original="Blockzilla/en.lproj/Intro.strings" source-language="en" target-language="hi-IN" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
       <trans-unit id="Intro.Slides.History.Description">
@@ -82,9 +82,9 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="hi-IN">
+  <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" target-language="hi-IN" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
       <trans-unit id="About.learnMoreButton">
@@ -147,10 +147,6 @@
         <target>Safari विस्तारक के रूप में इसका उपयोग करें:</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.screenTitle">
-        <source>About</source>
-        <target>के बारे में</target>
-      </trans-unit>
       <trans-unit id="About.title">
         <source>About %@</source>
         <target>%@ के बारे में</target>
@@ -160,6 +156,18 @@
         <source>%@ puts you in control.</source>
         <target>%@ आपको नियंत्रण में रखता है.</target>
         <note>Label on About screen</note>
+      </trans-unit>
+      <trans-unit id="AddPass.Error.Dismiss">
+        <source>Ok</source>
+        <note>Button to dismiss the 'Add Pass Failed' alert.</note>
+      </trans-unit>
+      <trans-unit id="AddPass.Error.Message">
+        <source>An error occured while adding the pass to Wallet. Please try again later.</source>
+        <note>Message of the 'Add Pass Failed' alert.</note>
+      </trans-unit>
+      <trans-unit id="AddPass.Error.Title">
+        <source>Failed to Add Pass</source>
+        <note>Title of the 'Add Pass Failed' alert.</note>
       </trans-unit>
       <trans-unit id="Authentication.reason">
         <source>Authenticate to return to %@</source>
@@ -263,7 +271,6 @@
       </trans-unit>
       <trans-unit id="Autocomplete.mySitesDesc">
         <source>Enable to have %@ autocomplete your favorite URLs.</source>
-        <target>सक्षम करें ताकि आप %@ में अपने पसंदीदा URLs की स्वतःपूर्ण सुविधा को पा सकें।</target>
         <note>Description for adding and managing custom autocomplete URLs. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.topSites">
@@ -513,7 +520,6 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptMessage">
         <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
-        <target>सुझाव पाने हेतु, %@ को आपके द्वारा पता बार में टाइप किए चीज़ों को सर्च इंजन को भेजने की आवश्यकता होती है।</target>
         <note>%@ is the name of the app (Focus / Klar). Label for search suggestions prompt message</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptTitle">
@@ -593,7 +599,6 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion">
         <source>%@ will send what you type in the address bar to your search engine.</source>
-        <target>%@ आपके द्वारा पता बार में टाइप किए गए चीज़ों को आपके सर्च इंजन को भेज देगा।</target>
         <note>Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData">
@@ -746,11 +751,6 @@
         <target>अगर ऐप में यूआरएल पहले से खुला है तो स्पर्श आईडी %@ को अनलॉक कर सकती है</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
-      <trans-unit id="Settings.usageData">
-        <source>usage-data</source>
-        <target>डेटा का उपयोग</target>
-        <note>URL for the learn more of the send usage data toggle</note>
-      </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
         <source>What’s New</source>
         <target>क्या नया है</target>
@@ -771,11 +771,6 @@
         <target>Firefox एप्लिकेशन पाएं</target>
         <note>Text for the share menu option when a user wants to open a page in Firefox but doesn’t have it installed. This string will not wrap in the interface. Instead, it will truncate. To prevent this, please keep the localized string to 18 or fewer characters. If your string runs longer than 18 characters, you can use 'Get Firefox' as the basis for your string. However, if at all possible, we’d like to signal to the user that they will be going to the App Store and installing the application from there. That is why we are using Get and App in the en-US string.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.OpenInFocus">
-        <source>Open in %@</source>
-        <target>%@ में खोलें</target>
-        <note>Text for the share menu option when a user wants to open a page in Focus.</note>
-      </trans-unit>
       <trans-unit id="ShareMenu.PageActions">
         <source>Page Actions</source>
         <target>पृष्ठ क्रियाएँ</target>
@@ -788,7 +783,6 @@
       </trans-unit>
       <trans-unit id="ShareMenu.RequestMobile">
         <source>Request Mobile Site</source>
-        <target>मोबाइल साइट का अनुरोध करें</target>
         <note>Text for the share menu option when a user wants to reload the site as a mobile device</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenChrome">
@@ -871,9 +865,8 @@
         <target>मिटाएँ</target>
         <note>Erase button in the URL bar</note>
       </trans-unit>
-      <trans-unit id="URL.eraseMessageLabel">
-        <source>Your browsing history has been erased.</source>
-        <target>आपका ब्राउज़िंग इतिहास मिटा दिया गया है.</target>
+      <trans-unit id="URL.eraseMessageLabel2">
+        <source>Browsing history cleared</source>
         <note>Message shown after pressing the Erase button</note>
       </trans-unit>
       <trans-unit id="URL.findOnPageLabel">
@@ -1013,7 +1006,6 @@
       </trans-unit>
       <trans-unit id="trackingProtection.labelDescription">
         <source>Turning this off may fix some site problems</source>
-        <target>इसे बंद करने से साइट की कुछ समस्याएँ ठीक हो सकती हैं</target>
         <note>Description/subtitle for the tracking protection label.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.learnMore">
@@ -1043,48 +1035,14 @@
       </trans-unit>
     </body>
   </file>
-  <file original="ContentBlocker/Info.plist" source-language="en" datatype="plaintext" target-language="hi-IN">
+  <file original="Blockzilla/Settings.bundle/en.lproj/Root.strings" datatype="plaintext" source-language="en" target-language="hi-IN">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName">
-        <source>$(PRODUCT_NAME)</source>
-        <target>$(PRODUCT_NAME)</target>
-      </trans-unit>
-      <trans-unit id="CFBundleName">
-        <source>$(PRODUCT_NAME)</source>
-        <target>$(PRODUCT_NAME)</target>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="FocusIntentExtension/Info.plist" source-language="en" datatype="plaintext" target-language="hi-IN">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
-    </header>
-    <body>
-      <trans-unit id="CFBundleDisplayName">
-        <source>FocusIntentExtension</source>
-        <target>FocusIntentExtension</target>
-      </trans-unit>
-      <trans-unit id="CFBundleName">
-        <source>$(PRODUCT_NAME)</source>
-        <target>$(PRODUCT_NAME)</target>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="OpenInFocus/Info.plist" source-language="en" datatype="plaintext" target-language="hi-IN">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
-    </header>
-    <body>
-      <trans-unit id="CFBundleDisplayName">
-        <source>$(DISPLAY_NAME)</source>
-        <target>$(DISPLAY_NAME)</target>
-      </trans-unit>
-      <trans-unit id="CFBundleName">
-        <source>$(PRODUCT_NAME)</source>
-        <target>$(PRODUCT_NAME)</target>
+      <trans-unit id="SettingsBundle.Licenses">
+        <source>Licenses</source>
+        <note>The title of the Licenses setting in the settings that Focus shows in the global iOS Settings app.</note>
       </trans-unit>
     </body>
   </file>
