@@ -166,11 +166,12 @@
       </trans-unit>
       <trans-unit id="AddPass.Error.Message" xml:space="preserve">
         <source>An error occured while adding the pass to Wallet. Please try again later.</source>
-        <target>Ett fel uppstod när kortet skulle läggas till i Wallet. Vänligen försök igen senare.</target>
+        <target>Ett fel uppstod när kupongen skulle läggas till i Wallet. Vänligen försök igen senare.</target>
         <note>Message of the 'Add Pass Failed' alert.</note>
       </trans-unit>
-      <trans-unit id="AddPass.Error.Title">
+      <trans-unit id="AddPass.Error.Title" xml:space="preserve">
         <source>Failed to Add Pass</source>
+        <target>Det gick inte att lägga till kupong</target>
         <note>Title of the 'Add Pass Failed' alert.</note>
       </trans-unit>
       <trans-unit id="Authentication.reason" xml:space="preserve">
