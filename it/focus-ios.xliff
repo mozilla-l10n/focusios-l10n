@@ -169,8 +169,9 @@
         <target>Si è verificato un errore durante l’aggiunta del biglietto a Wallet. Riprova più tardi.</target>
         <note>Message of the 'Add Pass Failed' alert.</note>
       </trans-unit>
-      <trans-unit id="AddPass.Error.Title">
+      <trans-unit id="AddPass.Error.Title" xml:space="preserve">
         <source>Failed to Add Pass</source>
+        <target>Errore aggiunta biglietto</target>
         <note>Title of the 'Add Pass Failed' alert.</note>
       </trans-unit>
       <trans-unit id="Authentication.reason" xml:space="preserve">
@@ -873,8 +874,9 @@
         <target>ELIMINA</target>
         <note>Erase button in the URL bar</note>
       </trans-unit>
-      <trans-unit id="URL.eraseMessageLabel2">
+      <trans-unit id="URL.eraseMessageLabel2" xml:space="preserve">
         <source>Browsing history cleared</source>
+        <target>Cronologia di navigazione eliminata</target>
         <note>Message shown after pressing the Erase button</note>
       </trans-unit>
       <trans-unit id="URL.findOnPageLabel" xml:space="preserve">
@@ -1049,8 +1051,9 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
-      <trans-unit id="SettingsBundle.Licenses">
+      <trans-unit id="SettingsBundle.Licenses" xml:space="preserve">
         <source>Licenses</source>
+        <target>Licenze</target>
         <note>The title of the Licenses setting in the settings that Focus shows in the global iOS Settings app.</note>
       </trans-unit>
     </body>
