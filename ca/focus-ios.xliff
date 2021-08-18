@@ -35,6 +35,17 @@
       </trans-unit>
     </body>
   </file>
+  <file original="Blockzilla/en.lproj/Intents.strings" source-language="en" target-language="ca" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+    </header>
+    <body>
+      <trans-unit id="Intents.Erase.Title">
+        <source>Erase</source>
+        <note>Title of the Erase intent.</note>
+      </trans-unit>
+    </body>
+  </file>
   <file original="Blockzilla/en.lproj/Intro.strings" source-language="en" target-language="ca" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
@@ -138,8 +149,7 @@
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2">
-        <source>Block Web fonts to reduce page size</source>
-        <target>Blocar els tipus de lletra web per reduir la mida de la pàgina</target>
+        <source>Block web fonts to reduce page size</source>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
@@ -585,18 +595,15 @@
         <note>Title for the URL Autocomplete row</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
-        <source>Blocking other content trackers may break some videos and Web pages.</source>
-        <target>Si bloqueu altres elements de seguiment de contingut, és possible que alguns vídeos i pàgines web no funcionin correctament.</target>
+        <source>Blocking other content trackers may break some videos and web pages.</source>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
-      <trans-unit id="Settings.blockOtherNo">
-        <source>No, Thanks</source>
-        <target>No, gràcies</target>
+      <trans-unit id="Settings.blockOtherNo2">
+        <source>Cancel</source>
         <note>Button label for declining Content blocker alert</note>
       </trans-unit>
-      <trans-unit id="Settings.blockOtherYes">
-        <source>I Understand</source>
-        <target>Entesos</target>
+      <trans-unit id="Settings.blockOtherYes2">
+        <source>Block Content Trackers</source>
         <note>Button label for accepting Content blocker alert</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion">
@@ -669,50 +676,25 @@
         <target>SEGURETAT</target>
         <note>Header label for security toggles displayed in the settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockAds">
-        <source>Block ad trackers</source>
-        <target>Bloca els elements de seguiment de publicitat</target>
-        <note>Label for toggle on main screen</note>
+      <trans-unit id="Settings.toggleBlockAds2">
+        <source>Advertising</source>
+        <note>Label for the checkbox to toggle Advertising trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockAdsDescription">
-        <source>Some ads track site visits, even if you don’t click the ads</source>
-        <target>Alguns anuncis fan el seguiment de les visites als llocs, fins i tot si no feu clic als anuncis</target>
-        <note>Description for 'Block ad Trackers'</note>
-      </trans-unit>
-      <trans-unit id="Settings.toggleBlockAnalytics">
-        <source>Block analytics trackers</source>
-        <target>Bloca els elements de seguiment d'anàlisi</target>
-        <note>Label for toggle on main screen</note>
-      </trans-unit>
-      <trans-unit id="Settings.toggleBlockAnalyticsDescription">
-        <source>Used to collect, analyze and measure activities like tapping and scrolling</source>
-        <target>S'utilitzen per recollir, analitzar i mesurar activitats com ara els tocs i el desplaçament</target>
-        <note>Description for 'Block analytics Trackers'</note>
+      <trans-unit id="Settings.toggleBlockAnalytics2">
+        <source>Analytics</source>
+        <note>Label for the checkbox to toggle Analytics trackers</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
-        <source>Block Web fonts</source>
-        <target>Bloca tipus de lletra web</target>
+        <source>Block web fonts</source>
         <note>Label for toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockOther">
-        <source>Block other content trackers</source>
-        <target>Bloca altres elements de seguiment de contingut</target>
-        <note>Label for toggle on main screen</note>
+      <trans-unit id="Settings.toggleBlockOther2">
+        <source>Content</source>
+        <note>Label for the checkbox to toggle Other trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockOtherDescription">
-        <source>Enabling may cause some pages to behave unexpectedly</source>
-        <target>Si s'activa, algunes pàgines podrien comportar-se de forma inesperada</target>
-        <note>Description for 'Block other content Trackers'</note>
-      </trans-unit>
-      <trans-unit id="Settings.toggleBlockSocial">
-        <source>Block social trackers</source>
-        <target>Bloca els elements de seguiment social</target>
-        <note>Label for toggle on main screen</note>
-      </trans-unit>
-      <trans-unit id="Settings.toggleBlockSocialDescription">
-        <source>Embedded on sites to track your visits and to display functionality like share buttons</source>
-        <target>Està incrustat en els llocs per fer el seguiment de les vostres visites i per mostrar alguns elements com els botons de compartició</target>
-        <note>Description for 'Block social Trackers'</note>
+      <trans-unit id="Settings.toggleBlockSocial2">
+        <source>Social</source>
+        <note>Label for the checkbox to toggle Social trackers</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceID">
         <source>Use Face ID to unlock app</source>
@@ -753,6 +735,14 @@
         <source>Touch ID can unlock %@ if a URL is already open in the app</source>
         <target>El Touch ID pot desblocar el %@ si ja hi ha un URL obert en l'aplicació</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
+      </trans-unit>
+      <trans-unit id="Settings.trackingProtectionOff">
+        <source>Off</source>
+        <note>Status off for tracking protection in settings screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.trackingProtectionOn">
+        <source>On</source>
+        <note>Status on for tracking protection in settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
         <source>What’s New</source>
@@ -1018,25 +1008,43 @@
         <target>Més informació</target>
         <note>Text for the button to learn more about Tracking Protection.</note>
       </trans-unit>
+      <trans-unit id="trackingProtection.moreSettings">
+        <source>More Settings</source>
+        <note>Text for the button that closes the Shield Data and opens the regular Settings screen.</note>
+      </trans-unit>
       <trans-unit id="trackingProtection.socialTrackerLabel">
         <source>Social trackers</source>
         <target>Elements de seguiment social</target>
         <note>label for social trackers.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.statusOff">
+        <source>Protections are OFF for this session</source>
+        <note>Text for the status off from Tracking Protection.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.statusOn">
+        <source>Protections are ON for this session</source>
+        <note>Text for the status on from Tracking Protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription1">
         <source>Disable until you close %@ or tap ERASE.</source>
         <target>Desactiva fins que tanqui el %@ o toqui ESBORRA.</target>
         <note>Description for the tracking protection toggle. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.toggleLabel">
-        <source>Tracking Protection</source>
-        <target>Protecció contra el seguiment</target>
-        <note>Text for the toggle that temporarily disables tracking protection.</note>
+      <trans-unit id="trackingProtection.toggleLabel2">
+        <source>Enhanced Tracking Protection</source>
+        <note>Text for the toggle that enableds/disables tracking protection.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.trackerDescriptionLabel">
-        <source>Choose whether %@ blocks ad, analytic, social, and other trackers.</source>
-        <target>Trieu si el %@ ha de blocar, entre d'altres, els elements de seguiment de publicitat, d'anàlisi i social.</target>
+      <trans-unit id="trackingProtection.trackerDescriptionLabel2">
+        <source>Keep your data to yourself. %@ protects you from many of the most common trackers that follow what you do online.</source>
         <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.trackersBlockedLabel">
+        <source>Trackers blocked since </source>
+        <note>Text for tracking protection screen showing the number of trackers blocked since the app install</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.trackersHeader">
+        <source>Trackers and scripts to block</source>
+        <note>Text for the header of trackers section from Tracking Protection.</note>
       </trans-unit>
     </body>
   </file>
