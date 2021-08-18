@@ -1,39 +1,49 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Blockzilla/en.lproj/InfoPlist.strings" source-language="en" target-language="hu" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
-      <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
+      <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
         <target>Ez lehetővé teszi, hogy fényképeket készítsen és töltsön fel.</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
+      <trans-unit id="NSFaceIDUsageDescription">
         <source>This lets you unlock the app.</source>
         <target>Ezzel kinyithatja az alkalmazást.</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
+      <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
         <target>A meglátogatott webhelyek kérhetik az Ön helyét.</target>
         <note>Privacy - Location When In Use Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
+      <trans-unit id="NSMicrophoneUsageDescription">
         <source>This lets you take and upload videos.</source>
         <target>Ez lehetővé teszi, hogy videókat készítsen és töltsön fel.</target>
         <note>Privacy - Microphone Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
+      <trans-unit id="NSPhotoLibraryAddUsageDescription">
         <source>This lets you save and upload photos.</source>
         <target>Ez lehetővé teszi, hogy fényképeket mentsen és töltsön fel.</target>
         <note>Privacy - Photo Library Additions Usage Description</note>
       </trans-unit>
-      <trans-unit id="UIApplicationShortcutItemTitle.EraseAndOpen" xml:space="preserve">
+      <trans-unit id="UIApplicationShortcutItemTitle.EraseAndOpen">
         <source>Erase and Open</source>
         <target>Törlés és megnyitás</target>
         <note>This is the menu item that appears when you long press the Focus icon on the phone home screen.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Blockzilla/en.lproj/Intents.strings" source-language="en" target-language="hu" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+    </header>
+    <body>
+      <trans-unit id="Intents.Erase.Title">
+        <source>Erase</source>
+        <note>Title of the Erase intent.</note>
       </trans-unit>
     </body>
   </file>
@@ -42,42 +52,42 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
-      <trans-unit id="Intro.Slides.History.Description" xml:space="preserve">
+      <trans-unit id="Intro.Slides.History.Description">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
         <target>Törölje az összes böngészési előzményét, jelszavát, és sütijét bármikor, egyetlen koppintással.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.History.Title" xml:space="preserve">
+      <trans-unit id="Intro.Slides.History.Title">
         <source>Your history is history</source>
         <target>Az előzményei történelem</target>
         <note>Title for the third  panel 'History' in the First Run tour.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Next.Button" xml:space="preserve">
+      <trans-unit id="Intro.Slides.Next.Button">
         <source>Next</source>
         <target>Tovább</target>
         <note>Button to go to the next card in Focus onboarding.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Search.Description" xml:space="preserve">
+      <trans-unit id="Intro.Slides.Search.Description">
         <source>Searching for something different? Choose a different search engine.</source>
         <target>Valami mást keres? Válasszon másik keresőmotort.</target>
         <note>Description for the 'Favorite Search Engine' panel in the First Run tour.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Search.Title" xml:space="preserve">
+      <trans-unit id="Intro.Slides.Search.Title">
         <source>Your search, your way</source>
         <target>Az Ön keresése, az Ön útja</target>
         <note>Title for the second  panel 'Search' in the First Run tour.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Skip.Button" xml:space="preserve">
+      <trans-unit id="Intro.Slides.Skip.Button">
         <source>Skip</source>
         <target>Kihagyás</target>
         <note>Button to skip onboarding in Focus</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Welcome.Description" xml:space="preserve">
+      <trans-unit id="Intro.Slides.Welcome.Description">
         <source>Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.</source>
         <target>Emelje a privát a böngészést a következő szintre. Blokkolja a hirdetéseket, és más tartalmakat, amelyek követhetik az oldalak között, és lelassíthatják a betöltési sebességet.</target>
         <note>Description for the 'Welcome' panel in the First Run tour.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Welcome.Title" xml:space="preserve">
+      <trans-unit id="Intro.Slides.Welcome.Title">
         <source>Power up your privacy</source>
         <target>Tuningolja fel az adatvédelmét</target>
         <note>Title for the first panel 'Welcome' in the First Run tour.</note>
@@ -89,969 +99,969 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
-      <trans-unit id="About.learnMoreButton" xml:space="preserve">
+      <trans-unit id="About.learnMoreButton">
         <source>Learn more</source>
         <target>Tudjon meg többet</target>
         <note>Button on About screen</note>
       </trans-unit>
-      <trans-unit id="About.missionLabel" xml:space="preserve">
+      <trans-unit id="About.missionLabel">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
         <target>A %@ böngészőt a Mozilla készíti. Küldetésünk az egészséges, nyílt internet támogatása.</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.privateBullet1" xml:space="preserve">
+      <trans-unit id="About.privateBullet1">
         <source>Search and browse right in the app</source>
         <target>Keressen és böngésszen közvetlenül az appban</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.privateBullet2" xml:space="preserve">
+      <trans-unit id="About.privateBullet2">
         <source>Block trackers (or update settings to allow trackers)</source>
         <target>Blokkolja a követőket (vagy módosítsa a beállításokat az engedélyezéshez)</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.privateBullet3" xml:space="preserve">
+      <trans-unit id="About.privateBullet3">
         <source>Erase to delete cookies as well as search and browsing history</source>
         <target>Törölje a sütiket is a keresési és böngészési előzményekkel</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.privateBulletHeader" xml:space="preserve">
+      <trans-unit id="About.privateBulletHeader">
         <source>Use it as a private browser:</source>
         <target>Használja privát böngészőként:</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.rowHelp" xml:space="preserve">
+      <trans-unit id="About.rowHelp">
         <source>Help</source>
         <target>Súgó</target>
         <note>Label for row in About screen</note>
       </trans-unit>
-      <trans-unit id="About.rowPrivacy" xml:space="preserve">
+      <trans-unit id="About.rowPrivacy">
         <source>Privacy Notice</source>
         <target>Adatvédelmi nyilatkozat</target>
         <note>Link to Privacy Notice in the About screen</note>
       </trans-unit>
-      <trans-unit id="About.rowRights" xml:space="preserve">
+      <trans-unit id="About.rowRights">
         <source>Your Rights</source>
         <target>Az Ön jogai</target>
         <note>Label for row in About screen</note>
       </trans-unit>
-      <trans-unit id="About.safariBullet1" xml:space="preserve">
+      <trans-unit id="About.safariBullet1">
         <source>Block trackers for improved privacy</source>
         <target>Blokkolja a követőket a nagyobb magánszféra érdekében</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.safariBullet2" xml:space="preserve">
-        <source>Block Web fonts to reduce page size</source>
+      <trans-unit id="About.safariBullet2">
+        <source>Block web fonts to reduce page size</source>
         <target>Blokkolja a webes betűkészleteket az oldalméret csökkentése érdekében</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.safariBulletHeader" xml:space="preserve">
+      <trans-unit id="About.safariBulletHeader">
         <source>Use it as a Safari extension:</source>
         <target>Használja Safari bővítményként:</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.title" xml:space="preserve">
+      <trans-unit id="About.title">
         <source>About %@</source>
         <target>A %@ névjegye</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, takes the user to a page with information about the product. Also displayed as a header for the About page.</note>
       </trans-unit>
-      <trans-unit id="About.topLabel" xml:space="preserve">
+      <trans-unit id="About.topLabel">
         <source>%@ puts you in control.</source>
         <target>A %@ visszaadja a kezébe az irányítást.</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="AddPass.Error.Dismiss" xml:space="preserve">
+      <trans-unit id="AddPass.Error.Dismiss">
         <source>Ok</source>
         <target>Rendben</target>
         <note>Button to dismiss the 'Add Pass Failed' alert.</note>
       </trans-unit>
-      <trans-unit id="AddPass.Error.Message" xml:space="preserve">
+      <trans-unit id="AddPass.Error.Message">
         <source>An error occured while adding the pass to Wallet. Please try again later.</source>
         <target>Hiba történt a jegy Wallethez adása során. Próbálja újra később.</target>
         <note>Message of the 'Add Pass Failed' alert.</note>
       </trans-unit>
-      <trans-unit id="AddPass.Error.Title" xml:space="preserve">
+      <trans-unit id="AddPass.Error.Title">
         <source>Failed to Add Pass</source>
         <target>A jegy hozzáadása sikertelen</target>
         <note>Title of the 'Add Pass Failed' alert.</note>
       </trans-unit>
-      <trans-unit id="Authentication.reason" xml:space="preserve">
+      <trans-unit id="Authentication.reason">
         <source>Authenticate to return to %@</source>
         <target>Hitelesítsen a %@hoz visszatéréshez</target>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID, Face ID, or passcode to continue browsing after returning to the app.</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.addCustomUrl" xml:space="preserve">
+      <trans-unit id="Autocomplete.addCustomUrl">
         <source>Add Custom URL</source>
         <target>Egyéni URL hozzáadása</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.addCustomUrlError" xml:space="preserve">
+      <trans-unit id="Autocomplete.addCustomUrlError">
         <source>Double-check the URL you entered.</source>
         <target>Ellenőrizze a megadott URL-t.</target>
         <note>Label for error state when entering an invalid URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.addCustomUrlExample" xml:space="preserve">
+      <trans-unit id="Autocomplete.addCustomUrlExample">
         <source>Example: example.com</source>
         <target>Példa: example.com</target>
         <note>A label displaying an example URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.addCustomUrlLabel" xml:space="preserve">
+      <trans-unit id="Autocomplete.addCustomUrlLabel">
         <source>URL to add</source>
         <target>Hozzáadandó URL</target>
         <note>Label for the input to add a custom URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.addCustomUrlPlaceholder" xml:space="preserve">
+      <trans-unit id="Autocomplete.addCustomUrlPlaceholder">
         <source>Paste or enter URL</source>
         <target>Illessze be, vagy adja meg az URL-t</target>
         <note>Placeholder for the input field to add a custom URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.addCustomUrlWithPlus" xml:space="preserve">
+      <trans-unit id="Autocomplete.addCustomUrlWithPlus">
         <source>+ Add Custom URL</source>
         <target>+ Egyéni URL hozzáadása</target>
         <note>Label for button to add a custom URL with the + prefix</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.customDescriptoin" xml:space="preserve">
+      <trans-unit id="Autocomplete.customDescriptoin">
         <source>Add and manage custom autocomplete URLs.</source>
         <target>Automatikusan kiegészített URL-ek hozzáadása és kezelése.</target>
         <note>Description for adding and managing custom autocomplete URLs</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.customLabel" xml:space="preserve">
+      <trans-unit id="Autocomplete.customLabel">
         <source>Custom URLs</source>
         <target>Egyéni URL-ek</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.customTitle" xml:space="preserve">
+      <trans-unit id="Autocomplete.customTitle">
         <source>CUSTOM URL LIST</source>
         <target>EGYÉNI URL-EK LISTÁJA</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.customUrlAdded" xml:space="preserve">
+      <trans-unit id="Autocomplete.customUrlAdded">
         <source>New Custom URL added.</source>
         <target>Új egyéni URL hozzáadva.</target>
         <note>Label for toast alerting a custom URL has been added</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.defaultDescriptoin" xml:space="preserve">
+      <trans-unit id="Autocomplete.defaultDescriptoin">
         <source>Enable to have %@ autocomplete over 450 popular URLs in the address bar.</source>
         <target>Engedélyezés, hogy a %@ 450 népszerű URL-t automatikusan kiegészítsen a címsávban.</target>
         <note>Description for enabling or disabling the default list. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.defaultLabel" xml:space="preserve">
+      <trans-unit id="Autocomplete.defaultLabel">
         <source>Autocomplete</source>
         <target>Automatikus kiegészítés</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.defaultTitle" xml:space="preserve">
+      <trans-unit id="Autocomplete.defaultTitle">
         <source>DEFAULT URL LIST</source>
         <target>ALAPÉRTELMEZETT URL LISTA</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.disabled" xml:space="preserve">
+      <trans-unit id="Autocomplete.disabled">
         <source>Disabled</source>
         <target>Letiltva</target>
         <note>label describing URL Autocomplete as disabled</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.duplicateUrl" xml:space="preserve">
+      <trans-unit id="Autocomplete.duplicateUrl">
         <source>URL already exists</source>
         <target>Az URL már létezik</target>
         <note>Label for toast alerting that the custom URL being added is a duplicate</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.emptyState" xml:space="preserve">
+      <trans-unit id="Autocomplete.emptyState">
         <source>No Custom URLs to display</source>
         <target>Nincs megjelenítendő egyéni URL</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.enabled" xml:space="preserve">
+      <trans-unit id="Autocomplete.enabled">
         <source>Enabled</source>
         <target>Engedélyezve</target>
         <note>label describing URL Autocomplete as enabled</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.manageSites" xml:space="preserve">
+      <trans-unit id="Autocomplete.manageSites">
         <source>Manage Sites</source>
         <target>Oldalak kezelése</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.mySites" xml:space="preserve">
+      <trans-unit id="Autocomplete.mySites">
         <source>My Sites</source>
         <target>Saját webhelyek</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.mySitesDesc" xml:space="preserve">
+      <trans-unit id="Autocomplete.mySitesDesc">
         <source>Enable to have %@ autocomplete your favorite URLs.</source>
         <target>Engedélyezed, hogy a %@ kiegészítse a kedvenc URL-eit.</target>
         <note>Description for adding and managing custom autocomplete URLs. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.topSites" xml:space="preserve">
+      <trans-unit id="Autocomplete.topSites">
         <source>Top Sites</source>
         <target>Népszerű oldalak</target>
         <note>Label for enabling or disabling top sites</note>
       </trans-unit>
-      <trans-unit id="BiometricPrompt.newSession" xml:space="preserve">
+      <trans-unit id="BiometricPrompt.newSession">
         <source>New Session</source>
         <target>Új munkamenetet</target>
         <note>Create a new session after failing a biometric check</note>
       </trans-unit>
-      <trans-unit id="BiometricPrompt.reason" xml:space="preserve">
+      <trans-unit id="BiometricPrompt.reason">
         <source>Unlock %@ when re-opening in order to prevent unauthorized access.</source>
         <target>A %@ feloldása, az alkalmazás újranyitásakor, hogy megakadályozza az illetéktelen hozzáférést.</target>
         <note>%@ is app name. Explanation for why the app needs access to biometric information. Prompt is only shown once when the user first tries to enable Face ID to open the app.</note>
       </trans-unit>
-      <trans-unit id="Browser.backLabel" xml:space="preserve">
+      <trans-unit id="Browser.backLabel">
         <source>Back</source>
         <target>Vissza</target>
         <note>Accessibility label for the back button</note>
       </trans-unit>
-      <trans-unit id="Browser.copyAddressLabel" xml:space="preserve">
+      <trans-unit id="Browser.copyAddressLabel">
         <source>Copy Address</source>
         <target>Cím másolása</target>
         <note>Copy URL button in URL long press menu</note>
       </trans-unit>
-      <trans-unit id="Browser.copyMenuLabel" xml:space="preserve">
+      <trans-unit id="Browser.copyMenuLabel">
         <source>Copy</source>
         <target>Másolás</target>
         <note>Copy URL button in URL long press menu</note>
       </trans-unit>
-      <trans-unit id="Browser.customURLMenuLabel" xml:space="preserve">
+      <trans-unit id="Browser.customURLMenuLabel">
         <source>Add Custom URL</source>
         <target>Egyéni URL hozzáadása</target>
         <note>Custom URL button in URL long press menu</note>
       </trans-unit>
-      <trans-unit id="Browser.forwardLabel" xml:space="preserve">
+      <trans-unit id="Browser.forwardLabel">
         <source>Forward</source>
         <target>Előre</target>
         <note>Accessibility label for the forward button</note>
       </trans-unit>
-      <trans-unit id="Browser.reloadLabel" xml:space="preserve">
+      <trans-unit id="Browser.reloadLabel">
         <source>Reload</source>
         <target>Újratöltés</target>
         <note>Accessibility label for the reload button</note>
       </trans-unit>
-      <trans-unit id="Browser.settingsLabel" xml:space="preserve">
+      <trans-unit id="Browser.settingsLabel">
         <source>Settings</source>
         <target>Beállítások</target>
         <note>Accessibility label for the settings button</note>
       </trans-unit>
-      <trans-unit id="Browser.shareLabel" xml:space="preserve">
+      <trans-unit id="Browser.shareLabel">
         <source>Share</source>
         <target>Megosztás</target>
         <note>Accessibility label for the share button</note>
       </trans-unit>
-      <trans-unit id="Browser.stopLabel" xml:space="preserve">
+      <trans-unit id="Browser.stopLabel">
         <source>Stop</source>
         <target>Leállítás</target>
         <note>Accessibility label for the stop button</note>
       </trans-unit>
-      <trans-unit id="Cancel" xml:space="preserve">
+      <trans-unit id="Cancel">
         <source>Cancel</source>
         <target>Mégse</target>
         <note>Label on button to cancel edits</note>
       </trans-unit>
-      <trans-unit id="Done" xml:space="preserve">
+      <trans-unit id="Done">
         <source>Done</source>
         <target>Kész</target>
         <note>Label on button to complete edits</note>
       </trans-unit>
-      <trans-unit id="Edit" xml:space="preserve">
+      <trans-unit id="Edit">
         <source>Edit</source>
         <target>Szerkesztés</target>
         <note>Label on button to allow edits</note>
       </trans-unit>
-      <trans-unit id="Error.tryAgainButton" xml:space="preserve">
+      <trans-unit id="Error.tryAgainButton">
         <source>Try again</source>
         <target>Próbálja újra</target>
         <note>Button label to reload the error page</note>
       </trans-unit>
-      <trans-unit id="ExternalAppLink.cancelTitle" xml:space="preserve">
+      <trans-unit id="ExternalAppLink.cancelTitle">
         <source>Cancel</source>
         <target>Mégse</target>
         <note>Button label used for cancelling to open another app from Focus</note>
       </trans-unit>
-      <trans-unit id="ExternalAppLink.messageTitle" xml:space="preserve">
+      <trans-unit id="ExternalAppLink.messageTitle">
         <source>%@ wants to open another App</source>
         <target>A %@ egy másik appot akar megnyitni</target>
         <note>Dialog title used for opening an external app from Focus. The placeholder string is the app name of either Focus or Klar.</note>
       </trans-unit>
-      <trans-unit id="ExternalAppLink.openTitle" xml:space="preserve">
+      <trans-unit id="ExternalAppLink.openTitle">
         <source>Open</source>
         <target>Megnyitás</target>
         <note>Button label for opening another app from Focus</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.callButton" xml:space="preserve">
+      <trans-unit id="ExternalLink.callButton">
         <source>Call</source>
         <target>Hívás</target>
         <note>Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.cancelButton" xml:space="preserve">
+      <trans-unit id="ExternalLink.cancelButton">
         <source>Cancel</source>
         <target>Mégse</target>
         <note>Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.emailButton" xml:space="preserve">
+      <trans-unit id="ExternalLink.emailButton">
         <source>Email</source>
         <target>E-mail</target>
         <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.messageTitleWithPlaceholder" xml:space="preserve">
+      <trans-unit id="ExternalLink.messageTitleWithPlaceholder">
         <source>You are now leaving %@.</source>
         <target>Most elhagyja a %@t.</target>
         <note>Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.openAppStoreButton" xml:space="preserve">
+      <trans-unit id="ExternalLink.openAppStoreButton">
         <source>Open App Store</source>
         <target>App Store megnyitása</target>
         <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.openAppStoreTitle" xml:space="preserve">
+      <trans-unit id="ExternalLink.openAppStoreTitle">
         <source>%@ wants to open the App Store.</source>
         <target>A %@ meg akarja nyitni az App Storet.</target>
         <note>Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.openMapsButton" xml:space="preserve">
+      <trans-unit id="ExternalLink.openMapsButton">
         <source>Open Maps</source>
         <target>Térképek megnyitása</target>
         <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="FindInPage.Done" xml:space="preserve">
+      <trans-unit id="FindInPage.Done">
         <source>Find in page done</source>
         <target>A keresés véget ért az oldalon</target>
         <note>Accessibility label for done button in Find in Page Toolbar.</note>
       </trans-unit>
-      <trans-unit id="FindInPage.NextResult" xml:space="preserve">
+      <trans-unit id="FindInPage.NextResult">
         <source>Find next in page</source>
         <target>Következő keresése az oldalon</target>
         <note>Accessibility label for next result button in Find in Page Toolbar.</note>
       </trans-unit>
-      <trans-unit id="FindInPage.PreviousResult" xml:space="preserve">
+      <trans-unit id="FindInPage.PreviousResult">
         <source>Find previous in page</source>
         <target>Előző keresése az oldalon</target>
         <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
       </trans-unit>
-      <trans-unit id="FirstRun.lastSlide.buttonLabel" xml:space="preserve">
+      <trans-unit id="FirstRun.lastSlide.buttonLabel">
         <source>OK, Got It!</source>
         <target>Rendben, értem</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
-      <trans-unit id="FirstRun.messageLabelDescription" xml:space="preserve">
+      <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
         <target>Automatikusan blokkolja az online követőket böngészés közben. Aztán érintse meg a gombot a meglátogatott oldalak, keresések, sütik és jelszavak törléséhez az eszközéről.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
-      <trans-unit id="FirstRun.messageLabelTagline" xml:space="preserve">
+      <trans-unit id="FirstRun.messageLabelTagline">
         <source>Browse like no one’s watching.</source>
         <target>Böngésszen úgy, mintha senki sem figyelné.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
-      <trans-unit id="Focus.handoffSyncing" xml:space="preserve">
+      <trans-unit id="Focus.handoffSyncing">
         <source>Apple Handoff is syncing</source>
         <target>Az Apple Handoff szinkronizál</target>
         <note>Title for the loading screen when the handoff of clipboard delays Focus launch. “Handoff” should not be localized, see https://support.apple.com/HT204681</note>
       </trans-unit>
-      <trans-unit id="Home.descriptionLabel1" xml:space="preserve">
+      <trans-unit id="Home.descriptionLabel1">
         <source>Automatic private browsing.</source>
         <target>Automatikus privát böngészés.</target>
         <note>First label for product description on the home screen</note>
       </trans-unit>
-      <trans-unit id="Home.descriptionLabel2" xml:space="preserve">
+      <trans-unit id="Home.descriptionLabel2">
         <source>Browse. Erase. Repeat.</source>
         <target>Böngészés. Törlés. Ismétlés.</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
-      <trans-unit id="Menu.Close" xml:space="preserve">
+      <trans-unit id="Menu.Close">
         <source>Close</source>
         <target>Bezárás</target>
         <note>Button label used to close a menu that displays as a popup.</note>
       </trans-unit>
-      <trans-unit id="Open.Cancel" xml:space="preserve">
+      <trans-unit id="Open.Cancel">
         <source>Cancel</source>
         <target>Mégse</target>
         <note>Label in share alert to cancel the alert</note>
       </trans-unit>
-      <trans-unit id="Open.Firefox" xml:space="preserve">
+      <trans-unit id="Open.Firefox">
         <source>Firefox (Private Browsing)</source>
         <target>Firefox (Privát böngészés)</target>
         <note>Label in share alert to open the URL in Firefox</note>
       </trans-unit>
-      <trans-unit id="Open.More" xml:space="preserve">
+      <trans-unit id="Open.More">
         <source>More</source>
         <target>Több</target>
         <note>Label in share alert to open the full system share menu</note>
       </trans-unit>
-      <trans-unit id="Open.Safari" xml:space="preserve">
+      <trans-unit id="Open.Safari">
         <source>Safari</source>
         <target>Safari</target>
         <note>Label in share alert to open the URL in Safari</note>
       </trans-unit>
-      <trans-unit id="Request Desktop Site" xml:space="preserve">
+      <trans-unit id="Request Desktop Site">
         <source>Request Desktop Site</source>
         <target>Asztali oldal kérése</target>
         <note>Label for button that requests the desktop version of the currently loaded website.</note>
       </trans-unit>
-      <trans-unit id="Safari.instructionsContentBlockers" xml:space="preserve">
+      <trans-unit id="Safari.instructionsContentBlockers">
         <source>Tap Safari, then select Content Blockers</source>
         <target>Érintse meg a Safarit, majd válassza a Tartalomblokkolókat</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
-      <trans-unit id="Safari.instructionsEnable" xml:space="preserve">
+      <trans-unit id="Safari.instructionsEnable">
         <source>Enable %@</source>
         <target>%@ engedélyezése</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
-      <trans-unit id="Safari.instructionsNotEnabled" xml:space="preserve">
+      <trans-unit id="Safari.instructionsNotEnabled">
         <source>%@ is not enabled.</source>
         <target>A %@ nincs engedélyezve.</target>
         <note>Error label when the blocker is not enabled, shown in the intro and main app when disabled</note>
       </trans-unit>
-      <trans-unit id="Safari.instructionsOpen" xml:space="preserve">
+      <trans-unit id="Safari.instructionsOpen">
         <source>Open Settings App</source>
         <target>Beállítások app megnyitása</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
-      <trans-unit id="Save" xml:space="preserve">
+      <trans-unit id="Save">
         <source>Save</source>
         <target>Mentés</target>
         <note>Save button label</note>
       </trans-unit>
-      <trans-unit id="SearchEngine.addEngineError" xml:space="preserve">
+      <trans-unit id="SearchEngine.addEngineError">
         <source>That didn't work. Try replacing the search term with this: %s.</source>
         <target>Ez nem működött. Próbálja lecserélni a keresési kifejezést erre: %s.</target>
         <note>Label for error state when entering an invalid search engine URL. %s is a search term in a URL.</note>
       </trans-unit>
-      <trans-unit id="SearchSuggestions.promptDisable" xml:space="preserve">
+      <trans-unit id="SearchSuggestions.promptDisable">
         <source>No</source>
         <target>Nem</target>
         <note>Label for disable option on search suggestions prompt</note>
       </trans-unit>
-      <trans-unit id="SearchSuggestions.promptEnable" xml:space="preserve">
+      <trans-unit id="SearchSuggestions.promptEnable">
         <source>Yes</source>
         <target>Igen</target>
         <note>Label for enable option on search suggestions prompt</note>
       </trans-unit>
-      <trans-unit id="SearchSuggestions.promptMessage" xml:space="preserve">
+      <trans-unit id="SearchSuggestions.promptMessage">
         <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
         <target>A javaslatok kéréséhez a %@nak el kell küldenie a címsorba írt üzenetet a keresőszolgáltatásnak.</target>
         <note>%@ is the name of the app (Focus / Klar). Label for search suggestions prompt message</note>
       </trans-unit>
-      <trans-unit id="SearchSuggestions.promptTitle" xml:space="preserve">
+      <trans-unit id="SearchSuggestions.promptTitle">
         <source>Show Search Suggestions?</source>
         <target>Jelenítsen-e meg keresési javaslatokat?</target>
         <note>Title for search suggestions prompt</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.AddSearchEngineButton" xml:space="preserve">
+      <trans-unit id="Settings.Search.AddSearchEngineButton">
         <source>Add Another Search Engine</source>
         <target>További keresőszolgáltatás felvétele</target>
         <note>Text for button to add another search engine in settings</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.AddSearchEngineButtonWithPlus" xml:space="preserve">
+      <trans-unit id="Settings.Search.AddSearchEngineButtonWithPlus">
         <source>+ Add Another Search Engine</source>
         <target>+ További keresőszolgáltatás felvétele</target>
         <note>Text for button to add another search engine in settings with the + prefix</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.AddSearchEngineTitle" xml:space="preserve">
+      <trans-unit id="Settings.Search.AddSearchEngineTitle">
         <source>Add Search Engine</source>
         <target>Keresőszolgáltatás hozzáadása</target>
         <note>Title on add search engine settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.InstalledSearchEngines" xml:space="preserve">
+      <trans-unit id="Settings.Search.InstalledSearchEngines">
         <source>INSTALLED SEARCH ENGINES</source>
         <target>TELEPÍTETT KERESŐSZOLGÁLTATÁSOK</target>
         <note>Header for rows of installed search engines</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.NameToDisplay" xml:space="preserve">
+      <trans-unit id="Settings.Search.NameToDisplay">
         <source>Name to display</source>
         <target>Megjelenítendő név</target>
         <note>Label for input field for the name of the search engine to be added</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.NewSearchEngineAdded" xml:space="preserve">
+      <trans-unit id="Settings.Search.NewSearchEngineAdded">
         <source>New Search Engine Added.</source>
         <target>Új keresőszolgáltatás hozzáadása.</target>
         <note>Toast displayed after adding a search engine</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.RestoreEngine" xml:space="preserve">
+      <trans-unit id="Settings.Search.RestoreEngine">
         <source>Restore Default Search Engines</source>
         <target>Alapértelmezett keresőszolgáltatások visszaállítása</target>
         <note>Label for button to bring deleted default engines back</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.SearchEngineName" xml:space="preserve">
+      <trans-unit id="Settings.Search.SearchEngineName">
         <source>Search engine name</source>
         <target>Keresőszolgáltatás neve</target>
         <note>Placeholder text for input of new search engine name</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.SearchTemplate" xml:space="preserve">
+      <trans-unit id="Settings.Search.SearchTemplate">
         <source>Search string to use</source>
         <target>Használandó keresőkifejezés</target>
         <note>Label for input of search engine template</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.SearchTemplatePlaceholder" xml:space="preserve">
+      <trans-unit id="Settings.Search.SearchTemplatePlaceholder">
         <source>Paste or enter search string. If necessary, replace search term with: %s.</source>
         <target>Másoljon vagy írjon be keresőkifejezést. Ha szükséges, helyettesítse a keresőkifejezést ezzel: %s.</target>
         <note>Placeholder text for input of new search engine template</note>
       </trans-unit>
-      <trans-unit id="Settings.autocompleteSection" xml:space="preserve">
+      <trans-unit id="Settings.autocompleteSection">
         <source>URL Autocomplete</source>
         <target>Automatikus URL kiegészítés</target>
         <note>Title for the URL Autocomplete row</note>
       </trans-unit>
-      <trans-unit id="Settings.blockOtherMessage" xml:space="preserve">
-        <source>Blocking other content trackers may break some videos and Web pages.</source>
+      <trans-unit id="Settings.blockOtherMessage">
+        <source>Blocking other content trackers may break some videos and web pages.</source>
         <target>A többi tartalomkövető blokkolása eltörhet bizonyos videókat és weblapokat.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
-      <trans-unit id="Settings.blockOtherNo" xml:space="preserve">
-        <source>No, Thanks</source>
-        <target>Nem, köszönöm</target>
+      <trans-unit id="Settings.blockOtherNo2">
+        <source>Cancel</source>
         <note>Button label for declining Content blocker alert</note>
       </trans-unit>
-      <trans-unit id="Settings.blockOtherYes" xml:space="preserve">
-        <source>I Understand</source>
-        <target>Értem</target>
+      <trans-unit id="Settings.blockOtherYes2">
+        <source>Block Content Trackers</source>
         <note>Button label for accepting Content blocker alert</note>
       </trans-unit>
-      <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
+      <trans-unit id="Settings.detailTextSearchSuggestion">
         <source>%@ will send what you type in the address bar to your search engine.</source>
         <target>A %@ elküldi a címsávba írt szöveget a keresőszolgáltatásának.</target>
         <note>Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
-      <trans-unit id="Settings.detailTextSendUsageData" xml:space="preserve">
+      <trans-unit id="Settings.detailTextSendUsageData">
         <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
         <target>A Mozilla arra törekszik, hogy csak azt gyűjtse, ami a %@ fejlesztéséhez és támogatásához szükséges.</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
-      <trans-unit id="Settings.learnMore" xml:space="preserve">
+      <trans-unit id="Settings.learnMore">
         <source>Learn more.</source>
         <target>Tudjon meg többet.</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.rate" xml:space="preserve">
+      <trans-unit id="Settings.rate">
         <source>Rate %@</source>
         <target>A %@ értékelése</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, allows the user to leave a review for the app on the app store.</note>
       </trans-unit>
-      <trans-unit id="Settings.safariTitle" xml:space="preserve">
+      <trans-unit id="Settings.safariTitle">
         <source>SAFARI INTEGRATION</source>
         <target>SAFARI INTEGRÁCIÓ</target>
         <note>Label for Safari integration section</note>
       </trans-unit>
-      <trans-unit id="Settings.screenTitle" xml:space="preserve">
+      <trans-unit id="Settings.screenTitle">
         <source>Settings</source>
         <target>Beállítások</target>
         <note>Title for settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.searchLabel" xml:space="preserve">
+      <trans-unit id="Settings.searchLabel">
         <source>Search Engine</source>
         <target>Keresőszolgáltatás</target>
         <note>Label for the search engine in the search screen</note>
       </trans-unit>
-      <trans-unit id="Settings.searchSuggestions" xml:space="preserve">
+      <trans-unit id="Settings.searchSuggestions">
         <source>Get Search Suggestions</source>
         <target>Keresési javaslatok kérése</target>
         <note>Label for the Search Suggestions toggle row</note>
       </trans-unit>
-      <trans-unit id="Settings.searchTitle2" xml:space="preserve">
+      <trans-unit id="Settings.searchTitle2">
         <source>SEARCH</source>
         <target>KERESÉS</target>
         <note>Title for the search selection screen</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionIntegration" xml:space="preserve">
+      <trans-unit id="Settings.sectionIntegration">
         <source>INTEGRATION</source>
         <target>INTEGRÁCIÓ</target>
         <note>Label for Safari integration section</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionMozilla" xml:space="preserve">
+      <trans-unit id="Settings.sectionMozilla">
         <source>MOZILLA</source>
         <target>MOZILLA</target>
         <note>Section label for Mozilla toggles</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionPerformance" xml:space="preserve">
+      <trans-unit id="Settings.sectionPerformance">
         <source>PERFORMANCE</source>
         <target>TELJESÍTMÉNY</target>
         <note>Section label for performance toggles</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionPrivacy" xml:space="preserve">
+      <trans-unit id="Settings.sectionPrivacy">
         <source>PRIVACY</source>
         <target>ADATVÉDELEM</target>
         <note>Section label for privacy toggles</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionSecurity" xml:space="preserve">
+      <trans-unit id="Settings.sectionSecurity">
         <source>SECURITY</source>
         <target>BIZTONSÁG</target>
         <note>Header label for security toggles displayed in the settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockAds" xml:space="preserve">
-        <source>Block ad trackers</source>
-        <target>Reklámkövetők blokkolása</target>
-        <note>Label for toggle on main screen</note>
+      <trans-unit id="Settings.toggleBlockAds2">
+        <source>Advertising</source>
+        <note>Label for the checkbox to toggle Advertising trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockAdsDescription" xml:space="preserve">
-        <source>Some ads track site visits, even if you don’t click the ads</source>
-        <target>Néhány hirdetés követi az oldallátogatásokat, még akkor is, ha nem kattint a hirdetésekre</target>
-        <note>Description for 'Block ad Trackers'</note>
+      <trans-unit id="Settings.toggleBlockAnalytics2">
+        <source>Analytics</source>
+        <note>Label for the checkbox to toggle Analytics trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockAnalytics" xml:space="preserve">
-        <source>Block analytics trackers</source>
-        <target>Analitikai követők blokkolása</target>
-        <note>Label for toggle on main screen</note>
-      </trans-unit>
-      <trans-unit id="Settings.toggleBlockAnalyticsDescription" xml:space="preserve">
-        <source>Used to collect, analyze and measure activities like tapping and scrolling</source>
-        <target>Arra használatosak, hogy begyűjtsék, elemezzék és mérjék az olyan tevékenységeket, mint az érintés vagy a görgetés</target>
-        <note>Description for 'Block analytics Trackers'</note>
-      </trans-unit>
-      <trans-unit id="Settings.toggleBlockFonts" xml:space="preserve">
-        <source>Block Web fonts</source>
+      <trans-unit id="Settings.toggleBlockFonts">
+        <source>Block web fonts</source>
         <target>Webes betűkészletek blokkolása</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockOther" xml:space="preserve">
-        <source>Block other content trackers</source>
-        <target>Más tartalomkövetők blokkolása</target>
-        <note>Label for toggle on main screen</note>
+      <trans-unit id="Settings.toggleBlockOther2">
+        <source>Content</source>
+        <note>Label for the checkbox to toggle Other trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockOtherDescription" xml:space="preserve">
-        <source>Enabling may cause some pages to behave unexpectedly</source>
-        <target>Az engedélyezés néhány oldalon váratlan működést okozhat</target>
-        <note>Description for 'Block other content Trackers'</note>
+      <trans-unit id="Settings.toggleBlockSocial2">
+        <source>Social</source>
+        <note>Label for the checkbox to toggle Social trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockSocial" xml:space="preserve">
-        <source>Block social trackers</source>
-        <target>Közösségi oldalak követőinek blokkolása</target>
-        <note>Label for toggle on main screen</note>
-      </trans-unit>
-      <trans-unit id="Settings.toggleBlockSocialDescription" xml:space="preserve">
-        <source>Embedded on sites to track your visits and to display functionality like share buttons</source>
-        <target>Az oldalakba vannak ágyazva, hogy kövessék a látogatásait, és megosztás gombokat jelenítsenek meg</target>
-        <note>Description for 'Block social Trackers'</note>
-      </trans-unit>
-      <trans-unit id="Settings.toggleFaceID" xml:space="preserve">
+      <trans-unit id="Settings.toggleFaceID">
         <source>Use Face ID to unlock app</source>
         <target>Face ID használata az alkalmazás kinyitásához</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleFaceIDDescription" xml:space="preserve">
+      <trans-unit id="Settings.toggleFaceIDDescription">
         <source>Face ID can unlock %@ if a URL is already open in the app</source>
         <target>A Face ID feloldhatja a %@t, ha az URL már meg van nyitva az alkalmazásban</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleHomeScreenTips" xml:space="preserve">
+      <trans-unit id="Settings.toggleHomeScreenTips">
         <source>Show home screen tips</source>
         <target>Tippek megjelenítése a kezdőképernyőn</target>
         <note>Show home screen tips toggle label on settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleOtherSubtitle" xml:space="preserve">
+      <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
         <target>Néhány videó és weblap eltörhet</target>
         <note>Label subtitle for toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleSafari" xml:space="preserve">
+      <trans-unit id="Settings.toggleSafari">
         <source>Safari</source>
         <target>Safari</target>
         <note>Safari toggle label on settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleSendUsageData" xml:space="preserve">
+      <trans-unit id="Settings.toggleSendUsageData">
         <source>Send usage data</source>
         <target>Használati adatok elküldése</target>
         <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleTouchID" xml:space="preserve">
+      <trans-unit id="Settings.toggleTouchID">
         <source>Use Touch ID to unlock app</source>
         <target>Touch ID használata az alkalmazás kinyitásához</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleTouchIDDescription" xml:space="preserve">
+      <trans-unit id="Settings.toggleTouchIDDescription">
         <source>Touch ID can unlock %@ if a URL is already open in the app</source>
         <target>A Touch ID feloldhatja a %@t, ha az URL már meg van nyitva az alkalmazásban</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
-      <trans-unit id="Settings.whatsNewTitle" xml:space="preserve">
+      <trans-unit id="Settings.trackingProtectionOff">
+        <source>Off</source>
+        <note>Status off for tracking protection in settings screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.trackingProtectionOn">
+        <source>On</source>
+        <note>Status on for tracking protection in settings screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.whatsNewTitle">
         <source>What’s New</source>
         <target>Újdonságok</target>
         <note>Title for What's new screen</note>
       </trans-unit>
-      <trans-unit id="Settinsg.siriShortcutsTitle" xml:space="preserve">
+      <trans-unit id="Settinsg.siriShortcutsTitle">
         <source>SIRI SHORTCUTS</source>
         <target>SIRI GYORS PARANCSOK</target>
         <note>Title for settings section to enable different Siri Shortcuts.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.FindInPage" xml:space="preserve">
+      <trans-unit id="ShareMenu.FindInPage">
         <source>Find in Page</source>
         <target>Keresés az oldalon</target>
         <note>Text for the share menu option when a user wants to open the find in page menu</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.GetFirefox" xml:space="preserve">
+      <trans-unit id="ShareMenu.GetFirefox">
         <source>Get the Firefox App</source>
         <target>App Store: Firefox</target>
         <note>Text for the share menu option when a user wants to open a page in Firefox but doesn’t have it installed. This string will not wrap in the interface. Instead, it will truncate. To prevent this, please keep the localized string to 18 or fewer characters. If your string runs longer than 18 characters, you can use 'Get Firefox' as the basis for your string. However, if at all possible, we’d like to signal to the user that they will be going to the App Store and installing the application from there. That is why we are using Get and App in the en-US string.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.PageActions" xml:space="preserve">
+      <trans-unit id="ShareMenu.PageActions">
         <source>Page Actions</source>
         <target>Lapműveletek</target>
         <note>Title for the share menu where users can take actions for the current website they are on.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.RequestDesktop" xml:space="preserve">
+      <trans-unit id="ShareMenu.RequestDesktop">
         <source>Request Desktop Site</source>
         <target>Asztali oldal kérése</target>
         <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.RequestMobile" xml:space="preserve">
+      <trans-unit id="ShareMenu.RequestMobile">
         <source>Request Mobile Site</source>
         <target>Mobil oldal kérése</target>
         <note>Text for the share menu option when a user wants to reload the site as a mobile device</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.ShareOpenChrome" xml:space="preserve">
+      <trans-unit id="ShareMenu.ShareOpenChrome">
         <source>Open in Chrome</source>
         <target>Megnyitás a Chrome-ban</target>
         <note>Text for the share menu option when a user wants to open the current website in the Chrome app.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.ShareOpenFirefox" xml:space="preserve">
+      <trans-unit id="ShareMenu.ShareOpenFirefox">
         <source>Open in Firefox</source>
         <target>Megnyitás a Firefoxban</target>
         <note>Text for the share menu option when a user wants to open the current website in the Firefox app.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.ShareOpenSafari" xml:space="preserve">
+      <trans-unit id="ShareMenu.ShareOpenSafari">
         <source>Open in Safari</source>
         <target>Megnyitás a Safariban</target>
         <note>Text for the share menu option when a user wants to open the current website in the Safari app.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.SharePage" xml:space="preserve">
+      <trans-unit id="ShareMenu.SharePage">
         <source>Share Page With...</source>
         <target>Lap megosztása…</target>
         <note>Text for the share menu option when a user wants to share the current website they are on through another app.</note>
       </trans-unit>
-      <trans-unit id="Siri.add" xml:space="preserve">
+      <trans-unit id="Siri.add">
         <source>Add</source>
         <target>Hozzáadás</target>
         <note>Button to add a favorite URL to Siri.</note>
       </trans-unit>
-      <trans-unit id="Siri.addTo" xml:space="preserve">
+      <trans-unit id="Siri.addTo">
         <source>Add to Siri</source>
         <target>Hozzáadása a Sirihez</target>
         <note>Button to add a specified shortcut option to Siri.</note>
       </trans-unit>
-      <trans-unit id="Siri.editOpenUrl" xml:space="preserve">
+      <trans-unit id="Siri.editOpenUrl">
         <source>Re-Record or Delete Shortcut</source>
         <target>Gyors parancs újrarögzítése vagy törlése</target>
         <note>Label for button to edit the Siri phrase or delete the Siri functionality.</note>
       </trans-unit>
-      <trans-unit id="Siri.erase" xml:space="preserve">
+      <trans-unit id="Siri.erase">
         <source>Erase</source>
         <target>Törlés</target>
         <note>Title of option in settings to set up Siri to erase</note>
       </trans-unit>
-      <trans-unit id="Siri.eraseAndOpen" xml:space="preserve">
+      <trans-unit id="Siri.eraseAndOpen">
         <source>Erase &amp; Open</source>
         <target>Törlés és megnyitás</target>
         <note>Title of option in settings to set up Siri to erase and then open the app.</note>
       </trans-unit>
-      <trans-unit id="Siri.favoriteUrl" xml:space="preserve">
+      <trans-unit id="Siri.favoriteUrl">
         <source>Open Favorite Site</source>
         <target>Kedvenc oldal megnyitása</target>
         <note>Title for screen to add a favorite URL to Siri.</note>
       </trans-unit>
-      <trans-unit id="Siri.openURL" xml:space="preserve">
+      <trans-unit id="Siri.openURL">
         <source>Open Favorite Site</source>
         <target>Kedvenc oldal megnyitása</target>
         <note>Title of option in settings to set up Siri to open a specified URL in Focus/Klar.</note>
       </trans-unit>
-      <trans-unit id="Siri.urlToOpen" xml:space="preserve">
+      <trans-unit id="Siri.urlToOpen">
         <source>URL to open</source>
         <target>Megnyitandó URL</target>
         <note>Label for input to set a favorite URL to be opened by Siri.</note>
       </trans-unit>
-      <trans-unit id="URL.addToAutocompleteLabel" xml:space="preserve">
+      <trans-unit id="URL.addToAutocompleteLabel">
         <source>Add link to autocomplete</source>
         <target>Hivatkozás hozzáadása az automatikus kiegészítéshez</target>
         <note>Label displayed for button used as a shortcut to add a link to the list of URLs to autocomplete.</note>
       </trans-unit>
-      <trans-unit id="URL.cancelLabel" xml:space="preserve">
+      <trans-unit id="URL.cancelLabel">
         <source>Cancel</source>
         <target>Mégse</target>
         <note>Label for cancel button shown when entering a URL or search</note>
       </trans-unit>
-      <trans-unit id="URL.contextMenu" xml:space="preserve">
+      <trans-unit id="URL.contextMenu">
         <source>Paste &amp; Go</source>
         <target>Beillesztés és ugrás</target>
         <note>Text for the URL context menu when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
-      <trans-unit id="URL.eraseButtonLabel" xml:space="preserve">
+      <trans-unit id="URL.eraseButtonLabel">
         <source>ERASE</source>
         <target>TÖRLÉS</target>
         <note>Erase button in the URL bar</note>
       </trans-unit>
-      <trans-unit id="URL.eraseMessageLabel2" xml:space="preserve">
+      <trans-unit id="URL.eraseMessageLabel2">
         <source>Browsing history cleared</source>
         <target>Böngészési előzmények törölve</target>
         <note>Message shown after pressing the Erase button</note>
       </trans-unit>
-      <trans-unit id="URL.findOnPageLabel" xml:space="preserve">
+      <trans-unit id="URL.findOnPageLabel">
         <source>Find in page: %@</source>
         <target>Keresés az oldalon: %@</target>
         <note>Label displayed for find in page button when typing in the URL Bar. %@ is any text the user has typed into the URL bar that they want to find on the current page.</note>
       </trans-unit>
-      <trans-unit id="URL.paste" xml:space="preserve">
+      <trans-unit id="URL.paste">
         <source>Paste</source>
         <target>Beillesztés</target>
         <note>Text for a menu displayed from the bottom of the screen when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
-      <trans-unit id="URL.placeholderText" xml:space="preserve">
+      <trans-unit id="URL.placeholderText">
         <source>Search or enter address</source>
         <target>Keressen, vagy adjon meg címet</target>
         <note>Placeholder text shown in the URL bar before the user navigates to a page</note>
       </trans-unit>
-      <trans-unit id="URL.searchLabel" xml:space="preserve">
+      <trans-unit id="URL.searchLabel">
         <source>Search for %@</source>
         <target>Keresés erre: %@</target>
         <note>Label displayed for search button when typing in the URL bar</note>
       </trans-unit>
-      <trans-unit id="URL.trackersBlockedLabel" xml:space="preserve">
+      <trans-unit id="URL.trackersBlockedLabel">
         <source>Trackers blocked</source>
         <target>Blokkolt követők</target>
         <note>Text for the URL bar showing the number of trackers blocked on a webpage.</note>
       </trans-unit>
-      <trans-unit id="actionSheet.openIn" xml:space="preserve">
+      <trans-unit id="actionSheet.openIn">
         <source>Open in %@</source>
         <target>Megnyitás ezzel: %@</target>
         <note>Title for action sheet item to open the current page in another application. Placeholder is the name of the application to open the current page.</note>
       </trans-unit>
-      <trans-unit id="browser.copyAddressToast" xml:space="preserve">
+      <trans-unit id="browser.copyAddressToast">
         <source>URL Copied To Clipboard</source>
         <target>URL a vágólapra másolva</target>
         <note>Toast displayed after a URL has been copied to the clipboard</note>
       </trans-unit>
-      <trans-unit id="browserShortcutDescription.selectLocationBar" xml:space="preserve">
+      <trans-unit id="browserShortcutDescription.selectLocationBar">
         <source>Select Location Bar</source>
         <target>Címsáv kiválasztása</target>
         <note>Label to display in the Discoverability overlay for keyboard shortcuts</note>
       </trans-unit>
-      <trans-unit id="contextMenu.clipboardLink" xml:space="preserve">
+      <trans-unit id="contextMenu.clipboardLink">
         <source>Link you copied: %@</source>
         <target>A másolt hivatkozás: %@</target>
         <note>Text for the context menu when a user has a link on their clipboard.</note>
       </trans-unit>
-      <trans-unit id="contextMenu.copyImageTitle" xml:space="preserve">
+      <trans-unit id="contextMenu.copyImageTitle">
         <source>Copy Image</source>
         <target>Kép másolása</target>
         <note>Text for the context menu when a user wants to copy an image after long pressing it.</note>
       </trans-unit>
-      <trans-unit id="contextMenu.copyLink" xml:space="preserve">
+      <trans-unit id="contextMenu.copyLink">
         <source>Copy Link</source>
         <target>Hivatkozás másolása</target>
         <note>Text for the context menu when a user wants to copy a link after long pressing it.</note>
       </trans-unit>
-      <trans-unit id="contextMenu.linkCopied" xml:space="preserve">
+      <trans-unit id="contextMenu.linkCopied">
         <source>Link you copied: </source>
         <target>A másolt hivatkozás:</target>
         <note>Text for the context menu when a user has a link on their clipboard.</note>
       </trans-unit>
-      <trans-unit id="contextMenu.saveImageTitle" xml:space="preserve">
+      <trans-unit id="contextMenu.saveImageTitle">
         <source>Save Image</source>
         <target>Kép mentése</target>
         <note>Text for the context menu when a user wants to save an image after long pressing it.</note>
       </trans-unit>
-      <trans-unit id="contextMenu.shareLinkTitle" xml:space="preserve">
+      <trans-unit id="contextMenu.shareLinkTitle">
         <source>Share Link</source>
         <target>Hivatkozás megosztása</target>
         <note>Text for the context menu when a user wants to share a link after long pressing it.</note>
       </trans-unit>
-      <trans-unit id="externalAppLinkWithAppName.messageTitle" xml:space="preserve">
+      <trans-unit id="externalAppLinkWithAppName.messageTitle">
         <source>%1$@ wants to open %2$@</source>
         <target>A %1$@ meg akarja nyitni a(z) %2$@ appot</target>
         <note>Dialog title used for opening an external app from Focus. First placeholder string is the app name of either Focus or Klar and the second placeholder string specifies the app it wants to open.</note>
       </trans-unit>
-      <trans-unit id="photosPermission.description" xml:space="preserve">
+      <trans-unit id="photosPermission.description">
         <source>This lets you save images to your Camera Roll</source>
         <target>Ezzel elmentheti a képet a Filmtekercsébe</target>
         <note>Description for dialog used for requesting a user to enable access to Photos.</note>
       </trans-unit>
-      <trans-unit id="photosPermission.openSettings" xml:space="preserve">
+      <trans-unit id="photosPermission.openSettings">
         <source>Open Settings</source>
         <target>Beállítások megnyitása</target>
         <note>Title for button that takes the user to system settings</note>
       </trans-unit>
-      <trans-unit id="photosPermission.title" xml:space="preserve">
+      <trans-unit id="photosPermission.title">
         <source>“%@” Would Like to Access Your Photos</source>
         <target>A „%@” szeretne hozzáférni a fényképeihez</target>
         <note>Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
-      <trans-unit id="settings.Search.SearchTemplateExample" xml:space="preserve">
+      <trans-unit id="settings.Search.SearchTemplateExample">
         <source>Example: searchengineexample.com/search/?q=%s</source>
         <target>Példa: searchengineexample.com/search/?q=%s</target>
         <note>Text displayed as an example of the template to add a search engine.</note>
       </trans-unit>
-      <trans-unit id="share" xml:space="preserve">
+      <trans-unit id="share">
         <source>Share</source>
         <target>Megosztás</target>
         <note>Text for a share button</note>
       </trans-unit>
-      <trans-unit id="shareMenu.copyAddress" xml:space="preserve">
+      <trans-unit id="shareMenu.copyAddress">
         <source>Copy Address</source>
         <target>Cím másolása</target>
         <note>Text for the share menu when a user wants to copy a URL.</note>
       </trans-unit>
-      <trans-unit id="touchId.reason" xml:space="preserve">
+      <trans-unit id="touchId.reason">
         <source>Use Touch ID to return to %@</source>
         <target>Használja a Touch ID-t a %@ böngészőbe visszatéréshez</target>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID to continue browsing after returning to the app.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.adTrackersLabel" xml:space="preserve">
+      <trans-unit id="trackingProtection.adTrackersLabel">
         <source>Ad trackers</source>
         <target>Hirdetéskövetők</target>
         <note>Label for ad trackers.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.analyticTrackerLabel" xml:space="preserve">
+      <trans-unit id="trackingProtection.analyticTrackerLabel">
         <source>Analytic trackers</source>
         <target>Analitikai követők</target>
         <note>label for analytic trackers.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.contentTrackerLabel" xml:space="preserve">
+      <trans-unit id="trackingProtection.contentTrackerLabel">
         <source>Content trackers</source>
         <target>Tartalomkövetők</target>
         <note>label for content trackers.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.disabledLabel" xml:space="preserve">
+      <trans-unit id="trackingProtection.disabledLabel">
         <source>Tracking Protection off</source>
         <target>Követés elleni védelem kikapcsolva</target>
         <note>text showing the tracking protection is disabled.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.label" xml:space="preserve">
+      <trans-unit id="trackingProtection.label">
         <source>Tracking Protection</source>
         <target>Követés elleni védelem</target>
         <note>Title for the tracking settings page to change what trackers are blocked.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.labelDescription" xml:space="preserve">
+      <trans-unit id="trackingProtection.labelDescription">
         <source>Turning this off may fix some site problems</source>
         <target>Ennek a kikapcsolása megoldhatja egyes webhelyek problémáit</target>
         <note>Description/subtitle for the tracking protection label.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.learnMore" xml:space="preserve">
+      <trans-unit id="trackingProtection.learnMore">
         <source>Learn More</source>
         <target>További tudnivalók</target>
         <note>Text for the button to learn more about Tracking Protection.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.socialTrackerLabel" xml:space="preserve">
+      <trans-unit id="trackingProtection.moreSettings">
+        <source>More Settings</source>
+        <note>Text for the button that closes the Shield Data and opens the regular Settings screen.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.socialTrackerLabel">
         <source>Social trackers</source>
         <target>Közösségi követők</target>
         <note>label for social trackers.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.toggleDescription1" xml:space="preserve">
+      <trans-unit id="trackingProtection.statusOff">
+        <source>Protections are OFF for this session</source>
+        <note>Text for the status off from Tracking Protection.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.statusOn">
+        <source>Protections are ON for this session</source>
+        <note>Text for the status on from Tracking Protection.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.toggleDescription1">
         <source>Disable until you close %@ or tap ERASE.</source>
         <target>Letiltás a %@ bezárásáig, vagy megérinti a TÖRLÉS gombot.</target>
         <note>Description for the tracking protection toggle. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.toggleLabel" xml:space="preserve">
-        <source>Tracking Protection</source>
-        <target>Követés elleni védelem</target>
-        <note>Text for the toggle that temporarily disables tracking protection.</note>
+      <trans-unit id="trackingProtection.toggleLabel2">
+        <source>Enhanced Tracking Protection</source>
+        <note>Text for the toggle that enables/disables tracking protection.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.trackerDescriptionLabel" xml:space="preserve">
-        <source>Choose whether %@ blocks ad, analytic, social, and other trackers.</source>
-        <target>Válassza ki, hogy a %@ blokkolja-e a reklám, analitikai, közösségi vagy más követőket.</target>
+      <trans-unit id="trackingProtection.trackerDescriptionLabel2">
+        <source>Keep your data to yourself. %@ protects you from many of the most common trackers that follow what you do online.</source>
         <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.trackersBlockedLabel">
+        <source>Trackers blocked since %@</source>
+        <note>Text for tracking protection screen showing the number of trackers blocked since the app install. The placeholder is replaced with the install date of the application.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.trackersHeader">
+        <source>Trackers and scripts to block</source>
+        <note>Text for the header of trackers section from Tracking Protection.</note>
       </trans-unit>
     </body>
   </file>
-  <file original="Blockzilla/Settings.bundle/en.lproj/Root.strings" datatype="plaintext" source-language="en" target-language="hu">
+  <file original="Blockzilla/Settings.bundle/en.lproj/Root.strings" source-language="en" target-language="hu" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
-      <trans-unit id="SettingsBundle.Licenses" xml:space="preserve">
+      <trans-unit id="SettingsBundle.Licenses">
         <source>Licenses</source>
         <target>Licencek</target>
         <note>The title of the Licenses setting in the settings that Focus shows in the global iOS Settings app.</note>
@@ -1059,3 +1069,4 @@
     </body>
   </file>
 </xliff>
+
