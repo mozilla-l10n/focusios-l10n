@@ -606,8 +606,9 @@
         <target>Diğer içerik takipçilerini engellemek bazı videoları ve web sayfalarını bozabilir.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
-      <trans-unit id="Settings.blockOtherNo2">
+      <trans-unit id="Settings.blockOtherNo2" xml:space="preserve">
         <source>Cancel</source>
+        <target>İptal</target>
         <note>Button label for declining Content blocker alert</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherYes2" xml:space="preserve">
