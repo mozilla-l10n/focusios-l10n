@@ -605,12 +605,14 @@
         <target>拦截其他内容跟踪器可能对某些视频和网页有影响。</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
-      <trans-unit id="Settings.blockOtherNo2">
+      <trans-unit id="Settings.blockOtherNo2" xml:space="preserve">
         <source>Cancel</source>
+        <target>取消</target>
         <note>Button label for declining Content blocker alert</note>
       </trans-unit>
-      <trans-unit id="Settings.blockOtherYes2">
+      <trans-unit id="Settings.blockOtherYes2" xml:space="preserve">
         <source>Block Content Trackers</source>
+        <target>拦截内容跟踪器</target>
         <note>Button label for accepting Content blocker alert</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
@@ -744,12 +746,14 @@
         <target>如果已有网址在应用中打开，则可用触控 ID 解锁 %@</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
-      <trans-unit id="Settings.trackingProtectionOff">
+      <trans-unit id="Settings.trackingProtectionOff" xml:space="preserve">
         <source>Off</source>
+        <target>关闭</target>
         <note>Status off for tracking protection in settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.trackingProtectionOn">
+      <trans-unit id="Settings.trackingProtectionOn" xml:space="preserve">
         <source>On</source>
+        <target>开启</target>
         <note>Status on for tracking protection in settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle" xml:space="preserve">
@@ -1017,8 +1021,9 @@
         <target>详细了解</target>
         <note>Text for the button to learn more about Tracking Protection.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.moreSettings">
+      <trans-unit id="trackingProtection.moreSettings" xml:space="preserve">
         <source>More Settings</source>
+        <target>更多设置</target>
         <note>Text for the button that closes the Shield Data and opens the regular Settings screen.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.socialTrackerLabel" xml:space="preserve">
@@ -1026,8 +1031,9 @@
         <target>社交跟踪器</target>
         <note>label for social trackers.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.statusOff">
+      <trans-unit id="trackingProtection.statusOff" xml:space="preserve">
         <source>Protections are OFF for this session</source>
+        <target>对此会话已关闭保护</target>
         <note>Text for the status off from Tracking Protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.statusOn" xml:space="preserve">
