@@ -151,7 +151,6 @@
       </trans-unit>
       <trans-unit id="About.safariBullet2">
         <source>Block web fonts to reduce page size</source>
-        <target>ウェブフォントをブロックしてページのデータ転送量を削減します</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
@@ -601,7 +600,6 @@
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
         <source>Blocking other content trackers may break some videos and web pages.</source>
-        <target>他の追跡コンテンツをブロックすると、動画やウェブページが正常に表示されない場合があります。</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo2">
@@ -692,7 +690,6 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
         <source>Block web fonts</source>
-        <target>ウェブフォントをブロック</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther2">
@@ -761,6 +758,10 @@
         <target>SIRI ショートカット</target>
         <note>Title for settings section to enable different Siri Shortcuts.</note>
       </trans-unit>
+      <trans-unit id="ShareMenu.AddToShortcuts">
+        <source>Add to Shortcuts</source>
+        <note>Text for the share menu option when a user wants to add the site to Shortcuts</note>
+      </trans-unit>
       <trans-unit id="ShareMenu.FindInPage">
         <source>Find in Page</source>
         <target>ページ内検索</target>
@@ -775,6 +776,10 @@
         <source>Page Actions</source>
         <target>ページ操作</target>
         <note>Title for the share menu where users can take actions for the current website they are on.</note>
+      </trans-unit>
+      <trans-unit id="ShareMenu.RemoveFromShortcuts">
+        <source>Remove from Shortcuts</source>
+        <note>Text for the share menu option when a user wants to remove the site from Shortcuts</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop">
         <source>Request Desktop Site</source>
@@ -805,6 +810,10 @@
         <source>Share Page With...</source>
         <target>ページを共有...</target>
         <note>Text for the share menu option when a user wants to share the current website they are on through another app.</note>
+      </trans-unit>
+      <trans-unit id="ShortcutView.RemoveFromShortcuts">
+        <source>Remove from Shortcuts</source>
+        <note>Text for the long press on a shortcut option in context menu.</note>
       </trans-unit>
       <trans-unit id="Siri.add">
         <source>Add</source>
@@ -990,6 +999,14 @@
         <source>Analytic trackers</source>
         <target>アクセス解析</target>
         <note>label for analytic trackers.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.connectionNotSecureLabel">
+        <source>Connection is not secure</source>
+        <note>Text for tracking protection screen showing the connection is not secure</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.connectionSecureLabel">
+        <source>Connection is secure</source>
+        <note>Text for tracking protection screen showing the connection is secure</note>
       </trans-unit>
       <trans-unit id="trackingProtection.contentTrackerLabel">
         <source>Content trackers</source>

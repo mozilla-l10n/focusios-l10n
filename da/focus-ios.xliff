@@ -152,7 +152,6 @@
       </trans-unit>
       <trans-unit id="About.safariBullet2" xml:space="preserve">
         <source>Block web fonts to reduce page size</source>
-        <target>Bloker web-fonte, så sider indlæses hurtigere</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader" xml:space="preserve">
@@ -602,7 +601,6 @@
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage" xml:space="preserve">
         <source>Blocking other content trackers may break some videos and web pages.</source>
-        <target>Blokering af andre indholdstrackere kan forhindre visning af nogle videoer og websider.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo2">
@@ -693,7 +691,6 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts" xml:space="preserve">
         <source>Block web fonts</source>
-        <target>Bloker web-fonte</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther2">
@@ -762,7 +759,11 @@
         <target>SIRI-GENVEJE</target>
         <note>Title for settings section to enable different Siri Shortcuts.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.FindInPage" xml:space="preserve">
+      <trans-unit id="ShareMenu.AddToShortcuts">
+        <source>Add to Shortcuts</source>
+        <note>Text for the share menu option when a user wants to add the site to Shortcuts</note>
+      </trans-unit>
+      <trans-unit id="ShareMenu.FindInPage">
         <source>Find in Page</source>
         <target>Find på side</target>
         <note>Text for the share menu option when a user wants to open the find in page menu</note>
@@ -777,7 +778,11 @@
         <target>Sidehandlinger</target>
         <note>Title for the share menu where users can take actions for the current website they are on.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.RequestDesktop" xml:space="preserve">
+      <trans-unit id="ShareMenu.RemoveFromShortcuts">
+        <source>Remove from Shortcuts</source>
+        <note>Text for the share menu option when a user wants to remove the site from Shortcuts</note>
+      </trans-unit>
+      <trans-unit id="ShareMenu.RequestDesktop"
         <source>Request Desktop Site</source>
         <target>Bed om desktop-version</target>
         <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
@@ -807,7 +812,11 @@
         <target>Del side med...</target>
         <note>Text for the share menu option when a user wants to share the current website they are on through another app.</note>
       </trans-unit>
-      <trans-unit id="Siri.add" xml:space="preserve">
+      <trans-unit id="ShortcutView.RemoveFromShortcuts">
+        <source>Remove from Shortcuts</source>
+        <note>Text for the long press on a shortcut option in context menu.</note>
+      </trans-unit>
+      <trans-unit id="Siri.add">
         <source>Add</source>
         <target>Tilføj</target>
         <note>Button to add a favorite URL to Siri.</note>
@@ -992,7 +1001,15 @@
         <target>Analyse-sporing</target>
         <note>label for analytic trackers.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.contentTrackerLabel" xml:space="preserve">
+      <trans-unit id="trackingProtection.connectionNotSecureLabel">
+        <source>Connection is not secure</source>
+        <note>Text for tracking protection screen showing the connection is not secure</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.connectionSecureLabel">
+        <source>Connection is secure</source>
+        <note>Text for tracking protection screen showing the connection is secure</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.contentTrackerLabel">
         <source>Content trackers</source>
         <target>Sporing via indhold</target>
         <note>label for content trackers.</note>

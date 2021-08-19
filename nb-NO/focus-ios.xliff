@@ -761,6 +761,10 @@
         <target>SIRI-SNARVEIER</target>
         <note>Title for settings section to enable different Siri Shortcuts.</note>
       </trans-unit>
+      <trans-unit id="ShareMenu.AddToShortcuts">
+        <source>Add to Shortcuts</source>
+        <note>Text for the share menu option when a user wants to add the site to Shortcuts</note>
+      </trans-unit>
       <trans-unit id="ShareMenu.FindInPage">
         <source>Find in Page</source>
         <target>Søk på siden</target>
@@ -775,6 +779,10 @@
         <source>Page Actions</source>
         <target>Sidehandlinger</target>
         <note>Title for the share menu where users can take actions for the current website they are on.</note>
+      </trans-unit>
+      <trans-unit id="ShareMenu.RemoveFromShortcuts">
+        <source>Remove from Shortcuts</source>
+        <note>Text for the share menu option when a user wants to remove the site from Shortcuts</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop">
         <source>Request Desktop Site</source>
@@ -805,6 +813,10 @@
         <source>Share Page With...</source>
         <target>Del side med…</target>
         <note>Text for the share menu option when a user wants to share the current website they are on through another app.</note>
+      </trans-unit>
+      <trans-unit id="ShortcutView.RemoveFromShortcuts">
+        <source>Remove from Shortcuts</source>
+        <note>Text for the long press on a shortcut option in context menu.</note>
       </trans-unit>
       <trans-unit id="Siri.add">
         <source>Add</source>
@@ -990,6 +1002,14 @@
         <source>Analytic trackers</source>
         <target>Analyse-sporere</target>
         <note>label for analytic trackers.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.connectionNotSecureLabel">
+        <source>Connection is not secure</source>
+        <note>Text for tracking protection screen showing the connection is not secure</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.connectionSecureLabel">
+        <source>Connection is secure</source>
+        <note>Text for tracking protection screen showing the connection is secure</note>
       </trans-unit>
       <trans-unit id="trackingProtection.contentTrackerLabel">
         <source>Content trackers</source>
