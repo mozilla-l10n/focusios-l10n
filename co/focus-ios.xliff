@@ -984,28 +984,34 @@
         <target>« %@ » vole accede à e vostre fotò</target>
         <note>Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
-      <trans-unit id="settings.Search.SearchTemplateExample">
+      <trans-unit id="settings.Search.SearchTemplateExample" xml:space="preserve">
         <source>Example: searchengineexample.com/search/?q=%s</source>
+        <target>Esempiu : searchengineexample.com/search/?q=%s</target>
         <note>Text displayed as an example of the template to add a search engine.</note>
       </trans-unit>
-      <trans-unit id="share">
+      <trans-unit id="share" xml:space="preserve">
         <source>Share</source>
+        <target>Sparte</target>
         <note>Text for a share button</note>
       </trans-unit>
-      <trans-unit id="shareMenu.copyAddress">
+      <trans-unit id="shareMenu.copyAddress" xml:space="preserve">
         <source>Copy Address</source>
+        <target>Cupià l’indirizzu</target>
         <note>Text for the share menu when a user wants to copy a URL.</note>
       </trans-unit>
-      <trans-unit id="touchId.reason">
+      <trans-unit id="touchId.reason" xml:space="preserve">
         <source>Use Touch ID to return to %@</source>
+        <target>Impiegà Touch ID per rivene nant’à %@</target>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID to continue browsing after returning to the app.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.adTrackersLabel">
+      <trans-unit id="trackingProtection.adTrackersLabel" xml:space="preserve">
         <source>Ad trackers</source>
+        <target>Perseguitatori publicitarii</target>
         <note>Label for ad trackers.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.analyticTrackerLabel">
+      <trans-unit id="trackingProtection.analyticTrackerLabel" xml:space="preserve">
         <source>Analytic trackers</source>
+        <target>Perseguitatori di statistica</target>
         <note>label for analytic trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.connectionNotSecureLabel">
