@@ -621,108 +621,134 @@
         <target>%@ manderà à u vostru mutore di ricerca ciò chì vo scrivite in a barra d’indirizzu.</target>
         <note>Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
-      <trans-unit id="Settings.detailTextSendUsageData">
+      <trans-unit id="Settings.detailTextSendUsageData" xml:space="preserve">
         <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
+        <target>Mozilla face casu di cullettà solu i dati chì sò ghjuvevule per rigalà è amendà %@ per tutti.</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
-      <trans-unit id="Settings.learnMore">
+      <trans-unit id="Settings.learnMore" xml:space="preserve">
         <source>Learn more.</source>
+        <target>Sapene di più.</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.rate">
+      <trans-unit id="Settings.rate" xml:space="preserve">
         <source>Rate %@</source>
+        <target>Valutà %@</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, allows the user to leave a review for the app on the app store.</note>
       </trans-unit>
-      <trans-unit id="Settings.safariTitle">
+      <trans-unit id="Settings.safariTitle" xml:space="preserve">
         <source>SAFARI INTEGRATION</source>
+        <target>INTEGRAZIONE SAFARI</target>
         <note>Label for Safari integration section</note>
       </trans-unit>
-      <trans-unit id="Settings.screenTitle">
+      <trans-unit id="Settings.screenTitle" xml:space="preserve">
         <source>Settings</source>
+        <target>Preferenze</target>
         <note>Title for settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.searchLabel">
+      <trans-unit id="Settings.searchLabel" xml:space="preserve">
         <source>Search Engine</source>
+        <target>Mutore di ricerca</target>
         <note>Label for the search engine in the search screen</note>
       </trans-unit>
-      <trans-unit id="Settings.searchSuggestions">
+      <trans-unit id="Settings.searchSuggestions" xml:space="preserve">
         <source>Get Search Suggestions</source>
+        <target>Ottene suggestioni di ricerca</target>
         <note>Label for the Search Suggestions toggle row</note>
       </trans-unit>
-      <trans-unit id="Settings.searchTitle2">
+      <trans-unit id="Settings.searchTitle2" xml:space="preserve">
         <source>SEARCH</source>
+        <target>RICERCA</target>
         <note>Title for the search selection screen</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionIntegration">
+      <trans-unit id="Settings.sectionIntegration" xml:space="preserve">
         <source>INTEGRATION</source>
+        <target>INTEGRAZIONE</target>
         <note>Label for Safari integration section</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionMozilla">
+      <trans-unit id="Settings.sectionMozilla" xml:space="preserve">
         <source>MOZILLA</source>
+        <target>MOZILLA</target>
         <note>Section label for Mozilla toggles</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionPerformance">
+      <trans-unit id="Settings.sectionPerformance" xml:space="preserve">
         <source>PERFORMANCE</source>
+        <target>PRESTAZIONI</target>
         <note>Section label for performance toggles</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionPrivacy">
+      <trans-unit id="Settings.sectionPrivacy" xml:space="preserve">
         <source>PRIVACY</source>
+        <target>CUNFIDENZIALITÀ</target>
         <note>Section label for privacy toggles</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionSecurity">
+      <trans-unit id="Settings.sectionSecurity" xml:space="preserve">
         <source>SECURITY</source>
+        <target>SICURITÀ</target>
         <note>Header label for security toggles displayed in the settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockAds2">
+      <trans-unit id="Settings.toggleBlockAds2" xml:space="preserve">
         <source>Advertising</source>
+        <target>Publicità</target>
         <note>Label for the checkbox to toggle Advertising trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockAnalytics2">
+      <trans-unit id="Settings.toggleBlockAnalytics2" xml:space="preserve">
         <source>Analytics</source>
+        <target>Statistica</target>
         <note>Label for the checkbox to toggle Analytics trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockFonts">
+      <trans-unit id="Settings.toggleBlockFonts" xml:space="preserve">
         <source>Block web fonts</source>
+        <target>Bluccà e grafie web</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockOther2">
+      <trans-unit id="Settings.toggleBlockOther2" xml:space="preserve">
         <source>Content</source>
+        <target>Cuntenutu</target>
         <note>Label for the checkbox to toggle Other trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockSocial2">
+      <trans-unit id="Settings.toggleBlockSocial2" xml:space="preserve">
         <source>Social</source>
+        <target>Suciale</target>
         <note>Label for the checkbox to toggle Social trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleFaceID">
+      <trans-unit id="Settings.toggleFaceID" xml:space="preserve">
         <source>Use Face ID to unlock app</source>
+        <target>Impiegà Face ID per spalancà l’appiecazione</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleFaceIDDescription">
+      <trans-unit id="Settings.toggleFaceIDDescription" xml:space="preserve">
         <source>Face ID can unlock %@ if a URL is already open in the app</source>
+        <target>Face ID pò spalancà %@ s’è un indirizzu web hè dighjà apertu in l’appiecazione</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleHomeScreenTips">
+      <trans-unit id="Settings.toggleHomeScreenTips" xml:space="preserve">
         <source>Show home screen tips</source>
+        <target>Affissà minichichje nant’à u screnu d’accolta</target>
         <note>Show home screen tips toggle label on settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleOtherSubtitle">
+      <trans-unit id="Settings.toggleOtherSubtitle" xml:space="preserve">
         <source>May break some videos and Web pages</source>
+        <target>Pò impedisce certe video è pagine web d’affissassi currettamente</target>
         <note>Label subtitle for toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleSafari">
+      <trans-unit id="Settings.toggleSafari" xml:space="preserve">
         <source>Safari</source>
+        <target>Safari</target>
         <note>Safari toggle label on settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleSendUsageData">
+      <trans-unit id="Settings.toggleSendUsageData" xml:space="preserve">
         <source>Send usage data</source>
+        <target>Mandà dati d’adopru</target>
         <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleTouchID">
+      <trans-unit id="Settings.toggleTouchID" xml:space="preserve">
         <source>Use Touch ID to unlock app</source>
+        <target>Impiegà Touch ID per spalancà l’appiecazione</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleTouchIDDescription">
+      <trans-unit id="Settings.toggleTouchIDDescription" xml:space="preserve">
         <source>Touch ID can unlock %@ if a URL is already open in the app</source>
+        <target>Touch ID pò spalancà %@ s’è un indirizzu web hè dighjà apertu in l’appiecazione</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.trackingProtectionOff">
@@ -733,20 +759,24 @@
         <source>On</source>
         <note>Status on for tracking protection in settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.whatsNewTitle">
+      <trans-unit id="Settings.whatsNewTitle" xml:space="preserve">
         <source>What’s New</source>
+        <target>Ciò chì hè novu</target>
         <note>Title for What's new screen</note>
       </trans-unit>
-      <trans-unit id="Settinsg.siriShortcutsTitle">
+      <trans-unit id="Settinsg.siriShortcutsTitle" xml:space="preserve">
         <source>SIRI SHORTCUTS</source>
+        <target>ACCURTATOGHJI SIRI</target>
         <note>Title for settings section to enable different Siri Shortcuts.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.AddToShortcuts">
+      <trans-unit id="ShareMenu.AddToShortcuts" xml:space="preserve">
         <source>Add to Shortcuts</source>
+        <target>Aghjunghje à l’accurtatoghji</target>
         <note>Text for the share menu option when a user wants to add the site to Shortcuts</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.FindInPage">
+      <trans-unit id="ShareMenu.FindInPage" xml:space="preserve">
         <source>Find in Page</source>
+        <target>Circà in a pagina</target>
         <note>Text for the share menu option when a user wants to open the find in page menu</note>
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox">
