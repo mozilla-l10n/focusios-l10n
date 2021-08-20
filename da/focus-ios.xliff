@@ -782,7 +782,7 @@
         <source>Remove from Shortcuts</source>
         <note>Text for the share menu option when a user wants to remove the site from Shortcuts</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.RequestDesktop"
+      <trans-unit id="ShareMenu.RequestDesktop" xml:space="preserve">
         <source>Request Desktop Site</source>
         <target>Bed om desktop-version</target>
         <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
