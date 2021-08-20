@@ -791,8 +791,9 @@
         <target>Gweithredoedd Tudalen</target>
         <note>Title for the share menu where users can take actions for the current website they are on.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.RemoveFromShortcuts">
+      <trans-unit id="ShareMenu.RemoveFromShortcuts" xml:space="preserve">
         <source>Remove from Shortcuts</source>
+        <target>Tynnu o'r Llwybrau Byr</target>
         <note>Text for the share menu option when a user wants to remove the site from Shortcuts</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop" xml:space="preserve">
@@ -825,8 +826,9 @@
         <target>Rhannu Tudalen Gyda...</target>
         <note>Text for the share menu option when a user wants to share the current website they are on through another app.</note>
       </trans-unit>
-      <trans-unit id="ShortcutView.RemoveFromShortcuts">
+      <trans-unit id="ShortcutView.RemoveFromShortcuts" xml:space="preserve">
         <source>Remove from Shortcuts</source>
+        <target>Tynnu o'r Llwybrau Byr</target>
         <note>Text for the long press on a shortcut option in context menu.</note>
       </trans-unit>
       <trans-unit id="Siri.add" xml:space="preserve">
@@ -1014,12 +1016,14 @@
         <target>Tracwyr dadansoddi</target>
         <note>label for analytic trackers.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.connectionNotSecureLabel">
+      <trans-unit id="trackingProtection.connectionNotSecureLabel" xml:space="preserve">
         <source>Connection is not secure</source>
+        <target>Nid yw'r cysylltiad yn ddiogel</target>
         <note>Text for tracking protection screen showing the connection is not secure</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.connectionSecureLabel">
+      <trans-unit id="trackingProtection.connectionSecureLabel" xml:space="preserve">
         <source>Connection is secure</source>
+        <target>Mae'r cysylltiad yn ddiogel</target>
         <note>Text for tracking protection screen showing the connection is secure</note>
       </trans-unit>
       <trans-unit id="trackingProtection.contentTrackerLabel" xml:space="preserve">
