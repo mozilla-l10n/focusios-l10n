@@ -1014,32 +1014,39 @@
         <target>Perseguitatori di statistica</target>
         <note>label for analytic trackers.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.connectionNotSecureLabel">
+      <trans-unit id="trackingProtection.connectionNotSecureLabel" xml:space="preserve">
         <source>Connection is not secure</source>
+        <target>A cunnessione ùn hè micca assicurata</target>
         <note>Text for tracking protection screen showing the connection is not secure</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.connectionSecureLabel">
+      <trans-unit id="trackingProtection.connectionSecureLabel" xml:space="preserve">
         <source>Connection is secure</source>
+        <target>A cunnessione hè assicurata</target>
         <note>Text for tracking protection screen showing the connection is secure</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.contentTrackerLabel">
+      <trans-unit id="trackingProtection.contentTrackerLabel" xml:space="preserve">
         <source>Content trackers</source>
+        <target>Perseguitatori di cuntenutu</target>
         <note>label for content trackers.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.disabledLabel">
+      <trans-unit id="trackingProtection.disabledLabel" xml:space="preserve">
         <source>Tracking Protection off</source>
+        <target>A prutezzione contr’à u spiunagiu hè disattivata</target>
         <note>text showing the tracking protection is disabled.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.label">
+      <trans-unit id="trackingProtection.label" xml:space="preserve">
         <source>Tracking Protection</source>
+        <target>Prutezzione contr’à u spiunagiu</target>
         <note>Title for the tracking settings page to change what trackers are blocked.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.labelDescription">
+      <trans-unit id="trackingProtection.labelDescription" xml:space="preserve">
         <source>Turning this off may fix some site problems</source>
+        <target>Disattivà st’ozzione pò currege qualchì penseru di u situ</target>
         <note>Description/subtitle for the tracking protection label.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.learnMore">
+      <trans-unit id="trackingProtection.learnMore" xml:space="preserve">
         <source>Learn More</source>
+        <target>Per sapene di più</target>
         <note>Text for the button to learn more about Tracking Protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.moreSettings">
