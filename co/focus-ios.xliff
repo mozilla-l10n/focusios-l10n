@@ -401,100 +401,124 @@
         <target>Mandà un eMail</target>
         <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.messageTitleWithPlaceholder">
+      <trans-unit id="ExternalLink.messageTitleWithPlaceholder" xml:space="preserve">
         <source>You are now leaving %@.</source>
+        <target>Avete da esce di %@.</target>
         <note>Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.openAppStoreButton">
+      <trans-unit id="ExternalLink.openAppStoreButton" xml:space="preserve">
         <source>Open App Store</source>
+        <target>Apre l’App Store</target>
         <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.openAppStoreTitle">
+      <trans-unit id="ExternalLink.openAppStoreTitle" xml:space="preserve">
         <source>%@ wants to open the App Store.</source>
+        <target>%@ vole apre l’App Store.</target>
         <note>Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.openMapsButton">
+      <trans-unit id="ExternalLink.openMapsButton" xml:space="preserve">
         <source>Open Maps</source>
+        <target>Apre Cartugrafie</target>
         <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="FindInPage.Done">
+      <trans-unit id="FindInPage.Done" xml:space="preserve">
         <source>Find in page done</source>
+        <target>Ricerca compia in a pagina</target>
         <note>Accessibility label for done button in Find in Page Toolbar.</note>
       </trans-unit>
-      <trans-unit id="FindInPage.NextResult">
+      <trans-unit id="FindInPage.NextResult" xml:space="preserve">
         <source>Find next in page</source>
+        <target>Circà a prossima occurrenza in a pagina</target>
         <note>Accessibility label for next result button in Find in Page Toolbar.</note>
       </trans-unit>
-      <trans-unit id="FindInPage.PreviousResult">
+      <trans-unit id="FindInPage.PreviousResult" xml:space="preserve">
         <source>Find previous in page</source>
+        <target>Circà a precedente occurrenza in a pagina</target>
         <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
       </trans-unit>
-      <trans-unit id="FirstRun.lastSlide.buttonLabel">
+      <trans-unit id="FirstRun.lastSlide.buttonLabel" xml:space="preserve">
         <source>OK, Got It!</source>
+        <target>Iè, aghju capitu !</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
-      <trans-unit id="FirstRun.messageLabelDescription">
+      <trans-unit id="FirstRun.messageLabelDescription" xml:space="preserve">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
+        <target>Bluccate autumaticamente i perseguitatori quandu vo navigate. Tandu, picchichjate nant’à u buttone Squassà per squassà e pagine visitate, e ricerche, i canistrelli è e parolle d’entrata da u vostru apparechju.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
-      <trans-unit id="FirstRun.messageLabelTagline">
+      <trans-unit id="FirstRun.messageLabelTagline" xml:space="preserve">
         <source>Browse like no one’s watching.</source>
+        <target>Navigate cum’è s’è nisunu vi fighjava.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
-      <trans-unit id="Focus.handoffSyncing">
+      <trans-unit id="Focus.handoffSyncing" xml:space="preserve">
         <source>Apple Handoff is syncing</source>
+        <target>Sincrunizazione in corsu di Apple Handoff</target>
         <note>Title for the loading screen when the handoff of clipboard delays Focus launch. “Handoff” should not be localized, see https://support.apple.com/HT204681</note>
       </trans-unit>
-      <trans-unit id="Home.descriptionLabel1">
+      <trans-unit id="Home.descriptionLabel1" xml:space="preserve">
         <source>Automatic private browsing.</source>
+        <target>Navigazione privata autumatica.</target>
         <note>First label for product description on the home screen</note>
       </trans-unit>
-      <trans-unit id="Home.descriptionLabel2">
+      <trans-unit id="Home.descriptionLabel2" xml:space="preserve">
         <source>Browse. Erase. Repeat.</source>
+        <target>Navigate. Squassate. Ripitite.</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
-      <trans-unit id="Menu.Close">
+      <trans-unit id="Menu.Close" xml:space="preserve">
         <source>Close</source>
+        <target>Chjode</target>
         <note>Button label used to close a menu that displays as a popup.</note>
       </trans-unit>
-      <trans-unit id="Open.Cancel">
+      <trans-unit id="Open.Cancel" xml:space="preserve">
         <source>Cancel</source>
+        <target>Abbandunà</target>
         <note>Label in share alert to cancel the alert</note>
       </trans-unit>
-      <trans-unit id="Open.Firefox">
+      <trans-unit id="Open.Firefox" xml:space="preserve">
         <source>Firefox (Private Browsing)</source>
+        <target>Firefox (navigazione privata)</target>
         <note>Label in share alert to open the URL in Firefox</note>
       </trans-unit>
-      <trans-unit id="Open.More">
+      <trans-unit id="Open.More" xml:space="preserve">
         <source>More</source>
+        <target>Più</target>
         <note>Label in share alert to open the full system share menu</note>
       </trans-unit>
-      <trans-unit id="Open.Safari">
+      <trans-unit id="Open.Safari" xml:space="preserve">
         <source>Safari</source>
+        <target>Safari</target>
         <note>Label in share alert to open the URL in Safari</note>
       </trans-unit>
-      <trans-unit id="Request Desktop Site">
+      <trans-unit id="Request Desktop Site" xml:space="preserve">
         <source>Request Desktop Site</source>
+        <target>Fighjà a versione urdinatore</target>
         <note>Label for button that requests the desktop version of the currently loaded website.</note>
       </trans-unit>
-      <trans-unit id="Safari.instructionsContentBlockers">
+      <trans-unit id="Safari.instructionsContentBlockers" xml:space="preserve">
         <source>Tap Safari, then select Content Blockers</source>
+        <target>Picchichjate nant’à Safari, eppò selezziunate « Blucchime di cuntenutu »</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
-      <trans-unit id="Safari.instructionsEnable">
+      <trans-unit id="Safari.instructionsEnable" xml:space="preserve">
         <source>Enable %@</source>
+        <target>Attivà %@</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
-      <trans-unit id="Safari.instructionsNotEnabled">
+      <trans-unit id="Safari.instructionsNotEnabled" xml:space="preserve">
         <source>%@ is not enabled.</source>
+        <target>%@ ùn hè micca attivatu.</target>
         <note>Error label when the blocker is not enabled, shown in the intro and main app when disabled</note>
       </trans-unit>
-      <trans-unit id="Safari.instructionsOpen">
+      <trans-unit id="Safari.instructionsOpen" xml:space="preserve">
         <source>Open Settings App</source>
+        <target>Aprite e preferenze</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
-      <trans-unit id="Save">
+      <trans-unit id="Save" xml:space="preserve">
         <source>Save</source>
+        <target>Arregistrà</target>
         <note>Save button label</note>
       </trans-unit>
       <trans-unit id="SearchEngine.addEngineError">
