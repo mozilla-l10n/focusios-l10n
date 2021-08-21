@@ -611,8 +611,9 @@
         <target>ยกเลิก</target>
         <note>Button label for declining Content blocker alert</note>
       </trans-unit>
-      <trans-unit id="Settings.blockOtherYes2">
+      <trans-unit id="Settings.blockOtherYes2" xml:space="preserve">
         <source>Block Content Trackers</source>
+        <target>ปิดกั้นตัวติดตามเนื้อหา</target>
         <note>Button label for accepting Content blocker alert</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
@@ -705,8 +706,9 @@
         <target>เนื้อหา</target>
         <note>Label for the checkbox to toggle Other trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockSocial2">
+      <trans-unit id="Settings.toggleBlockSocial2" xml:space="preserve">
         <source>Social</source>
+        <target>กลุ่มสังคม</target>
         <note>Label for the checkbox to toggle Social trackers</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceID" xml:space="preserve">
@@ -749,12 +751,14 @@
         <target>Touch ID สามารถปลดล็อค %@ หากเปิด URL อยู่แล้วในแอป</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
-      <trans-unit id="Settings.trackingProtectionOff">
+      <trans-unit id="Settings.trackingProtectionOff" xml:space="preserve">
         <source>Off</source>
+        <target>ปิด</target>
         <note>Status off for tracking protection in settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.trackingProtectionOn">
+      <trans-unit id="Settings.trackingProtectionOn" xml:space="preserve">
         <source>On</source>
+        <target>เปิด</target>
         <note>Status on for tracking protection in settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle" xml:space="preserve">
@@ -767,8 +771,9 @@
         <target>คำสั่งลัด SIRI</target>
         <note>Title for settings section to enable different Siri Shortcuts.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.AddToShortcuts">
+      <trans-unit id="ShareMenu.AddToShortcuts" xml:space="preserve">
         <source>Add to Shortcuts</source>
+        <target>เพิ่มทางลัด</target>
         <note>Text for the share menu option when a user wants to add the site to Shortcuts</note>
       </trans-unit>
       <trans-unit id="ShareMenu.FindInPage" xml:space="preserve">
@@ -786,8 +791,9 @@
         <target>การกระทำหน้า</target>
         <note>Title for the share menu where users can take actions for the current website they are on.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.RemoveFromShortcuts">
+      <trans-unit id="ShareMenu.RemoveFromShortcuts" xml:space="preserve">
         <source>Remove from Shortcuts</source>
+        <target>ลบออกจากคำสั่งลัด</target>
         <note>Text for the share menu option when a user wants to remove the site from Shortcuts</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop" xml:space="preserve">
@@ -820,8 +826,9 @@
         <target>แบ่งปันหน้าด้วย...</target>
         <note>Text for the share menu option when a user wants to share the current website they are on through another app.</note>
       </trans-unit>
-      <trans-unit id="ShortcutView.RemoveFromShortcuts">
+      <trans-unit id="ShortcutView.RemoveFromShortcuts" xml:space="preserve">
         <source>Remove from Shortcuts</source>
+        <target>ลบออกจากคำสั่งลัด</target>
         <note>Text for the long press on a shortcut option in context menu.</note>
       </trans-unit>
       <trans-unit id="Siri.add" xml:space="preserve">
@@ -1009,12 +1016,14 @@
         <target>ตัวติดตามของการวิเคราะห์</target>
         <note>label for analytic trackers.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.connectionNotSecureLabel">
+      <trans-unit id="trackingProtection.connectionNotSecureLabel" xml:space="preserve">
         <source>Connection is not secure</source>
+        <target>การเชื่อมต่อไม่ปลอดภัย</target>
         <note>Text for tracking protection screen showing the connection is not secure</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.connectionSecureLabel">
+      <trans-unit id="trackingProtection.connectionSecureLabel" xml:space="preserve">
         <source>Connection is secure</source>
+        <target>การเชื่อมต่อปลอดภัย</target>
         <note>Text for tracking protection screen showing the connection is secure</note>
       </trans-unit>
       <trans-unit id="trackingProtection.contentTrackerLabel" xml:space="preserve">
@@ -1042,8 +1051,9 @@
         <target>เรียนรู้เพิ่มเติม</target>
         <note>Text for the button to learn more about Tracking Protection.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.moreSettings">
+      <trans-unit id="trackingProtection.moreSettings" xml:space="preserve">
         <source>More Settings</source>
+        <target>การตั้งค่าเพิ่มเติม</target>
         <note>Text for the button that closes the Shield Data and opens the regular Settings screen.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.socialTrackerLabel" xml:space="preserve">
@@ -1051,12 +1061,14 @@
         <target>ตัวติดตามทางสังคม</target>
         <note>label for social trackers.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.statusOff">
+      <trans-unit id="trackingProtection.statusOff" xml:space="preserve">
         <source>Protections are OFF for this session</source>
+        <target>การป้องกันถูก ปิด สำหรับวาระนี้</target>
         <note>Text for the status off from Tracking Protection.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.statusOn">
+      <trans-unit id="trackingProtection.statusOn" xml:space="preserve">
         <source>Protections are ON for this session</source>
+        <target>การป้องกันถูก เปิด สำหรับวาระนี้</target>
         <note>Text for the status on from Tracking Protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription1" xml:space="preserve">
@@ -1064,20 +1076,24 @@
         <target>ปิดใช้งานจนกระทั่งคุณปิด %@ หรือแตะ ล้าง</target>
         <note>Description for the tracking protection toggle. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.toggleLabel2">
+      <trans-unit id="trackingProtection.toggleLabel2" xml:space="preserve">
         <source>Enhanced Tracking Protection</source>
+        <target>การป้องกันการติดตามที่มากขึ้น</target>
         <note>Text for the toggle that enables/disables tracking protection.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.trackerDescriptionLabel2">
+      <trans-unit id="trackingProtection.trackerDescriptionLabel2" xml:space="preserve">
         <source>Keep your data to yourself. %@ protects you from many of the most common trackers that follow what you do online.</source>
+        <target>เก็บข้อมูลของคุณไว้กับตัวคุณเอง %@ ปกป้องคุณจากตัวติดตามที่พบบ่อยที่สุดซึ่งติดตามสิ่งที่คุณทำทางออนไลน์</target>
         <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.trackersBlockedLabel">
+      <trans-unit id="trackingProtection.trackersBlockedLabel" xml:space="preserve">
         <source>Trackers blocked since %@</source>
+        <target>ตัวติดตามถูกปิดกั้นตั้งแต่ %@</target>
         <note>Text for tracking protection screen showing the number of trackers blocked since the app install. The placeholder is replaced with the install date of the application.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.trackersHeader">
+      <trans-unit id="trackingProtection.trackersHeader" xml:space="preserve">
         <source>Trackers and scripts to block</source>
+        <target>ตัวติดตามและสคริปต์ที่จะปิดกั้น</target>
         <note>Text for the header of trackers section from Tracking Protection.</note>
       </trans-unit>
     </body>
