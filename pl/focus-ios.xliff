@@ -693,7 +693,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics2" xml:space="preserve">
         <source>Analytics</source>
-        <target>Analityka</target>
+        <target>Statystyki</target>
         <note>Label for the checkbox to toggle Analytics trackers</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts" xml:space="preserve">
