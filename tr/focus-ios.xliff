@@ -775,7 +775,7 @@
         <source>Add to Shortcuts</source>
         <note>Text for the share menu option when a user wants to add the site to Shortcuts</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.FindInPage">
+      <trans-unit id="ShareMenu.FindInPage" xml:space="preserve">
         <source>Find in Page</source>
         <target>Sayfada Bul</target>
         <note>Text for the share menu option when a user wants to open the find in page menu</note>
@@ -794,7 +794,7 @@
         <source>Remove from Shortcuts</source>
         <note>Text for the share menu option when a user wants to remove the site from Shortcuts</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.RequestDesktop">
+      <trans-unit id="ShareMenu.RequestDesktop" xml:space="preserve">
         <source>Request Desktop Site</source>
         <target>Masaüstü sitesini iste</target>
         <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
@@ -828,7 +828,7 @@
         <source>Remove from Shortcuts</source>
         <note>Text for the long press on a shortcut option in context menu.</note>
       </trans-unit>
-      <trans-unit id="Siri.add">
+      <trans-unit id="Siri.add" xml:space="preserve">
         <source>Add</source>
         <target>Ekle</target>
         <note>Button to add a favorite URL to Siri.</note>
@@ -1013,15 +1013,17 @@
         <target>Analitik takipçileri</target>
         <note>label for analytic trackers.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.connectionNotSecureLabel">
+      <trans-unit id="trackingProtection.connectionNotSecureLabel" xml:space="preserve">
         <source>Connection is not secure</source>
+        <target>Bağlantı güvenli değil</target>
         <note>Text for tracking protection screen showing the connection is not secure</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.connectionSecureLabel">
+      <trans-unit id="trackingProtection.connectionSecureLabel" xml:space="preserve">
         <source>Connection is secure</source>
+        <target>Bağlantı güvenli</target>
         <note>Text for tracking protection screen showing the connection is secure</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.contentTrackerLabel">
+      <trans-unit id="trackingProtection.contentTrackerLabel" xml:space="preserve">
         <source>Content trackers</source>
         <target>İçerik takipçileri</target>
         <note>label for content trackers.</note>
