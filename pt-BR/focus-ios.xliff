@@ -213,7 +213,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlPlaceholder" xml:space="preserve">
         <source>Paste or enter URL</source>
-        <target>Cole ou digite a URL</target>
+        <target>Cole ou digite uma URL</target>
         <note>Placeholder for the input field to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlWithPlus" xml:space="preserve">
@@ -243,7 +243,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin" xml:space="preserve">
         <source>Enable to have %@ autocomplete over 450 popular URLs in the address bar.</source>
-        <target>Habilite o %@ para ter preenchimento automático de mais de 450 URLs populares na barra de endereços.</target>
+        <target>Ative para o %@ completar automaticamente de mais de 450 URLs populares na barra de endereços.</target>
         <note>Description for enabling or disabling the default list. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultLabel" xml:space="preserve">
@@ -443,7 +443,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription" xml:space="preserve">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
-        <target>Bloqueie automaticamente os rastreadores on-line enquanto navega. Em seguida, toque para apagar páginas visitadas, pesquisas, cookies e senhas do seu dispositivo.</target>
+        <target>Bloqueie automaticamente rastreadores online ao navegar. Depois toque para apagar páginas visitadas, pesquisas, cookies e senhas do seu dispositivo.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline" xml:space="preserve">
@@ -1073,7 +1073,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription1" xml:space="preserve">
         <source>Disable until you close %@ or tap ERASE.</source>
-        <target>Desabilitar até você fechar o %@ ou tocar em APAGAR.</target>
+        <target>Desativa até você fechar o %@ ou tocar em APAGAR.</target>
         <note>Description for the tracking protection toggle. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel2" xml:space="preserve">
