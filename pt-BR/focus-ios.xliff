@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
         <source>This lets you take and upload photos.</source>
-        <target>Isso permite tirar fotos e enviá-las.</target>
+        <target>Isso permite tirar fotos e enviar.</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
@@ -17,17 +17,17 @@
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
         <source>Websites you visit may request your location.</source>
-        <target>Os sites que visita podem solicitar a sua localização.</target>
+        <target>Os sites que você visita podem solicitar a sua localização.</target>
         <note>Privacy - Location When In Use Usage Description</note>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
         <source>This lets you take and upload videos.</source>
-        <target>Isto lhe permite fazer e enviar vídeos.</target>
+        <target>Isto permite fazer e enviar vídeos.</target>
         <note>Privacy - Microphone Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
         <source>This lets you save and upload photos.</source>
-        <target>Isto lhe permite salvar e enviar fotos.</target>
+        <target>Isto permite salvar e enviar fotos.</target>
         <note>Privacy - Photo Library Additions Usage Description</note>
       </trans-unit>
       <trans-unit id="UIApplicationShortcutItemTitle.EraseAndOpen" xml:space="preserve">
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="About.privateBulletHeader" xml:space="preserve">
         <source>Use it as a private browser:</source>
-        <target>Usá-lo como um navegador privativo:</target>
+        <target>Usar como um navegador privativo:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp" xml:space="preserve">
@@ -158,7 +158,7 @@
       </trans-unit>
       <trans-unit id="About.safariBulletHeader" xml:space="preserve">
         <source>Use it as a Safari extension:</source>
-        <target>Usá-lo como uma extensão do Safari:</target>
+        <target>Usar como uma extensão do Safari:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.title" xml:space="preserve">
@@ -223,7 +223,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customDescriptoin" xml:space="preserve">
         <source>Add and manage custom autocomplete URLs.</source>
-        <target>Adicione e gerencie URLs personalizadas de preenchimento automático.</target>
+        <target>Adicione e gerencie URLs personalizadas a ser completadas automaticamente.</target>
         <note>Description for adding and managing custom autocomplete URLs</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customLabel" xml:space="preserve">
@@ -238,7 +238,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customUrlAdded" xml:space="preserve">
         <source>New Custom URL added.</source>
-        <target>Nova URL personalizada adicionada.</target>
+        <target>Adicionada nova URL personalizada.</target>
         <note>Label for toast alerting a custom URL has been added</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin" xml:space="preserve">
@@ -248,7 +248,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.defaultLabel" xml:space="preserve">
         <source>Autocomplete</source>
-        <target>Preenchimento automático</target>
+        <target>Completar automaticamente</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultTitle" xml:space="preserve">
@@ -263,12 +263,12 @@
       </trans-unit>
       <trans-unit id="Autocomplete.duplicateUrl" xml:space="preserve">
         <source>URL already exists</source>
-        <target>A URL já existe</target>
+        <target>Já existe a URL</target>
         <note>Label for toast alerting that the custom URL being added is a duplicate</note>
       </trans-unit>
       <trans-unit id="Autocomplete.emptyState" xml:space="preserve">
         <source>No Custom URLs to display</source>
-        <target>Não há URLs personalizadas para mostrar</target>
+        <target>Nenhuma URL personalizada</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.enabled" xml:space="preserve">
@@ -293,7 +293,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.topSites" xml:space="preserve">
         <source>Top Sites</source>
-        <target>Sites preferidos</target>
+        <target>Sites populares</target>
         <note>Label for enabling or disabling top sites</note>
       </trans-unit>
       <trans-unit id="BiometricPrompt.newSession" xml:space="preserve">
@@ -303,7 +303,7 @@
       </trans-unit>
       <trans-unit id="BiometricPrompt.reason" xml:space="preserve">
         <source>Unlock %@ when re-opening in order to prevent unauthorized access.</source>
-        <target>Desbloquear %@ quando reabrir para prevenir acesso não autorizado.</target>
+        <target>Desbloqueie o %@ ao reabrir para evitar acesso não autorizado.</target>
         <note>%@ is app name. Explanation for why the app needs access to biometric information. Prompt is only shown once when the user first tries to enable Face ID to open the app.</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel" xml:space="preserve">
@@ -398,12 +398,12 @@
       </trans-unit>
       <trans-unit id="ExternalLink.emailButton" xml:space="preserve">
         <source>Email</source>
-        <target>E-mail</target>
+        <target>Email</target>
         <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.messageTitleWithPlaceholder" xml:space="preserve">
         <source>You are now leaving %@.</source>
-        <target>Você está deixando o %@.</target>
+        <target>Você está agora saindo do %@.</target>
         <note>Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreButton" xml:space="preserve">
@@ -493,7 +493,7 @@
       </trans-unit>
       <trans-unit id="Request Desktop Site" xml:space="preserve">
         <source>Request Desktop Site</source>
-        <target>Requisitar site para desktop</target>
+        <target>Versão do site para desktop</target>
         <note>Label for button that requests the desktop version of the currently loaded website.</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers" xml:space="preserve">
@@ -598,7 +598,7 @@
       </trans-unit>
       <trans-unit id="Settings.autocompleteSection" xml:space="preserve">
         <source>URL Autocomplete</source>
-        <target>Preenchimento automático de URL</target>
+        <target>Completar URL automaticamente</target>
         <note>Title for the URL Autocomplete row</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage" xml:space="preserve">
@@ -798,7 +798,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop" xml:space="preserve">
         <source>Request Desktop Site</source>
-        <target>Requisitar site para desktop</target>
+        <target>Versão do site para desktop</target>
         <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RequestMobile" xml:space="preserve">
@@ -873,7 +873,7 @@
       </trans-unit>
       <trans-unit id="URL.addToAutocompleteLabel" xml:space="preserve">
         <source>Add link to autocomplete</source>
-        <target>Adicionar link para completar automaticamente</target>
+        <target>Adicionar link para ser completado automaticamente</target>
         <note>Label displayed for button used as a shortcut to add a link to the list of URLs to autocomplete.</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel" xml:space="preserve">
