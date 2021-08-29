@@ -176,12 +176,14 @@
         <target>OК</target>
         <note>Button to dismiss the 'Add Pass Failed' alert.</note>
       </trans-unit>
-      <trans-unit id="AddPass.Error.Message">
+      <trans-unit id="AddPass.Error.Message" xml:space="preserve">
         <source>An error occured while adding the pass to Wallet. Please try again later.</source>
+        <target>Парольді Wallet-ке қосу кезінде қате орын алды. Кейінірек қайталап көріңіз.</target>
         <note>Message of the 'Add Pass Failed' alert.</note>
       </trans-unit>
-      <trans-unit id="AddPass.Error.Title">
+      <trans-unit id="AddPass.Error.Title" xml:space="preserve">
         <source>Failed to Add Pass</source>
+        <target>Парольді қосу сәтсіз аяқталды</target>
         <note>Title of the 'Add Pass Failed' alert.</note>
       </trans-unit>
       <trans-unit id="Authentication.reason" xml:space="preserve">
@@ -604,12 +606,14 @@
         <target>Басқа трекерлерді блоктау кейбір видео және веб парақтарының жұмысына кері әсерін тигізуі мүмкін.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
-      <trans-unit id="Settings.blockOtherNo2">
+      <trans-unit id="Settings.blockOtherNo2" xml:space="preserve">
         <source>Cancel</source>
+        <target>Бас тарту</target>
         <note>Button label for declining Content blocker alert</note>
       </trans-unit>
-      <trans-unit id="Settings.blockOtherYes2">
+      <trans-unit id="Settings.blockOtherYes2" xml:space="preserve">
         <source>Block Content Trackers</source>
+        <target>Мазмұндық трекерлерді блоктау</target>
         <note>Button label for accepting Content blocker alert</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
@@ -682,12 +686,14 @@
         <target>ҚАУІПСІЗДІК</target>
         <note>Header label for security toggles displayed in the settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockAds2">
+      <trans-unit id="Settings.toggleBlockAds2" xml:space="preserve">
         <source>Advertising</source>
+        <target>Жарнама</target>
         <note>Label for the checkbox to toggle Advertising trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockAnalytics2">
+      <trans-unit id="Settings.toggleBlockAnalytics2" xml:space="preserve">
         <source>Analytics</source>
+        <target>Аналитика</target>
         <note>Label for the checkbox to toggle Analytics trackers</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts" xml:space="preserve">
@@ -695,12 +701,14 @@
         <target>Веб қаріптерін блоктау</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockOther2">
+      <trans-unit id="Settings.toggleBlockOther2" xml:space="preserve">
         <source>Content</source>
+        <target>Мазмұн</target>
         <note>Label for the checkbox to toggle Other trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockSocial2">
+      <trans-unit id="Settings.toggleBlockSocial2" xml:space="preserve">
         <source>Social</source>
+        <target>Әлеуметтік</target>
         <note>Label for the checkbox to toggle Social trackers</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceID" xml:space="preserve">
@@ -743,12 +751,14 @@
         <target>Touch ID %@ бұғаттауын URL қолданбана ашық тұрған кезде босата алады</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
-      <trans-unit id="Settings.trackingProtectionOff">
+      <trans-unit id="Settings.trackingProtectionOff" xml:space="preserve">
         <source>Off</source>
+        <target>Сөндірулі</target>
         <note>Status off for tracking protection in settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.trackingProtectionOn">
+      <trans-unit id="Settings.trackingProtectionOn" xml:space="preserve">
         <source>On</source>
+        <target>Іске қосулы</target>
         <note>Status on for tracking protection in settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle" xml:space="preserve">
@@ -761,8 +771,9 @@
         <target>SIRI ЖАРЛЫҚТАРЫ</target>
         <note>Title for settings section to enable different Siri Shortcuts.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.AddToShortcuts">
+      <trans-unit id="ShareMenu.AddToShortcuts" xml:space="preserve">
         <source>Add to Shortcuts</source>
+        <target>Жарлықтарға қосу</target>
         <note>Text for the share menu option when a user wants to add the site to Shortcuts</note>
       </trans-unit>
       <trans-unit id="ShareMenu.FindInPage" xml:space="preserve">
@@ -780,8 +791,9 @@
         <target>Бет әрекеттері</target>
         <note>Title for the share menu where users can take actions for the current website they are on.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.RemoveFromShortcuts">
+      <trans-unit id="ShareMenu.RemoveFromShortcuts" xml:space="preserve">
         <source>Remove from Shortcuts</source>
+        <target>Жарлықтардан өшіру</target>
         <note>Text for the share menu option when a user wants to remove the site from Shortcuts</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop" xml:space="preserve">
@@ -814,8 +826,9 @@
         <target>Бетті көмегімен бөлісу...</target>
         <note>Text for the share menu option when a user wants to share the current website they are on through another app.</note>
       </trans-unit>
-      <trans-unit id="ShortcutView.RemoveFromShortcuts">
+      <trans-unit id="ShortcutView.RemoveFromShortcuts" xml:space="preserve">
         <source>Remove from Shortcuts</source>
+        <target>Жарлықтардан өшіру</target>
         <note>Text for the long press on a shortcut option in context menu.</note>
       </trans-unit>
       <trans-unit id="Siri.add" xml:space="preserve">
@@ -878,8 +891,9 @@
         <target>ӨШІРУ</target>
         <note>Erase button in the URL bar</note>
       </trans-unit>
-      <trans-unit id="URL.eraseMessageLabel2">
+      <trans-unit id="URL.eraseMessageLabel2" xml:space="preserve">
         <source>Browsing history cleared</source>
+        <target>Шолу тарихы тазартылды</target>
         <note>Message shown after pressing the Erase button</note>
       </trans-unit>
       <trans-unit id="URL.findOnPageLabel" xml:space="preserve">
@@ -1002,12 +1016,14 @@
         <target>Аналитикалық трекерлер</target>
         <note>label for analytic trackers.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.connectionNotSecureLabel">
+      <trans-unit id="trackingProtection.connectionNotSecureLabel" xml:space="preserve">
         <source>Connection is not secure</source>
+        <target>Байланыс қауіпсіз емес</target>
         <note>Text for tracking protection screen showing the connection is not secure</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.connectionSecureLabel">
+      <trans-unit id="trackingProtection.connectionSecureLabel" xml:space="preserve">
         <source>Connection is secure</source>
+        <target>Байланыс қауіпсіз</target>
         <note>Text for tracking protection screen showing the connection is secure</note>
       </trans-unit>
       <trans-unit id="trackingProtection.contentTrackerLabel" xml:space="preserve">
@@ -1035,8 +1051,9 @@
         <target>Көбірек білу</target>
         <note>Text for the button to learn more about Tracking Protection.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.moreSettings">
+      <trans-unit id="trackingProtection.moreSettings" xml:space="preserve">
         <source>More Settings</source>
+        <target>Көбірек баптаулар</target>
         <note>Text for the button that closes the Shield Data and opens the regular Settings screen.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.socialTrackerLabel" xml:space="preserve">
@@ -1044,12 +1061,14 @@
         <target>Әлеуметтік трекерлер</target>
         <note>label for social trackers.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.statusOff">
+      <trans-unit id="trackingProtection.statusOff" xml:space="preserve">
         <source>Protections are OFF for this session</source>
+        <target>Бұл сессия үшін қорғаныс СӨНДІРІЛГЕН</target>
         <note>Text for the status off from Tracking Protection.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.statusOn">
+      <trans-unit id="trackingProtection.statusOn" xml:space="preserve">
         <source>Protections are ON for this session</source>
+        <target>Бұл сессия үшін қорғаныс ІСКЕ ҚОСЫЛҒАН</target>
         <note>Text for the status on from Tracking Protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription1" xml:space="preserve">
@@ -1057,20 +1076,24 @@
         <target>%@ жабу немесе ӨШІРУ шертуге дейін сөндіру.</target>
         <note>Description for the tracking protection toggle. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.toggleLabel2">
+      <trans-unit id="trackingProtection.toggleLabel2" xml:space="preserve">
         <source>Enhanced Tracking Protection</source>
+        <target>Бақылаудан кеңейтілген қорғаныс</target>
         <note>Text for the toggle that enables/disables tracking protection.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.trackerDescriptionLabel2">
+      <trans-unit id="trackingProtection.trackerDescriptionLabel2" xml:space="preserve">
         <source>Keep your data to yourself. %@ protects you from many of the most common trackers that follow what you do online.</source>
+        <target>Деректеріңізді тек өзіңіз үшін қалдырыңыз. %@ желіде сіздің соңыңыздан еретін ең кең тараған трекерлердің көбінен қорғайды.</target>
         <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.trackersBlockedLabel">
+      <trans-unit id="trackingProtection.trackersBlockedLabel" xml:space="preserve">
         <source>Trackers blocked since %@</source>
+        <target>%@ бастап, бұғатталған трекер саны</target>
         <note>Text for tracking protection screen showing the number of trackers blocked since the app install. The placeholder is replaced with the install date of the application.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.trackersHeader">
+      <trans-unit id="trackingProtection.trackersHeader" xml:space="preserve">
         <source>Trackers and scripts to block</source>
+        <target>Бұғаттау үшін трекерлер және скрипттер</target>
         <note>Text for the header of trackers section from Tracking Protection.</note>
       </trans-unit>
     </body>
@@ -1080,8 +1103,9 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
-      <trans-unit id="SettingsBundle.Licenses">
+      <trans-unit id="SettingsBundle.Licenses" xml:space="preserve">
         <source>Licenses</source>
+        <target>Лицензиялар</target>
         <note>The title of the Licenses setting in the settings that Focus shows in the global iOS Settings app.</note>
       </trans-unit>
     </body>
