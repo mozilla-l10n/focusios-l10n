@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet1" xml:space="preserve">
         <source>Search and browse right in the app</source>
-        <target>Αναζητήστε και περιηγηθείτε εντός της εφαρμογής</target>
+        <target>Αναζήτηση και περιήγηση</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet2" xml:space="preserve">
@@ -148,17 +148,17 @@
       </trans-unit>
       <trans-unit id="About.safariBullet1" xml:space="preserve">
         <source>Block trackers for improved privacy</source>
-        <target>Αποκλείστε trackers για βελτιωμένο απόρρητο</target>
+        <target>Φραγή ιχνηλατών για περισσότερο απόρρητο</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2" xml:space="preserve">
         <source>Block web fonts to reduce page size</source>
-        <target>Αποκλείστε τις γραμματοσειρές ιστού για μείωση μεγέθους σελίδας</target>
+        <target>Φραγή γραμματοσειρών ιστού για τη μείωση μεγέθους σελίδων</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader" xml:space="preserve">
         <source>Use it as a Safari extension:</source>
-        <target>Χρησιμοποιήστε το ως επέκταση του Safari:</target>
+        <target>Χρησιμοποιήστε το με το Safari για:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.title" xml:space="preserve">
@@ -188,7 +188,7 @@
       </trans-unit>
       <trans-unit id="Authentication.reason" xml:space="preserve">
         <source>Authenticate to return to %@</source>
-        <target>Πιστοποίηση για επιστροφή στο %@</target>
+        <target>Ταυτοποίηση για επιστροφή στο %@</target>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID, Face ID, or passcode to continue browsing after returning to the app.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrl" xml:space="preserve">
@@ -198,7 +198,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlError" xml:space="preserve">
         <source>Double-check the URL you entered.</source>
-        <target>Ελέγξτε ξανά το URL που εισαγάγατε.</target>
+        <target>Ελέγξτε ξανά το URL που πληκτρολογήσατε.</target>
         <note>Label for error state when entering an invalid URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlExample" xml:space="preserve">
@@ -208,7 +208,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlLabel" xml:space="preserve">
         <source>URL to add</source>
-        <target>URL προς προσθήκη</target>
+        <target>URL για προσθήκη</target>
         <note>Label for the input to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlPlaceholder" xml:space="preserve">
@@ -223,17 +223,17 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customDescriptoin" xml:space="preserve">
         <source>Add and manage custom autocomplete URLs.</source>
-        <target>Προσθέστε και διαχειριστείτε προσαρμοσμένα URLs αυτόματης συμπλήρωσης.</target>
+        <target>Προσθήκη και διαχείριση προσαρμοσμένων URL αυτόματης συμπλήρωσης.</target>
         <note>Description for adding and managing custom autocomplete URLs</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customLabel" xml:space="preserve">
         <source>Custom URLs</source>
-        <target>Προσαρμοσμένα URLs</target>
+        <target>Προσαρμοσμένα URL</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customTitle" xml:space="preserve">
         <source>CUSTOM URL LIST</source>
-        <target>ΛΙΣΤΑ ΠΡΟΣΑΡΜΟΣΜΕΝΩΝ URL</target>
+        <target>ΛΙΣΤΑ URL ΧΡΗΣΤΗ</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customUrlAdded" xml:space="preserve">
@@ -243,7 +243,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin" xml:space="preserve">
         <source>Enable to have %@ autocomplete over 450 popular URLs in the address bar.</source>
-        <target>Ενεργοποιήστε το ώστε το %@ να συμπληρώνει αυτόματα πάνω από 450 δημοφιλή URLs στη γραμμή διευθύνσεων.</target>
+        <target>Ενεργοποιήστε το για συμπλήρωση πάνω από 450 δημοφιλών URL στη γραμμή διευθύνσεων του %@.</target>
         <note>Description for enabling or disabling the default list. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultLabel" xml:space="preserve">
@@ -253,7 +253,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.defaultTitle" xml:space="preserve">
         <source>DEFAULT URL LIST</source>
-        <target>ΛΙΣΤΑ ΠΡΟΕΠΙΛΕΓΜΕΝΩΝ URL</target>
+        <target>ΛΙΣΤΑ ΑΡΧΙΚΩΝ URL</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
       <trans-unit id="Autocomplete.disabled" xml:space="preserve">
@@ -268,7 +268,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.emptyState" xml:space="preserve">
         <source>No Custom URLs to display</source>
-        <target>Κανένα προσαρμοσμένο URLs προς προβολή</target>
+        <target>Κανένα προσαρμοσμένο URL για προβολή</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.enabled" xml:space="preserve">
@@ -278,22 +278,22 @@
       </trans-unit>
       <trans-unit id="Autocomplete.manageSites" xml:space="preserve">
         <source>Manage Sites</source>
-        <target>Διαχείριση ιστοσελίδων</target>
+        <target>Διαχείριση ιστοτόπων</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
       <trans-unit id="Autocomplete.mySites" xml:space="preserve">
         <source>My Sites</source>
-        <target>Οι ιστοσελίδες μου</target>
+        <target>Οι ιστότοποί μου</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
       <trans-unit id="Autocomplete.mySitesDesc" xml:space="preserve">
         <source>Enable to have %@ autocomplete your favorite URLs.</source>
-        <target>Ενεργοποιήστε για να συμπληρώνει αυτόματα το %@ τα αγαπημένα σας URLs.</target>
+        <target>Ενεργοποιήστε το για συμπλήρωση των αγαπημένων σας URL στο %@.</target>
         <note>Description for adding and managing custom autocomplete URLs. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.topSites" xml:space="preserve">
         <source>Top Sites</source>
-        <target>Κορυφαίες ιστοσελίδες</target>
+        <target>Κορυφαίοι ιστότοποι</target>
         <note>Label for enabling or disabling top sites</note>
       </trans-unit>
       <trans-unit id="BiometricPrompt.newSession" xml:space="preserve">
@@ -303,7 +303,7 @@
       </trans-unit>
       <trans-unit id="BiometricPrompt.reason" xml:space="preserve">
         <source>Unlock %@ when re-opening in order to prevent unauthorized access.</source>
-        <target>Ξεκλείδωμα του %@ κατά το εκ νέου άνοιγμα προς αποτροπή μη εξουσιοδοτημένης πρόσβασης.</target>
+        <target>Ξεκλείδωμα του %@ όταν ανοίγει ξανά για αποτροπή μη εξουσιοδοτημένης πρόσβασης.</target>
         <note>%@ is app name. Explanation for why the app needs access to biometric information. Prompt is only shown once when the user first tries to enable Face ID to open the app.</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel" xml:space="preserve">
@@ -368,7 +368,7 @@
       </trans-unit>
       <trans-unit id="Error.tryAgainButton" xml:space="preserve">
         <source>Try again</source>
-        <target>Δοκιμάστε ξανά</target>
+        <target>Δοκιμή ξανά</target>
         <note>Button label to reload the error page</note>
       </trans-unit>
       <trans-unit id="ExternalAppLink.cancelTitle" xml:space="preserve">
@@ -403,7 +403,7 @@
       </trans-unit>
       <trans-unit id="ExternalLink.messageTitleWithPlaceholder" xml:space="preserve">
         <source>You are now leaving %@.</source>
-        <target>Πρόκειται να αποχωρήσετε από το %@.</target>
+        <target>Πρόκειται να φύγετε από το %@.</target>
         <note>Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreButton" xml:space="preserve">
@@ -438,17 +438,17 @@
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel" xml:space="preserve">
         <source>OK, Got It!</source>
-        <target>OK, το 'πιασα!</target>
+        <target>OK, κατάλαβα!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription" xml:space="preserve">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
-        <target>Αποκλείστε αυτόματα τα διαδικτυακά trackers όσο περιηγείστε. Έπειτα, πατήστε για διαγραφή του ιστορικού, των αναζητήσεων, των cookies και των κωδικών πρόσβασης από τη συσκευή σας.</target>
+        <target>Αυτόματη φραγή ιχνηλατών κατά την περιήγηση. Πατήστε για διαγραφή του ιστορικού, των αναζητήσεων, των cookie και των κωδικών πρόσβασης από τη συσκευή σας.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline" xml:space="preserve">
         <source>Browse like no one’s watching.</source>
-        <target>Περιηγηθείτε σαν να μην σάς βλέπει κανείς.</target>
+        <target>Περιηγηθείτε σαν να μην σας βλέπει κανείς.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="Focus.handoffSyncing" xml:space="preserve">
@@ -463,7 +463,7 @@
       </trans-unit>
       <trans-unit id="Home.descriptionLabel2" xml:space="preserve">
         <source>Browse. Erase. Repeat.</source>
-        <target>Περιηγηθείτε. Διαγράψτε. Επαναλάβετε.</target>
+        <target>Περιήγηση. Διαγραφή. Επανάληψη.</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Menu.Close" xml:space="preserve">
@@ -498,7 +498,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers" xml:space="preserve">
         <source>Tap Safari, then select Content Blockers</source>
-        <target>Πατήστε το Safari και, έπειτα, επιλέξτε Προγράμματα αποκλεισμού περιεχομένου</target>
+        <target>Πατήστε το Safari και επιλέξτε «Προγράμματα αποκλεισμού περιεχομένου»</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsEnable" xml:space="preserve">
@@ -513,7 +513,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsOpen" xml:space="preserve">
         <source>Open Settings App</source>
-        <target>Άνοιγμα εφαρμογής "Ρυθμίσεις"</target>
+        <target>Άνοιγμα εφαρμογής «Ρυθμίσεις»</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
@@ -523,7 +523,7 @@
       </trans-unit>
       <trans-unit id="SearchEngine.addEngineError" xml:space="preserve">
         <source>That didn't work. Try replacing the search term with this: %s.</source>
-        <target>Δεν λειτούργησε. Δοκιμάστε να αντικαταστήσετε τον όρο αναζήτησης με αυτό: %s.</target>
+        <target>Δεν λειτούργησε. Αντικαταστήσετε τον όρο αναζήτησης με αυτό: %s.</target>
         <note>Label for error state when entering an invalid search engine URL. %s is a search term in a URL.</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptDisable" xml:space="preserve">
@@ -553,7 +553,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButtonWithPlus" xml:space="preserve">
         <source>+ Add Another Search Engine</source>
-        <target>+ Προσθήκη μιας άλλης μηχανής αναζήτησης</target>
+        <target>+ Προσθήκη άλλης μηχανής αναζήτησης</target>
         <note>Text for button to add another search engine in settings with the + prefix</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineTitle" xml:space="preserve">
@@ -568,7 +568,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.NameToDisplay" xml:space="preserve">
         <source>Name to display</source>
-        <target>Όνομα προς εμφάνιση</target>
+        <target>Όνομα προς προβολή</target>
         <note>Label for input field for the name of the search engine to be added</note>
       </trans-unit>
       <trans-unit id="Settings.Search.NewSearchEngineAdded" xml:space="preserve">
@@ -578,7 +578,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.RestoreEngine" xml:space="preserve">
         <source>Restore Default Search Engines</source>
-        <target>Επαναφορά προεπιλεγμένων μηχανών αναζήτησης</target>
+        <target>Επαναφορά αρχικών μηχανών αναζήτησης</target>
         <note>Label for button to bring deleted default engines back</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchEngineName" xml:space="preserve">
@@ -588,12 +588,12 @@
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplate" xml:space="preserve">
         <source>Search string to use</source>
-        <target>Νήμα αναζήτησης για χρήση</target>
+        <target>Όρος αναζήτησης για χρήση</target>
         <note>Label for input of search engine template</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplatePlaceholder" xml:space="preserve">
         <source>Paste or enter search string. If necessary, replace search term with: %s.</source>
-        <target>Επικολλήστε ή εισάγετε ένα νήμα αναζήτησης. Αν πρέπει, αντικαταστήστε τον όρο αναζήτηση με: %s.</target>
+        <target>Επικολλήστε ή εισαγάγετε έναν όρο αναζήτησης. Αν πρέπει, αντικαταστήστε τον όρο αναζήτησης με: %s.</target>
         <note>Placeholder text for input of new search engine template</note>
       </trans-unit>
       <trans-unit id="Settings.autocompleteSection" xml:space="preserve">
@@ -603,7 +603,7 @@
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage" xml:space="preserve">
         <source>Blocking other content trackers may break some videos and web pages.</source>
-        <target>Η φραγή των trackers άλλου περιεχομένου ενδέχεται να χαλάσει μερικά βίντεο και ιστοσελίδες.</target>
+        <target>Η φραγή ιχνηλατών άλλου περιεχομένου ενδέχεται να χαλάσει μερικά βίντεο και ιστοσελίδες.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo2" xml:space="preserve">
