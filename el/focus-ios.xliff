@@ -618,12 +618,12 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
         <source>%@ will send what you type in the address bar to your search engine.</source>
-        <target>Το %@ θα στείλει ό,τι πληκτρολογείτε στη γραμμή διευθύνσεων στη μηχανή αναζήτησης.</target>
+        <target>Το %@ θα στέλνει όσα πληκτρολογείτε στη γραμμή διευθύνσεων στη μηχανή αναζήτησής σας.</target>
         <note>Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData" xml:space="preserve">
         <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
-        <target>Η Mozilla αγωνίζεται για να συλλέγει μόνο ό,τι χρειάζεται για να παρέχει και να βελτιώνει το %@ για όλους.</target>
+        <target>Η Mozilla προσπαθεί να συλλέγει μόνο όσα χρειάζεται για να παρέχει και να βελτιώνει το %@ για όλους.</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.learnMore" xml:space="preserve">
@@ -673,7 +673,7 @@
       </trans-unit>
       <trans-unit id="Settings.sectionPerformance" xml:space="preserve">
         <source>PERFORMANCE</source>
-        <target>ΑΠΟΔΟΣΗ</target>
+        <target>ΕΠΙΔΟΣΕΙΣ</target>
         <note>Section label for performance toggles</note>
       </trans-unit>
       <trans-unit id="Settings.sectionPrivacy" xml:space="preserve">
@@ -713,12 +713,12 @@
       </trans-unit>
       <trans-unit id="Settings.toggleFaceID" xml:space="preserve">
         <source>Use Face ID to unlock app</source>
-        <target>Χρήση Face ID για ξεκλείδωμα εφαρμογής</target>
+        <target>Χρήση Face ID για ξεκλείδωμα</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceIDDescription" xml:space="preserve">
         <source>Face ID can unlock %@ if a URL is already open in the app</source>
-        <target>Το Face ID μπορεί να ξεκλειδώσει το %@ αν ένα URL είναι ήδη ανοικτό στην εφαρμογή</target>
+        <target>Το Face ID μπορεί να ξεκλειδώσει το %@ αν είναι ήδη ανοικτό κάποιο URL</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.toggleHomeScreenTips" xml:space="preserve">
@@ -728,7 +728,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle" xml:space="preserve">
         <source>May break some videos and Web pages</source>
-        <target>Ενδέχεται να χαλάσει μερικά βίντεο και ιστοσελίδες</target>
+        <target>Ίσως χαλάσει μερικά βίντεο και ιστοσελίδες</target>
         <note>Label subtitle for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSafari" xml:space="preserve">
@@ -743,12 +743,12 @@
       </trans-unit>
       <trans-unit id="Settings.toggleTouchID" xml:space="preserve">
         <source>Use Touch ID to unlock app</source>
-        <target>Χρήση Touch ID για ξεκλείδωμα εφαρμογής</target>
+        <target>Χρήση Touch ID για ξεκλείδωμα</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleTouchIDDescription" xml:space="preserve">
         <source>Touch ID can unlock %@ if a URL is already open in the app</source>
-        <target>Το Touch ID μπορεί να ξεκλειδώσει το %@ αν ένα URL είναι ήδη ανοικτό στην εφαρμογή</target>
+        <target>Το Touch ID μπορεί να ξεκλειδώσει το %@ αν είναι ήδη ανοικτό κάποιο URL</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.trackingProtectionOff" xml:space="preserve">
@@ -803,7 +803,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.RequestMobile" xml:space="preserve">
         <source>Request Mobile Site</source>
-        <target>Απαίτηση ιστοσελίδας για κινητά</target>
+        <target>Έκδοση για κινητά</target>
         <note>Text for the share menu option when a user wants to reload the site as a mobile device</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenChrome" xml:space="preserve">
@@ -853,17 +853,17 @@
       </trans-unit>
       <trans-unit id="Siri.eraseAndOpen" xml:space="preserve">
         <source>Erase &amp; Open</source>
-        <target>Διαγραφή &amp; Άνοιγμα</target>
+        <target>Διαγραφή &amp; άνοιγμα</target>
         <note>Title of option in settings to set up Siri to erase and then open the app.</note>
       </trans-unit>
       <trans-unit id="Siri.favoriteUrl" xml:space="preserve">
         <source>Open Favorite Site</source>
-        <target>Άνοιγμα αγαπημένης ιστοσελίδας</target>
+        <target>Άνοιγμα αγαπημένου ιστοτόπου</target>
         <note>Title for screen to add a favorite URL to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.openURL" xml:space="preserve">
         <source>Open Favorite Site</source>
-        <target>Άνοιγμα αγαπημένης ιστοσελίδας</target>
+        <target>Άνοιγμα αγαπημένου ιστοτόπου</target>
         <note>Title of option in settings to set up Siri to open a specified URL in Focus/Klar.</note>
       </trans-unit>
       <trans-unit id="Siri.urlToOpen" xml:space="preserve">
@@ -893,7 +893,7 @@
       </trans-unit>
       <trans-unit id="URL.eraseMessageLabel2" xml:space="preserve">
         <source>Browsing history cleared</source>
-        <target>Το ιστορικό περιήγησης διαγράφηκε</target>
+        <target>Το ιστορικό περιήγησης απαλείφθηκε</target>
         <note>Message shown after pressing the Erase button</note>
       </trans-unit>
       <trans-unit id="URL.findOnPageLabel" xml:space="preserve">
@@ -918,7 +918,7 @@
       </trans-unit>
       <trans-unit id="URL.trackersBlockedLabel" xml:space="preserve">
         <source>Trackers blocked</source>
-        <target>Αποκλείστηκαν ιχνηλάτες</target>
+        <target>Αποκλεισμένοι ιχνηλάτες</target>
         <note>Text for the URL bar showing the number of trackers blocked on a webpage.</note>
       </trans-unit>
       <trans-unit id="actionSheet.openIn" xml:space="preserve">
@@ -933,7 +933,7 @@
       </trans-unit>
       <trans-unit id="browserShortcutDescription.selectLocationBar" xml:space="preserve">
         <source>Select Location Bar</source>
-        <target>Επιλέξτε γραμμή τοποθεσίας</target>
+        <target>Επιλογή γραμμής διευθύνσεων</target>
         <note>Label to display in the Discoverability overlay for keyboard shortcuts</note>
       </trans-unit>
       <trans-unit id="contextMenu.clipboardLink" xml:space="preserve">
