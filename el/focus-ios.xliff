@@ -7,27 +7,27 @@
     <body>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
         <source>This lets you take and upload photos.</source>
-        <target>Αυτό σάς επιτρέπει να τραβάτε και να μεταφορτώνετε φωτογραφίες.</target>
+        <target>Επιτρέπει τη λήψη και μεταφόρτωση φωτογραφιών.</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
         <source>This lets you unlock the app.</source>
-        <target>Σάς επιτρέπει να ξεκλειδώσετε την εφαρμογή.</target>
+        <target>Επιτρέπει να ξεκλειδώνετε την εφαρμογή.</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
         <source>Websites you visit may request your location.</source>
-        <target>Οι ιστοσελίδες που επισκέπτεστε ενδέχεται να ζητήσουν την τοποθεσία σας.</target>
+        <target>Οι ιστότοποι ενδέχεται να ζητήσουν την τοποθεσία σας.</target>
         <note>Privacy - Location When In Use Usage Description</note>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
         <source>This lets you take and upload videos.</source>
-        <target>Αυτό σάς επιτρέπει να τραβάτε και να μεταφορτώνετε βίντεο.</target>
+        <target>Επιτρέπει τη λήψη και μεταφόρτωση βίντεο.</target>
         <note>Privacy - Microphone Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
         <source>This lets you save and upload photos.</source>
-        <target>Αυτό σάς επιτρέπει να αποθηκεύετε και να μεταφορτώνετε φωτογραφίες.</target>
+        <target>Επιτρέπει την αποθήκευση και μεταφόρτωση φωτογραφιών.</target>
         <note>Privacy - Photo Library Additions Usage Description</note>
       </trans-unit>
       <trans-unit id="UIApplicationShortcutItemTitle.EraseAndOpen" xml:space="preserve">
@@ -56,7 +56,7 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description" xml:space="preserve">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
-        <target>Εκκαθάριση ιστορικού συνεδρίας περιήγησης, κωδικών πρόσβασης, cookies οποτεδήποτε με ένα πάτημα.</target>
+        <target>Απαλοιφή ιστορικού περιήγησης, κωδικών πρόσβασης, cookie ανά πάσα στιγμή, με ένα πάτημα.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title" xml:space="preserve">
@@ -76,7 +76,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Title" xml:space="preserve">
         <source>Your search, your way</source>
-        <target>Η αναζήτησή σας, με το δικό σας τρόπο</target>
+        <target>Αναζήτηση με τον δικό σας τρόπο</target>
         <note>Title for the second  panel 'Search' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Skip.Button" xml:space="preserve">
@@ -86,7 +86,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description" xml:space="preserve">
         <source>Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.</source>
-        <target>Αυτό είναι το επόμενο επίπεδο ιδιωτικής περιήγησης. Αποκλείστε διαφημίσεις και περιεχόμενο που μπορεί να καταγράψει τη δραστηριότητά σας και να επιβραδύνει τη φόρτωση σελίδων.</target>
+        <target>Μεταβείτε στο επόμενο επίπεδο ιδιωτικής περιήγησης. Αποκλείστε διαφημίσεις και περιεχόμενο που μπορεί να καταγράψει τη δραστηριότητά σας και να επιβραδύνει τη φόρτωση σελίδων.</target>
         <note>Description for the 'Welcome' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Title" xml:space="preserve">
@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit id="About.missionLabel" xml:space="preserve">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
-        <target>Το %@ δημιουργήθηκε από τη Mozilla. Η αποστολή μας είναι να προαγάγουμε ένα υγιές, ανοιχτό διαδίκτυο.</target>
+        <target>Το %@ αναπτύσσεται από τη Mozilla. Αποστολή μας είναι ένα υγιές και ανοικτό διαδίκτυο.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet1" xml:space="preserve">
@@ -118,17 +118,17 @@
       </trans-unit>
       <trans-unit id="About.privateBullet2" xml:space="preserve">
         <source>Block trackers (or update settings to allow trackers)</source>
-        <target>Αποκλείστε trackers (ή ενημερώστε τις ρυθμίσεις σας ώστε να επιτρέπονται)</target>
+        <target>Φραγή ιχνηλατών (ή αποδοχή, ενημερώνοντας τις ρυθμίσεις)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3" xml:space="preserve">
         <source>Erase to delete cookies as well as search and browsing history</source>
-        <target>Διαγράψτε τα cookies, καθώς και το ιστορικό αναζητήσεων και περιήγησης</target>
+        <target>Διαγραφή των cookie και του ιστορικού αναζητήσεων και περιήγησης</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader" xml:space="preserve">
         <source>Use it as a private browser:</source>
-        <target>Χρησιμοποιήστε το ως πρόγραμμα ιδιωτικής περιήγησης:</target>
+        <target>Χρησιμοποιήστε το για:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp" xml:space="preserve">
