@@ -538,7 +538,7 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptMessage" xml:space="preserve">
         <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
-        <target>Per ottene suggestioni di ricerca, %@ hà bisognu di mandà à u mutore di ricerca ciò chì vo scrivite in a barra d’indirizzu.</target>
+        <target>Per ottene sugestioni di ricerca, %@ hà bisognu di mandà à u mutore di ricerca ciò chì vo scrivite in a barra d’indirizzu.</target>
         <note>%@ is the name of the app (Focus / Klar). Label for search suggestions prompt message</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptTitle" xml:space="preserve">
@@ -653,7 +653,7 @@
       </trans-unit>
       <trans-unit id="Settings.searchSuggestions" xml:space="preserve">
         <source>Get Search Suggestions</source>
-        <target>Ottene suggestioni di ricerca</target>
+        <target>Ottene sugestioni di ricerca</target>
         <note>Label for the Search Suggestions toggle row</note>
       </trans-unit>
       <trans-unit id="Settings.searchTitle2" xml:space="preserve">
