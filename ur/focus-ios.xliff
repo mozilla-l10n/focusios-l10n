@@ -89,8 +89,9 @@
         <target>نجی برائوزنگ کو اگلی سطح پر لے کر جائیں۔ اشتہارات اور دیگر مواد جو آپ کی مختلف سائٹ پر سراغ راہ کاری کر کے صفحہ کہ لوڈ ہوبے کے وقت کو سست کر سکتا ہے۔</target>
         <note>Description for the 'Welcome' panel in the First Run tour.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Welcome.Title">
+      <trans-unit id="Intro.Slides.Welcome.Title" xml:space="preserve">
         <source>Power up your privacy</source>
+        <target>آپ کی نجی نوعیت کو پاور اپ کرے</target>
         <note>Title for the first panel 'Welcome' in the First Run tour.</note>
       </trans-unit>
     </body>
@@ -179,8 +180,9 @@
         <source>An error occured while adding the pass to Wallet. Please try again later.</source>
         <note>Message of the 'Add Pass Failed' alert.</note>
       </trans-unit>
-      <trans-unit id="AddPass.Error.Title">
+      <trans-unit id="AddPass.Error.Title" xml:space="preserve">
         <source>Failed to Add Pass</source>
+        <target>پاس شامل کرنے میں ناکام رہا</target>
         <note>Title of the 'Add Pass Failed' alert.</note>
       </trans-unit>
       <trans-unit id="Authentication.reason">
@@ -753,8 +755,9 @@
         <target>SIRI SHORTCUTS</target>
         <note>Title for settings section to enable different Siri Shortcuts.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.AddToShortcuts">
+      <trans-unit id="ShareMenu.AddToShortcuts" xml:space="preserve">
         <source>Add to Shortcuts</source>
+        <target>شارٹ کٹ میں شامل کریں</target>
         <note>Text for the share menu option when a user wants to add the site to Shortcuts</note>
       </trans-unit>
       <trans-unit id="ShareMenu.FindInPage" xml:space="preserve">
@@ -772,8 +775,9 @@
         <target>صفحہ اعمال</target>
         <note>Title for the share menu where users can take actions for the current website they are on.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.RemoveFromShortcuts">
+      <trans-unit id="ShareMenu.RemoveFromShortcuts" xml:space="preserve">
         <source>Remove from Shortcuts</source>
+        <target>شارٹ کٹ سے ہٹائیں</target>
         <note>Text for the share menu option when a user wants to remove the site from Shortcuts</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop" xml:space="preserve">
@@ -806,8 +810,9 @@
         <target>…کے ساتھ صفحہ شیئر کریں</target>
         <note>Text for the share menu option when a user wants to share the current website they are on through another app.</note>
       </trans-unit>
-      <trans-unit id="ShortcutView.RemoveFromShortcuts">
+      <trans-unit id="ShortcutView.RemoveFromShortcuts" xml:space="preserve">
         <source>Remove from Shortcuts</source>
+        <target>شارٹ کٹ سے ہٹائیں</target>
         <note>Text for the long press on a shortcut option in context menu.</note>
       </trans-unit>
       <trans-unit id="Siri.add" xml:space="preserve">
@@ -990,8 +995,9 @@
         <target>تجزیاتی ٹریکررز</target>
         <note>label for analytic trackers.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.connectionNotSecureLabel">
+      <trans-unit id="trackingProtection.connectionNotSecureLabel" xml:space="preserve">
         <source>Connection is not secure</source>
+        <target>کنکشن محفوظ نہیں ہے</target>
         <note>Text for tracking protection screen showing the connection is not secure</note>
       </trans-unit>
       <trans-unit id="trackingProtection.connectionSecureLabel" xml:space="preserve">
@@ -1014,8 +1020,9 @@
         <target>سراغ راہ حفاظت</target>
         <note>Title for the tracking settings page to change what trackers are blocked.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.labelDescription">
+      <trans-unit id="trackingProtection.labelDescription" xml:space="preserve">
         <source>Turning this off may fix some site problems</source>
+        <target>اسے بند کرنے سے سائٹ کے کچھ مسائل ٹھیک ہو سکتے ہیں۔</target>
         <note>Description/subtitle for the tracking protection label.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.learnMore" xml:space="preserve">
@@ -1046,16 +1053,18 @@
         <target>%@ کے بند ہونے تک نااہل بنائیں یا ERASE کو تھبتھبائیں۔</target>
         <note>Description for the tracking protection toggle. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.toggleLabel2">
+      <trans-unit id="trackingProtection.toggleLabel2" xml:space="preserve">
         <source>Enhanced Tracking Protection</source>
+        <target>توسيعى سراغ کاری تحفظ</target>
         <note>Text for the toggle that enables/disables tracking protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.trackerDescriptionLabel2">
         <source>Keep your data to yourself. %@ protects you from many of the most common trackers that follow what you do online.</source>
         <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.trackersBlockedLabel">
+      <trans-unit id="trackingProtection.trackersBlockedLabel" xml:space="preserve">
         <source>Trackers blocked since %@</source>
+        <target>ٹریکرز %@ سے بلاک ہیں۔</target>
         <note>Text for tracking protection screen showing the number of trackers blocked since the app install. The placeholder is replaced with the install date of the application.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.trackersHeader">
