@@ -1,36 +1,38 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Blockzilla/en.lproj/InfoPlist.strings" source-language="en" target-language="fa" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
-      <trans-unit id="NSCameraUsageDescription">
+      <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
         <source>This lets you take and upload photos.</source>
         <target>به شما اجازه گرفتن و بارگذاری تصاویر را می‌دهد.</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSFaceIDUsageDescription">
+      <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
         <source>This lets you unlock the app.</source>
         <target>این به شما کمک می‌کند قفل برنامه را باز کنید.</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSLocationWhenInUseUsageDescription">
+      <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
         <source>Websites you visit may request your location.</source>
         <target>وب‌سایت‌هایی که بازدید می‌کنید ممکن است مکان شما را درخواست کنند.</target>
         <note>Privacy - Location When In Use Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSMicrophoneUsageDescription">
+      <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
         <source>This lets you take and upload videos.</source>
         <target>به شما اجازه گرفتن و بارگذاری ویدئوها را می‌دهد.</target>
         <note>Privacy - Microphone Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSPhotoLibraryAddUsageDescription">
+      <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
         <source>This lets you save and upload photos.</source>
         <target>این به شما اجازه می‌ دهد تصاویر ذخیره و بارگذاری کنید.</target>
         <note>Privacy - Photo Library Additions Usage Description</note>
       </trans-unit>
-      <trans-unit id="UIApplicationShortcutItemTitle.EraseAndOpen">
+      <trans-unit id="UIApplicationShortcutItemTitle.EraseAndOpen" xml:space="preserve">
         <source>Erase and Open</source>
+        <target>حذف و باز کن</target>
         <note>This is the menu item that appears when you long press the Focus icon on the phone home screen.</note>
       </trans-unit>
     </body>
@@ -40,8 +42,9 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
-      <trans-unit id="Intents.Erase.Title">
+      <trans-unit id="Intents.Erase.Title" xml:space="preserve">
         <source>Erase</source>
+        <target>پاک کردن</target>
         <note>Title of the Erase intent.</note>
       </trans-unit>
     </body>
@@ -51,42 +54,42 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
-      <trans-unit id="Intro.Slides.History.Description">
+      <trans-unit id="Intro.Slides.History.Description" xml:space="preserve">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
         <target>تمام تاریخچه،‌کلمه عبور،‌و کوکی های جلسه مرورگر خود را در هر زمانی تنها با یک لمس پاک کنید.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.History.Title">
+      <trans-unit id="Intro.Slides.History.Title" xml:space="preserve">
         <source>Your history is history</source>
         <target>تایخچه شما تاریخچه خود شماست</target>
         <note>Title for the third  panel 'History' in the First Run tour.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Next.Button">
+      <trans-unit id="Intro.Slides.Next.Button" xml:space="preserve">
         <source>Next</source>
         <target>بعدی</target>
         <note>Button to go to the next card in Focus onboarding.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Search.Description">
+      <trans-unit id="Intro.Slides.Search.Description" xml:space="preserve">
         <source>Searching for something different? Choose a different search engine.</source>
         <target>دنبال چیز متفاوتی میگردید؟ موتور جست‌وجو متفاوتی را انتخاب کنید.</target>
         <note>Description for the 'Favorite Search Engine' panel in the First Run tour.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Search.Title">
+      <trans-unit id="Intro.Slides.Search.Title" xml:space="preserve">
         <source>Your search, your way</source>
         <target>جست‌وجو شما،‌راه شما</target>
         <note>Title for the second  panel 'Search' in the First Run tour.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Skip.Button">
+      <trans-unit id="Intro.Slides.Skip.Button" xml:space="preserve">
         <source>Skip</source>
         <target>پرش</target>
         <note>Button to skip onboarding in Focus</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Welcome.Description">
+      <trans-unit id="Intro.Slides.Welcome.Description" xml:space="preserve">
         <source>Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.</source>
         <target>پیشرفت مرورگر خصوصی به سطحی بالاتر. مسدود کردن تبلیغات و محتواهای دیگر که می‌تواند شما را در طول بازدید وب‌سایت ها رهگیری کنند یا زمان بارگذاری صفحه را همانند گیرکردن در باتلاق کم کنند.</target>
         <note>Description for the 'Welcome' panel in the First Run tour.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Welcome.Title">
+      <trans-unit id="Intro.Slides.Welcome.Title" xml:space="preserve">
         <source>Power up your privacy</source>
         <target>حریم شخصی خود را ارتقاع دهید</target>
         <note>Title for the first panel 'Welcome' in the First Run tour.</note>
@@ -98,975 +101,999 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
-      <trans-unit id="About.learnMoreButton">
+      <trans-unit id="About.learnMoreButton" xml:space="preserve">
         <source>Learn more</source>
         <target>بیشتر بدانید</target>
         <note>Button on About screen</note>
       </trans-unit>
-      <trans-unit id="About.missionLabel">
+      <trans-unit id="About.missionLabel" xml:space="preserve">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
         <target>برنامهٔ %@ توسط موزیلا تولید شده است. ماموریت ما پرورشِ اینترنتی سالم و باز می‌باشد.</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.privateBullet1">
+      <trans-unit id="About.privateBullet1" xml:space="preserve">
         <source>Search and browse right in the app</source>
         <target>بدون خروج از برنامه، اینترنت را جست‌وجو و مرور کنید</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.privateBullet2">
+      <trans-unit id="About.privateBullet2" xml:space="preserve">
         <source>Block trackers (or update settings to allow trackers)</source>
         <target>ردیاب‌ها را مسدود کنید (یا اینکه تنظیمات خود را برای اجازه دادن به ردیاب‌ها تغییر دهید)</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.privateBullet3">
+      <trans-unit id="About.privateBullet3" xml:space="preserve">
         <source>Erase to delete cookies as well as search and browsing history</source>
         <target>پاک کنید تا اطلاعاتی مانند کوکی‌ها و همچنین جست‌وجوها و تاریخچه مرور حذف شوند</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.privateBulletHeader">
+      <trans-unit id="About.privateBulletHeader" xml:space="preserve">
         <source>Use it as a private browser:</source>
         <target>از این برنامه به عنوان یک مرورگر ناشناس استفاده کنید:</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.rowHelp">
+      <trans-unit id="About.rowHelp" xml:space="preserve">
         <source>Help</source>
         <target>راهنما</target>
         <note>Label for row in About screen</note>
       </trans-unit>
-      <trans-unit id="About.rowPrivacy">
+      <trans-unit id="About.rowPrivacy" xml:space="preserve">
         <source>Privacy Notice</source>
         <target>نکات حریم‌خصوصی</target>
         <note>Link to Privacy Notice in the About screen</note>
       </trans-unit>
-      <trans-unit id="About.rowRights">
+      <trans-unit id="About.rowRights" xml:space="preserve">
         <source>Your Rights</source>
         <target>حقوق شما</target>
         <note>Label for row in About screen</note>
       </trans-unit>
-      <trans-unit id="About.safariBullet1">
+      <trans-unit id="About.safariBullet1" xml:space="preserve">
         <source>Block trackers for improved privacy</source>
         <target>ردیاب‌ها را برای بهبود حریم‌خصوصی خود مسدود کنید</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.safariBullet2">
+      <trans-unit id="About.safariBullet2" xml:space="preserve">
         <source>Block web fonts to reduce page size</source>
         <target>قلم‌های وب را برای کاهش حجم صفحه‌ها مسدود کنید</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.safariBulletHeader">
+      <trans-unit id="About.safariBulletHeader" xml:space="preserve">
         <source>Use it as a Safari extension:</source>
         <target>از آن به عنوان یک افزونه برای Safari استفاده کنید:</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.title">
+      <trans-unit id="About.title" xml:space="preserve">
         <source>About %@</source>
         <target>درباره %@</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, takes the user to a page with information about the product. Also displayed as a header for the About page.</note>
       </trans-unit>
-      <trans-unit id="About.topLabel">
+      <trans-unit id="About.topLabel" xml:space="preserve">
         <source>%@ puts you in control.</source>
         <target>برنامهٔ %@ شما را در کنترل قرار می‌دهد.</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="AddPass.Error.Dismiss">
+      <trans-unit id="AddPass.Error.Dismiss" xml:space="preserve">
         <source>Ok</source>
+        <target>قبول</target>
         <note>Button to dismiss the 'Add Pass Failed' alert.</note>
       </trans-unit>
-      <trans-unit id="AddPass.Error.Message">
+      <trans-unit id="AddPass.Error.Message" xml:space="preserve">
         <source>An error occured while adding the pass to Wallet. Please try again later.</source>
+        <target>یک خطا هنگام اضافه کردن گذرواژه به Wallet رخ داد. لطفا بعدا دوباره تلاش کنید.</target>
         <note>Message of the 'Add Pass Failed' alert.</note>
       </trans-unit>
-      <trans-unit id="AddPass.Error.Title">
+      <trans-unit id="AddPass.Error.Title" xml:space="preserve">
         <source>Failed to Add Pass</source>
+        <target>اضافه کردن گذرواژه شکست خورد</target>
         <note>Title of the 'Add Pass Failed' alert.</note>
       </trans-unit>
-      <trans-unit id="Authentication.reason">
+      <trans-unit id="Authentication.reason" xml:space="preserve">
         <source>Authenticate to return to %@</source>
         <target>بخشیدن اعتبار برای بازگشت به %@</target>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID, Face ID, or passcode to continue browsing after returning to the app.</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.addCustomUrl">
+      <trans-unit id="Autocomplete.addCustomUrl" xml:space="preserve">
         <source>Add Custom URL</source>
         <target>اضافه کردن نشانی سفارشی</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.addCustomUrlError">
+      <trans-unit id="Autocomplete.addCustomUrlError" xml:space="preserve">
         <source>Double-check the URL you entered.</source>
         <target>نشانی که وارد کردید را دوباره بررسی کنید.</target>
         <note>Label for error state when entering an invalid URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.addCustomUrlExample">
+      <trans-unit id="Autocomplete.addCustomUrlExample" xml:space="preserve">
         <source>Example: example.com</source>
         <target>مثال: example.com</target>
         <note>A label displaying an example URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.addCustomUrlLabel">
+      <trans-unit id="Autocomplete.addCustomUrlLabel" xml:space="preserve">
         <source>URL to add</source>
         <target>نشانی برای اضافه کردن</target>
         <note>Label for the input to add a custom URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.addCustomUrlPlaceholder">
+      <trans-unit id="Autocomplete.addCustomUrlPlaceholder" xml:space="preserve">
         <source>Paste or enter URL</source>
         <target>جای‌گذاری یا ورود نشانی</target>
         <note>Placeholder for the input field to add a custom URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.addCustomUrlWithPlus">
+      <trans-unit id="Autocomplete.addCustomUrlWithPlus" xml:space="preserve">
         <source>+ Add Custom URL</source>
         <target>+ اضافه کردن نشانی سفارشی</target>
         <note>Label for button to add a custom URL with the + prefix</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.customDescriptoin">
+      <trans-unit id="Autocomplete.customDescriptoin" xml:space="preserve">
         <source>Add and manage custom autocomplete URLs.</source>
         <target>اضافه و مدیریت کردنِ تکمیل خودکار نشانی‌های سفارشی.</target>
         <note>Description for adding and managing custom autocomplete URLs</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.customLabel">
+      <trans-unit id="Autocomplete.customLabel" xml:space="preserve">
         <source>Custom URLs</source>
         <target>نشانی‌های سفارشی</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.customTitle">
+      <trans-unit id="Autocomplete.customTitle" xml:space="preserve">
         <source>CUSTOM URL LIST</source>
         <target>فهرست نشانی‌های سفارشی</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.customUrlAdded">
+      <trans-unit id="Autocomplete.customUrlAdded" xml:space="preserve">
         <source>New Custom URL added.</source>
         <target>نشانیِ سفارشیِ جدید اضافه شد.</target>
         <note>Label for toast alerting a custom URL has been added</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.defaultDescriptoin">
+      <trans-unit id="Autocomplete.defaultDescriptoin" xml:space="preserve">
         <source>Enable to have %@ autocomplete over 450 popular URLs in the address bar.</source>
         <target>برای داشتن تکمیل خودکار %@ برای بیش از ۴۵۰ نشانی محبوب در نوار آدرس، فعال کنید.</target>
         <note>Description for enabling or disabling the default list. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.defaultLabel">
+      <trans-unit id="Autocomplete.defaultLabel" xml:space="preserve">
         <source>Autocomplete</source>
         <target>تکمیل خودکار</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.defaultTitle">
+      <trans-unit id="Autocomplete.defaultTitle" xml:space="preserve">
         <source>DEFAULT URL LIST</source>
         <target>فهرست نشانی‌های پیش‌فرض</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.disabled">
+      <trans-unit id="Autocomplete.disabled" xml:space="preserve">
         <source>Disabled</source>
         <target>غیرفعال شد</target>
         <note>label describing URL Autocomplete as disabled</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.duplicateUrl">
+      <trans-unit id="Autocomplete.duplicateUrl" xml:space="preserve">
         <source>URL already exists</source>
         <target>URL در حال حاضر موجود می باشد</target>
         <note>Label for toast alerting that the custom URL being added is a duplicate</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.emptyState">
+      <trans-unit id="Autocomplete.emptyState" xml:space="preserve">
         <source>No Custom URLs to display</source>
         <target>هیچ نشانی سفارشی برای نمایش وجود ندارد</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.enabled">
+      <trans-unit id="Autocomplete.enabled" xml:space="preserve">
         <source>Enabled</source>
         <target>فعال شد</target>
         <note>label describing URL Autocomplete as enabled</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.manageSites">
+      <trans-unit id="Autocomplete.manageSites" xml:space="preserve">
         <source>Manage Sites</source>
         <target>مدیریت پایگاه‌های اینترنتی</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.mySites">
+      <trans-unit id="Autocomplete.mySites" xml:space="preserve">
         <source>My Sites</source>
         <target>پایگاه‌های اینترنتی من</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.mySitesDesc">
+      <trans-unit id="Autocomplete.mySitesDesc" xml:space="preserve">
         <source>Enable to have %@ autocomplete your favorite URLs.</source>
         <target>فعالسازی برای داشتن پرکردن خودکار %@ برای URLs مورد علاقه شما.</target>
         <note>Description for adding and managing custom autocomplete URLs. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.topSites">
+      <trans-unit id="Autocomplete.topSites" xml:space="preserve">
         <source>Top Sites</source>
         <target>پایگاه‌های اینترنتی برتر</target>
         <note>Label for enabling or disabling top sites</note>
       </trans-unit>
-      <trans-unit id="BiometricPrompt.newSession">
+      <trans-unit id="BiometricPrompt.newSession" xml:space="preserve">
         <source>New Session</source>
         <target>جلسه جدید</target>
         <note>Create a new session after failing a biometric check</note>
       </trans-unit>
-      <trans-unit id="BiometricPrompt.reason">
+      <trans-unit id="BiometricPrompt.reason" xml:space="preserve">
         <source>Unlock %@ when re-opening in order to prevent unauthorized access.</source>
         <target>بازکردن قفل %@ هنگامی که برای جلوگیری از دسترسی بدون اجازه باز می‌شود.</target>
         <note>%@ is app name. Explanation for why the app needs access to biometric information. Prompt is only shown once when the user first tries to enable Face ID to open the app.</note>
       </trans-unit>
-      <trans-unit id="Browser.backLabel">
+      <trans-unit id="Browser.backLabel" xml:space="preserve">
         <source>Back</source>
         <target>بازگشت</target>
         <note>Accessibility label for the back button</note>
       </trans-unit>
-      <trans-unit id="Browser.copyAddressLabel">
+      <trans-unit id="Browser.copyAddressLabel" xml:space="preserve">
         <source>Copy Address</source>
         <target>برداشت آدرس</target>
         <note>Copy URL button in URL long press menu</note>
       </trans-unit>
-      <trans-unit id="Browser.copyMenuLabel">
+      <trans-unit id="Browser.copyMenuLabel" xml:space="preserve">
         <source>Copy</source>
         <target>برداشت</target>
         <note>Copy URL button in URL long press menu</note>
       </trans-unit>
-      <trans-unit id="Browser.customURLMenuLabel">
+      <trans-unit id="Browser.customURLMenuLabel" xml:space="preserve">
         <source>Add Custom URL</source>
         <target>اضافه کردنURL دلخواه</target>
         <note>Custom URL button in URL long press menu</note>
       </trans-unit>
-      <trans-unit id="Browser.forwardLabel">
+      <trans-unit id="Browser.forwardLabel" xml:space="preserve">
         <source>Forward</source>
         <target>جلو</target>
         <note>Accessibility label for the forward button</note>
       </trans-unit>
-      <trans-unit id="Browser.reloadLabel">
+      <trans-unit id="Browser.reloadLabel" xml:space="preserve">
         <source>Reload</source>
         <target>بارگیری دوباره</target>
         <note>Accessibility label for the reload button</note>
       </trans-unit>
-      <trans-unit id="Browser.settingsLabel">
+      <trans-unit id="Browser.settingsLabel" xml:space="preserve">
         <source>Settings</source>
         <target>تنظیمات</target>
         <note>Accessibility label for the settings button</note>
       </trans-unit>
-      <trans-unit id="Browser.shareLabel">
+      <trans-unit id="Browser.shareLabel" xml:space="preserve">
         <source>Share</source>
         <target>اشتراک‌گذاری</target>
         <note>Accessibility label for the share button</note>
       </trans-unit>
-      <trans-unit id="Browser.stopLabel">
+      <trans-unit id="Browser.stopLabel" xml:space="preserve">
         <source>Stop</source>
         <target>توقف</target>
         <note>Accessibility label for the stop button</note>
       </trans-unit>
-      <trans-unit id="Cancel">
+      <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
         <target>لغو</target>
         <note>Label on button to cancel edits</note>
       </trans-unit>
-      <trans-unit id="Done">
+      <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
         <target>انجام شد</target>
         <note>Label on button to complete edits</note>
       </trans-unit>
-      <trans-unit id="Edit">
+      <trans-unit id="Edit" xml:space="preserve">
         <source>Edit</source>
         <target>ویرایش</target>
         <note>Label on button to allow edits</note>
       </trans-unit>
-      <trans-unit id="Error.tryAgainButton">
+      <trans-unit id="Error.tryAgainButton" xml:space="preserve">
         <source>Try again</source>
         <target>تلاش دوباره</target>
         <note>Button label to reload the error page</note>
       </trans-unit>
-      <trans-unit id="ExternalAppLink.cancelTitle">
+      <trans-unit id="ExternalAppLink.cancelTitle" xml:space="preserve">
         <source>Cancel</source>
         <target>انصراف</target>
         <note>Button label used for cancelling to open another app from Focus</note>
       </trans-unit>
-      <trans-unit id="ExternalAppLink.messageTitle">
+      <trans-unit id="ExternalAppLink.messageTitle" xml:space="preserve">
         <source>%@ wants to open another App</source>
         <target>%@ می‌خواهد برنامه دیگری را باز کند</target>
         <note>Dialog title used for opening an external app from Focus. The placeholder string is the app name of either Focus or Klar.</note>
       </trans-unit>
-      <trans-unit id="ExternalAppLink.openTitle">
+      <trans-unit id="ExternalAppLink.openTitle" xml:space="preserve">
         <source>Open</source>
         <target>باز کردن</target>
         <note>Button label for opening another app from Focus</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.callButton">
+      <trans-unit id="ExternalLink.callButton" xml:space="preserve">
         <source>Call</source>
         <target>تماس</target>
         <note>Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.cancelButton">
+      <trans-unit id="ExternalLink.cancelButton" xml:space="preserve">
         <source>Cancel</source>
         <target>لغو</target>
         <note>Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.emailButton">
+      <trans-unit id="ExternalLink.emailButton" xml:space="preserve">
         <source>Email</source>
         <target>پست‌الکترونیکی</target>
         <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.messageTitleWithPlaceholder">
+      <trans-unit id="ExternalLink.messageTitleWithPlaceholder" xml:space="preserve">
         <source>You are now leaving %@.</source>
         <target>شما در حال ترک %@ هستید.</target>
         <note>Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.openAppStoreButton">
+      <trans-unit id="ExternalLink.openAppStoreButton" xml:space="preserve">
         <source>Open App Store</source>
         <target>باز کردن فروشگاه برنامه‌ها</target>
         <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.openAppStoreTitle">
+      <trans-unit id="ExternalLink.openAppStoreTitle" xml:space="preserve">
         <source>%@ wants to open the App Store.</source>
         <target>%@ می‌خواهد در فروشگاه برنامه ها باز شود.</target>
         <note>Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.openMapsButton">
+      <trans-unit id="ExternalLink.openMapsButton" xml:space="preserve">
         <source>Open Maps</source>
         <target>باز کردن نقشه</target>
         <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="FindInPage.Done">
+      <trans-unit id="FindInPage.Done" xml:space="preserve">
         <source>Find in page done</source>
         <target>پیدا در صفحه انجام شد</target>
         <note>Accessibility label for done button in Find in Page Toolbar.</note>
       </trans-unit>
-      <trans-unit id="FindInPage.NextResult">
+      <trans-unit id="FindInPage.NextResult" xml:space="preserve">
         <source>Find next in page</source>
         <target>پیاده کردن بعدی در صفحه</target>
         <note>Accessibility label for next result button in Find in Page Toolbar.</note>
       </trans-unit>
-      <trans-unit id="FindInPage.PreviousResult">
+      <trans-unit id="FindInPage.PreviousResult" xml:space="preserve">
         <source>Find previous in page</source>
         <target>پیدا کردن قبلی در صفحه</target>
         <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
       </trans-unit>
-      <trans-unit id="FirstRun.lastSlide.buttonLabel">
+      <trans-unit id="FirstRun.lastSlide.buttonLabel" xml:space="preserve">
         <source>OK, Got It!</source>
         <target>باشه، گرفتم!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
-      <trans-unit id="FirstRun.messageLabelDescription">
+      <trans-unit id="FirstRun.messageLabelDescription" xml:space="preserve">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
         <target>به طور خودکار ردیاب‌های آنلاین را هنگام مرورِ خود مسدود کنید. سپس تنها با یک ضربه صفحه‌های بازدید کرده، جست‌وجوها، کوکی‌ها و گذرواژه‌های خود را از روی دستگاه حذف کنید.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
-      <trans-unit id="FirstRun.messageLabelTagline">
+      <trans-unit id="FirstRun.messageLabelTagline" xml:space="preserve">
         <source>Browse like no one’s watching.</source>
         <target>بدون دغدغهٔ نگاه‌ها مرور کنید.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
-      <trans-unit id="Focus.handoffSyncing">
+      <trans-unit id="Focus.handoffSyncing" xml:space="preserve">
         <source>Apple Handoff is syncing</source>
         <target>در حال همگام‌سازی Apple Handoff</target>
         <note>Title for the loading screen when the handoff of clipboard delays Focus launch. “Handoff” should not be localized, see https://support.apple.com/HT204681</note>
       </trans-unit>
-      <trans-unit id="Home.descriptionLabel1">
+      <trans-unit id="Home.descriptionLabel1" xml:space="preserve">
         <source>Automatic private browsing.</source>
         <target>مرورِ خودکارِ ناشناس.</target>
         <note>First label for product description on the home screen</note>
       </trans-unit>
-      <trans-unit id="Home.descriptionLabel2">
+      <trans-unit id="Home.descriptionLabel2" xml:space="preserve">
         <source>Browse. Erase. Repeat.</source>
         <target>مرور کنید. پاک کنید. تکرار کنید.</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
-      <trans-unit id="Menu.Close">
+      <trans-unit id="Menu.Close" xml:space="preserve">
         <source>Close</source>
         <target>بستن</target>
         <note>Button label used to close a menu that displays as a popup.</note>
       </trans-unit>
-      <trans-unit id="Open.Cancel">
+      <trans-unit id="Open.Cancel" xml:space="preserve">
         <source>Cancel</source>
         <target>لغو</target>
         <note>Label in share alert to cancel the alert</note>
       </trans-unit>
-      <trans-unit id="Open.Firefox">
+      <trans-unit id="Open.Firefox" xml:space="preserve">
         <source>Firefox (Private Browsing)</source>
         <target>فایرفاکس (مرور ناشناس)</target>
         <note>Label in share alert to open the URL in Firefox</note>
       </trans-unit>
-      <trans-unit id="Open.More">
+      <trans-unit id="Open.More" xml:space="preserve">
         <source>More</source>
         <target>بیشتر</target>
         <note>Label in share alert to open the full system share menu</note>
       </trans-unit>
-      <trans-unit id="Open.Safari">
+      <trans-unit id="Open.Safari" xml:space="preserve">
         <source>Safari</source>
         <target>Safari</target>
         <note>Label in share alert to open the URL in Safari</note>
       </trans-unit>
-      <trans-unit id="Request Desktop Site">
+      <trans-unit id="Request Desktop Site" xml:space="preserve">
         <source>Request Desktop Site</source>
         <target>درخواست نسخه رو میزی وب‌سایت</target>
         <note>Label for button that requests the desktop version of the currently loaded website.</note>
       </trans-unit>
-      <trans-unit id="Safari.instructionsContentBlockers">
+      <trans-unit id="Safari.instructionsContentBlockers" xml:space="preserve">
         <source>Tap Safari, then select Content Blockers</source>
         <target>بر روی Safari بزنید و سپس Content Blockers را انتخاب کنید</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
-      <trans-unit id="Safari.instructionsEnable">
+      <trans-unit id="Safari.instructionsEnable" xml:space="preserve">
         <source>Enable %@</source>
         <target>فعال‌سازی %@</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
-      <trans-unit id="Safari.instructionsNotEnabled">
+      <trans-unit id="Safari.instructionsNotEnabled" xml:space="preserve">
         <source>%@ is not enabled.</source>
         <target>برنامه %@ فعال نیست.</target>
         <note>Error label when the blocker is not enabled, shown in the intro and main app when disabled</note>
       </trans-unit>
-      <trans-unit id="Safari.instructionsOpen">
+      <trans-unit id="Safari.instructionsOpen" xml:space="preserve">
         <source>Open Settings App</source>
         <target>باز کردن برنامهٔ تنظیمات</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
-      <trans-unit id="Save">
+      <trans-unit id="Save" xml:space="preserve">
         <source>Save</source>
         <target>ذخیره</target>
         <note>Save button label</note>
       </trans-unit>
-      <trans-unit id="SearchEngine.addEngineError">
+      <trans-unit id="SearchEngine.addEngineError" xml:space="preserve">
         <source>That didn't work. Try replacing the search term with this: %s.</source>
         <target>اگر آن کار نکرد. جایگزین کرد شرط جست‌ و جو با %s را امتحان کنید.</target>
         <note>Label for error state when entering an invalid search engine URL. %s is a search term in a URL.</note>
       </trans-unit>
-      <trans-unit id="SearchSuggestions.promptDisable">
+      <trans-unit id="SearchSuggestions.promptDisable" xml:space="preserve">
         <source>No</source>
         <target>خیر</target>
         <note>Label for disable option on search suggestions prompt</note>
       </trans-unit>
-      <trans-unit id="SearchSuggestions.promptEnable">
+      <trans-unit id="SearchSuggestions.promptEnable" xml:space="preserve">
         <source>Yes</source>
         <target>بله</target>
         <note>Label for enable option on search suggestions prompt</note>
       </trans-unit>
-      <trans-unit id="SearchSuggestions.promptMessage">
+      <trans-unit id="SearchSuggestions.promptMessage" xml:space="preserve">
         <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
         <target>برای دریافت پیشنهادات،‌ %@ نیاز دارد تا آدرسی که در آدرس بار تایپ می‌کنید رو به موتور جست‌ و جو ارسال کند.</target>
         <note>%@ is the name of the app (Focus / Klar). Label for search suggestions prompt message</note>
       </trans-unit>
-      <trans-unit id="SearchSuggestions.promptTitle">
+      <trans-unit id="SearchSuggestions.promptTitle" xml:space="preserve">
         <source>Show Search Suggestions?</source>
         <target>دریافت پیشنهادات جست و جو؟</target>
         <note>Title for search suggestions prompt</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.AddSearchEngineButton">
+      <trans-unit id="Settings.Search.AddSearchEngineButton" xml:space="preserve">
         <source>Add Another Search Engine</source>
         <target>اضافه کردن موتور جست‌وجو دیگر</target>
         <note>Text for button to add another search engine in settings</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.AddSearchEngineButtonWithPlus">
+      <trans-unit id="Settings.Search.AddSearchEngineButtonWithPlus" xml:space="preserve">
         <source>+ Add Another Search Engine</source>
         <target>+ اضافه کردن موتور جست‌وجو دیگر</target>
         <note>Text for button to add another search engine in settings with the + prefix</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.AddSearchEngineTitle">
+      <trans-unit id="Settings.Search.AddSearchEngineTitle" xml:space="preserve">
         <source>Add Search Engine</source>
         <target>اضافه کردن موتور جست‌وجو</target>
         <note>Title on add search engine settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.InstalledSearchEngines">
+      <trans-unit id="Settings.Search.InstalledSearchEngines" xml:space="preserve">
         <source>INSTALLED SEARCH ENGINES</source>
         <target>موتورهای جست‌وجو نصب شده</target>
         <note>Header for rows of installed search engines</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.NameToDisplay">
+      <trans-unit id="Settings.Search.NameToDisplay" xml:space="preserve">
         <source>Name to display</source>
         <target>نام جهت نمایش</target>
         <note>Label for input field for the name of the search engine to be added</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.NewSearchEngineAdded">
+      <trans-unit id="Settings.Search.NewSearchEngineAdded" xml:space="preserve">
         <source>New Search Engine Added.</source>
         <target>موتور جست‌وجو جدید اضافه شد.</target>
         <note>Toast displayed after adding a search engine</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.RestoreEngine">
+      <trans-unit id="Settings.Search.RestoreEngine" xml:space="preserve">
         <source>Restore Default Search Engines</source>
         <target>بازآوری موتورهای جست‌وجو پیش‌فرض</target>
         <note>Label for button to bring deleted default engines back</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.SearchEngineName">
+      <trans-unit id="Settings.Search.SearchEngineName" xml:space="preserve">
         <source>Search engine name</source>
         <target>نام موتور جست‌وجو</target>
         <note>Placeholder text for input of new search engine name</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.SearchTemplate">
+      <trans-unit id="Settings.Search.SearchTemplate" xml:space="preserve">
         <source>Search string to use</source>
         <target>رشته جست‌وجو برای اضافه کردن</target>
         <note>Label for input of search engine template</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.SearchTemplatePlaceholder">
+      <trans-unit id="Settings.Search.SearchTemplatePlaceholder" xml:space="preserve">
         <source>Paste or enter search string. If necessary, replace search term with: %s.</source>
         <target>جای‌گذاری یا ورود رشتهٔ جست‌وجو. در صورت لزوم، شرط جست‌وجو را با %s جایگزین کنید.</target>
         <note>Placeholder text for input of new search engine template</note>
       </trans-unit>
-      <trans-unit id="Settings.autocompleteSection">
+      <trans-unit id="Settings.autocompleteSection" xml:space="preserve">
         <source>URL Autocomplete</source>
         <target>تکمیل خودکار نشانی</target>
         <note>Title for the URL Autocomplete row</note>
       </trans-unit>
-      <trans-unit id="Settings.blockOtherMessage">
+      <trans-unit id="Settings.blockOtherMessage" xml:space="preserve">
         <source>Blocking other content trackers may break some videos and web pages.</source>
         <target>مسدود کردن سایر ردیاب‌های محتوا ممکن است باعث خراب شدن تعدادی از فیلم‌ها و صفحات وب شود.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
-      <trans-unit id="Settings.blockOtherNo2">
+      <trans-unit id="Settings.blockOtherNo2" xml:space="preserve">
         <source>Cancel</source>
+        <target>انصراف</target>
         <note>Button label for declining Content blocker alert</note>
       </trans-unit>
-      <trans-unit id="Settings.blockOtherYes2">
+      <trans-unit id="Settings.blockOtherYes2" xml:space="preserve">
         <source>Block Content Trackers</source>
+        <target>مسدود کردن دنبال کنندگان آنلاین</target>
         <note>Button label for accepting Content blocker alert</note>
       </trans-unit>
-      <trans-unit id="Settings.detailTextSearchSuggestion">
+      <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
         <source>%@ will send what you type in the address bar to your search engine.</source>
         <target>%@ آدرسی که در نوار آدرس وارد کنید را به موتور جست‌ و جو ارسال می‌کند.</target>
         <note>Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
-      <trans-unit id="Settings.detailTextSendUsageData">
+      <trans-unit id="Settings.detailTextSendUsageData" xml:space="preserve">
         <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
         <target>موزیلا تلاش می‌کند تنها اطلاعاتی که برای بهینه‌سازی %@ برای همه به آنها نیاز دارد را جمع‌آوری کند.</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
-      <trans-unit id="Settings.learnMore">
+      <trans-unit id="Settings.learnMore" xml:space="preserve">
         <source>Learn more.</source>
         <target>بیشتر بدانید.</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.rate">
+      <trans-unit id="Settings.rate" xml:space="preserve">
         <source>Rate %@</source>
         <target>نرخ %@</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, allows the user to leave a review for the app on the app store.</note>
       </trans-unit>
-      <trans-unit id="Settings.safariTitle">
+      <trans-unit id="Settings.safariTitle" xml:space="preserve">
         <source>SAFARI INTEGRATION</source>
         <target>SAFARI INTEGRATION</target>
         <note>Label for Safari integration section</note>
       </trans-unit>
-      <trans-unit id="Settings.screenTitle">
+      <trans-unit id="Settings.screenTitle" xml:space="preserve">
         <source>Settings</source>
         <target>تنظیمات</target>
         <note>Title for settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.searchLabel">
+      <trans-unit id="Settings.searchLabel" xml:space="preserve">
         <source>Search Engine</source>
         <target>موتور جست‌وجو</target>
         <note>Label for the search engine in the search screen</note>
       </trans-unit>
-      <trans-unit id="Settings.searchSuggestions">
+      <trans-unit id="Settings.searchSuggestions" xml:space="preserve">
         <source>Get Search Suggestions</source>
         <target>دریافت پیشنهادات جست‌ و جو</target>
         <note>Label for the Search Suggestions toggle row</note>
       </trans-unit>
-      <trans-unit id="Settings.searchTitle2">
+      <trans-unit id="Settings.searchTitle2" xml:space="preserve">
         <source>SEARCH</source>
         <target>جست‌وجو</target>
         <note>Title for the search selection screen</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionIntegration">
+      <trans-unit id="Settings.sectionIntegration" xml:space="preserve">
         <source>INTEGRATION</source>
         <target>یکپارچگی</target>
         <note>Label for Safari integration section</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionMozilla">
+      <trans-unit id="Settings.sectionMozilla" xml:space="preserve">
         <source>MOZILLA</source>
         <target>موزیلا</target>
         <note>Section label for Mozilla toggles</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionPerformance">
+      <trans-unit id="Settings.sectionPerformance" xml:space="preserve">
         <source>PERFORMANCE</source>
         <target>کارایی</target>
         <note>Section label for performance toggles</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionPrivacy">
+      <trans-unit id="Settings.sectionPrivacy" xml:space="preserve">
         <source>PRIVACY</source>
         <target>حریم‌خصوصی</target>
         <note>Section label for privacy toggles</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionSecurity">
+      <trans-unit id="Settings.sectionSecurity" xml:space="preserve">
         <source>SECURITY</source>
         <target>SECURITY</target>
         <note>Header label for security toggles displayed in the settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockAds2">
+      <trans-unit id="Settings.toggleBlockAds2" xml:space="preserve">
         <source>Advertising</source>
+        <target>تبلیغات</target>
         <note>Label for the checkbox to toggle Advertising trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockAnalytics2">
+      <trans-unit id="Settings.toggleBlockAnalytics2" xml:space="preserve">
         <source>Analytics</source>
+        <target>تجزیه و تحلیل</target>
         <note>Label for the checkbox to toggle Analytics trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockFonts">
+      <trans-unit id="Settings.toggleBlockFonts" xml:space="preserve">
         <source>Block web fonts</source>
         <target>مسدود کردن قلم‌های وب</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockOther2">
+      <trans-unit id="Settings.toggleBlockOther2" xml:space="preserve">
         <source>Content</source>
+        <target>محتوا</target>
         <note>Label for the checkbox to toggle Other trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockSocial2">
+      <trans-unit id="Settings.toggleBlockSocial2" xml:space="preserve">
         <source>Social</source>
+        <target>اجتماعی</target>
         <note>Label for the checkbox to toggle Social trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleFaceID">
+      <trans-unit id="Settings.toggleFaceID" xml:space="preserve">
         <source>Use Face ID to unlock app</source>
         <target>استفاده از تشخیص چهره برای باز‌کردن برنامه</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleFaceIDDescription">
+      <trans-unit id="Settings.toggleFaceIDDescription" xml:space="preserve">
         <source>Face ID can unlock %@ if a URL is already open in the app</source>
         <target>تشخیص چهره می‌تواند %@ را باز کند اگر یک URL در حال حاضر در برنامه باز باشد</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleHomeScreenTips">
+      <trans-unit id="Settings.toggleHomeScreenTips" xml:space="preserve">
         <source>Show home screen tips</source>
         <target>نمایش نکات بر روی صفحه خانه</target>
         <note>Show home screen tips toggle label on settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleOtherSubtitle">
+      <trans-unit id="Settings.toggleOtherSubtitle" xml:space="preserve">
         <source>May break some videos and Web pages</source>
         <target>ممکن است باعث خرابی برخی فیلم‌ها و صفحات وب شود</target>
         <note>Label subtitle for toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleSafari">
+      <trans-unit id="Settings.toggleSafari" xml:space="preserve">
         <source>Safari</source>
         <target>Safari</target>
         <note>Safari toggle label on settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleSendUsageData">
+      <trans-unit id="Settings.toggleSendUsageData" xml:space="preserve">
         <source>Send usage data</source>
         <target>ارسال اطلاعاتِ استفاده</target>
         <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleTouchID">
+      <trans-unit id="Settings.toggleTouchID" xml:space="preserve">
         <source>Use Touch ID to unlock app</source>
         <target>استفاده از تشخیص لمسی برای بازکردن برنامه</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleTouchIDDescription">
+      <trans-unit id="Settings.toggleTouchIDDescription" xml:space="preserve">
         <source>Touch ID can unlock %@ if a URL is already open in the app</source>
         <target>تشخیص لمس می‌تواند %@ را باز‌کند اگرURL در حال حاضر در برنامه باز باشد</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
-      <trans-unit id="Settings.trackingProtectionOff">
+      <trans-unit id="Settings.trackingProtectionOff" xml:space="preserve">
         <source>Off</source>
+        <target>خاموش</target>
         <note>Status off for tracking protection in settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.trackingProtectionOn">
+      <trans-unit id="Settings.trackingProtectionOn" xml:space="preserve">
         <source>On</source>
+        <target>روشن</target>
         <note>Status on for tracking protection in settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.whatsNewTitle">
+      <trans-unit id="Settings.whatsNewTitle" xml:space="preserve">
         <source>What’s New</source>
         <target>چه چیزهایی جدید است</target>
         <note>Title for What's new screen</note>
       </trans-unit>
-      <trans-unit id="Settinsg.siriShortcutsTitle">
+      <trans-unit id="Settinsg.siriShortcutsTitle" xml:space="preserve">
         <source>SIRI SHORTCUTS</source>
         <target>SIRI SHORTCUTS</target>
         <note>Title for settings section to enable different Siri Shortcuts.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.AddToShortcuts">
+      <trans-unit id="ShareMenu.AddToShortcuts" xml:space="preserve">
         <source>Add to Shortcuts</source>
+        <target>میانبر را اضافه کنید</target>
         <note>Text for the share menu option when a user wants to add the site to Shortcuts</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.FindInPage">
+      <trans-unit id="ShareMenu.FindInPage" xml:space="preserve">
         <source>Find in Page</source>
         <target>پیدا کردن در صفحه</target>
         <note>Text for the share menu option when a user wants to open the find in page menu</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.GetFirefox">
+      <trans-unit id="ShareMenu.GetFirefox" xml:space="preserve">
         <source>Get the Firefox App</source>
         <target>دریافت برنامه Firefox</target>
         <note>Text for the share menu option when a user wants to open a page in Firefox but doesn’t have it installed. This string will not wrap in the interface. Instead, it will truncate. To prevent this, please keep the localized string to 18 or fewer characters. If your string runs longer than 18 characters, you can use 'Get Firefox' as the basis for your string. However, if at all possible, we’d like to signal to the user that they will be going to the App Store and installing the application from there. That is why we are using Get and App in the en-US string.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.PageActions">
+      <trans-unit id="ShareMenu.PageActions" xml:space="preserve">
         <source>Page Actions</source>
         <target>اقدامات صفحه</target>
         <note>Title for the share menu where users can take actions for the current website they are on.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.RemoveFromShortcuts">
+      <trans-unit id="ShareMenu.RemoveFromShortcuts" xml:space="preserve">
         <source>Remove from Shortcuts</source>
+        <target>حذف از میانبرها</target>
         <note>Text for the share menu option when a user wants to remove the site from Shortcuts</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.RequestDesktop">
+      <trans-unit id="ShareMenu.RequestDesktop" xml:space="preserve">
         <source>Request Desktop Site</source>
         <target>درخواست نسخه رو میزی وب‌سایت</target>
         <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.RequestMobile">
+      <trans-unit id="ShareMenu.RequestMobile" xml:space="preserve">
         <source>Request Mobile Site</source>
         <target>درخواست نسخه تلفن همراه سایت</target>
         <note>Text for the share menu option when a user wants to reload the site as a mobile device</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.ShareOpenChrome">
+      <trans-unit id="ShareMenu.ShareOpenChrome" xml:space="preserve">
         <source>Open in Chrome</source>
         <target>بازکردن در کروم</target>
         <note>Text for the share menu option when a user wants to open the current website in the Chrome app.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.ShareOpenFirefox">
+      <trans-unit id="ShareMenu.ShareOpenFirefox" xml:space="preserve">
         <source>Open in Firefox</source>
         <target>بازکردن در فایرفاکس</target>
         <note>Text for the share menu option when a user wants to open the current website in the Firefox app.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.ShareOpenSafari">
+      <trans-unit id="ShareMenu.ShareOpenSafari" xml:space="preserve">
         <source>Open in Safari</source>
         <target>بازکردن در سافاری</target>
         <note>Text for the share menu option when a user wants to open the current website in the Safari app.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.SharePage">
+      <trans-unit id="ShareMenu.SharePage" xml:space="preserve">
         <source>Share Page With...</source>
         <target>همرسانی صفحه با...</target>
         <note>Text for the share menu option when a user wants to share the current website they are on through another app.</note>
       </trans-unit>
-      <trans-unit id="ShortcutView.RemoveFromShortcuts">
+      <trans-unit id="ShortcutView.RemoveFromShortcuts" xml:space="preserve">
         <source>Remove from Shortcuts</source>
+        <target>حذف از میانبرها</target>
         <note>Text for the long press on a shortcut option in context menu.</note>
       </trans-unit>
-      <trans-unit id="Siri.add">
+      <trans-unit id="Siri.add" xml:space="preserve">
         <source>Add</source>
         <target>اضافه کردن</target>
         <note>Button to add a favorite URL to Siri.</note>
       </trans-unit>
-      <trans-unit id="Siri.addTo">
+      <trans-unit id="Siri.addTo" xml:space="preserve">
         <source>Add to Siri</source>
         <target>اضافه کردن به Siri</target>
         <note>Button to add a specified shortcut option to Siri.</note>
       </trans-unit>
-      <trans-unit id="Siri.editOpenUrl">
+      <trans-unit id="Siri.editOpenUrl" xml:space="preserve">
         <source>Re-Record or Delete Shortcut</source>
         <target>ضبط مجدد یا پاک کردن میانبر</target>
         <note>Label for button to edit the Siri phrase or delete the Siri functionality.</note>
       </trans-unit>
-      <trans-unit id="Siri.erase">
+      <trans-unit id="Siri.erase" xml:space="preserve">
         <source>Erase</source>
         <target>پاک کردن</target>
         <note>Title of option in settings to set up Siri to erase</note>
       </trans-unit>
-      <trans-unit id="Siri.eraseAndOpen">
+      <trans-unit id="Siri.eraseAndOpen" xml:space="preserve">
         <source>Erase &amp; Open</source>
         <target>پاک کردن و بازکردن</target>
         <note>Title of option in settings to set up Siri to erase and then open the app.</note>
       </trans-unit>
-      <trans-unit id="Siri.favoriteUrl">
+      <trans-unit id="Siri.favoriteUrl" xml:space="preserve">
         <source>Open Favorite Site</source>
         <target>بازکردن پایگاه اینترنتی مورد علاقه</target>
         <note>Title for screen to add a favorite URL to Siri.</note>
       </trans-unit>
-      <trans-unit id="Siri.openURL">
+      <trans-unit id="Siri.openURL" xml:space="preserve">
         <source>Open Favorite Site</source>
         <target>بازکردن پایگاه اینترنتی مورد علاقه</target>
         <note>Title of option in settings to set up Siri to open a specified URL in Focus/Klar.</note>
       </trans-unit>
-      <trans-unit id="Siri.urlToOpen">
+      <trans-unit id="Siri.urlToOpen" xml:space="preserve">
         <source>URL to open</source>
         <target>برای بازکردن URL</target>
         <note>Label for input to set a favorite URL to be opened by Siri.</note>
       </trans-unit>
-      <trans-unit id="URL.addToAutocompleteLabel">
+      <trans-unit id="URL.addToAutocompleteLabel" xml:space="preserve">
         <source>Add link to autocomplete</source>
         <target>اضافه کردن پیوند به پرشدن خودکار</target>
         <note>Label displayed for button used as a shortcut to add a link to the list of URLs to autocomplete.</note>
       </trans-unit>
-      <trans-unit id="URL.cancelLabel">
+      <trans-unit id="URL.cancelLabel" xml:space="preserve">
         <source>Cancel</source>
         <target>لغو</target>
         <note>Label for cancel button shown when entering a URL or search</note>
       </trans-unit>
-      <trans-unit id="URL.contextMenu">
+      <trans-unit id="URL.contextMenu" xml:space="preserve">
         <source>Paste &amp; Go</source>
         <target>چسباندن &amp; رفتن</target>
         <note>Text for the URL context menu when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
-      <trans-unit id="URL.eraseButtonLabel">
+      <trans-unit id="URL.eraseButtonLabel" xml:space="preserve">
         <source>ERASE</source>
         <target>پاک کردن</target>
         <note>Erase button in the URL bar</note>
       </trans-unit>
-      <trans-unit id="URL.eraseMessageLabel2">
+      <trans-unit id="URL.eraseMessageLabel2" xml:space="preserve">
         <source>Browsing history cleared</source>
+        <target>تاریخچه مرور، پاک شد</target>
         <note>Message shown after pressing the Erase button</note>
       </trans-unit>
-      <trans-unit id="URL.findOnPageLabel">
+      <trans-unit id="URL.findOnPageLabel" xml:space="preserve">
         <source>Find in page: %@</source>
         <target>پیدا کردن در صفحه: %@</target>
         <note>Label displayed for find in page button when typing in the URL Bar. %@ is any text the user has typed into the URL bar that they want to find on the current page.</note>
       </trans-unit>
-      <trans-unit id="URL.paste">
+      <trans-unit id="URL.paste" xml:space="preserve">
         <source>Paste</source>
         <target>چسباندن</target>
         <note>Text for a menu displayed from the bottom of the screen when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
-      <trans-unit id="URL.placeholderText">
+      <trans-unit id="URL.placeholderText" xml:space="preserve">
         <source>Search or enter address</source>
         <target>جست‌وجو یا ورود نشانی</target>
         <note>Placeholder text shown in the URL bar before the user navigates to a page</note>
       </trans-unit>
-      <trans-unit id="URL.searchLabel">
+      <trans-unit id="URL.searchLabel" xml:space="preserve">
         <source>Search for %@</source>
         <target>جستجو برای %@</target>
         <note>Label displayed for search button when typing in the URL bar</note>
       </trans-unit>
-      <trans-unit id="URL.trackersBlockedLabel">
+      <trans-unit id="URL.trackersBlockedLabel" xml:space="preserve">
         <source>Trackers blocked</source>
         <target>ردیاب‌ها مسدود شدند</target>
         <note>Text for the URL bar showing the number of trackers blocked on a webpage.</note>
       </trans-unit>
-      <trans-unit id="actionSheet.openIn">
+      <trans-unit id="actionSheet.openIn" xml:space="preserve">
         <source>Open in %@</source>
         <target>در %@ باز شد</target>
         <note>Title for action sheet item to open the current page in another application. Placeholder is the name of the application to open the current page.</note>
       </trans-unit>
-      <trans-unit id="browser.copyAddressToast">
+      <trans-unit id="browser.copyAddressToast" xml:space="preserve">
         <source>URL Copied To Clipboard</source>
         <target>برداشت URL به کلیپبورد</target>
         <note>Toast displayed after a URL has been copied to the clipboard</note>
       </trans-unit>
-      <trans-unit id="browserShortcutDescription.selectLocationBar">
+      <trans-unit id="browserShortcutDescription.selectLocationBar" xml:space="preserve">
         <source>Select Location Bar</source>
         <target>انتخاب نوار موقعیت</target>
         <note>Label to display in the Discoverability overlay for keyboard shortcuts</note>
       </trans-unit>
-      <trans-unit id="contextMenu.clipboardLink">
+      <trans-unit id="contextMenu.clipboardLink" xml:space="preserve">
         <source>Link you copied: %@</source>
         <target>پیوندی که رونوشت کردید: %@</target>
         <note>Text for the context menu when a user has a link on their clipboard.</note>
       </trans-unit>
-      <trans-unit id="contextMenu.copyImageTitle">
+      <trans-unit id="contextMenu.copyImageTitle" xml:space="preserve">
         <source>Copy Image</source>
         <target>رونوشت از تصویر</target>
         <note>Text for the context menu when a user wants to copy an image after long pressing it.</note>
       </trans-unit>
-      <trans-unit id="contextMenu.copyLink">
+      <trans-unit id="contextMenu.copyLink" xml:space="preserve">
         <source>Copy Link</source>
         <target>برداشت پیوند</target>
         <note>Text for the context menu when a user wants to copy a link after long pressing it.</note>
       </trans-unit>
-      <trans-unit id="contextMenu.linkCopied">
+      <trans-unit id="contextMenu.linkCopied" xml:space="preserve">
         <source>Link you copied: </source>
         <target>پیوندی که شما برداشت کرده‌اید:</target>
         <note>Text for the context menu when a user has a link on their clipboard.</note>
       </trans-unit>
-      <trans-unit id="contextMenu.saveImageTitle">
+      <trans-unit id="contextMenu.saveImageTitle" xml:space="preserve">
         <source>Save Image</source>
         <target>ذخیره تصویر</target>
         <note>Text for the context menu when a user wants to save an image after long pressing it.</note>
       </trans-unit>
-      <trans-unit id="contextMenu.shareLinkTitle">
+      <trans-unit id="contextMenu.shareLinkTitle" xml:space="preserve">
         <source>Share Link</source>
         <target>همرسانی پیوند</target>
         <note>Text for the context menu when a user wants to share a link after long pressing it.</note>
       </trans-unit>
-      <trans-unit id="externalAppLinkWithAppName.messageTitle">
+      <trans-unit id="externalAppLinkWithAppName.messageTitle" xml:space="preserve">
         <source>%1$@ wants to open %2$@</source>
         <target>%1$@ می‌خواهد %2$@ را باز کند</target>
         <note>Dialog title used for opening an external app from Focus. First placeholder string is the app name of either Focus or Klar and the second placeholder string specifies the app it wants to open.</note>
       </trans-unit>
-      <trans-unit id="photosPermission.description">
+      <trans-unit id="photosPermission.description" xml:space="preserve">
         <source>This lets you save images to your Camera Roll</source>
         <target>این امکان را به شما می‌دهد تا تصاویر را در بخش Camera Roll دستگاه خود ذخیره کنید</target>
         <note>Description for dialog used for requesting a user to enable access to Photos.</note>
       </trans-unit>
-      <trans-unit id="photosPermission.openSettings">
+      <trans-unit id="photosPermission.openSettings" xml:space="preserve">
         <source>Open Settings</source>
         <target>بازکردن تنظیمات</target>
         <note>Title for button that takes the user to system settings</note>
       </trans-unit>
-      <trans-unit id="photosPermission.title">
+      <trans-unit id="photosPermission.title" xml:space="preserve">
         <source>“%@” Would Like to Access Your Photos</source>
         <target>“%@” تمایل دارد به تصاویر شما دسترسی داشته باشد</target>
         <note>Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
-      <trans-unit id="settings.Search.SearchTemplateExample">
+      <trans-unit id="settings.Search.SearchTemplateExample" xml:space="preserve">
         <source>Example: searchengineexample.com/search/?q=%s</source>
         <target>مثال: searchengineexample.com/search/?q=%s</target>
         <note>Text displayed as an example of the template to add a search engine.</note>
       </trans-unit>
-      <trans-unit id="share">
+      <trans-unit id="share" xml:space="preserve">
         <source>Share</source>
         <target>همرسانی</target>
         <note>Text for a share button</note>
       </trans-unit>
-      <trans-unit id="shareMenu.copyAddress">
+      <trans-unit id="shareMenu.copyAddress" xml:space="preserve">
         <source>Copy Address</source>
         <target>برداشت آدرس</target>
         <note>Text for the share menu when a user wants to copy a URL.</note>
       </trans-unit>
-      <trans-unit id="touchId.reason">
+      <trans-unit id="touchId.reason" xml:space="preserve">
         <source>Use Touch ID to return to %@</source>
         <target>استفاده از Touch ID برای برگشتن به %@</target>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID to continue browsing after returning to the app.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.adTrackersLabel">
+      <trans-unit id="trackingProtection.adTrackersLabel" xml:space="preserve">
         <source>Ad trackers</source>
         <target>دنبال کننده تبلیغ</target>
         <note>Label for ad trackers.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.analyticTrackerLabel">
+      <trans-unit id="trackingProtection.analyticTrackerLabel" xml:space="preserve">
         <source>Analytic trackers</source>
         <target>دنبال کنندگان تجزیه تحلیلی کننده</target>
         <note>label for analytic trackers.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.connectionNotSecureLabel">
+      <trans-unit id="trackingProtection.connectionNotSecureLabel" xml:space="preserve">
         <source>Connection is not secure</source>
+        <target>اتصال امن نیست</target>
         <note>Text for tracking protection screen showing the connection is not secure</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.connectionSecureLabel">
+      <trans-unit id="trackingProtection.connectionSecureLabel" xml:space="preserve">
         <source>Connection is secure</source>
+        <target>اتصال امن است</target>
         <note>Text for tracking protection screen showing the connection is secure</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.contentTrackerLabel">
+      <trans-unit id="trackingProtection.contentTrackerLabel" xml:space="preserve">
         <source>Content trackers</source>
         <target>دنبال کنندگان محتوا</target>
         <note>label for content trackers.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.disabledLabel">
+      <trans-unit id="trackingProtection.disabledLabel" xml:space="preserve">
         <source>Tracking Protection off</source>
         <target>محافظت در مقابل دنبال شدن خاموش شد</target>
         <note>text showing the tracking protection is disabled.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.label">
+      <trans-unit id="trackingProtection.label" xml:space="preserve">
         <source>Tracking Protection</source>
         <target>محافظت در برابر رهگیری</target>
         <note>Title for the tracking settings page to change what trackers are blocked.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.labelDescription">
+      <trans-unit id="trackingProtection.labelDescription" xml:space="preserve">
         <source>Turning this off may fix some site problems</source>
         <target>خاموش کردن این ممکن است چند مشکل را برطرف کند</target>
         <note>Description/subtitle for the tracking protection label.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.learnMore">
+      <trans-unit id="trackingProtection.learnMore" xml:space="preserve">
         <source>Learn More</source>
         <target>اطلاعات بیشتر</target>
         <note>Text for the button to learn more about Tracking Protection.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.moreSettings">
+      <trans-unit id="trackingProtection.moreSettings" xml:space="preserve">
         <source>More Settings</source>
+        <target>تنظیمات بیشتر</target>
         <note>Text for the button that closes the Shield Data and opens the regular Settings screen.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.socialTrackerLabel">
+      <trans-unit id="trackingProtection.socialTrackerLabel" xml:space="preserve">
         <source>Social trackers</source>
         <target>دنبال کنندگان اجتماعی</target>
         <note>label for social trackers.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.statusOff">
+      <trans-unit id="trackingProtection.statusOff" xml:space="preserve">
         <source>Protections are OFF for this session</source>
+        <target>محافظت‌ها برای این سایت خاموش است</target>
         <note>Text for the status off from Tracking Protection.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.statusOn">
+      <trans-unit id="trackingProtection.statusOn" xml:space="preserve">
         <source>Protections are ON for this session</source>
+        <target>محافظت‌ها برای این سایت روشن است</target>
         <note>Text for the status on from Tracking Protection.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.toggleDescription1">
+      <trans-unit id="trackingProtection.toggleDescription1" xml:space="preserve">
         <source>Disable until you close %@ or tap ERASE.</source>
         <target>غیرفعال باشد تا زمان که شما %@ را ببنیدید یا بر روی ERASE کلیک کنید.</target>
         <note>Description for the tracking protection toggle. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.toggleLabel2">
+      <trans-unit id="trackingProtection.toggleLabel2" xml:space="preserve">
         <source>Enhanced Tracking Protection</source>
+        <target>محافظت پیشرفته در برابر ردیابی</target>
         <note>Text for the toggle that enables/disables tracking protection.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.trackerDescriptionLabel2">
+      <trans-unit id="trackingProtection.trackerDescriptionLabel2" xml:space="preserve">
         <source>Keep your data to yourself. %@ protects you from many of the most common trackers that follow what you do online.</source>
+        <target>داده‌های خود را نزد خود نگه دارید. %@ شما را از بسیاری از متداول‌ ترین ردیاب‌هایی که شما را به صورت آنلاین دنبال می‌کنند محافظت می‌کند.</target>
         <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.trackersBlockedLabel">
+      <trans-unit id="trackingProtection.trackersBlockedLabel" xml:space="preserve">
         <source>Trackers blocked since %@</source>
+        <target>ردیاب‌های مسدود شده از %@</target>
         <note>Text for tracking protection screen showing the number of trackers blocked since the app install. The placeholder is replaced with the install date of the application.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.trackersHeader">
+      <trans-unit id="trackingProtection.trackersHeader" xml:space="preserve">
         <source>Trackers and scripts to block</source>
+        <target>ردیاب‌ها و اسکریپت‌ها برای مسدود کردن</target>
         <note>Text for the header of trackers section from Tracking Protection.</note>
       </trans-unit>
     </body>
@@ -1076,11 +1103,11 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
-      <trans-unit id="SettingsBundle.Licenses">
+      <trans-unit id="SettingsBundle.Licenses" xml:space="preserve">
         <source>Licenses</source>
+        <target>مجوز</target>
         <note>The title of the Licenses setting in the settings that Focus shows in the global iOS Settings app.</note>
       </trans-unit>
     </body>
   </file>
 </xliff>
-
