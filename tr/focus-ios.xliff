@@ -1033,12 +1033,12 @@
       </trans-unit>
       <trans-unit id="trackingProtection.disabledLabel" xml:space="preserve">
         <source>Tracking Protection off</source>
-        <target>İzlenme Koruması kapalı</target>
+        <target>İzlenme koruması kapalı</target>
         <note>text showing the tracking protection is disabled.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.label" xml:space="preserve">
         <source>Tracking Protection</source>
-        <target>İzlenme Koruması</target>
+        <target>İzlenme koruması</target>
         <note>Title for the tracking settings page to change what trackers are blocked.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.labelDescription" xml:space="preserve">
@@ -1093,7 +1093,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.trackersHeader" xml:space="preserve">
         <source>Trackers and scripts to block</source>
-        <target>Engellenecek takipçiler ve betikler</target>
+        <target>ENGELLENECEK TAKİPÇİLER VE BETİKLER</target>
         <note>Text for the header of trackers section from Tracking Protection.</note>
       </trans-unit>
     </body>
