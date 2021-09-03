@@ -56,7 +56,7 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description" xml:space="preserve">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
-        <target>წაშალეთ თქვენი დათვალიერების ისტორია, პაროლები და ა.შ. ნებისმიერ დროს, მხოლოდ ერთი შეხებით.</target>
+        <target>გაასუფთავეთ მონახულებული გვერდები, პაროლები და ა.შ. ნებისმიერ დროს, მხოლოდ ერთი შეხებით.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title" xml:space="preserve">
@@ -538,7 +538,7 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptMessage" xml:space="preserve">
         <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
-        <target>ძიების შემოთავაზებების მისაღებად, %@ საჭიროებს მისამართების ველში აკრეფილი ტექსტის, შერჩეული საძიებო სისტემისთვის გადაგზავნას.</target>
+        <target>ძიების შემოთავაზებებისთვის, %@ უგზავნის მისამართის ველში აკრეფილ ტექსტს, შერჩეულ საძიებო სისტემას.</target>
         <note>%@ is the name of the app (Focus / Klar). Label for search suggestions prompt message</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptTitle" xml:space="preserve">
@@ -653,7 +653,7 @@
       </trans-unit>
       <trans-unit id="Settings.searchSuggestions" xml:space="preserve">
         <source>Get Search Suggestions</source>
-        <target>ძიების შემოთავაზებების მიღება</target>
+        <target>ძიების შემოთავაზებები</target>
         <note>Label for the Search Suggestions toggle row</note>
       </trans-unit>
       <trans-unit id="Settings.searchTitle2" xml:space="preserve">
@@ -1088,7 +1088,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.trackersBlockedLabel" xml:space="preserve">
         <source>Trackers blocked since %@</source>
-        <target>შეზღუდული მეთვალყურეები თარიღიდან %@</target>
+        <target>სულ შეზღუდულია თარიღიდან %@</target>
         <note>Text for tracking protection screen showing the number of trackers blocked since the app install. The placeholder is replaced with the install date of the application.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.trackersHeader" xml:space="preserve">
