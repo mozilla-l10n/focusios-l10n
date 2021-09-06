@@ -578,7 +578,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.RestoreEngine" xml:space="preserve">
         <source>Restore Default Search Engines</source>
-        <target>ნაგულისხმევი საძიებო სისტემების აღდგენა</target>
+        <target>აღდგეს ნაგულისხმევი საძიებოები</target>
         <note>Label for button to bring deleted default engines back</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchEngineName" xml:space="preserve">
