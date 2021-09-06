@@ -258,7 +258,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.disabled" xml:space="preserve">
         <source>Disabled</source>
-        <target>Ανενεργό</target>
+        <target>Ανενεργή</target>
         <note>label describing URL Autocomplete as disabled</note>
       </trans-unit>
       <trans-unit id="Autocomplete.duplicateUrl" xml:space="preserve">
@@ -273,7 +273,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.enabled" xml:space="preserve">
         <source>Enabled</source>
-        <target>Ενεργό</target>
+        <target>Ενεργή</target>
         <note>label describing URL Autocomplete as enabled</note>
       </trans-unit>
       <trans-unit id="Autocomplete.manageSites" xml:space="preserve">
@@ -753,12 +753,12 @@
       </trans-unit>
       <trans-unit id="Settings.trackingProtectionOff" xml:space="preserve">
         <source>Off</source>
-        <target>Ανενεργό</target>
+        <target>Ανενεργή</target>
         <note>Status off for tracking protection in settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.trackingProtectionOn" xml:space="preserve">
         <source>On</source>
-        <target>Ενεργό</target>
+        <target>Ενεργή</target>
         <note>Status on for tracking protection in settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle" xml:space="preserve">
@@ -893,7 +893,7 @@
       </trans-unit>
       <trans-unit id="URL.eraseMessageLabel2" xml:space="preserve">
         <source>Browsing history cleared</source>
-        <target>Το ιστορικό περιήγησης απαλείφθηκε</target>
+        <target>Το ιστορικό περιήγησης διαγράφτηκε</target>
         <note>Message shown after pressing the Erase button</note>
       </trans-unit>
       <trans-unit id="URL.findOnPageLabel" xml:space="preserve">
@@ -913,7 +913,7 @@
       </trans-unit>
       <trans-unit id="URL.searchLabel" xml:space="preserve">
         <source>Search for %@</source>
-        <target>Αναζήτηση για %@</target>
+        <target>Αναζήτηση για «%@»</target>
         <note>Label displayed for search button when typing in the URL bar</note>
       </trans-unit>
       <trans-unit id="URL.trackersBlockedLabel" xml:space="preserve">
@@ -1093,7 +1093,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.trackersHeader" xml:space="preserve">
         <source>Trackers and scripts to block</source>
-        <target>Ιχνηλάτες και σενάρια για φραγή</target>
+        <target>Ιχνηλατες και σεναρια για φραγη</target>
         <note>Text for the header of trackers section from Tracking Protection.</note>
       </trans-unit>
     </body>
