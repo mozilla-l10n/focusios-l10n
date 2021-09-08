@@ -56,12 +56,12 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description" xml:space="preserve">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
-        <target>Limpe quando quiser todo o histórico, senhas e cookies da sessão de navegação, com um simples toque.</target>
+        <target>Limpe todo o histórico, senhas e cookies da sessão de navegação quando quiser, com um simples toque.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title" xml:space="preserve">
         <source>Your history is history</source>
-        <target>O seu histórico é história</target>
+        <target>Seu histórico é passado</target>
         <note>Title for the third  panel 'History' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Next.Button" xml:space="preserve">
@@ -86,7 +86,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description" xml:space="preserve">
         <source>Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.</source>
-        <target>Leve a navegação privativa ao próximo nível. Bloqueie propagandas e outros conteúdos que podem rastrear você entre os sites e diminuir o tempo de carregamento das páginas.</target>
+        <target>Leve a navegação privativa ao próximo nível. Bloqueie anúncios e outros conteúdos que podem rastrear você entre sites e aumentar o tempo de carregamento de páginas.</target>
         <note>Description for the 'Welcome' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Title" xml:space="preserve">
@@ -438,7 +438,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel" xml:space="preserve">
         <source>OK, Got It!</source>
-        <target>OK, entendi!</target>
+        <target>OK, entendi</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription" xml:space="preserve">
@@ -893,7 +893,7 @@
       </trans-unit>
       <trans-unit id="URL.eraseMessageLabel2" xml:space="preserve">
         <source>Browsing history cleared</source>
-        <target>Histórico de navegação foi limpo</target>
+        <target>O histórico de navegação foi limpo</target>
         <note>Message shown after pressing the Erase button</note>
       </trans-unit>
       <trans-unit id="URL.findOnPageLabel" xml:space="preserve">
@@ -908,12 +908,12 @@
       </trans-unit>
       <trans-unit id="URL.placeholderText" xml:space="preserve">
         <source>Search or enter address</source>
-        <target>Pesquisar ou digitar um endereço</target>
+        <target>Pesquise ou digite um endereço</target>
         <note>Placeholder text shown in the URL bar before the user navigates to a page</note>
       </trans-unit>
       <trans-unit id="URL.searchLabel" xml:space="preserve">
         <source>Search for %@</source>
-        <target>Pesquisar por %@</target>
+        <target>Pesquisar %@</target>
         <note>Label displayed for search button when typing in the URL bar</note>
       </trans-unit>
       <trans-unit id="URL.trackersBlockedLabel" xml:space="preserve">
