@@ -618,12 +618,12 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
         <source>%@ will send what you type in the address bar to your search engine.</source>
-        <target>O %@ enviará o que você escreve na barra de endereços para seu mecanismo de pesquisa.</target>
+        <target>O %@ envia o que você escreve na barra de endereços para seu mecanismo de pesquisa.</target>
         <note>Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData" xml:space="preserve">
         <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
-        <target>A Mozilla se empenha para coletar somente o que é necessário para melhorar o %@ para todos.</target>
+        <target>A Mozilla se empenha em coletar somente o necessário para fornecer e melhorar o %@ para todos.</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.learnMore" xml:space="preserve">
