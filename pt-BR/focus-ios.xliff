@@ -56,7 +56,7 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description" xml:space="preserve">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
-        <target>Limpe todo o seu histórico de navegação, senhas e cookies a qualquer momento, com um simples toque.</target>
+        <target>Limpe quando quiser todo o histórico, senhas e cookies da sessão de navegação, com um simples toque.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title" xml:space="preserve">
