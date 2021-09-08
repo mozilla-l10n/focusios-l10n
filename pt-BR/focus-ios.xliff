@@ -243,7 +243,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin" xml:space="preserve">
         <source>Enable to have %@ autocomplete over 450 popular URLs in the address bar.</source>
-        <target>Ative para o %@ completar automaticamente de mais de 450 URLs populares na barra de endereços.</target>
+        <target>Ative para o %@ completar automaticamente mais de 450 URLs populares na barra de endereços.</target>
         <note>Description for enabling or disabling the default list. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultLabel" xml:space="preserve">
@@ -358,7 +358,7 @@
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
-        <target>Concluído</target>
+        <target>Pronto</target>
         <note>Label on button to complete edits</note>
       </trans-unit>
       <trans-unit id="Edit" xml:space="preserve">
@@ -578,7 +578,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.RestoreEngine" xml:space="preserve">
         <source>Restore Default Search Engines</source>
-        <target>Restaurar os mecanismos de pesquisa padrões</target>
+        <target>Restaurar mecanismos de pesquisa padrão</target>
         <note>Label for button to bring deleted default engines back</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchEngineName" xml:space="preserve">
@@ -598,7 +598,7 @@
       </trans-unit>
       <trans-unit id="Settings.autocompleteSection" xml:space="preserve">
         <source>URL Autocomplete</source>
-        <target>Completar URL automaticamente</target>
+        <target>Completar URLs automaticamente</target>
         <note>Title for the URL Autocomplete row</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage" xml:space="preserve">
@@ -1088,7 +1088,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.trackersBlockedLabel" xml:space="preserve">
         <source>Trackers blocked since %@</source>
-        <target>Rastreadores bloqueados desde %@</target>
+        <target>Bloqueados desde %@</target>
         <note>Text for tracking protection screen showing the number of trackers blocked since the app install. The placeholder is replaced with the install date of the application.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.trackersHeader" xml:space="preserve">
