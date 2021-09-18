@@ -1058,7 +1058,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.socialTrackerLabel" xml:space="preserve">
         <source>Social trackers</source>
-        <target>სოც. ქსელის მეთვალყურე</target>
+        <target>სოცქსელის მეთვალყურე</target>
         <note>label for social trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.statusOff" xml:space="preserve">
