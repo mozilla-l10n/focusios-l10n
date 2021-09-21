@@ -443,7 +443,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription" xml:space="preserve">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
-        <target>Bloca automaticamente le traciatores online durante que tu naviga. Pois elimina per un tocco le paginas visitate, recercas, cookies e contrasignos de tu apparato.</target>
+        <target>Bloca automaticamente le traciatores in linea durante que tu naviga. Pois elimina con un tocco le paginas visitate, recercas, cookies e contrasignos de tu apparato.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline" xml:space="preserve">
@@ -1083,7 +1083,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.trackerDescriptionLabel2" xml:space="preserve">
         <source>Keep your data to yourself. %@ protects you from many of the most common trackers that follow what you do online.</source>
-        <target>Mantene tu datos pro te mesme. %@ te protege contra multe del plus commun traciatores que seque lo que tu face online.</target>
+        <target>Mantene tu datos pro te mesme. %@ te protege contra le major parte de traciatores commun que seque tu activitates in linea.</target>
         <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="trackingProtection.trackersBlockedLabel" xml:space="preserve">
