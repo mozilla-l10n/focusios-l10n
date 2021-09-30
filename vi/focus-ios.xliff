@@ -928,7 +928,7 @@
       </trans-unit>
       <trans-unit id="browser.copyAddressToast" xml:space="preserve">
         <source>URL Copied To Clipboard</source>
-        <target>URL đã được sao chép vào clipboard</target>
+        <target>URL đã được sao chép vào bộ nhớ tạm</target>
         <note>Toast displayed after a URL has been copied to the clipboard</note>
       </trans-unit>
       <trans-unit id="browserShortcutDescription.selectLocationBar" xml:space="preserve">
