@@ -608,6 +608,10 @@
         <source>Block Content Trackers</source>
         <note>Button label for accepting Content blocker alert</note>
       </trans-unit>
+      <trans-unit id="Settings.darkTheme">
+        <source>Dark</source>
+        <note>Dark theme option in settings menu</note>
+      </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion">
         <source>%@ will send what you type in the address bar to your search engine.</source>
         <target>आपण जे पत्ता पट्टी मध्ये टाईप कराल ते %@ आपल्या शोध इंजिनला पाठवेल.</target>
@@ -622,6 +626,14 @@
         <source>Learn more.</source>
         <target>अधिक जाणा.</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.lightTheme">
+        <source>Light</source>
+        <note>Light theme option in settings menu</note>
+      </trans-unit>
+      <trans-unit id="Settings.manualTheme">
+        <source>Manual</source>
+        <note>Manual value for theme section in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.rate">
         <source>Rate %@</source>
@@ -677,6 +689,18 @@
         <source>SECURITY</source>
         <target>सुरक्षा</target>
         <note>Header label for security toggles displayed in the settings menu</note>
+      </trans-unit>
+      <trans-unit id="Settings.systemTheme">
+        <source>System Theme</source>
+        <note>System value for theme section in settings menu</note>
+      </trans-unit>
+      <trans-unit id="Settings.theme">
+        <source>Theme</source>
+        <note>Theme section in settings menu</note>
+      </trans-unit>
+      <trans-unit id="Settings.themePicker">
+        <source>Theme Picker</source>
+        <note>Header for manual theme section in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds2">
         <source>Advertising</source>
@@ -746,6 +770,10 @@
       <trans-unit id="Settings.trackingProtectionOn">
         <source>On</source>
         <note>Status on for tracking protection in settings screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.useSystemTheme">
+        <source>Use System Light/Dark Mode</source>
+        <note>Value for theme toggle in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
         <source>What’s New</source>

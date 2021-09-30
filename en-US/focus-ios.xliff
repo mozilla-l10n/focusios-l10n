@@ -615,6 +615,11 @@
         <target>Block Content Trackers</target>
         <note>Button label for accepting Content blocker alert</note>
       </trans-unit>
+      <trans-unit id="Settings.darkTheme">
+        <source>Dark</source>
+        <target>Dark</target>
+        <note>Dark theme option in settings menu</note>
+      </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion">
         <source>%@ will send what you type in the address bar to your search engine.</source>
         <target>%@ will send what you type in the address bar to your search engine.</target>
@@ -629,6 +634,16 @@
         <source>Learn more.</source>
         <target>Learn more.</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.lightTheme">
+        <source>Light</source>
+        <target>Light</target>
+        <note>Light theme option in settings menu</note>
+      </trans-unit>
+      <trans-unit id="Settings.manualTheme">
+        <source>Manual</source>
+        <target>Manual</target>
+        <note>Manual value for theme section in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.rate">
         <source>Rate %@</source>
@@ -684,6 +699,21 @@
         <source>SECURITY</source>
         <target>SECURITY</target>
         <note>Header label for security toggles displayed in the settings menu</note>
+      </trans-unit>
+      <trans-unit id="Settings.systemTheme">
+        <source>System Theme</source>
+        <target>System Theme</target>
+        <note>System value for theme section in settings menu</note>
+      </trans-unit>
+      <trans-unit id="Settings.theme">
+        <source>Theme</source>
+        <target>Theme</target>
+        <note>Theme section in settings menu</note>
+      </trans-unit>
+      <trans-unit id="Settings.themePicker">
+        <source>Theme Picker</source>
+        <target>Theme Picker</target>
+        <note>Header for manual theme section in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds2">
         <source>Advertising</source>
@@ -759,6 +789,11 @@
         <source>On</source>
         <target>On</target>
         <note>Status on for tracking protection in settings screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.useSystemTheme">
+        <source>Use System Light/Dark Mode</source>
+        <target>Use System Light/Dark Mode</target>
+        <note>Value for theme toggle in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
         <source>What’s New</source>
