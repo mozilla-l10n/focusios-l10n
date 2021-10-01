@@ -641,8 +641,9 @@
         <target>Hell</target>
         <note>Light theme option in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.manualTheme">
+      <trans-unit id="Settings.manualTheme" xml:space="preserve">
         <source>Manual</source>
+        <target>Manuell</target>
         <note>Manual value for theme section in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.rate" xml:space="preserve">
@@ -700,16 +701,19 @@
         <target>SICHERHEIT</target>
         <note>Header label for security toggles displayed in the settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.systemTheme">
+      <trans-unit id="Settings.systemTheme" xml:space="preserve">
         <source>System Theme</source>
+        <target>Systemtheme</target>
         <note>System value for theme section in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.theme">
+      <trans-unit id="Settings.theme" xml:space="preserve">
         <source>Theme</source>
+        <target>Theme</target>
         <note>Theme section in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.themePicker">
+      <trans-unit id="Settings.themePicker" xml:space="preserve">
         <source>Theme Picker</source>
+        <target>Theme-Auswahl</target>
         <note>Header for manual theme section in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds2" xml:space="preserve">
@@ -787,8 +791,9 @@
         <target>Ein</target>
         <note>Status on for tracking protection in settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.useSystemTheme">
+      <trans-unit id="Settings.useSystemTheme" xml:space="preserve">
         <source>Use System Light/Dark Mode</source>
+        <target>Hell-/Dunkel-Modus des Systems übernehmen</target>
         <note>Value for theme toggle in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle" xml:space="preserve">
