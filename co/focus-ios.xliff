@@ -56,7 +56,7 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description" xml:space="preserve">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
-        <target>Squassate a vostra cronolugia di navigazione, e vostre parolle d’entrata, i vostri canistrelli, à ogni mumentu, cù un’incalcata simplice.</target>
+        <target>Squassate a vostra cronolugia di navigazione, e vostre parolle d’intesa, i vostri canistrelli, à ogni mumentu, cù un’incalcata simplice.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title" xml:space="preserve">
@@ -443,7 +443,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription" xml:space="preserve">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
-        <target>Bluccate autumaticamente i perseguitatori quandu vo navigate. Tandu, picchichjate nant’à u buttone Squassà per squassà e pagine visitate, e ricerche, i canistrelli è e parolle d’entrata da u vostru apparechju.</target>
+        <target>Bluccate autumaticamente i perseguitatori quandu vo navigate. Tandu, picchichjate nant’à u buttone Squassà per squassà e pagine visitate, e ricerche, i canistrelli è e parolle d’intesa da u vostru apparechju.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline" xml:space="preserve">
@@ -673,7 +673,7 @@
       </trans-unit>
       <trans-unit id="Settings.sectionPerformance" xml:space="preserve">
         <source>PERFORMANCE</source>
-        <target>PRESTAZIONI</target>
+        <target>PERFURMENZE</target>
         <note>Section label for performance toggles</note>
       </trans-unit>
       <trans-unit id="Settings.sectionPrivacy" xml:space="preserve">
