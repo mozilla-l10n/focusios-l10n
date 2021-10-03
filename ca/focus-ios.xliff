@@ -601,8 +601,9 @@
         <target>Emplenament automàtic d'URL</target>
         <note>Title for the URL Autocomplete row</note>
       </trans-unit>
-      <trans-unit id="Settings.blockOtherMessage">
+      <trans-unit id="Settings.blockOtherMessage" xml:space="preserve">
         <source>Blocking other content trackers may break some videos and web pages.</source>
+        <target>Si bloqueu altres elements de seguiment de contingut, és possible que alguns vídeos i pàgines web no funcionin correctament.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo2" xml:space="preserve">
@@ -615,8 +616,9 @@
         <target>Bloca els elements de seguiment de contingut</target>
         <note>Button label for accepting Content blocker alert</note>
       </trans-unit>
-      <trans-unit id="Settings.darkTheme">
+      <trans-unit id="Settings.darkTheme" xml:space="preserve">
         <source>Dark</source>
+        <target>Fosc</target>
         <note>Dark theme option in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
@@ -634,12 +636,14 @@
         <target>Més informació.</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.lightTheme">
+      <trans-unit id="Settings.lightTheme" xml:space="preserve">
         <source>Light</source>
+        <target>Clar</target>
         <note>Light theme option in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.manualTheme">
+      <trans-unit id="Settings.manualTheme" xml:space="preserve">
         <source>Manual</source>
+        <target>Manual</target>
         <note>Manual value for theme section in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.rate" xml:space="preserve">
@@ -697,16 +701,19 @@
         <target>SEGURETAT</target>
         <note>Header label for security toggles displayed in the settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.systemTheme">
+      <trans-unit id="Settings.systemTheme" xml:space="preserve">
         <source>System Theme</source>
+        <target>Tema del sistema</target>
         <note>System value for theme section in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.theme">
+      <trans-unit id="Settings.theme" xml:space="preserve">
         <source>Theme</source>
+        <target>Tema</target>
         <note>Theme section in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.themePicker">
+      <trans-unit id="Settings.themePicker" xml:space="preserve">
         <source>Theme Picker</source>
+        <target>Selector de tema</target>
         <note>Header for manual theme section in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds2" xml:space="preserve">
@@ -719,8 +726,9 @@
         <target>Anàlisis</target>
         <note>Label for the checkbox to toggle Analytics trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockFonts">
+      <trans-unit id="Settings.toggleBlockFonts" xml:space="preserve">
         <source>Block web fonts</source>
+        <target>Bloca tipus de lletra web</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther2" xml:space="preserve">
@@ -783,8 +791,9 @@
         <target>Activada</target>
         <note>Status on for tracking protection in settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.useSystemTheme">
+      <trans-unit id="Settings.useSystemTheme" xml:space="preserve">
         <source>Use System Light/Dark Mode</source>
+        <target>Usa el mode clar/fosc del sistema</target>
         <note>Value for theme toggle in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle" xml:space="preserve">
