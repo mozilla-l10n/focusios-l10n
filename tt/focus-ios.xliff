@@ -111,24 +111,29 @@
         <target>%@ Mozilla тарафыннан җитештерелә. Безнең миссиябез — сәламәт һәм ачык Интернетны үстерү.</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.privateBullet1">
+      <trans-unit id="About.privateBullet1" xml:space="preserve">
         <source>Search and browse right in the app</source>
+        <target>Турыдан-туры кушымта эчендә эзләү һәм "пәрәвез"дә гизү</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.privateBullet2">
+      <trans-unit id="About.privateBullet2" xml:space="preserve">
         <source>Block trackers (or update settings to allow trackers)</source>
+        <target>Күзәтүчеләрне блоклау (яисә, көйләүләрне үзгәртеп, аларны рөхсәт итү)</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.privateBullet3">
+      <trans-unit id="About.privateBullet3" xml:space="preserve">
         <source>Erase to delete cookies as well as search and browsing history</source>
+        <target>Кукиларны, эзләү һәм гизү тарихларын чистарту</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.privateBulletHeader">
+      <trans-unit id="About.privateBulletHeader" xml:space="preserve">
         <source>Use it as a private browser:</source>
+        <target>Аны хосусый браузер буларак кулланыгыз:</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.rowHelp">
+      <trans-unit id="About.rowHelp" xml:space="preserve">
         <source>Help</source>
+        <target>Ярдәм</target>
         <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.rowPrivacy">
