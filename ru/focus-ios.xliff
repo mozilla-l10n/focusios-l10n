@@ -791,8 +791,9 @@
         <target>Включено</target>
         <note>Status on for tracking protection in settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.useSystemTheme">
+      <trans-unit id="Settings.useSystemTheme" xml:space="preserve">
         <source>Use System Light/Dark Mode</source>
+        <target>Используйте Системный Светлый/Тёмный режим</target>
         <note>Value for theme toggle in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle" xml:space="preserve">
