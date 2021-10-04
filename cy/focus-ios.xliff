@@ -773,7 +773,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleTouchID" xml:space="preserve">
         <source>Use Touch ID to unlock app</source>
-        <target>Defnyddiwch Touch ID i ddatgloi ap</target>
+        <target>Defnyddio Touch ID i ddatgloi ap</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleTouchIDDescription" xml:space="preserve">
@@ -1038,7 +1038,7 @@
       </trans-unit>
       <trans-unit id="touchId.reason" xml:space="preserve">
         <source>Use Touch ID to return to %@</source>
-        <target>Defnyddiwch yr ID cyffwrdd i ddychwelyd i %@</target>
+        <target>Defnyddio'r Touch ID i ddychwelyd i %@</target>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID to continue browsing after returning to the app.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel" xml:space="preserve">
@@ -1048,7 +1048,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.analyticTrackerLabel" xml:space="preserve">
         <source>Analytic trackers</source>
-        <target>Tracwyr dadansoddi</target>
+        <target>Tracwyr dadansoddeg</target>
         <note>label for analytic trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.connectionNotSecureLabel" xml:space="preserve">
