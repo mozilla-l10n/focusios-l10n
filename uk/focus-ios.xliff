@@ -17,7 +17,7 @@
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
         <source>Websites you visit may request your location.</source>
-        <target>Відвідувані вами веб-сайти можуть запитувати ваше розташування.</target>
+        <target>Відвідувані вами вебсайти можуть запитувати ваше розташування.</target>
         <note>Privacy - Location When In Use Usage Description</note>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
@@ -153,7 +153,7 @@
       </trans-unit>
       <trans-unit id="About.safariBullet2" xml:space="preserve">
         <source>Block web fonts to reduce page size</source>
-        <target>Блокуйте веб-шрифти для зменшення розміру сторінок</target>
+        <target>Блокуйте вебшрифти для зменшення розміру сторінок</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader" xml:space="preserve">
@@ -603,7 +603,7 @@
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage" xml:space="preserve">
         <source>Blocking other content trackers may break some videos and web pages.</source>
-        <target>Блокування інших елементів стеження може пошкодити деякі відео і веб-сторінки.</target>
+        <target>Блокування інших елементів стеження може пошкодити деякі відео і вебсторінки.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo2" xml:space="preserve">
@@ -728,7 +728,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts" xml:space="preserve">
         <source>Block web fonts</source>
-        <target>Блокувати веб-шрифти</target>
+        <target>Блокувати вебшрифти</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther2" xml:space="preserve">
@@ -758,7 +758,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle" xml:space="preserve">
         <source>May break some videos and Web pages</source>
-        <target>Може пошкодити деякі відео і веб-сторінки</target>
+        <target>Може пошкодити деякі відео і вебсторінки</target>
         <note>Label subtitle for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSafari" xml:space="preserve">
