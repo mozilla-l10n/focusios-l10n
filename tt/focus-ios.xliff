@@ -286,100 +286,124 @@
         <target>Минем сайтларым</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.mySitesDesc">
+      <trans-unit id="Autocomplete.mySitesDesc" xml:space="preserve">
         <source>Enable to have %@ autocomplete your favorite URLs.</source>
+        <target>%@ программасында Сез еш кулланган адреслар өчен автотөгәлләүне кабызу.</target>
         <note>Description for adding and managing custom autocomplete URLs. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.topSites">
+      <trans-unit id="Autocomplete.topSites" xml:space="preserve">
         <source>Top Sites</source>
+        <target>Төп сайтлар</target>
         <note>Label for enabling or disabling top sites</note>
       </trans-unit>
-      <trans-unit id="BiometricPrompt.newSession">
+      <trans-unit id="BiometricPrompt.newSession" xml:space="preserve">
         <source>New Session</source>
+        <target>Яңа утырыш</target>
         <note>Create a new session after failing a biometric check</note>
       </trans-unit>
-      <trans-unit id="BiometricPrompt.reason">
+      <trans-unit id="BiometricPrompt.reason" xml:space="preserve">
         <source>Unlock %@ when re-opening in order to prevent unauthorized access.</source>
+        <target>Рөхсәтсез ирешүгә юл куймау өчен, яңадан ачылганда %@ программасының йозагын ачу.</target>
         <note>%@ is app name. Explanation for why the app needs access to biometric information. Prompt is only shown once when the user first tries to enable Face ID to open the app.</note>
       </trans-unit>
-      <trans-unit id="Browser.backLabel">
+      <trans-unit id="Browser.backLabel" xml:space="preserve">
         <source>Back</source>
+        <target>Кире</target>
         <note>Accessibility label for the back button</note>
       </trans-unit>
-      <trans-unit id="Browser.copyAddressLabel">
+      <trans-unit id="Browser.copyAddressLabel" xml:space="preserve">
         <source>Copy Address</source>
+        <target>Адресны күчереп алу</target>
         <note>Copy URL button in URL long press menu</note>
       </trans-unit>
-      <trans-unit id="Browser.copyMenuLabel">
+      <trans-unit id="Browser.copyMenuLabel" xml:space="preserve">
         <source>Copy</source>
+        <target>Күчереп алу</target>
         <note>Copy URL button in URL long press menu</note>
       </trans-unit>
-      <trans-unit id="Browser.customURLMenuLabel">
+      <trans-unit id="Browser.customURLMenuLabel" xml:space="preserve">
         <source>Add Custom URL</source>
+        <target>Үзгә URL өстәү</target>
         <note>Custom URL button in URL long press menu</note>
       </trans-unit>
-      <trans-unit id="Browser.forwardLabel">
+      <trans-unit id="Browser.forwardLabel" xml:space="preserve">
         <source>Forward</source>
+        <target>Алга</target>
         <note>Accessibility label for the forward button</note>
       </trans-unit>
-      <trans-unit id="Browser.reloadLabel">
+      <trans-unit id="Browser.reloadLabel" xml:space="preserve">
         <source>Reload</source>
+        <target>Яңарту</target>
         <note>Accessibility label for the reload button</note>
       </trans-unit>
-      <trans-unit id="Browser.settingsLabel">
+      <trans-unit id="Browser.settingsLabel" xml:space="preserve">
         <source>Settings</source>
+        <target>Көйләүләр</target>
         <note>Accessibility label for the settings button</note>
       </trans-unit>
-      <trans-unit id="Browser.shareLabel">
+      <trans-unit id="Browser.shareLabel" xml:space="preserve">
         <source>Share</source>
+        <target>Уртаклашу</target>
         <note>Accessibility label for the share button</note>
       </trans-unit>
-      <trans-unit id="Browser.stopLabel">
+      <trans-unit id="Browser.stopLabel" xml:space="preserve">
         <source>Stop</source>
+        <target>Туктату</target>
         <note>Accessibility label for the stop button</note>
       </trans-unit>
-      <trans-unit id="Cancel">
+      <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
+        <target>Баш тарту</target>
         <note>Label on button to cancel edits</note>
       </trans-unit>
-      <trans-unit id="Done">
+      <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
+        <target>Әзер</target>
         <note>Label on button to complete edits</note>
       </trans-unit>
-      <trans-unit id="Edit">
+      <trans-unit id="Edit" xml:space="preserve">
         <source>Edit</source>
+        <target>Үзгәртү</target>
         <note>Label on button to allow edits</note>
       </trans-unit>
-      <trans-unit id="Error.tryAgainButton">
+      <trans-unit id="Error.tryAgainButton" xml:space="preserve">
         <source>Try again</source>
+        <target>Янәдән тырышып карау</target>
         <note>Button label to reload the error page</note>
       </trans-unit>
-      <trans-unit id="ExternalAppLink.cancelTitle">
+      <trans-unit id="ExternalAppLink.cancelTitle" xml:space="preserve">
         <source>Cancel</source>
+        <target>Баш тарту</target>
         <note>Button label used for cancelling to open another app from Focus</note>
       </trans-unit>
-      <trans-unit id="ExternalAppLink.messageTitle">
+      <trans-unit id="ExternalAppLink.messageTitle" xml:space="preserve">
         <source>%@ wants to open another App</source>
+        <target>%@ башка бер кушымтаны ачарга тели</target>
         <note>Dialog title used for opening an external app from Focus. The placeholder string is the app name of either Focus or Klar.</note>
       </trans-unit>
-      <trans-unit id="ExternalAppLink.openTitle">
+      <trans-unit id="ExternalAppLink.openTitle" xml:space="preserve">
         <source>Open</source>
+        <target>Ачу</target>
         <note>Button label for opening another app from Focus</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.callButton">
+      <trans-unit id="ExternalLink.callButton" xml:space="preserve">
         <source>Call</source>
+        <target>Шалтырату</target>
         <note>Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.cancelButton">
+      <trans-unit id="ExternalLink.cancelButton" xml:space="preserve">
         <source>Cancel</source>
+        <target>Баш тарту</target>
         <note>Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.emailButton">
+      <trans-unit id="ExternalLink.emailButton" xml:space="preserve">
         <source>Email</source>
+        <target>Эл. почта</target>
         <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.messageTitleWithPlaceholder">
+      <trans-unit id="ExternalLink.messageTitleWithPlaceholder" xml:space="preserve">
         <source>You are now leaving %@.</source>
+        <target>Сез хәзер %@ программасыннан чыгасыз.</target>
         <note>Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreButton">
