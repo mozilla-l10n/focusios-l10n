@@ -406,36 +406,44 @@
         <target>Сез хәзер %@ программасыннан чыгасыз.</target>
         <note>Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.openAppStoreButton">
+      <trans-unit id="ExternalLink.openAppStoreButton" xml:space="preserve">
         <source>Open App Store</source>
+        <target>App Store-ны ачу</target>
         <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.openAppStoreTitle">
+      <trans-unit id="ExternalLink.openAppStoreTitle" xml:space="preserve">
         <source>%@ wants to open the App Store.</source>
+        <target>%@ App Store-ны ачарга тели.</target>
         <note>Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.openMapsButton">
+      <trans-unit id="ExternalLink.openMapsButton" xml:space="preserve">
         <source>Open Maps</source>
+        <target>Карталарны ачу</target>
         <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="FindInPage.Done">
+      <trans-unit id="FindInPage.Done" xml:space="preserve">
         <source>Find in page done</source>
+        <target>Биттән эзләү тәмамланды</target>
         <note>Accessibility label for done button in Find in Page Toolbar.</note>
       </trans-unit>
-      <trans-unit id="FindInPage.NextResult">
+      <trans-unit id="FindInPage.NextResult" xml:space="preserve">
         <source>Find next in page</source>
+        <target>Киләсе очракны табу</target>
         <note>Accessibility label for next result button in Find in Page Toolbar.</note>
       </trans-unit>
-      <trans-unit id="FindInPage.PreviousResult">
+      <trans-unit id="FindInPage.PreviousResult" xml:space="preserve">
         <source>Find previous in page</source>
+        <target>Үткән очракны табу</target>
         <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
       </trans-unit>
-      <trans-unit id="FirstRun.lastSlide.buttonLabel">
+      <trans-unit id="FirstRun.lastSlide.buttonLabel" xml:space="preserve">
         <source>OK, Got It!</source>
+        <target>Яхшы, аңладым!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
-      <trans-unit id="FirstRun.messageLabelDescription">
+      <trans-unit id="FirstRun.messageLabelDescription" xml:space="preserve">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
+        <target>Интернетта гизгәндә онлайн күзәтүчеләрне автоматик рәвештә блоклагыз. Аннан, җиһазыгыздан каралган битләрне, эзләүләрне, кукиларны һәм серсүзләрне бетерү өчен, экранга басып алыгыз.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline">
