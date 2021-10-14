@@ -521,68 +521,84 @@
         <target>Саклау</target>
         <note>Save button label</note>
       </trans-unit>
-      <trans-unit id="SearchEngine.addEngineError">
+      <trans-unit id="SearchEngine.addEngineError" xml:space="preserve">
         <source>That didn't work. Try replacing the search term with this: %s.</source>
+        <target>Бу эшләмәде. Сорауны менә моның белән алыштырып карагыз: %s.</target>
         <note>Label for error state when entering an invalid search engine URL. %s is a search term in a URL.</note>
       </trans-unit>
-      <trans-unit id="SearchSuggestions.promptDisable">
+      <trans-unit id="SearchSuggestions.promptDisable" xml:space="preserve">
         <source>No</source>
+        <target>Юк</target>
         <note>Label for disable option on search suggestions prompt</note>
       </trans-unit>
-      <trans-unit id="SearchSuggestions.promptEnable">
+      <trans-unit id="SearchSuggestions.promptEnable" xml:space="preserve">
         <source>Yes</source>
+        <target>Әйе</target>
         <note>Label for enable option on search suggestions prompt</note>
       </trans-unit>
-      <trans-unit id="SearchSuggestions.promptMessage">
+      <trans-unit id="SearchSuggestions.promptMessage" xml:space="preserve">
         <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
+        <target>Эзләү тәкъдимнәрен алу өчен, %@ Сез адрес юлында язганнарны эзләү системасына җибәрергә мәҗбүр.</target>
         <note>%@ is the name of the app (Focus / Klar). Label for search suggestions prompt message</note>
       </trans-unit>
-      <trans-unit id="SearchSuggestions.promptTitle">
+      <trans-unit id="SearchSuggestions.promptTitle" xml:space="preserve">
         <source>Show Search Suggestions?</source>
+        <target>Эзләү тәкъдимнәре күрсәтелсенме?</target>
         <note>Title for search suggestions prompt</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.AddSearchEngineButton">
+      <trans-unit id="Settings.Search.AddSearchEngineButton" xml:space="preserve">
         <source>Add Another Search Engine</source>
+        <target>Башка бер эзләү системасын өстәү</target>
         <note>Text for button to add another search engine in settings</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.AddSearchEngineButtonWithPlus">
+      <trans-unit id="Settings.Search.AddSearchEngineButtonWithPlus" xml:space="preserve">
         <source>+ Add Another Search Engine</source>
+        <target>+ Башка бер эзләү системасын өстәү</target>
         <note>Text for button to add another search engine in settings with the + prefix</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.AddSearchEngineTitle">
+      <trans-unit id="Settings.Search.AddSearchEngineTitle" xml:space="preserve">
         <source>Add Search Engine</source>
+        <target>Эзләү системасын өстәү</target>
         <note>Title on add search engine settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.InstalledSearchEngines">
+      <trans-unit id="Settings.Search.InstalledSearchEngines" xml:space="preserve">
         <source>INSTALLED SEARCH ENGINES</source>
+        <target>УРНАШТЫРЫЛГАН ЭЗЛӘҮ СИСТЕМАЛАРЫ</target>
         <note>Header for rows of installed search engines</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.NameToDisplay">
+      <trans-unit id="Settings.Search.NameToDisplay" xml:space="preserve">
         <source>Name to display</source>
+        <target>Күрсәтеләчәк исем</target>
         <note>Label for input field for the name of the search engine to be added</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.NewSearchEngineAdded">
+      <trans-unit id="Settings.Search.NewSearchEngineAdded" xml:space="preserve">
         <source>New Search Engine Added.</source>
+        <target>Яңа эзләү системасы өстәлде.</target>
         <note>Toast displayed after adding a search engine</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.RestoreEngine">
+      <trans-unit id="Settings.Search.RestoreEngine" xml:space="preserve">
         <source>Restore Default Search Engines</source>
+        <target>Стандарт эзләү системаларын яңадан торгызу</target>
         <note>Label for button to bring deleted default engines back</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.SearchEngineName">
+      <trans-unit id="Settings.Search.SearchEngineName" xml:space="preserve">
         <source>Search engine name</source>
+        <target>Эзләү системасының исеме</target>
         <note>Placeholder text for input of new search engine name</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.SearchTemplate">
+      <trans-unit id="Settings.Search.SearchTemplate" xml:space="preserve">
         <source>Search string to use</source>
+        <target>Эзләнәчәк сүз я сүзтезмә</target>
         <note>Label for input of search engine template</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.SearchTemplatePlaceholder">
+      <trans-unit id="Settings.Search.SearchTemplatePlaceholder" xml:space="preserve">
         <source>Paste or enter search string. If necessary, replace search term with: %s.</source>
+        <target>Эзләнәсе сүз я сүзтезмәне ябыштырыгыз яки языгыз. Кирәк булса, эзләнәсе терминны болай язып карагыз: %s.</target>
         <note>Placeholder text for input of new search engine template</note>
       </trans-unit>
-      <trans-unit id="Settings.autocompleteSection">
+      <trans-unit id="Settings.autocompleteSection" xml:space="preserve">
         <source>URL Autocomplete</source>
+        <target>URL-адресны автотөгәлләү</target>
         <note>Title for the URL Autocomplete row</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
