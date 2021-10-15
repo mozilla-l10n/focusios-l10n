@@ -766,36 +766,44 @@
         <target>Safari</target>
         <note>Safari toggle label on settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleSendUsageData">
+      <trans-unit id="Settings.toggleSendUsageData" xml:space="preserve">
         <source>Send usage data</source>
+        <target>Куллану мәгълүматларын җибәрү</target>
         <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleTouchID">
+      <trans-unit id="Settings.toggleTouchID" xml:space="preserve">
         <source>Use Touch ID to unlock app</source>
+        <target>Кушымтаны ачу өчен Touch ID кулланыгыз</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleTouchIDDescription">
+      <trans-unit id="Settings.toggleTouchIDDescription" xml:space="preserve">
         <source>Touch ID can unlock %@ if a URL is already open in the app</source>
+        <target>Кушымтада бер URL инде ачылган булса, Touch ID %@ кушымтасын ачып бирә ала</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
-      <trans-unit id="Settings.trackingProtectionOff">
+      <trans-unit id="Settings.trackingProtectionOff" xml:space="preserve">
         <source>Off</source>
+        <target>Сүнгән</target>
         <note>Status off for tracking protection in settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.trackingProtectionOn">
+      <trans-unit id="Settings.trackingProtectionOn" xml:space="preserve">
         <source>On</source>
+        <target>Кабынган</target>
         <note>Status on for tracking protection in settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.useSystemTheme">
+      <trans-unit id="Settings.useSystemTheme" xml:space="preserve">
         <source>Use System Light/Dark Mode</source>
+        <target>Системаның ачык/караңгы режимын куллану</target>
         <note>Value for theme toggle in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.whatsNewTitle">
+      <trans-unit id="Settings.whatsNewTitle" xml:space="preserve">
         <source>What’s New</source>
+        <target>Яңалыклар</target>
         <note>Title for What's new screen</note>
       </trans-unit>
-      <trans-unit id="Settinsg.siriShortcutsTitle">
+      <trans-unit id="Settinsg.siriShortcutsTitle" xml:space="preserve">
         <source>SIRI SHORTCUTS</source>
+        <target>SIRI КЫСКАРТЫЛМАЛАРЫ</target>
         <note>Title for settings section to enable different Siri Shortcuts.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.AddToShortcuts">
