@@ -706,52 +706,64 @@
         <target>Система темасы</target>
         <note>System value for theme section in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.theme">
+      <trans-unit id="Settings.theme" xml:space="preserve">
         <source>Theme</source>
+        <target>Тема</target>
         <note>Theme section in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.themePicker">
+      <trans-unit id="Settings.themePicker" xml:space="preserve">
         <source>Theme Picker</source>
+        <target>Тема сайлагыч</target>
         <note>Header for manual theme section in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockAds2">
+      <trans-unit id="Settings.toggleBlockAds2" xml:space="preserve">
         <source>Advertising</source>
+        <target>Реклама</target>
         <note>Label for the checkbox to toggle Advertising trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockAnalytics2">
+      <trans-unit id="Settings.toggleBlockAnalytics2" xml:space="preserve">
         <source>Analytics</source>
+        <target>Аналитика</target>
         <note>Label for the checkbox to toggle Analytics trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockFonts">
+      <trans-unit id="Settings.toggleBlockFonts" xml:space="preserve">
         <source>Block web fonts</source>
+        <target>Веб-шрифтларны блоклау</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockOther2">
+      <trans-unit id="Settings.toggleBlockOther2" xml:space="preserve">
         <source>Content</source>
+        <target>Эчтәлек</target>
         <note>Label for the checkbox to toggle Other trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockSocial2">
+      <trans-unit id="Settings.toggleBlockSocial2" xml:space="preserve">
         <source>Social</source>
+        <target>Социаль</target>
         <note>Label for the checkbox to toggle Social trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleFaceID">
+      <trans-unit id="Settings.toggleFaceID" xml:space="preserve">
         <source>Use Face ID to unlock app</source>
+        <target>Кушымтаны ачу өчен Face ID кулланыгыз</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleFaceIDDescription">
+      <trans-unit id="Settings.toggleFaceIDDescription" xml:space="preserve">
         <source>Face ID can unlock %@ if a URL is already open in the app</source>
+        <target>Кушымтада бер URL инде ачылган булса, Face ID %@ кушымтасын ачып бирә ала</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleHomeScreenTips">
+      <trans-unit id="Settings.toggleHomeScreenTips" xml:space="preserve">
         <source>Show home screen tips</source>
+        <target>Өй экранында киңәшләр күрсәтү</target>
         <note>Show home screen tips toggle label on settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleOtherSubtitle">
+      <trans-unit id="Settings.toggleOtherSubtitle" xml:space="preserve">
         <source>May break some videos and Web pages</source>
+        <target>Кайбер видеоларны һәм веб-битләрне җимерергә мөмкин</target>
         <note>Label subtitle for toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleSafari">
+      <trans-unit id="Settings.toggleSafari" xml:space="preserve">
         <source>Safari</source>
+        <target>Safari</target>
         <note>Safari toggle label on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSendUsageData">
