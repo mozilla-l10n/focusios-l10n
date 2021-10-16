@@ -961,40 +961,49 @@
         <target>%@ белән ачу</target>
         <note>Title for action sheet item to open the current page in another application. Placeholder is the name of the application to open the current page.</note>
       </trans-unit>
-      <trans-unit id="browser.copyAddressToast">
+      <trans-unit id="browser.copyAddressToast" xml:space="preserve">
         <source>URL Copied To Clipboard</source>
+        <target>URL алмашу буферына күчереп алынды</target>
         <note>Toast displayed after a URL has been copied to the clipboard</note>
       </trans-unit>
-      <trans-unit id="browserShortcutDescription.selectLocationBar">
+      <trans-unit id="browserShortcutDescription.selectLocationBar" xml:space="preserve">
         <source>Select Location Bar</source>
+        <target>Адрес юлын сайлау</target>
         <note>Label to display in the Discoverability overlay for keyboard shortcuts</note>
       </trans-unit>
-      <trans-unit id="contextMenu.clipboardLink">
+      <trans-unit id="contextMenu.clipboardLink" xml:space="preserve">
         <source>Link you copied: %@</source>
+        <target>Сез күчереп алган сылтама: %@</target>
         <note>Text for the context menu when a user has a link on their clipboard.</note>
       </trans-unit>
-      <trans-unit id="contextMenu.copyImageTitle">
+      <trans-unit id="contextMenu.copyImageTitle" xml:space="preserve">
         <source>Copy Image</source>
+        <target>Рәсемне күчереп алу</target>
         <note>Text for the context menu when a user wants to copy an image after long pressing it.</note>
       </trans-unit>
-      <trans-unit id="contextMenu.copyLink">
+      <trans-unit id="contextMenu.copyLink" xml:space="preserve">
         <source>Copy Link</source>
+        <target>Сылтаманы күчереп алу</target>
         <note>Text for the context menu when a user wants to copy a link after long pressing it.</note>
       </trans-unit>
-      <trans-unit id="contextMenu.linkCopied">
+      <trans-unit id="contextMenu.linkCopied" xml:space="preserve">
         <source>Link you copied: </source>
+        <target>Сез күчереп алган сылтама:</target>
         <note>Text for the context menu when a user has a link on their clipboard.</note>
       </trans-unit>
-      <trans-unit id="contextMenu.saveImageTitle">
+      <trans-unit id="contextMenu.saveImageTitle" xml:space="preserve">
         <source>Save Image</source>
+        <target>Рәсемне саклау</target>
         <note>Text for the context menu when a user wants to save an image after long pressing it.</note>
       </trans-unit>
-      <trans-unit id="contextMenu.shareLinkTitle">
+      <trans-unit id="contextMenu.shareLinkTitle" xml:space="preserve">
         <source>Share Link</source>
+        <target>Сылтаманы уртаклашу</target>
         <note>Text for the context menu when a user wants to share a link after long pressing it.</note>
       </trans-unit>
-      <trans-unit id="externalAppLinkWithAppName.messageTitle">
+      <trans-unit id="externalAppLinkWithAppName.messageTitle" xml:space="preserve">
         <source>%1$@ wants to open %2$@</source>
+        <target>%1$@ %2$@ кушымтасын ачарга тели</target>
         <note>Dialog title used for opening an external app from Focus. First placeholder string is the app name of either Focus or Klar and the second placeholder string specifies the app it wants to open.</note>
       </trans-unit>
       <trans-unit id="photosPermission.description">
