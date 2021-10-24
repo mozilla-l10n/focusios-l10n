@@ -180,8 +180,9 @@
         <source>Failed to Add Pass</source>
         <note>Title of the 'Add Pass Failed' alert.</note>
       </trans-unit>
-      <trans-unit id="Authentication.reason">
+      <trans-unit id="Authentication.reason" xml:space="preserve">
         <source>Authenticate to return to %@</source>
+        <target>Tunnistaudu palataksesi %@iin</target>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID, Face ID, or passcode to continue browsing after returning to the app.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrl" xml:space="preserve">
@@ -522,8 +523,9 @@
         <target>Kyllä</target>
         <note>Label for enable option on search suggestions prompt</note>
       </trans-unit>
-      <trans-unit id="SearchSuggestions.promptMessage">
+      <trans-unit id="SearchSuggestions.promptMessage" xml:space="preserve">
         <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
+        <target>Saadaksesi ehdotuksia, %@in täytyy lähettää osoitepalkkiin kirjoittamasi teksti hakukoneelle.</target>
         <note>%@ is the name of the app (Focus / Klar). Label for search suggestions prompt message</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptTitle" xml:space="preserve">
@@ -580,12 +582,14 @@
         <source>Paste or enter search string. If necessary, replace search term with: %s.</source>
         <note>Placeholder text for input of new search engine template</note>
       </trans-unit>
-      <trans-unit id="Settings.autocompleteSection">
+      <trans-unit id="Settings.autocompleteSection" xml:space="preserve">
         <source>URL Autocomplete</source>
+        <target>Osoitteen autom. täydennys</target>
         <note>Title for the URL Autocomplete row</note>
       </trans-unit>
-      <trans-unit id="Settings.blockOtherMessage">
+      <trans-unit id="Settings.blockOtherMessage" xml:space="preserve">
         <source>Blocking other content trackers may break some videos and web pages.</source>
+        <target>Muiden sisältöseuraimien estäminen saattaa rikkoa joitain videoita ja verkkosivuja.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo2">
@@ -1006,7 +1010,7 @@
       </trans-unit>
       <trans-unit id="touchId.reason" xml:space="preserve">
         <source>Use Touch ID to return to %@</source>
-        <target>Käytä Touch ID:tä palataksesi %@</target>
+        <target>Käytä Touch ID:tä palataksesi %@iin</target>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID to continue browsing after returning to the app.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel" xml:space="preserve">
@@ -1044,8 +1048,9 @@
         <target>Seurannan suojaus</target>
         <note>Title for the tracking settings page to change what trackers are blocked.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.labelDescription">
+      <trans-unit id="trackingProtection.labelDescription" xml:space="preserve">
         <source>Turning this off may fix some site problems</source>
+        <target>Tämän poistaminen käytöstä voi korjata joitain sivusto-ongelmia</target>
         <note>Description/subtitle for the tracking protection label.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.learnMore" xml:space="preserve">
