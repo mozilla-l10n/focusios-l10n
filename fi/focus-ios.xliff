@@ -645,8 +645,9 @@
         <target>Hakukone</target>
         <note>Label for the search engine in the search screen</note>
       </trans-unit>
-      <trans-unit id="Settings.searchSuggestions">
+      <trans-unit id="Settings.searchSuggestions" xml:space="preserve">
         <source>Get Search Suggestions</source>
+        <target>Näytä hakuehdotukset</target>
         <note>Label for the Search Suggestions toggle row</note>
       </trans-unit>
       <trans-unit id="Settings.searchTitle2" xml:space="preserve">
@@ -1003,8 +1004,9 @@
         <target>Kopioi osoite</target>
         <note>Text for the share menu when a user wants to copy a URL.</note>
       </trans-unit>
-      <trans-unit id="touchId.reason">
+      <trans-unit id="touchId.reason" xml:space="preserve">
         <source>Use Touch ID to return to %@</source>
+        <target>Käytä Touch ID:tä palataksesi %@</target>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID to continue browsing after returning to the app.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel" xml:space="preserve">
