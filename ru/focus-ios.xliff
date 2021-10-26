@@ -493,7 +493,7 @@
       </trans-unit>
       <trans-unit id="Request Desktop Site" xml:space="preserve">
         <source>Request Desktop Site</source>
-        <target>Запросить версию для компьютера</target>
+        <target>Запросить полную версию сайта</target>
         <note>Label for button that requests the desktop version of the currently loaded website.</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers" xml:space="preserve">
@@ -833,7 +833,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop" xml:space="preserve">
         <source>Request Desktop Site</source>
-        <target>Запросить версию для компьютера</target>
+        <target>Запросить полную версию сайта</target>
         <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RequestMobile" xml:space="preserve">
