@@ -873,7 +873,7 @@
       </trans-unit>
       <trans-unit id="URL.addToAutocompleteLabel" xml:space="preserve">
         <source>Add link to autocomplete</source>
-        <target>Aghjunghje a leia à a scrittura mezu-autumatica</target>
+        <target>Aghjunghje u liame à a scrittura mezu-autumatica</target>
         <note>Label displayed for button used as a shortcut to add a link to the list of URLs to autocomplete.</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel" xml:space="preserve">
