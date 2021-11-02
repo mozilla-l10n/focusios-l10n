@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Blockzilla/en.lproj/InfoPlist.strings" source-language="en" target-language="gd" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
     </header>
     <body>
       <trans-unit id="NSCameraUsageDescription">
@@ -37,7 +37,7 @@
   </file>
   <file original="Blockzilla/en.lproj/Intents.strings" source-language="en" target-language="gd" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
     </header>
     <body>
       <trans-unit id="Intents.Erase.Title">
@@ -48,7 +48,7 @@
   </file>
   <file original="Blockzilla/en.lproj/Intro.strings" source-language="en" target-language="gd" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
     </header>
     <body>
       <trans-unit id="Intro.Slides.History.Description">
@@ -95,7 +95,7 @@
   </file>
   <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" target-language="gd" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
     </header>
     <body>
       <trans-unit id="About.learnMoreButton">
@@ -485,6 +485,14 @@
         <target>Safari</target>
         <note>Label in share alert to open the URL in Safari</note>
       </trans-unit>
+      <trans-unit id="ProtectionStatus.NotSecure">
+        <source>Connection is not secure</source>
+        <note>This is the value for a label that indicates if a user is on an unencrypted website.</note>
+      </trans-unit>
+      <trans-unit id="ProtectionStatus.Secure">
+        <source>Connection is secure</source>
+        <note>This is the value for a label that indicates if a user is on a secure https connection.</note>
+      </trans-unit>
       <trans-unit id="Request Desktop Site">
         <source>Request Desktop Site</source>
         <target>Iarr an làrach desktop</target>
@@ -622,6 +630,14 @@
         <target>Tha Mozilla an dealas dìreach an dàta a chruinneachadh a dh’fheumas sinn airson %@ a sholar is a leasachadh dhan a h-uile duine.</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
+      <trans-unit id="Settings.detailTextStudies">
+        <source>%@ may install and run studies from time to time.</source>
+        <note>Description associated to the Studies toggle on the settings screen. %@ is the app name (Focus/Klar)</note>
+      </trans-unit>
+      <trans-unit id="Settings.general">
+        <source>General</source>
+        <note>Title for section in settings menu</note>
+      </trans-unit>
       <trans-unit id="Settings.learnMore">
         <source>Learn more.</source>
         <target>Barrachd fiosrachaidh.</target>
@@ -753,6 +769,10 @@
         <target>Cuir an dàta cleachdaidh</target>
         <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
+      <trans-unit id="Settings.toggleStudies">
+        <source>Studies</source>
+        <note>Label for Studies toggle on the settings screen</note>
+      </trans-unit>
       <trans-unit id="Settings.toggleTouchID">
         <source>Use Touch ID to unlock app</source>
         <target>Cleachd Touch ID airson a’ ghlas a thoirt far na h-aplacaid</target>
@@ -823,15 +843,14 @@
         <target>Fosgail ann an Chrome</target>
         <note>Text for the share menu option when a user wants to open the current website in the Chrome app.</note>
       </trans-unit>
+      <trans-unit id="ShareMenu.ShareOpenDefaultBrowser">
+        <source>Open in Default Browser</source>
+        <note>Text for the share menu option when a user wants to open the current website in the default browser.</note>
+      </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenFirefox">
         <source>Open in Firefox</source>
         <target>Fosgail ann am Firefox</target>
         <note>Text for the share menu option when a user wants to open the current website in the Firefox app.</note>
-      </trans-unit>
-      <trans-unit id="ShareMenu.ShareOpenSafari">
-        <source>Open in Safari</source>
-        <target>Fosgail ann an Safari</target>
-        <note>Text for the share menu option when a user wants to open the current website in the Safari app.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.SharePage">
         <source>Share Page With...</source>
@@ -881,6 +900,74 @@
         <source>URL to open</source>
         <target>An URL a tha ri fhosgladh</target>
         <note>Label for input to set a favorite URL to be opened by Siri.</note>
+      </trans-unit>
+      <trans-unit id="Tip.Biometric.Title">
+        <source>Lock %@ when a site is open:</source>
+        <note>Text for a label that indicates the title for biometric tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.BiometricFaceId.Description">
+        <source>Turn on Face ID</source>
+        <note>Text for a label that indicates the description for biometric Face ID tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.BiometricTouchId.Description">
+        <source>Turn on Touch ID</source>
+        <note>Text for a label that indicates the description for biometric Touch ID tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.Release.Description">
+        <source>Read more about this and other updates to %@.</source>
+        <note>Text for a label that indicates the description for release tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.Release.Title">
+        <source>Why yes, we do have a fresh new look!</source>
+        <note>Text for a label that indicates the title for release tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.RequestDesktop.Description">
+        <source>Page Actions &gt; Request Desktop Site</source>
+        <note>Text for a label that indicates the description for request desktop tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.RequestDesktop.Title">
+        <source>Want to see the full desktop version of a site?</source>
+        <note>Text for a label that indicates the title for request desktop tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.ShareTrackers.Description">
+        <source>%@ trackers blocked so far</source>
+        <note>Text for a label that indicates the description for share trackers tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.ShareTrackers.Title">
+        <source>You browse. %@ blocks.</source>
+        <note>Text for a label that indicates the title for share trackers tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.Shortcuts.Description">
+        <source>Select Add to Shortcuts from the %@ menu</source>
+        <note>Text for a label that indicates the description for shortcuts tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.Shortcuts.Title">
+        <source>Create shortcuts to the sites you visit most:</source>
+        <note>Text for a label that indicates the title for shortcuts tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.SiriErase.Description">
+        <source>Add Siri shortcut</source>
+        <note>Text for a label that indicates the description for siri erase tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.SiriErase.Title">
+        <source>“Siri, erase my %@ session.”</source>
+        <note>Text for a label that indicates the title for siri erase tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.SiriFavorite.Description">
+        <source>Add Siri shortcut</source>
+        <note>Text for a label that indicates the description for siri favorite tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.SiriFavorite.Title">
+        <source>“Siri, open my favorite site.”</source>
+        <note>Text for a label that indicates the title for siri favorite tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.SitesNotWorking.Description">
+        <source>Try turning off Tracking Protection</source>
+        <note>Text for a label that indicates the description for sites not working tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.SitesNotWorking.Title">
+        <source>Site missing content or acting strange?</source>
+        <note>Text for a label that indicates the title for sites not working tip.</note>
       </trans-unit>
       <trans-unit id="URL.addToAutocompleteLabel">
         <source>Add link to autocomplete</source>
@@ -1034,6 +1121,10 @@
         <source>Connection is secure</source>
         <note>Text for tracking protection screen showing the connection is secure</note>
       </trans-unit>
+      <trans-unit id="trackingProtection.connectionVerifiedByLabel">
+        <source>Verified by %@</source>
+        <note>String to let users know the site verifier, where the placeholder represents the SSL certificate signer.</note>
+      </trans-unit>
       <trans-unit id="trackingProtection.contentTrackerLabel">
         <source>Content trackers</source>
         <target>Tracaichean susbaint</target>
@@ -1101,7 +1192,7 @@
   </file>
   <file original="Blockzilla/Settings.bundle/en.lproj/Root.strings" datatype="plaintext" source-language="en" target-language="gd">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
     </header>
     <body>
       <trans-unit id="SettingsBundle.Licenses">
