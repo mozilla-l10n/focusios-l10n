@@ -933,7 +933,7 @@
       <trans-unit id="Tip.Biometric.Title">
         <source>Lock %@ when a site is open:</source>
         <target>Lock %@ when a site is open:</target>
-        <note>Text for a label that indicates the title for biometric tip.</note>
+        <note>Text for a label that indicates the title for biometric tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.BiometricFaceId.Description">
         <source>Turn on Face ID</source>
@@ -948,7 +948,7 @@
       <trans-unit id="Tip.Release.Description">
         <source>Read more about this and other updates to %@.</source>
         <target>Read more about this and other updates to %@.</target>
-        <note>Text for a label that indicates the description for release tip.</note>
+        <note>Text for a label that indicates the description for release tip. The placeholder is replaced with the short product name (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.Release.Title">
         <source>Why yes, we do have a fresh new look!</source>
@@ -968,17 +968,17 @@
       <trans-unit id="Tip.ShareTrackers.Description">
         <source>%@ trackers blocked so far</source>
         <target>%@ trackers blocked so far</target>
-        <note>Text for a label that indicates the description for share trackers tip.</note>
+        <note>Text for a label that indicates the description for share trackers tip. The placeholder is the number of trackers blocked. Only shown when there are more than 10 trackers blocked.</note>
       </trans-unit>
       <trans-unit id="Tip.ShareTrackers.Title">
         <source>You browse. %@ blocks.</source>
         <target>You browse. %@ blocks.</target>
-        <note>Text for a label that indicates the title for share trackers tip.</note>
+        <note>Text for a label that indicates the title for share trackers tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.Shortcuts.Description">
         <source>Select Add to Shortcuts from the %@ menu</source>
         <target>Select Add to Shortcuts from the %@ menu</target>
-        <note>Text for a label that indicates the description for shortcuts tip.</note>
+        <note>Text for a label that indicates the description for shortcuts tip. The placeholder is replaced with the short product name (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.Shortcuts.Title">
         <source>Create shortcuts to the sites you visit most:</source>
@@ -993,7 +993,7 @@
       <trans-unit id="Tip.SiriErase.Title">
         <source>“Siri, erase my %@ session.”</source>
         <target>“Siri, erase my %@ session.”</target>
-        <note>Text for a label that indicates the title for siri erase tip.</note>
+        <note>Text for a label that indicates the title for siri erase tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.SiriFavorite.Description">
         <source>Add Siri shortcut</source>
