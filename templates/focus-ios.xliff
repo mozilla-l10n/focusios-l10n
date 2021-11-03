@@ -795,7 +795,7 @@
       </trans-unit>
       <trans-unit id="Tip.SiriErase.Description">
         <source>Add Siri shortcut</source>
-        <note>Text for a label that indicates the description for siri erase tip.</note>
+        <note>Text for a label that indicates the description for siri erase tip. The shortcut in this context is the iOS Siri Shortcut, not a Focus website shortcut.</note>
       </trans-unit>
       <trans-unit id="Tip.SiriErase.Title">
         <source>“Siri, erase my %@ session.”</source>
@@ -803,7 +803,7 @@
       </trans-unit>
       <trans-unit id="Tip.SiriFavorite.Description">
         <source>Add Siri shortcut</source>
-        <note>Text for a label that indicates the description for siri favorite tip.</note>
+        <note>Text for a label that indicates the description for siri favorite tip. The shortcut in this context is the iOS Siri Shortcut, not a Focus website shortcut.</note>
       </trans-unit>
       <trans-unit id="Tip.SiriFavorite.Title">
         <source>“Siri, open my favorite site.”</source>
