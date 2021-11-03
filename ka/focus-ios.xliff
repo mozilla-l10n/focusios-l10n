@@ -1,36 +1,35 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Blockzilla/en.lproj/InfoPlist.strings" source-language="en" target-language="ka" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
     </header>
     <body>
-      <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
+      <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
         <target>საშუალებას გაძლევთ, სურათის გადაღებისა და ატვირთვის.</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
+      <trans-unit id="NSFaceIDUsageDescription">
         <source>This lets you unlock the app.</source>
         <target>საშუალებას გაძლევთ გახსნათ ჩაკეტილი პროგრამა.</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
+      <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
         <target>ვებსაიტებმა, შესაძლოა მოითხოვოს თქვენი მდებარეობის მონაცემები.</target>
         <note>Privacy - Location When In Use Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
+      <trans-unit id="NSMicrophoneUsageDescription">
         <source>This lets you take and upload videos.</source>
         <target>საშუალებას გაძლევთ, ვიდეოს გადაღებისა და ატვირთვის.</target>
         <note>Privacy - Microphone Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
+      <trans-unit id="NSPhotoLibraryAddUsageDescription">
         <source>This lets you save and upload photos.</source>
         <target>საშუალებას გაძლევთ, სურათის შენახვისა და ატვირთვის.</target>
         <note>Privacy - Photo Library Additions Usage Description</note>
       </trans-unit>
-      <trans-unit id="UIApplicationShortcutItemTitle.EraseAndOpen" xml:space="preserve">
+      <trans-unit id="UIApplicationShortcutItemTitle.EraseAndOpen">
         <source>Erase and Open</source>
         <target>გასუფთავება და გახსნა</target>
         <note>This is the menu item that appears when you long press the Focus icon on the phone home screen.</note>
@@ -39,10 +38,10 @@
   </file>
   <file original="Blockzilla/en.lproj/Intents.strings" source-language="en" target-language="ka" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
     </header>
     <body>
-      <trans-unit id="Intents.Erase.Title" xml:space="preserve">
+      <trans-unit id="Intents.Erase.Title">
         <source>Erase</source>
         <target>გასუფთავება</target>
         <note>Title of the Erase intent.</note>
@@ -51,45 +50,45 @@
   </file>
   <file original="Blockzilla/en.lproj/Intro.strings" source-language="en" target-language="ka" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
     </header>
     <body>
-      <trans-unit id="Intro.Slides.History.Description" xml:space="preserve">
+      <trans-unit id="Intro.Slides.History.Description">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
         <target>გაასუფთავეთ მონახულებული გვერდები, პაროლები და ა.შ. ნებისმიერ დროს, მხოლოდ ერთი შეხებით.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.History.Title" xml:space="preserve">
+      <trans-unit id="Intro.Slides.History.Title">
         <source>Your history is history</source>
         <target>თქვენი ისტორია უკვე ისტორიის საკუთრებაა</target>
         <note>Title for the third  panel 'History' in the First Run tour.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Next.Button" xml:space="preserve">
+      <trans-unit id="Intro.Slides.Next.Button">
         <source>Next</source>
         <target>შემდეგი</target>
         <note>Button to go to the next card in Focus onboarding.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Search.Description" xml:space="preserve">
+      <trans-unit id="Intro.Slides.Search.Description">
         <source>Searching for something different? Choose a different search engine.</source>
         <target>რამე განსხვავებულს ეძებთ? აირჩიეთ სხვა საძიებო სისტემა.</target>
         <note>Description for the 'Favorite Search Engine' panel in the First Run tour.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Search.Title" xml:space="preserve">
+      <trans-unit id="Intro.Slides.Search.Title">
         <source>Your search, your way</source>
         <target>მოიძიეთ გვერდები, თქვენებურად</target>
         <note>Title for the second  panel 'Search' in the First Run tour.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Skip.Button" xml:space="preserve">
+      <trans-unit id="Intro.Slides.Skip.Button">
         <source>Skip</source>
         <target>გამოტოვება</target>
         <note>Button to skip onboarding in Focus</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Welcome.Description" xml:space="preserve">
+      <trans-unit id="Intro.Slides.Welcome.Description">
         <source>Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.</source>
         <target>პირადი მონაცემების უსაფრთხოება ახალ დონეზეა აყვანილი. შეზღუდეთ სარეკლამო და სხვა შიგთავსი, რომლითაც საიტებზე თქვენი დევნაა შესაძლებელი და შეამცირეთ გვერდების ჩატვირთვის დრო.</target>
         <note>Description for the 'Welcome' panel in the First Run tour.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Welcome.Title" xml:space="preserve">
+      <trans-unit id="Intro.Slides.Welcome.Title">
         <source>Power up your privacy</source>
         <target>გააძლიერეთ პირადი მონაცემების დაცვა</target>
         <note>Title for the first panel 'Welcome' in the First Run tour.</note>
@@ -98,1035 +97,1126 @@
   </file>
   <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" target-language="ka" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
     </header>
     <body>
-      <trans-unit id="About.learnMoreButton" xml:space="preserve">
+      <trans-unit id="About.learnMoreButton">
         <source>Learn more</source>
         <target>ვრცლად</target>
         <note>Button on About screen</note>
       </trans-unit>
-      <trans-unit id="About.missionLabel" xml:space="preserve">
+      <trans-unit id="About.missionLabel">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
         <target>%@ შექმნილია Mozilla-ს მიერ. ჩვენი მიზანია ჯანსაღი, გახსნილი ინტერნეტის ხელშეწყობა.</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.privateBullet1" xml:space="preserve">
+      <trans-unit id="About.privateBullet1">
         <source>Search and browse right in the app</source>
         <target>მოიძიეთ და დაათვალიერეთ პირდაპირ პროგრამაში</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.privateBullet2" xml:space="preserve">
+      <trans-unit id="About.privateBullet2">
         <source>Block trackers (or update settings to allow trackers)</source>
         <target>შეზღუდეთ მეთვალყურეები (ან დაუშვით პარამეტრებიდან)</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.privateBullet3" xml:space="preserve">
+      <trans-unit id="About.privateBullet3">
         <source>Erase to delete cookies as well as search and browsing history</source>
         <target>გაასუფთავეთ, ფუნთუშების, ძიებისა და საიტების ისტორიის წასაშლელად</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.privateBulletHeader" xml:space="preserve">
+      <trans-unit id="About.privateBulletHeader">
         <source>Use it as a private browser:</source>
         <target>გამოიყენეთ პირად ბრაუზერად:</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.rowHelp" xml:space="preserve">
+      <trans-unit id="About.rowHelp">
         <source>Help</source>
         <target>დახმარება</target>
         <note>Label for row in About screen</note>
       </trans-unit>
-      <trans-unit id="About.rowPrivacy" xml:space="preserve">
+      <trans-unit id="About.rowPrivacy">
         <source>Privacy Notice</source>
         <target>პირადულობის დებულება</target>
         <note>Link to Privacy Notice in the About screen</note>
       </trans-unit>
-      <trans-unit id="About.rowRights" xml:space="preserve">
+      <trans-unit id="About.rowRights">
         <source>Your Rights</source>
         <target>თქვენი უფლებები</target>
         <note>Label for row in About screen</note>
       </trans-unit>
-      <trans-unit id="About.safariBullet1" xml:space="preserve">
+      <trans-unit id="About.safariBullet1">
         <source>Block trackers for improved privacy</source>
         <target>შეზღუდეთ თვალთვალი, მეტი პირადულობისთვის</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.safariBullet2" xml:space="preserve">
+      <trans-unit id="About.safariBullet2">
         <source>Block web fonts to reduce page size</source>
         <target>ვებშრიფტების შეზღუდვა, გვერდის მოცულობის შესამცირებლად</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.safariBulletHeader" xml:space="preserve">
+      <trans-unit id="About.safariBulletHeader">
         <source>Use it as a Safari extension:</source>
         <target>გამოიყენეთ, Safari-ს დამატებად:</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.title" xml:space="preserve">
+      <trans-unit id="About.title">
         <source>About %@</source>
         <target>%@ პროგრამის შესახებ</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, takes the user to a page with information about the product. Also displayed as a header for the About page.</note>
       </trans-unit>
-      <trans-unit id="About.topLabel" xml:space="preserve">
+      <trans-unit id="About.topLabel">
         <source>%@ puts you in control.</source>
         <target>%@ გიბრუნებთ მართვის სადავეებს.</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="AddPass.Error.Dismiss" xml:space="preserve">
+      <trans-unit id="AddPass.Error.Dismiss">
         <source>Ok</source>
         <target>კარგი</target>
         <note>Button to dismiss the 'Add Pass Failed' alert.</note>
       </trans-unit>
-      <trans-unit id="AddPass.Error.Message" xml:space="preserve">
+      <trans-unit id="AddPass.Error.Message">
         <source>An error occured while adding the pass to Wallet. Please try again later.</source>
         <target>შეცდომა, Wallet-ზე კოდის დამატებისას. გთხოვთ, სცადოთ მოგვიანებით.</target>
         <note>Message of the 'Add Pass Failed' alert.</note>
       </trans-unit>
-      <trans-unit id="AddPass.Error.Title" xml:space="preserve">
+      <trans-unit id="AddPass.Error.Title">
         <source>Failed to Add Pass</source>
         <target>კოდის დამატება ვერ მოხერხდა</target>
         <note>Title of the 'Add Pass Failed' alert.</note>
       </trans-unit>
-      <trans-unit id="Authentication.reason" xml:space="preserve">
+      <trans-unit id="Authentication.reason">
         <source>Authenticate to return to %@</source>
         <target>ვინაობის დამოწმება, %@-ზე დასაბრუნებლად</target>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID, Face ID, or passcode to continue browsing after returning to the app.</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.addCustomUrl" xml:space="preserve">
+      <trans-unit id="Autocomplete.addCustomUrl">
         <source>Add Custom URL</source>
         <target>საკუთარი URL-ს დამატება</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.addCustomUrlError" xml:space="preserve">
+      <trans-unit id="Autocomplete.addCustomUrlError">
         <source>Double-check the URL you entered.</source>
         <target>გადაამოწმეთ შეყვანილი URL.</target>
         <note>Label for error state when entering an invalid URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.addCustomUrlExample" xml:space="preserve">
+      <trans-unit id="Autocomplete.addCustomUrlExample">
         <source>Example: example.com</source>
         <target>მაგალითად: example.com</target>
         <note>A label displaying an example URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.addCustomUrlLabel" xml:space="preserve">
+      <trans-unit id="Autocomplete.addCustomUrlLabel">
         <source>URL to add</source>
         <target>URL დასამატებლად</target>
         <note>Label for the input to add a custom URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.addCustomUrlPlaceholder" xml:space="preserve">
+      <trans-unit id="Autocomplete.addCustomUrlPlaceholder">
         <source>Paste or enter URL</source>
         <target>ჩასვით ან შეიყვანეთ URL</target>
         <note>Placeholder for the input field to add a custom URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.addCustomUrlWithPlus" xml:space="preserve">
+      <trans-unit id="Autocomplete.addCustomUrlWithPlus">
         <source>+ Add Custom URL</source>
         <target>+ საკუთარი URL-ს დამატება</target>
         <note>Label for button to add a custom URL with the + prefix</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.customDescriptoin" xml:space="preserve">
+      <trans-unit id="Autocomplete.customDescriptoin">
         <source>Add and manage custom autocomplete URLs.</source>
         <target>დაამატეთ და მართეთ საკუთარი URL-ები თვითშევსებისთვის.</target>
         <note>Description for adding and managing custom autocomplete URLs</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.customLabel" xml:space="preserve">
+      <trans-unit id="Autocomplete.customLabel">
         <source>Custom URLs</source>
         <target>საკუთარი URL-ები</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.customTitle" xml:space="preserve">
+      <trans-unit id="Autocomplete.customTitle">
         <source>CUSTOM URL LIST</source>
         <target>საკუთარი URL ჩამონათვალი</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.customUrlAdded" xml:space="preserve">
+      <trans-unit id="Autocomplete.customUrlAdded">
         <source>New Custom URL added.</source>
         <target>ახალი საკუთარი URL დაემატა.</target>
         <note>Label for toast alerting a custom URL has been added</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.defaultDescriptoin" xml:space="preserve">
+      <trans-unit id="Autocomplete.defaultDescriptoin">
         <source>Enable to have %@ autocomplete over 450 popular URLs in the address bar.</source>
         <target>ჩართეთ და %@ თავად დაასრულებს 450-ზე მეტ ცნობილ URL-ბმულს, მისამართების ველში აკრეფისას.</target>
         <note>Description for enabling or disabling the default list. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.defaultLabel" xml:space="preserve">
+      <trans-unit id="Autocomplete.defaultLabel">
         <source>Autocomplete</source>
         <target>თვითშევსება</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.defaultTitle" xml:space="preserve">
+      <trans-unit id="Autocomplete.defaultTitle">
         <source>DEFAULT URL LIST</source>
         <target>ნაგულისხმევი URL ჩამონათვალი</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.disabled" xml:space="preserve">
+      <trans-unit id="Autocomplete.disabled">
         <source>Disabled</source>
         <target>გამორთულია</target>
         <note>label describing URL Autocomplete as disabled</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.duplicateUrl" xml:space="preserve">
+      <trans-unit id="Autocomplete.duplicateUrl">
         <source>URL already exists</source>
         <target>URL-ბმული უკვე არსებობს</target>
         <note>Label for toast alerting that the custom URL being added is a duplicate</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.emptyState" xml:space="preserve">
+      <trans-unit id="Autocomplete.emptyState">
         <source>No Custom URLs to display</source>
         <target>საკუთარი URL-ები არაა დამატებული</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.enabled" xml:space="preserve">
+      <trans-unit id="Autocomplete.enabled">
         <source>Enabled</source>
         <target>ჩართულია</target>
         <note>label describing URL Autocomplete as enabled</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.manageSites" xml:space="preserve">
+      <trans-unit id="Autocomplete.manageSites">
         <source>Manage Sites</source>
         <target>საიტების მართვა</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.mySites" xml:space="preserve">
+      <trans-unit id="Autocomplete.mySites">
         <source>My Sites</source>
         <target>ჩემი საიტები</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.mySitesDesc" xml:space="preserve">
+      <trans-unit id="Autocomplete.mySitesDesc">
         <source>Enable to have %@ autocomplete your favorite URLs.</source>
         <target>ჩართეთ და %@ თავად დაასრულებს თქვენს რჩეულ URL-ბმულებს.</target>
         <note>Description for adding and managing custom autocomplete URLs. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.topSites" xml:space="preserve">
+      <trans-unit id="Autocomplete.topSites">
         <source>Top Sites</source>
         <target>რჩეული საიტები</target>
         <note>Label for enabling or disabling top sites</note>
       </trans-unit>
-      <trans-unit id="BiometricPrompt.newSession" xml:space="preserve">
+      <trans-unit id="BiometricPrompt.newSession">
         <source>New Session</source>
         <target>ახალი სეანსი</target>
         <note>Create a new session after failing a biometric check</note>
       </trans-unit>
-      <trans-unit id="BiometricPrompt.reason" xml:space="preserve">
+      <trans-unit id="BiometricPrompt.reason">
         <source>Unlock %@ when re-opening in order to prevent unauthorized access.</source>
         <target>გახსენით ჩაკეტილი %@ ხელახლა გაშვებისას, უნებართვოდ წვდომის აღსაკვეთად.</target>
         <note>%@ is app name. Explanation for why the app needs access to biometric information. Prompt is only shown once when the user first tries to enable Face ID to open the app.</note>
       </trans-unit>
-      <trans-unit id="Browser.backLabel" xml:space="preserve">
+      <trans-unit id="Browser.backLabel">
         <source>Back</source>
         <target>უკან</target>
         <note>Accessibility label for the back button</note>
       </trans-unit>
-      <trans-unit id="Browser.copyAddressLabel" xml:space="preserve">
+      <trans-unit id="Browser.copyAddressLabel">
         <source>Copy Address</source>
         <target>მისამართის ასლი</target>
         <note>Copy URL button in URL long press menu</note>
       </trans-unit>
-      <trans-unit id="Browser.copyMenuLabel" xml:space="preserve">
+      <trans-unit id="Browser.copyMenuLabel">
         <source>Copy</source>
         <target>ასლი</target>
         <note>Copy URL button in URL long press menu</note>
       </trans-unit>
-      <trans-unit id="Browser.customURLMenuLabel" xml:space="preserve">
+      <trans-unit id="Browser.customURLMenuLabel">
         <source>Add Custom URL</source>
         <target>საკუთარი URL-ს დამატება</target>
         <note>Custom URL button in URL long press menu</note>
       </trans-unit>
-      <trans-unit id="Browser.forwardLabel" xml:space="preserve">
+      <trans-unit id="Browser.forwardLabel">
         <source>Forward</source>
         <target>წინ</target>
         <note>Accessibility label for the forward button</note>
       </trans-unit>
-      <trans-unit id="Browser.reloadLabel" xml:space="preserve">
+      <trans-unit id="Browser.reloadLabel">
         <source>Reload</source>
         <target>განახლება</target>
         <note>Accessibility label for the reload button</note>
       </trans-unit>
-      <trans-unit id="Browser.settingsLabel" xml:space="preserve">
+      <trans-unit id="Browser.settingsLabel">
         <source>Settings</source>
         <target>პარამეტრები</target>
         <note>Accessibility label for the settings button</note>
       </trans-unit>
-      <trans-unit id="Browser.shareLabel" xml:space="preserve">
+      <trans-unit id="Browser.shareLabel">
         <source>Share</source>
         <target>გაზიარება</target>
         <note>Accessibility label for the share button</note>
       </trans-unit>
-      <trans-unit id="Browser.stopLabel" xml:space="preserve">
+      <trans-unit id="Browser.stopLabel">
         <source>Stop</source>
         <target>შეჩერება</target>
         <note>Accessibility label for the stop button</note>
       </trans-unit>
-      <trans-unit id="Cancel" xml:space="preserve">
+      <trans-unit id="Cancel">
         <source>Cancel</source>
         <target>გაუქმება</target>
         <note>Label on button to cancel edits</note>
       </trans-unit>
-      <trans-unit id="Done" xml:space="preserve">
+      <trans-unit id="Done">
         <source>Done</source>
         <target>მზადაა</target>
         <note>Label on button to complete edits</note>
       </trans-unit>
-      <trans-unit id="Edit" xml:space="preserve">
+      <trans-unit id="Edit">
         <source>Edit</source>
         <target>ჩასწორება</target>
         <note>Label on button to allow edits</note>
       </trans-unit>
-      <trans-unit id="Error.tryAgainButton" xml:space="preserve">
+      <trans-unit id="Error.tryAgainButton">
         <source>Try again</source>
         <target>ხელმეორედ ცდა</target>
         <note>Button label to reload the error page</note>
       </trans-unit>
-      <trans-unit id="ExternalAppLink.cancelTitle" xml:space="preserve">
+      <trans-unit id="ExternalAppLink.cancelTitle">
         <source>Cancel</source>
         <target>გაუქმება</target>
         <note>Button label used for cancelling to open another app from Focus</note>
       </trans-unit>
-      <trans-unit id="ExternalAppLink.messageTitle" xml:space="preserve">
+      <trans-unit id="ExternalAppLink.messageTitle">
         <source>%@ wants to open another App</source>
         <target>%@ ცდილობს სხვა პროგრამის გახსნას</target>
         <note>Dialog title used for opening an external app from Focus. The placeholder string is the app name of either Focus or Klar.</note>
       </trans-unit>
-      <trans-unit id="ExternalAppLink.openTitle" xml:space="preserve">
+      <trans-unit id="ExternalAppLink.openTitle">
         <source>Open</source>
         <target>გახსნა</target>
         <note>Button label for opening another app from Focus</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.callButton" xml:space="preserve">
+      <trans-unit id="ExternalLink.callButton">
         <source>Call</source>
         <target>დარეკვა</target>
         <note>Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.cancelButton" xml:space="preserve">
+      <trans-unit id="ExternalLink.cancelButton">
         <source>Cancel</source>
         <target>გაუქმება</target>
         <note>Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.emailButton" xml:space="preserve">
+      <trans-unit id="ExternalLink.emailButton">
         <source>Email</source>
         <target>ელფოსტა</target>
         <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.messageTitleWithPlaceholder" xml:space="preserve">
+      <trans-unit id="ExternalLink.messageTitleWithPlaceholder">
         <source>You are now leaving %@.</source>
         <target>თქვენ ტოვებთ %@-ს.</target>
         <note>Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.openAppStoreButton" xml:space="preserve">
+      <trans-unit id="ExternalLink.openAppStoreButton">
         <source>Open App Store</source>
         <target>App Store-ის გახსნა</target>
         <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.openAppStoreTitle" xml:space="preserve">
+      <trans-unit id="ExternalLink.openAppStoreTitle">
         <source>%@ wants to open the App Store.</source>
         <target>%@ ცდილობს App Store-ის გახსნას</target>
         <note>Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.openMapsButton" xml:space="preserve">
+      <trans-unit id="ExternalLink.openMapsButton">
         <source>Open Maps</source>
         <target>Maps რუკის გახსნა</target>
         <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="FindInPage.Done" xml:space="preserve">
+      <trans-unit id="FindInPage.Done">
         <source>Find in page done</source>
         <target>პოვნა გვერდზე დასრულებულია</target>
         <note>Accessibility label for done button in Find in Page Toolbar.</note>
       </trans-unit>
-      <trans-unit id="FindInPage.NextResult" xml:space="preserve">
+      <trans-unit id="FindInPage.NextResult">
         <source>Find next in page</source>
         <target>მომდევნოს პოვნა გვერდზე</target>
         <note>Accessibility label for next result button in Find in Page Toolbar.</note>
       </trans-unit>
-      <trans-unit id="FindInPage.PreviousResult" xml:space="preserve">
+      <trans-unit id="FindInPage.PreviousResult">
         <source>Find previous in page</source>
         <target>წინას პოვნა გვერდზე</target>
         <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
       </trans-unit>
-      <trans-unit id="FirstRun.lastSlide.buttonLabel" xml:space="preserve">
+      <trans-unit id="FirstRun.lastSlide.buttonLabel">
         <source>OK, Got It!</source>
         <target>კარგი, გასაგებია!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
-      <trans-unit id="FirstRun.messageLabelDescription" xml:space="preserve">
+      <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
         <target>გვერდების მონახულებისას, თვალყურისმდევნელი ელემენტები მუდმივად შეზღუდულია. დასრულებისას კი ერთი შეხებით წაიშლება მონახულებული გვერდები, ძიების ისტორია, ფუნთუშები და პაროლები, თქვენი მოწყობილობიდან.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
-      <trans-unit id="FirstRun.messageLabelTagline" xml:space="preserve">
+      <trans-unit id="FirstRun.messageLabelTagline">
         <source>Browse like no one’s watching.</source>
         <target>მოინახულეთ გვერდები მეთვალყურეების გარეშე.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
-      <trans-unit id="Focus.handoffSyncing" xml:space="preserve">
+      <trans-unit id="Focus.handoffSyncing">
         <source>Apple Handoff is syncing</source>
         <target>მიმდინარეობს Apple Handoff-ის სინქრონიზაცია</target>
         <note>Title for the loading screen when the handoff of clipboard delays Focus launch. “Handoff” should not be localized, see https://support.apple.com/HT204681</note>
       </trans-unit>
-      <trans-unit id="Home.descriptionLabel1" xml:space="preserve">
+      <trans-unit id="Home.descriptionLabel1">
         <source>Automatic private browsing.</source>
         <target>მხოლოდ თვალიერების პირადი რეჟიმი.</target>
         <note>First label for product description on the home screen</note>
       </trans-unit>
-      <trans-unit id="Home.descriptionLabel2" xml:space="preserve">
+      <trans-unit id="Home.descriptionLabel2">
         <source>Browse. Erase. Repeat.</source>
         <target>მონახულება. წაშლა. თავიდან დაწყება.</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
-      <trans-unit id="Menu.Close" xml:space="preserve">
+      <trans-unit id="Menu.Close">
         <source>Close</source>
         <target>დახურვა</target>
         <note>Button label used to close a menu that displays as a popup.</note>
       </trans-unit>
-      <trans-unit id="Open.Cancel" xml:space="preserve">
+      <trans-unit id="Open.Cancel">
         <source>Cancel</source>
         <target>გაუქმება</target>
         <note>Label in share alert to cancel the alert</note>
       </trans-unit>
-      <trans-unit id="Open.Firefox" xml:space="preserve">
+      <trans-unit id="Open.Firefox">
         <source>Firefox (Private Browsing)</source>
         <target>Firefox (პირადი ბრაუზერი)</target>
         <note>Label in share alert to open the URL in Firefox</note>
       </trans-unit>
-      <trans-unit id="Open.More" xml:space="preserve">
+      <trans-unit id="Open.More">
         <source>More</source>
         <target>სხვა</target>
         <note>Label in share alert to open the full system share menu</note>
       </trans-unit>
-      <trans-unit id="Open.Safari" xml:space="preserve">
+      <trans-unit id="Open.Safari">
         <source>Safari</source>
         <target>Safari</target>
         <note>Label in share alert to open the URL in Safari</note>
       </trans-unit>
-      <trans-unit id="Request Desktop Site" xml:space="preserve">
+      <trans-unit id="ProtectionStatus.NotSecure">
+        <source>Connection is not secure</source>
+        <note>This is the value for a label that indicates if a user is on an unencrypted website.</note>
+      </trans-unit>
+      <trans-unit id="ProtectionStatus.Secure">
+        <source>Connection is secure</source>
+        <note>This is the value for a label that indicates if a user is on a secure https connection.</note>
+      </trans-unit>
+      <trans-unit id="Request Desktop Site">
         <source>Request Desktop Site</source>
         <target>სრული საიტი</target>
         <note>Label for button that requests the desktop version of the currently loaded website.</note>
       </trans-unit>
-      <trans-unit id="Safari.instructionsContentBlockers" xml:space="preserve">
+      <trans-unit id="Safari.instructionsContentBlockers">
         <source>Tap Safari, then select Content Blockers</source>
         <target>დააჭირეთ Safari-ს და გადადით შიგთავსის შემზღუდველებზე (Content Blockers)</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
-      <trans-unit id="Safari.instructionsEnable" xml:space="preserve">
+      <trans-unit id="Safari.instructionsEnable">
         <source>Enable %@</source>
         <target>ჩართეთ %@</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
-      <trans-unit id="Safari.instructionsNotEnabled" xml:space="preserve">
+      <trans-unit id="Safari.instructionsNotEnabled">
         <source>%@ is not enabled.</source>
         <target>%@ არაა ჩართული.</target>
         <note>Error label when the blocker is not enabled, shown in the intro and main app when disabled</note>
       </trans-unit>
-      <trans-unit id="Safari.instructionsOpen" xml:space="preserve">
+      <trans-unit id="Safari.instructionsOpen">
         <source>Open Settings App</source>
         <target>გახსენით სისტემის პარამეტრები</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
-      <trans-unit id="Save" xml:space="preserve">
+      <trans-unit id="Save">
         <source>Save</source>
         <target>შენახვა</target>
         <note>Save button label</note>
       </trans-unit>
-      <trans-unit id="SearchEngine.addEngineError" xml:space="preserve">
+      <trans-unit id="SearchEngine.addEngineError">
         <source>That didn't work. Try replacing the search term with this: %s.</source>
         <target>არ იმუშავა. სცადეთ საძიებო ფრაზის ამ სიმბოლოთი ჩანაცვლება: %s.</target>
         <note>Label for error state when entering an invalid search engine URL. %s is a search term in a URL.</note>
       </trans-unit>
-      <trans-unit id="SearchSuggestions.promptDisable" xml:space="preserve">
+      <trans-unit id="SearchSuggestions.promptDisable">
         <source>No</source>
         <target>არა</target>
         <note>Label for disable option on search suggestions prompt</note>
       </trans-unit>
-      <trans-unit id="SearchSuggestions.promptEnable" xml:space="preserve">
+      <trans-unit id="SearchSuggestions.promptEnable">
         <source>Yes</source>
         <target>დიახ</target>
         <note>Label for enable option on search suggestions prompt</note>
       </trans-unit>
-      <trans-unit id="SearchSuggestions.promptMessage" xml:space="preserve">
+      <trans-unit id="SearchSuggestions.promptMessage">
         <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
         <target>ძიების შემოთავაზებებისთვის, %@ უგზავნის მისამართის ველში აკრეფილ ტექსტს, შერჩეულ საძიებო სისტემას.</target>
         <note>%@ is the name of the app (Focus / Klar). Label for search suggestions prompt message</note>
       </trans-unit>
-      <trans-unit id="SearchSuggestions.promptTitle" xml:space="preserve">
+      <trans-unit id="SearchSuggestions.promptTitle">
         <source>Show Search Suggestions?</source>
         <target>გსურთ ძიების შემოთავაზებების ჩვენება?</target>
         <note>Title for search suggestions prompt</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.AddSearchEngineButton" xml:space="preserve">
+      <trans-unit id="Settings.Search.AddSearchEngineButton">
         <source>Add Another Search Engine</source>
         <target>სხვა საძიებო სისტემის დამატება</target>
         <note>Text for button to add another search engine in settings</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.AddSearchEngineButtonWithPlus" xml:space="preserve">
+      <trans-unit id="Settings.Search.AddSearchEngineButtonWithPlus">
         <source>+ Add Another Search Engine</source>
         <target>+ სხვა საძიებო სისტემის დამატება</target>
         <note>Text for button to add another search engine in settings with the + prefix</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.AddSearchEngineTitle" xml:space="preserve">
+      <trans-unit id="Settings.Search.AddSearchEngineTitle">
         <source>Add Search Engine</source>
         <target>საძიებო სისტემის დამატება</target>
         <note>Title on add search engine settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.InstalledSearchEngines" xml:space="preserve">
+      <trans-unit id="Settings.Search.InstalledSearchEngines">
         <source>INSTALLED SEARCH ENGINES</source>
         <target>დაყენებული საძიებო სისტემები</target>
         <note>Header for rows of installed search engines</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.NameToDisplay" xml:space="preserve">
+      <trans-unit id="Settings.Search.NameToDisplay">
         <source>Name to display</source>
         <target>გამოსაჩენი სახელი</target>
         <note>Label for input field for the name of the search engine to be added</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.NewSearchEngineAdded" xml:space="preserve">
+      <trans-unit id="Settings.Search.NewSearchEngineAdded">
         <source>New Search Engine Added.</source>
         <target>ახალი საძიებო სისტემა დამატებულია.</target>
         <note>Toast displayed after adding a search engine</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.RestoreEngine" xml:space="preserve">
+      <trans-unit id="Settings.Search.RestoreEngine">
         <source>Restore Default Search Engines</source>
         <target>აღდგეს ნაგულისხმევი საძიებოები</target>
         <note>Label for button to bring deleted default engines back</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.SearchEngineName" xml:space="preserve">
+      <trans-unit id="Settings.Search.SearchEngineName">
         <source>Search engine name</source>
         <target>საძიებო სისტემის სახელი</target>
         <note>Placeholder text for input of new search engine name</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.SearchTemplate" xml:space="preserve">
+      <trans-unit id="Settings.Search.SearchTemplate">
         <source>Search string to use</source>
         <target>საძიებო ფრაზა</target>
         <note>Label for input of search engine template</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.SearchTemplatePlaceholder" xml:space="preserve">
+      <trans-unit id="Settings.Search.SearchTemplatePlaceholder">
         <source>Paste or enter search string. If necessary, replace search term with: %s.</source>
         <target>ჩასვით ან შეიყვანეთ საძიებო ფრაზა. თუ საჭიროა, შეცვალეთ სიტყვა %s-ით.</target>
         <note>Placeholder text for input of new search engine template</note>
       </trans-unit>
-      <trans-unit id="Settings.autocompleteSection" xml:space="preserve">
+      <trans-unit id="Settings.autocompleteSection">
         <source>URL Autocomplete</source>
         <target>URL-ს თვითშევსება</target>
         <note>Title for the URL Autocomplete row</note>
       </trans-unit>
-      <trans-unit id="Settings.blockOtherMessage" xml:space="preserve">
+      <trans-unit id="Settings.blockOtherMessage">
         <source>Blocking other content trackers may break some videos and web pages.</source>
         <target>შიგთავსის სხვა მეთვალყურეების შეზღუდვამ, შესაძლოა ზოგი გვერდის ან ვიდეოს ჩვენება შეაფერხოს.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
-      <trans-unit id="Settings.blockOtherNo2" xml:space="preserve">
+      <trans-unit id="Settings.blockOtherNo2">
         <source>Cancel</source>
         <target>გაუქმება</target>
         <note>Button label for declining Content blocker alert</note>
       </trans-unit>
-      <trans-unit id="Settings.blockOtherYes2" xml:space="preserve">
+      <trans-unit id="Settings.blockOtherYes2">
         <source>Block Content Trackers</source>
         <target>შიგთავსის მეთვალყურეების შეზღუდვა</target>
         <note>Button label for accepting Content blocker alert</note>
       </trans-unit>
-      <trans-unit id="Settings.darkTheme" xml:space="preserve">
+      <trans-unit id="Settings.darkTheme">
         <source>Dark</source>
         <target>მუქი</target>
         <note>Dark theme option in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
+      <trans-unit id="Settings.detailTextSearchSuggestion">
         <source>%@ will send what you type in the address bar to your search engine.</source>
         <target>%@ გაუგზავნის საძიებო სისტემას, მისამართების ველში აკრეფილ ტექსტს</target>
         <note>Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
-      <trans-unit id="Settings.detailTextSendUsageData" xml:space="preserve">
+      <trans-unit id="Settings.detailTextSendUsageData">
         <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
         <target>Mozilla აღრიცხავს მხოლოდ იმ მონაცემებს, რომლებიც გვეხმარება, გავაუმჯობესოთ %@.</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
-      <trans-unit id="Settings.learnMore" xml:space="preserve">
+      <trans-unit id="Settings.detailTextStudies">
+        <source>%@ may install and run studies from time to time.</source>
+        <note>Description associated to the Studies toggle on the settings screen. %@ is the app name (Focus/Klar)</note>
+      </trans-unit>
+      <trans-unit id="Settings.general">
+        <source>General</source>
+        <note>Title for section in settings menu</note>
+      </trans-unit>
+      <trans-unit id="Settings.learnMore">
         <source>Learn more.</source>
         <target>ვრცლად.</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.lightTheme" xml:space="preserve">
+      <trans-unit id="Settings.lightTheme">
         <source>Light</source>
         <target>ნათელი</target>
         <note>Light theme option in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.manualTheme" xml:space="preserve">
+      <trans-unit id="Settings.manualTheme">
         <source>Manual</source>
         <target>ხელით</target>
         <note>Manual value for theme section in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.rate" xml:space="preserve">
+      <trans-unit id="Settings.rate">
         <source>Rate %@</source>
         <target>შეაფასეთ %@</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, allows the user to leave a review for the app on the app store.</note>
       </trans-unit>
-      <trans-unit id="Settings.safariTitle" xml:space="preserve">
+      <trans-unit id="Settings.safariTitle">
         <source>SAFARI INTEGRATION</source>
         <target>SAFARI შეთავსება</target>
         <note>Label for Safari integration section</note>
       </trans-unit>
-      <trans-unit id="Settings.screenTitle" xml:space="preserve">
+      <trans-unit id="Settings.screenTitle">
         <source>Settings</source>
         <target>პარამეტრები</target>
         <note>Title for settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.searchLabel" xml:space="preserve">
+      <trans-unit id="Settings.searchLabel">
         <source>Search Engine</source>
         <target>საძიებო სისტემა</target>
         <note>Label for the search engine in the search screen</note>
       </trans-unit>
-      <trans-unit id="Settings.searchSuggestions" xml:space="preserve">
+      <trans-unit id="Settings.searchSuggestions">
         <source>Get Search Suggestions</source>
         <target>ძიების შემოთავაზებები</target>
         <note>Label for the Search Suggestions toggle row</note>
       </trans-unit>
-      <trans-unit id="Settings.searchTitle2" xml:space="preserve">
+      <trans-unit id="Settings.searchTitle2">
         <source>SEARCH</source>
         <target>ძიება</target>
         <note>Title for the search selection screen</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionIntegration" xml:space="preserve">
+      <trans-unit id="Settings.sectionIntegration">
         <source>INTEGRATION</source>
         <target>შეთავსება</target>
         <note>Label for Safari integration section</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionMozilla" xml:space="preserve">
+      <trans-unit id="Settings.sectionMozilla">
         <source>MOZILLA</source>
         <target>MOZILLA</target>
         <note>Section label for Mozilla toggles</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionPerformance" xml:space="preserve">
+      <trans-unit id="Settings.sectionPerformance">
         <source>PERFORMANCE</source>
         <target>წარმადობა</target>
         <note>Section label for performance toggles</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionPrivacy" xml:space="preserve">
+      <trans-unit id="Settings.sectionPrivacy">
         <source>PRIVACY</source>
         <target>პირადულობა</target>
         <note>Section label for privacy toggles</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionSecurity" xml:space="preserve">
+      <trans-unit id="Settings.sectionSecurity">
         <source>SECURITY</source>
         <target>უსაფრთხოება</target>
         <note>Header label for security toggles displayed in the settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.systemTheme" xml:space="preserve">
+      <trans-unit id="Settings.systemTheme">
         <source>System Theme</source>
         <target>სისტემის იერსახე</target>
         <note>System value for theme section in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.theme" xml:space="preserve">
+      <trans-unit id="Settings.theme">
         <source>Theme</source>
         <target>იერსახე</target>
         <note>Theme section in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.themePicker" xml:space="preserve">
+      <trans-unit id="Settings.themePicker">
         <source>Theme Picker</source>
         <target>იერსახის შემრჩევი</target>
         <note>Header for manual theme section in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockAds2" xml:space="preserve">
+      <trans-unit id="Settings.toggleBlockAds2">
         <source>Advertising</source>
         <target>Სარეკლამო</target>
         <note>Label for the checkbox to toggle Advertising trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockAnalytics2" xml:space="preserve">
+      <trans-unit id="Settings.toggleBlockAnalytics2">
         <source>Analytics</source>
         <target>საკვლევი</target>
         <note>Label for the checkbox to toggle Analytics trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockFonts" xml:space="preserve">
+      <trans-unit id="Settings.toggleBlockFonts">
         <source>Block web fonts</source>
         <target>საიტის შრიფტების შეზღუდვა</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockOther2" xml:space="preserve">
+      <trans-unit id="Settings.toggleBlockOther2">
         <source>Content</source>
         <target>შიგთავსის</target>
         <note>Label for the checkbox to toggle Other trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockSocial2" xml:space="preserve">
+      <trans-unit id="Settings.toggleBlockSocial2">
         <source>Social</source>
         <target>სოცქსელების</target>
         <note>Label for the checkbox to toggle Social trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleFaceID" xml:space="preserve">
+      <trans-unit id="Settings.toggleFaceID">
         <source>Use Face ID to unlock app</source>
         <target>გამოიყენეთ სახის ამომცნობი, პროგრამის გასახსნელად</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleFaceIDDescription" xml:space="preserve">
+      <trans-unit id="Settings.toggleFaceIDDescription">
         <source>Face ID can unlock %@ if a URL is already open in the app</source>
         <target>სახის ამომცნობით შესაძლებელია გაიხსნას %@ თუ URL-ბმული უკვე გახსნილია პროგრამაში</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleHomeScreenTips" xml:space="preserve">
+      <trans-unit id="Settings.toggleHomeScreenTips">
         <source>Show home screen tips</source>
         <target>ცნობების ჩვენება საწყის გვერდზე</target>
         <note>Show home screen tips toggle label on settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleOtherSubtitle" xml:space="preserve">
+      <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
         <target>შესაძლოა, ზოგიერთმა საიტმა ან ვიდეომ არ იმუშაოს გამართულად</target>
         <note>Label subtitle for toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleSafari" xml:space="preserve">
+      <trans-unit id="Settings.toggleSafari">
         <source>Safari</source>
         <target>Safari</target>
         <note>Safari toggle label on settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleSendUsageData" xml:space="preserve">
+      <trans-unit id="Settings.toggleSendUsageData">
         <source>Send usage data</source>
         <target>მონაცემების აღრიცხვა</target>
         <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleTouchID" xml:space="preserve">
+      <trans-unit id="Settings.toggleStudies">
+        <source>Studies</source>
+        <note>Label for Studies toggle on the settings screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleTouchID">
         <source>Use Touch ID to unlock app</source>
         <target>გამოიყენეთ თითის ანაბეჭდი, პროგრამის გასახსნელად</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleTouchIDDescription" xml:space="preserve">
+      <trans-unit id="Settings.toggleTouchIDDescription">
         <source>Touch ID can unlock %@ if a URL is already open in the app</source>
         <target>თითის ანაბეჭდით შესაძლებელია გაიხსნას %@ თუ URL-ბმული უკვე გახსნილია პროგრამაში</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
-      <trans-unit id="Settings.trackingProtectionOff" xml:space="preserve">
+      <trans-unit id="Settings.trackingProtectionOff">
         <source>Off</source>
         <target>გამორთ.</target>
         <note>Status off for tracking protection in settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.trackingProtectionOn" xml:space="preserve">
+      <trans-unit id="Settings.trackingProtectionOn">
         <source>On</source>
         <target>ჩართ.</target>
         <note>Status on for tracking protection in settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.useSystemTheme" xml:space="preserve">
+      <trans-unit id="Settings.useSystemTheme">
         <source>Use System Light/Dark Mode</source>
         <target>სისტემის ნათელი/მუქი რეჟიმი</target>
         <note>Value for theme toggle in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.whatsNewTitle" xml:space="preserve">
+      <trans-unit id="Settings.whatsNewTitle">
         <source>What’s New</source>
         <target>რა სიახლეებია</target>
         <note>Title for What's new screen</note>
       </trans-unit>
-      <trans-unit id="Settinsg.siriShortcutsTitle" xml:space="preserve">
+      <trans-unit id="Settinsg.siriShortcutsTitle">
         <source>SIRI SHORTCUTS</source>
         <target>SIRI მალსახმობები</target>
         <note>Title for settings section to enable different Siri Shortcuts.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.AddToShortcuts" xml:space="preserve">
+      <trans-unit id="ShareMenu.AddToShortcuts">
         <source>Add to Shortcuts</source>
         <target>მალსახმობებში დამატება</target>
         <note>Text for the share menu option when a user wants to add the site to Shortcuts</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.FindInPage" xml:space="preserve">
+      <trans-unit id="ShareMenu.FindInPage">
         <source>Find in Page</source>
         <target>პოვნა გვერდზე</target>
         <note>Text for the share menu option when a user wants to open the find in page menu</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.GetFirefox" xml:space="preserve">
+      <trans-unit id="ShareMenu.GetFirefox">
         <source>Get the Firefox App</source>
         <target>გადმოწერეთ Firefox</target>
         <note>Text for the share menu option when a user wants to open a page in Firefox but doesn’t have it installed. This string will not wrap in the interface. Instead, it will truncate. To prevent this, please keep the localized string to 18 or fewer characters. If your string runs longer than 18 characters, you can use 'Get Firefox' as the basis for your string. However, if at all possible, we’d like to signal to the user that they will be going to the App Store and installing the application from there. That is why we are using Get and App in the en-US string.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.PageActions" xml:space="preserve">
+      <trans-unit id="ShareMenu.PageActions">
         <source>Page Actions</source>
         <target>ვებგვერდზე მოქმედებები</target>
         <note>Title for the share menu where users can take actions for the current website they are on.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.RemoveFromShortcuts" xml:space="preserve">
+      <trans-unit id="ShareMenu.RemoveFromShortcuts">
         <source>Remove from Shortcuts</source>
         <target>მოცილება მალსახმობებიდან</target>
         <note>Text for the share menu option when a user wants to remove the site from Shortcuts</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.RequestDesktop" xml:space="preserve">
+      <trans-unit id="ShareMenu.RequestDesktop">
         <source>Request Desktop Site</source>
         <target>სრული საიტი</target>
         <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.RequestMobile" xml:space="preserve">
+      <trans-unit id="ShareMenu.RequestMobile">
         <source>Request Mobile Site</source>
         <target>მობილურის საიტი</target>
         <note>Text for the share menu option when a user wants to reload the site as a mobile device</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.ShareOpenChrome" xml:space="preserve">
+      <trans-unit id="ShareMenu.ShareOpenChrome">
         <source>Open in Chrome</source>
         <target>Chrome-ში გახსნა</target>
         <note>Text for the share menu option when a user wants to open the current website in the Chrome app.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.ShareOpenFirefox" xml:space="preserve">
+      <trans-unit id="ShareMenu.ShareOpenDefaultBrowser">
+        <source>Open in Default Browser</source>
+        <note>Text for the share menu option when a user wants to open the current website in the default browser.</note>
+      </trans-unit>
+      <trans-unit id="ShareMenu.ShareOpenFirefox">
         <source>Open in Firefox</source>
         <target>Firefox-ში გახსნა</target>
         <note>Text for the share menu option when a user wants to open the current website in the Firefox app.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.ShareOpenSafari" xml:space="preserve">
-        <source>Open in Safari</source>
-        <target>Safari-ში გახსნა</target>
-        <note>Text for the share menu option when a user wants to open the current website in the Safari app.</note>
-      </trans-unit>
-      <trans-unit id="ShareMenu.SharePage" xml:space="preserve">
+      <trans-unit id="ShareMenu.SharePage">
         <source>Share Page With...</source>
         <target>გვერდის გაზიარება…</target>
         <note>Text for the share menu option when a user wants to share the current website they are on through another app.</note>
       </trans-unit>
-      <trans-unit id="ShortcutView.RemoveFromShortcuts" xml:space="preserve">
+      <trans-unit id="ShortcutView.RemoveFromShortcuts">
         <source>Remove from Shortcuts</source>
         <target>მოცილება მალსახმობებიდან</target>
         <note>Text for the long press on a shortcut option in context menu.</note>
       </trans-unit>
-      <trans-unit id="Siri.add" xml:space="preserve">
+      <trans-unit id="Siri.add">
         <source>Add</source>
         <target>დამატება</target>
         <note>Button to add a favorite URL to Siri.</note>
       </trans-unit>
-      <trans-unit id="Siri.addTo" xml:space="preserve">
+      <trans-unit id="Siri.addTo">
         <source>Add to Siri</source>
         <target>Siri-ში დამატება</target>
         <note>Button to add a specified shortcut option to Siri.</note>
       </trans-unit>
-      <trans-unit id="Siri.editOpenUrl" xml:space="preserve">
+      <trans-unit id="Siri.editOpenUrl">
         <source>Re-Record or Delete Shortcut</source>
         <target>ხელახლა ჩაწერა ან მალსახმობის წაშლა</target>
         <note>Label for button to edit the Siri phrase or delete the Siri functionality.</note>
       </trans-unit>
-      <trans-unit id="Siri.erase" xml:space="preserve">
+      <trans-unit id="Siri.erase">
         <source>Erase</source>
         <target>გასუფთავება</target>
         <note>Title of option in settings to set up Siri to erase</note>
       </trans-unit>
-      <trans-unit id="Siri.eraseAndOpen" xml:space="preserve">
+      <trans-unit id="Siri.eraseAndOpen">
         <source>Erase &amp; Open</source>
         <target>გასუფთავება და გახსნა</target>
         <note>Title of option in settings to set up Siri to erase and then open the app.</note>
       </trans-unit>
-      <trans-unit id="Siri.favoriteUrl" xml:space="preserve">
+      <trans-unit id="Siri.favoriteUrl">
         <source>Open Favorite Site</source>
         <target>რჩეული საიტის გახსნა</target>
         <note>Title for screen to add a favorite URL to Siri.</note>
       </trans-unit>
-      <trans-unit id="Siri.openURL" xml:space="preserve">
+      <trans-unit id="Siri.openURL">
         <source>Open Favorite Site</source>
         <target>რჩეული საიტის გახსნა</target>
         <note>Title of option in settings to set up Siri to open a specified URL in Focus/Klar.</note>
       </trans-unit>
-      <trans-unit id="Siri.urlToOpen" xml:space="preserve">
+      <trans-unit id="Siri.urlToOpen">
         <source>URL to open</source>
         <target>URL-მისამართი გასახსნელად</target>
         <note>Label for input to set a favorite URL to be opened by Siri.</note>
       </trans-unit>
-      <trans-unit id="URL.addToAutocompleteLabel" xml:space="preserve">
+      <trans-unit id="Tip.Biometric.Title">
+        <source>Lock %@ when a site is open:</source>
+        <note>Text for a label that indicates the title for biometric tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
+      </trans-unit>
+      <trans-unit id="Tip.BiometricFaceId.Description">
+        <source>Turn on Face ID</source>
+        <note>Text for a label that indicates the description for biometric Face ID tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.BiometricTouchId.Description">
+        <source>Turn on Touch ID</source>
+        <note>Text for a label that indicates the description for biometric Touch ID tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.Release.Description">
+        <source>Read more about this and other updates to %@.</source>
+        <note>Text for a label that indicates the description for release tip. The placeholder is replaced with the short product name (Focus or Klar).</note>
+      </trans-unit>
+      <trans-unit id="Tip.Release.Title">
+        <source>Why yes, we do have a fresh new look!</source>
+        <note>Text for a label that indicates the title for release tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.RequestDesktop.Description">
+        <source>Page Actions &gt; Request Desktop Site</source>
+        <note>Text for a label that indicates the description for request desktop tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.RequestDesktop.Title">
+        <source>Want to see the full desktop version of a site?</source>
+        <note>Text for a label that indicates the title for request desktop tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.ShareTrackers.Description">
+        <source>%@ trackers blocked so far</source>
+        <note>Text for a label that indicates the description for share trackers tip. The placeholder is the number of trackers blocked. Only shown when there are more than 10 trackers blocked. For locales where we would need plural support, please feel free to translate this string as `Trackers blocked so far: %@` instead.</note>
+      </trans-unit>
+      <trans-unit id="Tip.ShareTrackers.Title">
+        <source>You browse. %@ blocks.</source>
+        <note>Text for a label that indicates the title for share trackers tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
+      </trans-unit>
+      <trans-unit id="Tip.Shortcuts.Description">
+        <source>Select Add to Shortcuts from the %@ menu</source>
+        <note>Text for a label that indicates the description for shortcuts tip. The placeholder is replaced with the short product name (Focus or Klar).</note>
+      </trans-unit>
+      <trans-unit id="Tip.Shortcuts.Title">
+        <source>Create shortcuts to the sites you visit most:</source>
+        <note>Text for a label that indicates the title for shortcuts tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.SiriErase.Description">
+        <source>Add Siri shortcut</source>
+        <note>Text for a label that indicates the description for siri erase tip. The shortcut in this context is the iOS Siri Shortcut, not a Focus website shortcut.</note>
+      </trans-unit>
+      <trans-unit id="Tip.SiriErase.Title">
+        <source>“Siri, erase my %@ session.”</source>
+        <note>Text for a label that indicates the title for siri erase tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
+      </trans-unit>
+      <trans-unit id="Tip.SiriFavorite.Description">
+        <source>Add Siri shortcut</source>
+        <note>Text for a label that indicates the description for siri favorite tip. The shortcut in this context is the iOS Siri Shortcut, not a Focus website shortcut.</note>
+      </trans-unit>
+      <trans-unit id="Tip.SiriFavorite.Title">
+        <source>“Siri, open my favorite site.”</source>
+        <note>Text for a label that indicates the title for siri favorite tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.SitesNotWorking.Description">
+        <source>Try turning off Tracking Protection</source>
+        <note>Text for a label that indicates the description for sites not working tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.SitesNotWorking.Title">
+        <source>Site missing content or acting strange?</source>
+        <note>Text for a label that indicates the title for sites not working tip.</note>
+      </trans-unit>
+      <trans-unit id="URL.addToAutocompleteLabel">
         <source>Add link to autocomplete</source>
         <target>ბმულის დამატება თვითდასრულებისთვის</target>
         <note>Label displayed for button used as a shortcut to add a link to the list of URLs to autocomplete.</note>
       </trans-unit>
-      <trans-unit id="URL.cancelLabel" xml:space="preserve">
+      <trans-unit id="URL.cancelLabel">
         <source>Cancel</source>
         <target>გაუქმება</target>
         <note>Label for cancel button shown when entering a URL or search</note>
       </trans-unit>
-      <trans-unit id="URL.contextMenu" xml:space="preserve">
+      <trans-unit id="URL.contextMenu">
         <source>Paste &amp; Go</source>
         <target>ჩასმა და გადასვლა</target>
         <note>Text for the URL context menu when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
-      <trans-unit id="URL.eraseButtonLabel" xml:space="preserve">
+      <trans-unit id="URL.eraseButtonLabel">
         <source>ERASE</source>
         <target>გასუფთავება</target>
         <note>Erase button in the URL bar</note>
       </trans-unit>
-      <trans-unit id="URL.eraseMessageLabel2" xml:space="preserve">
+      <trans-unit id="URL.eraseMessageLabel2">
         <source>Browsing history cleared</source>
         <target>დათვალიერების ისტორია გასუფთავდა</target>
         <note>Message shown after pressing the Erase button</note>
       </trans-unit>
-      <trans-unit id="URL.findOnPageLabel" xml:space="preserve">
+      <trans-unit id="URL.findOnPageLabel">
         <source>Find in page: %@</source>
         <target>პოვნა გვერდზე: %@</target>
         <note>Label displayed for find in page button when typing in the URL Bar. %@ is any text the user has typed into the URL bar that they want to find on the current page.</note>
       </trans-unit>
-      <trans-unit id="URL.paste" xml:space="preserve">
+      <trans-unit id="URL.paste">
         <source>Paste</source>
         <target>ჩასმა</target>
         <note>Text for a menu displayed from the bottom of the screen when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
-      <trans-unit id="URL.placeholderText" xml:space="preserve">
+      <trans-unit id="URL.placeholderText">
         <source>Search or enter address</source>
         <target>მოძებნეთ ან შეიყვანეთ მისამართი</target>
         <note>Placeholder text shown in the URL bar before the user navigates to a page</note>
       </trans-unit>
-      <trans-unit id="URL.searchLabel" xml:space="preserve">
+      <trans-unit id="URL.searchLabel">
         <source>Search for %@</source>
         <target>ძიება: %@</target>
         <note>Label displayed for search button when typing in the URL bar</note>
       </trans-unit>
-      <trans-unit id="URL.trackersBlockedLabel" xml:space="preserve">
+      <trans-unit id="URL.trackersBlockedLabel">
         <source>Trackers blocked</source>
         <target>შეზღუდული მეთვალყურეები</target>
         <note>Text for the URL bar showing the number of trackers blocked on a webpage.</note>
       </trans-unit>
-      <trans-unit id="actionSheet.openIn" xml:space="preserve">
+      <trans-unit id="actionSheet.openIn">
         <source>Open in %@</source>
         <target>გახსნა %@-ით</target>
         <note>Title for action sheet item to open the current page in another application. Placeholder is the name of the application to open the current page.</note>
       </trans-unit>
-      <trans-unit id="browser.copyAddressToast" xml:space="preserve">
+      <trans-unit id="browser.copyAddressToast">
         <source>URL Copied To Clipboard</source>
         <target>URL-მისამართის ასლი აღებულია</target>
         <note>Toast displayed after a URL has been copied to the clipboard</note>
       </trans-unit>
-      <trans-unit id="browserShortcutDescription.selectLocationBar" xml:space="preserve">
+      <trans-unit id="browserShortcutDescription.selectLocationBar">
         <source>Select Location Bar</source>
         <target>მისამართების ველზე გადასვლა</target>
         <note>Label to display in the Discoverability overlay for keyboard shortcuts</note>
       </trans-unit>
-      <trans-unit id="contextMenu.clipboardLink" xml:space="preserve">
+      <trans-unit id="contextMenu.clipboardLink">
         <source>Link you copied: %@</source>
         <target>აღებული ბმულის ასლი: %@</target>
         <note>Text for the context menu when a user has a link on their clipboard.</note>
       </trans-unit>
-      <trans-unit id="contextMenu.copyImageTitle" xml:space="preserve">
+      <trans-unit id="contextMenu.copyImageTitle">
         <source>Copy Image</source>
         <target>სურათის ასლი</target>
         <note>Text for the context menu when a user wants to copy an image after long pressing it.</note>
       </trans-unit>
-      <trans-unit id="contextMenu.copyLink" xml:space="preserve">
+      <trans-unit id="contextMenu.copyLink">
         <source>Copy Link</source>
         <target>ბმულის ასლი</target>
         <note>Text for the context menu when a user wants to copy a link after long pressing it.</note>
       </trans-unit>
-      <trans-unit id="contextMenu.linkCopied" xml:space="preserve">
+      <trans-unit id="contextMenu.linkCopied">
         <source>Link you copied: </source>
         <target>აღებული ბმულის ასლი:</target>
         <note>Text for the context menu when a user has a link on their clipboard.</note>
       </trans-unit>
-      <trans-unit id="contextMenu.saveImageTitle" xml:space="preserve">
+      <trans-unit id="contextMenu.saveImageTitle">
         <source>Save Image</source>
         <target>სურათის შენახვა</target>
         <note>Text for the context menu when a user wants to save an image after long pressing it.</note>
       </trans-unit>
-      <trans-unit id="contextMenu.shareLinkTitle" xml:space="preserve">
+      <trans-unit id="contextMenu.shareLinkTitle">
         <source>Share Link</source>
         <target>ბმულის გაზიარება</target>
         <note>Text for the context menu when a user wants to share a link after long pressing it.</note>
       </trans-unit>
-      <trans-unit id="externalAppLinkWithAppName.messageTitle" xml:space="preserve">
+      <trans-unit id="externalAppLinkWithAppName.messageTitle">
         <source>%1$@ wants to open %2$@</source>
         <target>%1$@ ცდილობს გახსნას %2$@</target>
         <note>Dialog title used for opening an external app from Focus. First placeholder string is the app name of either Focus or Klar and the second placeholder string specifies the app it wants to open.</note>
       </trans-unit>
-      <trans-unit id="photosPermission.description" xml:space="preserve">
+      <trans-unit id="photosPermission.description">
         <source>This lets you save images to your Camera Roll</source>
         <target>საშუალებას გაძლევთ, თქვენი სურათების ფოტოგალერეაში შენახვის</target>
         <note>Description for dialog used for requesting a user to enable access to Photos.</note>
       </trans-unit>
-      <trans-unit id="photosPermission.openSettings" xml:space="preserve">
+      <trans-unit id="photosPermission.openSettings">
         <source>Open Settings</source>
         <target>პარამეტრების გახსნა</target>
         <note>Title for button that takes the user to system settings</note>
       </trans-unit>
-      <trans-unit id="photosPermission.title" xml:space="preserve">
+      <trans-unit id="photosPermission.title">
         <source>“%@” Would Like to Access Your Photos</source>
         <target>“%@” ცდილობს თქვენს სურათებთან წვდომის მიღებას</target>
         <note>Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
-      <trans-unit id="settings.Search.SearchTemplateExample" xml:space="preserve">
+      <trans-unit id="settings.Search.SearchTemplateExample">
         <source>Example: searchengineexample.com/search/?q=%s</source>
         <target>მაგალითად: searchengineexample.com/search/?q=%s</target>
         <note>Text displayed as an example of the template to add a search engine.</note>
       </trans-unit>
-      <trans-unit id="share" xml:space="preserve">
+      <trans-unit id="share">
         <source>Share</source>
         <target>გაზიარება</target>
         <note>Text for a share button</note>
       </trans-unit>
-      <trans-unit id="shareMenu.copyAddress" xml:space="preserve">
+      <trans-unit id="shareMenu.copyAddress">
         <source>Copy Address</source>
         <target>მისამართის ასლი</target>
         <note>Text for the share menu when a user wants to copy a URL.</note>
       </trans-unit>
-      <trans-unit id="touchId.reason" xml:space="preserve">
+      <trans-unit id="touchId.reason">
         <source>Use Touch ID to return to %@</source>
         <target>გამოიყენეთ თითის ანაბეჭდი, %@-ზე დასაბრუნებლად</target>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID to continue browsing after returning to the app.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.adTrackersLabel" xml:space="preserve">
+      <trans-unit id="trackingProtection.adTrackersLabel">
         <source>Ad trackers</source>
         <target>სარეკლამო მეთვალყურე</target>
         <note>Label for ad trackers.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.analyticTrackerLabel" xml:space="preserve">
+      <trans-unit id="trackingProtection.analyticTrackerLabel">
         <source>Analytic trackers</source>
         <target>სტატისტიკის აღმრიცხველი</target>
         <note>label for analytic trackers.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.connectionNotSecureLabel" xml:space="preserve">
+      <trans-unit id="trackingProtection.connectionNotSecureLabel">
         <source>Connection is not secure</source>
         <target>კავშირი დაუცველია</target>
         <note>Text for tracking protection screen showing the connection is not secure</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.connectionSecureLabel" xml:space="preserve">
+      <trans-unit id="trackingProtection.connectionSecureLabel">
         <source>Connection is secure</source>
         <target>კავშირი დაცულია</target>
         <note>Text for tracking protection screen showing the connection is secure</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.contentTrackerLabel" xml:space="preserve">
+      <trans-unit id="trackingProtection.connectionVerifiedByLabel">
+        <source>Verified by %@</source>
+        <note>String to let users know the site verifier, where the placeholder represents the SSL certificate signer.</note>
+      </trans-unit>
+      <trans-unit id="trackingProtection.contentTrackerLabel">
         <source>Content trackers</source>
         <target>შიგთავსის აღმრიცხველი</target>
         <note>label for content trackers.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.disabledLabel" xml:space="preserve">
+      <trans-unit id="trackingProtection.disabledLabel">
         <source>Tracking Protection off</source>
         <target>დაცვა გამორთულია</target>
         <note>text showing the tracking protection is disabled.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.label" xml:space="preserve">
+      <trans-unit id="trackingProtection.label">
         <source>Tracking Protection</source>
         <target>თვალთვალისგან დაცვა</target>
         <note>Title for the tracking settings page to change what trackers are blocked.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.labelDescription" xml:space="preserve">
+      <trans-unit id="trackingProtection.labelDescription">
         <source>Turning this off may fix some site problems</source>
         <target>გამორთვის შედეგად, საიტის ხარვეზები წესით გასწორდება</target>
         <note>Description/subtitle for the tracking protection label.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.learnMore" xml:space="preserve">
+      <trans-unit id="trackingProtection.learnMore">
         <source>Learn More</source>
         <target>ვრცლად</target>
         <note>Text for the button to learn more about Tracking Protection.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.moreSettings" xml:space="preserve">
+      <trans-unit id="trackingProtection.moreSettings">
         <source>More Settings</source>
         <target>დამატებითი პარამეტრები</target>
         <note>Text for the button that closes the Shield Data and opens the regular Settings screen.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.socialTrackerLabel" xml:space="preserve">
+      <trans-unit id="trackingProtection.socialTrackerLabel">
         <source>Social trackers</source>
         <target>სოცქსელის მეთვალყურე</target>
         <note>label for social trackers.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.statusOff" xml:space="preserve">
+      <trans-unit id="trackingProtection.statusOff">
         <source>Protections are OFF for this session</source>
         <target>დაცვა ამჟამად გამორთულია</target>
         <note>Text for the status off from Tracking Protection.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.statusOn" xml:space="preserve">
+      <trans-unit id="trackingProtection.statusOn">
         <source>Protections are ON for this session</source>
         <target>დაცვა ამჟამად ჩართულია</target>
         <note>Text for the status on from Tracking Protection.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.toggleDescription1" xml:space="preserve">
+      <trans-unit id="trackingProtection.toggleDescription1">
         <source>Disable until you close %@ or tap ERASE.</source>
         <target>გამორთვა %@-ის დახურვამდე ან გასუფთავებამდე.</target>
         <note>Description for the tracking protection toggle. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.toggleLabel2" xml:space="preserve">
+      <trans-unit id="trackingProtection.toggleLabel2">
         <source>Enhanced Tracking Protection</source>
         <target>თვალთვალისგან გაძლიერებული დაცვა</target>
         <note>Text for the toggle that enables/disables tracking protection.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.trackerDescriptionLabel2" xml:space="preserve">
+      <trans-unit id="trackingProtection.trackerDescriptionLabel2">
         <source>Keep your data to yourself. %@ protects you from many of the most common trackers that follow what you do online.</source>
         <target>დატოვეთ თქვენი მონაცემები პირადი. %@ აგარიდებთ ცნობილი მეთვალყურეების უმეტესობას, რომლებიც თან დაგყვებათ ინტერნეტში.</target>
         <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.trackersBlockedLabel" xml:space="preserve">
+      <trans-unit id="trackingProtection.trackersBlockedLabel">
         <source>Trackers blocked since %@</source>
         <target>სულ შეზღუდულია თარიღიდან %@</target>
         <note>Text for tracking protection screen showing the number of trackers blocked since the app install. The placeholder is replaced with the install date of the application.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.trackersHeader" xml:space="preserve">
+      <trans-unit id="trackingProtection.trackersHeader">
         <source>Trackers and scripts to block</source>
         <target>შესაზღუდი მეთვალყურეები</target>
         <note>Text for the header of trackers section from Tracking Protection.</note>
@@ -1135,10 +1225,10 @@
   </file>
   <file original="Blockzilla/Settings.bundle/en.lproj/Root.strings" source-language="en" target-language="ka" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
     </header>
     <body>
-      <trans-unit id="SettingsBundle.Licenses" xml:space="preserve">
+      <trans-unit id="SettingsBundle.Licenses">
         <source>Licenses</source>
         <target>ლიცენზიები</target>
         <note>The title of the Licenses setting in the settings that Focus shows in the global iOS Settings app.</note>
@@ -1146,3 +1236,4 @@
     </body>
   </file>
 </xliff>
+
