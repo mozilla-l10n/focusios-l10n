@@ -854,7 +854,7 @@
       </trans-unit>
       <trans-unit id="Tip.ShareTrackers.Description">
         <source>%@ trackers blocked so far</source>
-        <note>Text for a label that indicates the description for share trackers tip. The placeholder is the number of trackers blocked. Only shown when there are more than 10 trackers blocked.</note>
+        <note>Text for a label that indicates the description for share trackers tip. The placeholder is the number of trackers blocked. Only shown when there are more than 10 trackers blocked. For locales where we would need plural support, please feel free to translate this string as `Trackers blocked so far: %@` instead.</note>
       </trans-unit>
       <trans-unit id="Tip.ShareTrackers.Title">
         <source>You browse. %@ blocks.</source>
