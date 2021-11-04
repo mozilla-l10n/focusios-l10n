@@ -1,35 +1,36 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Blockzilla/en.lproj/InfoPlist.strings" source-language="en" target-language="sl" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
     </header>
     <body>
-      <trans-unit id="NSCameraUsageDescription">
+      <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
         <source>This lets you take and upload photos.</source>
         <target>Omogoča fotografiranje in pošiljanje fotografij.</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSFaceIDUsageDescription">
+      <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
         <source>This lets you unlock the app.</source>
         <target>Omogoča odklepanje aplikacije.</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSLocationWhenInUseUsageDescription">
+      <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
         <source>Websites you visit may request your location.</source>
         <target>Spletne strani lahko zahtevajo vašo lokacijo.</target>
         <note>Privacy - Location When In Use Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSMicrophoneUsageDescription">
+      <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
         <source>This lets you take and upload videos.</source>
         <target>Omogoča snemanje in nalaganje videa.</target>
         <note>Privacy - Microphone Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSPhotoLibraryAddUsageDescription">
+      <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
         <source>This lets you save and upload photos.</source>
         <target>Omogoča shranjevanje in pošiljanje fotografij.</target>
         <note>Privacy - Photo Library Additions Usage Description</note>
       </trans-unit>
-      <trans-unit id="UIApplicationShortcutItemTitle.EraseAndOpen">
+      <trans-unit id="UIApplicationShortcutItemTitle.EraseAndOpen" xml:space="preserve">
         <source>Erase and Open</source>
         <target>Izbriši in odpri</target>
         <note>This is the menu item that appears when you long press the Focus icon on the phone home screen.</note>
@@ -41,7 +42,7 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
     </header>
     <body>
-      <trans-unit id="Intents.Erase.Title">
+      <trans-unit id="Intents.Erase.Title" xml:space="preserve">
         <source>Erase</source>
         <target>Izbriši</target>
         <note>Title of the Erase intent.</note>
@@ -53,42 +54,42 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
     </header>
     <body>
-      <trans-unit id="Intro.Slides.History.Description">
+      <trans-unit id="Intro.Slides.History.Description" xml:space="preserve">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
         <target>Kadarkoli izbrišite celotno zgodovino brskanja, gesla in piškotke z enim dotikom.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.History.Title">
+      <trans-unit id="Intro.Slides.History.Title" xml:space="preserve">
         <source>Your history is history</source>
         <target>Vaša zgodovina je zgodovina</target>
         <note>Title for the third  panel 'History' in the First Run tour.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Next.Button">
+      <trans-unit id="Intro.Slides.Next.Button" xml:space="preserve">
         <source>Next</source>
         <target>Naprej</target>
         <note>Button to go to the next card in Focus onboarding.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Search.Description">
+      <trans-unit id="Intro.Slides.Search.Description" xml:space="preserve">
         <source>Searching for something different? Choose a different search engine.</source>
         <target>Iščete nekaj drugačnega? Izberite drug privzeti iskalnik.</target>
         <note>Description for the 'Favorite Search Engine' panel in the First Run tour.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Search.Title">
+      <trans-unit id="Intro.Slides.Search.Title" xml:space="preserve">
         <source>Your search, your way</source>
         <target>Vaše iskanje, na vaš način</target>
         <note>Title for the second  panel 'Search' in the First Run tour.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Skip.Button">
+      <trans-unit id="Intro.Slides.Skip.Button" xml:space="preserve">
         <source>Skip</source>
         <target>Preskoči</target>
         <note>Button to skip onboarding in Focus</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Welcome.Description">
+      <trans-unit id="Intro.Slides.Welcome.Description" xml:space="preserve">
         <source>Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.</source>
         <target>Zasebno brskanje na višjem nivoju. Zavračajte oglase in drugo vsebino, ki vam lahko sledi prek strani, in pohitrite svoje brskanje.</target>
         <note>Description for the 'Welcome' panel in the First Run tour.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Welcome.Title">
+      <trans-unit id="Intro.Slides.Welcome.Title" xml:space="preserve">
         <source>Power up your privacy</source>
         <target>Okrepite svojo zasebnost</target>
         <note>Title for the first panel 'Welcome' in the First Run tour.</note>
@@ -100,840 +101,849 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
     </header>
     <body>
-      <trans-unit id="About.learnMoreButton">
+      <trans-unit id="About.learnMoreButton" xml:space="preserve">
         <source>Learn more</source>
         <target>Več o tem</target>
         <note>Button on About screen</note>
       </trans-unit>
-      <trans-unit id="About.missionLabel">
+      <trans-unit id="About.missionLabel" xml:space="preserve">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
         <target>%@ razvija Mozilla. Naše poslanstvo je spodbujati zdrav in odprt internet.</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.privateBullet1">
+      <trans-unit id="About.privateBullet1" xml:space="preserve">
         <source>Search and browse right in the app</source>
         <target>Iščite in brskajte naravnost iz aplikacije</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.privateBullet2">
+      <trans-unit id="About.privateBullet2" xml:space="preserve">
         <source>Block trackers (or update settings to allow trackers)</source>
         <target>Zavračajte sledilce (ali spremenite nastavitve zavračanja sledilcev)</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.privateBullet3">
+      <trans-unit id="About.privateBullet3" xml:space="preserve">
         <source>Erase to delete cookies as well as search and browsing history</source>
         <target>Brišite piškotke ter zgodovino strani in iskanja</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.privateBulletHeader">
+      <trans-unit id="About.privateBulletHeader" xml:space="preserve">
         <source>Use it as a private browser:</source>
         <target>Uporabljajte ga kot zaseben brskalnik:</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.rowHelp">
+      <trans-unit id="About.rowHelp" xml:space="preserve">
         <source>Help</source>
         <target>Pomoč</target>
         <note>Label for row in About screen</note>
       </trans-unit>
-      <trans-unit id="About.rowPrivacy">
+      <trans-unit id="About.rowPrivacy" xml:space="preserve">
         <source>Privacy Notice</source>
         <target>Obvestilo o zasebnosti</target>
         <note>Link to Privacy Notice in the About screen</note>
       </trans-unit>
-      <trans-unit id="About.rowRights">
+      <trans-unit id="About.rowRights" xml:space="preserve">
         <source>Your Rights</source>
         <target>Vaše pravice</target>
         <note>Label for row in About screen</note>
       </trans-unit>
-      <trans-unit id="About.safariBullet1">
+      <trans-unit id="About.safariBullet1" xml:space="preserve">
         <source>Block trackers for improved privacy</source>
         <target>Zavračajte sledilce za več zasebnosti</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.safariBullet2">
+      <trans-unit id="About.safariBullet2" xml:space="preserve">
         <source>Block web fonts to reduce page size</source>
         <target>Ne prenašaj spletnih pisav za zmanjšanje velikosti strani</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.safariBulletHeader">
+      <trans-unit id="About.safariBulletHeader" xml:space="preserve">
         <source>Use it as a Safari extension:</source>
         <target>Uporabljajte ga kot razširitev za Safari:</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.title">
+      <trans-unit id="About.title" xml:space="preserve">
         <source>About %@</source>
         <target>O %@</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, takes the user to a page with information about the product. Also displayed as a header for the About page.</note>
       </trans-unit>
-      <trans-unit id="About.topLabel">
+      <trans-unit id="About.topLabel" xml:space="preserve">
         <source>%@ puts you in control.</source>
         <target>%@ daje nadzor v vaše roke.</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="AddPass.Error.Dismiss">
+      <trans-unit id="AddPass.Error.Dismiss" xml:space="preserve">
         <source>Ok</source>
         <target>V redu</target>
         <note>Button to dismiss the 'Add Pass Failed' alert.</note>
       </trans-unit>
-      <trans-unit id="AddPass.Error.Message">
+      <trans-unit id="AddPass.Error.Message" xml:space="preserve">
         <source>An error occured while adding the pass to Wallet. Please try again later.</source>
         <target>Med dodajanjem dovolilnice v Wallet je prišlo do težave. Poskusite znova pozneje.</target>
         <note>Message of the 'Add Pass Failed' alert.</note>
       </trans-unit>
-      <trans-unit id="AddPass.Error.Title">
+      <trans-unit id="AddPass.Error.Title" xml:space="preserve">
         <source>Failed to Add Pass</source>
         <target>Dodajanje dovolilnice neuspešno</target>
         <note>Title of the 'Add Pass Failed' alert.</note>
       </trans-unit>
-      <trans-unit id="Authentication.reason">
+      <trans-unit id="Authentication.reason" xml:space="preserve">
         <source>Authenticate to return to %@</source>
         <target>Za vrnitev v %@ je zahtevana overitev</target>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID, Face ID, or passcode to continue browsing after returning to the app.</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.addCustomUrl">
+      <trans-unit id="Autocomplete.addCustomUrl" xml:space="preserve">
         <source>Add Custom URL</source>
         <target>Dodaj URL po meri</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.addCustomUrlError">
+      <trans-unit id="Autocomplete.addCustomUrlError" xml:space="preserve">
         <source>Double-check the URL you entered.</source>
         <target>Še enkrat preverite vneseni URL.</target>
         <note>Label for error state when entering an invalid URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.addCustomUrlExample">
+      <trans-unit id="Autocomplete.addCustomUrlExample" xml:space="preserve">
         <source>Example: example.com</source>
         <target>Primer: example.com</target>
         <note>A label displaying an example URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.addCustomUrlLabel">
+      <trans-unit id="Autocomplete.addCustomUrlLabel" xml:space="preserve">
         <source>URL to add</source>
         <target>URL za dodajanje</target>
         <note>Label for the input to add a custom URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.addCustomUrlPlaceholder">
+      <trans-unit id="Autocomplete.addCustomUrlPlaceholder" xml:space="preserve">
         <source>Paste or enter URL</source>
         <target>Prilepite ali vpišite URL</target>
         <note>Placeholder for the input field to add a custom URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.addCustomUrlWithPlus">
+      <trans-unit id="Autocomplete.addCustomUrlWithPlus" xml:space="preserve">
         <source>+ Add Custom URL</source>
         <target>+ Dodaj URL po meri</target>
         <note>Label for button to add a custom URL with the + prefix</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.customDescriptoin">
+      <trans-unit id="Autocomplete.customDescriptoin" xml:space="preserve">
         <source>Add and manage custom autocomplete URLs.</source>
         <target>Dodajte in upravljajte z URL-ji po meri za samodejno dokončevanje.</target>
         <note>Description for adding and managing custom autocomplete URLs</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.customLabel">
+      <trans-unit id="Autocomplete.customLabel" xml:space="preserve">
         <source>Custom URLs</source>
         <target>URL-ji po meri</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.customTitle">
+      <trans-unit id="Autocomplete.customTitle" xml:space="preserve">
         <source>CUSTOM URL LIST</source>
         <target>SEZNAM URL-JEV PO MERI</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.customUrlAdded">
+      <trans-unit id="Autocomplete.customUrlAdded" xml:space="preserve">
         <source>New Custom URL added.</source>
         <target>Nov seznam URL-jev dodan.</target>
         <note>Label for toast alerting a custom URL has been added</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.defaultDescriptoin">
+      <trans-unit id="Autocomplete.defaultDescriptoin" xml:space="preserve">
         <source>Enable to have %@ autocomplete over 450 popular URLs in the address bar.</source>
         <target>Omogočite, če želite, da %@ v naslovni vrstici samodejno dopolni preko 450 priljubljenih URL-jev.</target>
         <note>Description for enabling or disabling the default list. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.defaultLabel">
+      <trans-unit id="Autocomplete.defaultLabel" xml:space="preserve">
         <source>Autocomplete</source>
         <target>Samodejno dopolni</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.defaultTitle">
+      <trans-unit id="Autocomplete.defaultTitle" xml:space="preserve">
         <source>DEFAULT URL LIST</source>
         <target>PRIVZETI SEZNAM URL-JEV</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.disabled">
+      <trans-unit id="Autocomplete.disabled" xml:space="preserve">
         <source>Disabled</source>
         <target>Onemogočeno</target>
         <note>label describing URL Autocomplete as disabled</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.duplicateUrl">
+      <trans-unit id="Autocomplete.duplicateUrl" xml:space="preserve">
         <source>URL already exists</source>
         <target>URL že obstaja</target>
         <note>Label for toast alerting that the custom URL being added is a duplicate</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.emptyState">
+      <trans-unit id="Autocomplete.emptyState" xml:space="preserve">
         <source>No Custom URLs to display</source>
         <target>Ni URL-jev po meri za prikaz</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.enabled">
+      <trans-unit id="Autocomplete.enabled" xml:space="preserve">
         <source>Enabled</source>
         <target>Omogočeno</target>
         <note>label describing URL Autocomplete as enabled</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.manageSites">
+      <trans-unit id="Autocomplete.manageSites" xml:space="preserve">
         <source>Manage Sites</source>
         <target>Upravljanje strani</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.mySites">
+      <trans-unit id="Autocomplete.mySites" xml:space="preserve">
         <source>My Sites</source>
         <target>Moje strani</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.mySitesDesc">
+      <trans-unit id="Autocomplete.mySitesDesc" xml:space="preserve">
         <source>Enable to have %@ autocomplete your favorite URLs.</source>
         <target>Omogoči, da %@ samodejno dopolni priljubljene naslove.</target>
         <note>Description for adding and managing custom autocomplete URLs. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.topSites">
+      <trans-unit id="Autocomplete.topSites" xml:space="preserve">
         <source>Top Sites</source>
         <target>Glavne strani</target>
         <note>Label for enabling or disabling top sites</note>
       </trans-unit>
-      <trans-unit id="BiometricPrompt.newSession">
+      <trans-unit id="BiometricPrompt.newSession" xml:space="preserve">
         <source>New Session</source>
         <target>Nova seja</target>
         <note>Create a new session after failing a biometric check</note>
       </trans-unit>
-      <trans-unit id="BiometricPrompt.reason">
+      <trans-unit id="BiometricPrompt.reason" xml:space="preserve">
         <source>Unlock %@ when re-opening in order to prevent unauthorized access.</source>
         <target>Odkleni %@pri ponovnem odpiranju za preprečitev nepooblaščenega dostopa.</target>
         <note>%@ is app name. Explanation for why the app needs access to biometric information. Prompt is only shown once when the user first tries to enable Face ID to open the app.</note>
       </trans-unit>
-      <trans-unit id="Browser.backLabel">
+      <trans-unit id="Browser.backLabel" xml:space="preserve">
         <source>Back</source>
         <target>Nazaj</target>
         <note>Accessibility label for the back button</note>
       </trans-unit>
-      <trans-unit id="Browser.copyAddressLabel">
+      <trans-unit id="Browser.copyAddressLabel" xml:space="preserve">
         <source>Copy Address</source>
         <target>Kopiraj naslov</target>
         <note>Copy URL button in URL long press menu</note>
       </trans-unit>
-      <trans-unit id="Browser.copyMenuLabel">
+      <trans-unit id="Browser.copyMenuLabel" xml:space="preserve">
         <source>Copy</source>
         <target>Kopiraj</target>
         <note>Copy URL button in URL long press menu</note>
       </trans-unit>
-      <trans-unit id="Browser.customURLMenuLabel">
+      <trans-unit id="Browser.customURLMenuLabel" xml:space="preserve">
         <source>Add Custom URL</source>
         <target>Dodaj URL po meri</target>
         <note>Custom URL button in URL long press menu</note>
       </trans-unit>
-      <trans-unit id="Browser.forwardLabel">
+      <trans-unit id="Browser.forwardLabel" xml:space="preserve">
         <source>Forward</source>
         <target>Naprej</target>
         <note>Accessibility label for the forward button</note>
       </trans-unit>
-      <trans-unit id="Browser.reloadLabel">
+      <trans-unit id="Browser.reloadLabel" xml:space="preserve">
         <source>Reload</source>
         <target>Ponovno naloži</target>
         <note>Accessibility label for the reload button</note>
       </trans-unit>
-      <trans-unit id="Browser.settingsLabel">
+      <trans-unit id="Browser.settingsLabel" xml:space="preserve">
         <source>Settings</source>
         <target>Nastavitve</target>
         <note>Accessibility label for the settings button</note>
       </trans-unit>
-      <trans-unit id="Browser.shareLabel">
+      <trans-unit id="Browser.shareLabel" xml:space="preserve">
         <source>Share</source>
         <target>Deli</target>
         <note>Accessibility label for the share button</note>
       </trans-unit>
-      <trans-unit id="Browser.stopLabel">
+      <trans-unit id="Browser.stopLabel" xml:space="preserve">
         <source>Stop</source>
         <target>Ustavi</target>
         <note>Accessibility label for the stop button</note>
       </trans-unit>
-      <trans-unit id="Cancel">
+      <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
         <target>Prekliči</target>
         <note>Label on button to cancel edits</note>
       </trans-unit>
-      <trans-unit id="Done">
+      <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
         <target>Končaj</target>
         <note>Label on button to complete edits</note>
       </trans-unit>
-      <trans-unit id="Edit">
+      <trans-unit id="Edit" xml:space="preserve">
         <source>Edit</source>
         <target>Uredi</target>
         <note>Label on button to allow edits</note>
       </trans-unit>
-      <trans-unit id="Error.tryAgainButton">
+      <trans-unit id="Error.tryAgainButton" xml:space="preserve">
         <source>Try again</source>
         <target>Poskusi znova</target>
         <note>Button label to reload the error page</note>
       </trans-unit>
-      <trans-unit id="ExternalAppLink.cancelTitle">
+      <trans-unit id="ExternalAppLink.cancelTitle" xml:space="preserve">
         <source>Cancel</source>
         <target>Prekliči</target>
         <note>Button label used for cancelling to open another app from Focus</note>
       </trans-unit>
-      <trans-unit id="ExternalAppLink.messageTitle">
+      <trans-unit id="ExternalAppLink.messageTitle" xml:space="preserve">
         <source>%@ wants to open another App</source>
         <target>%@ želi odpreti drugo aplikacijo</target>
         <note>Dialog title used for opening an external app from Focus. The placeholder string is the app name of either Focus or Klar.</note>
       </trans-unit>
-      <trans-unit id="ExternalAppLink.openTitle">
+      <trans-unit id="ExternalAppLink.openTitle" xml:space="preserve">
         <source>Open</source>
         <target>Odpri</target>
         <note>Button label for opening another app from Focus</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.callButton">
+      <trans-unit id="ExternalLink.callButton" xml:space="preserve">
         <source>Call</source>
         <target>Klic</target>
         <note>Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.cancelButton">
+      <trans-unit id="ExternalLink.cancelButton" xml:space="preserve">
         <source>Cancel</source>
         <target>Prekliči</target>
         <note>Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.emailButton">
+      <trans-unit id="ExternalLink.emailButton" xml:space="preserve">
         <source>Email</source>
         <target>Pošlji sporočilo</target>
         <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.messageTitleWithPlaceholder">
+      <trans-unit id="ExternalLink.messageTitleWithPlaceholder" xml:space="preserve">
         <source>You are now leaving %@.</source>
         <target>Zdaj zapuščate %@.</target>
         <note>Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.openAppStoreButton">
+      <trans-unit id="ExternalLink.openAppStoreButton" xml:space="preserve">
         <source>Open App Store</source>
         <target>Odpri App Store</target>
         <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.openAppStoreTitle">
+      <trans-unit id="ExternalLink.openAppStoreTitle" xml:space="preserve">
         <source>%@ wants to open the App Store.</source>
         <target>%@ želi odpreti trgovino App Store.</target>
         <note>Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.openMapsButton">
+      <trans-unit id="ExternalLink.openMapsButton" xml:space="preserve">
         <source>Open Maps</source>
         <target>Odpri Zemljevide</target>
         <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="FindInPage.Done">
+      <trans-unit id="FindInPage.Done" xml:space="preserve">
         <source>Find in page done</source>
         <target>Iskanje na strani končano</target>
         <note>Accessibility label for done button in Find in Page Toolbar.</note>
       </trans-unit>
-      <trans-unit id="FindInPage.NextResult">
+      <trans-unit id="FindInPage.NextResult" xml:space="preserve">
         <source>Find next in page</source>
         <target>Najdi naslednje na strani</target>
         <note>Accessibility label for next result button in Find in Page Toolbar.</note>
       </trans-unit>
-      <trans-unit id="FindInPage.PreviousResult">
+      <trans-unit id="FindInPage.PreviousResult" xml:space="preserve">
         <source>Find previous in page</source>
         <target>Najdi prejšnje na strani</target>
         <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
       </trans-unit>
-      <trans-unit id="FirstRun.lastSlide.buttonLabel">
+      <trans-unit id="FirstRun.lastSlide.buttonLabel" xml:space="preserve">
         <source>OK, Got It!</source>
         <target>V redu, razumem!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
-      <trans-unit id="FirstRun.messageLabelDescription">
+      <trans-unit id="FirstRun.messageLabelDescription" xml:space="preserve">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
         <target>Samodejno zavračajte spletne sledilce med brskanjem. Nato z enim dotikom izbrišite obiskane strani, iskanja, piškotke in gesla.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
-      <trans-unit id="FirstRun.messageLabelTagline">
+      <trans-unit id="FirstRun.messageLabelTagline" xml:space="preserve">
         <source>Browse like no one’s watching.</source>
         <target>Brskajte, kot da vas nihče ne gleda.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
-      <trans-unit id="Focus.handoffSyncing">
+      <trans-unit id="Focus.handoffSyncing" xml:space="preserve">
         <source>Apple Handoff is syncing</source>
         <target>Sinhronizacija Apple Handoffa</target>
         <note>Title for the loading screen when the handoff of clipboard delays Focus launch. “Handoff” should not be localized, see https://support.apple.com/HT204681</note>
       </trans-unit>
-      <trans-unit id="Home.descriptionLabel1">
+      <trans-unit id="Home.descriptionLabel1" xml:space="preserve">
         <source>Automatic private browsing.</source>
         <target>Samodejno zasebno brskanje.</target>
         <note>First label for product description on the home screen</note>
       </trans-unit>
-      <trans-unit id="Home.descriptionLabel2">
+      <trans-unit id="Home.descriptionLabel2" xml:space="preserve">
         <source>Browse. Erase. Repeat.</source>
         <target>Brskajte. Izbrišite. Ponovite.</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
-      <trans-unit id="Menu.Close">
+      <trans-unit id="Menu.Close" xml:space="preserve">
         <source>Close</source>
         <target>Zapri</target>
         <note>Button label used to close a menu that displays as a popup.</note>
       </trans-unit>
-      <trans-unit id="Open.Cancel">
+      <trans-unit id="Open.Cancel" xml:space="preserve">
         <source>Cancel</source>
         <target>Prekliči</target>
         <note>Label in share alert to cancel the alert</note>
       </trans-unit>
-      <trans-unit id="Open.Firefox">
+      <trans-unit id="Open.Firefox" xml:space="preserve">
         <source>Firefox (Private Browsing)</source>
         <target>Firefox (zasebno brskanje)</target>
         <note>Label in share alert to open the URL in Firefox</note>
       </trans-unit>
-      <trans-unit id="Open.More">
+      <trans-unit id="Open.More" xml:space="preserve">
         <source>More</source>
         <target>Več</target>
         <note>Label in share alert to open the full system share menu</note>
       </trans-unit>
-      <trans-unit id="Open.Safari">
+      <trans-unit id="Open.Safari" xml:space="preserve">
         <source>Safari</source>
         <target>Safari</target>
         <note>Label in share alert to open the URL in Safari</note>
       </trans-unit>
-      <trans-unit id="ProtectionStatus.NotSecure">
+      <trans-unit id="ProtectionStatus.NotSecure" xml:space="preserve">
         <source>Connection is not secure</source>
+        <target>Povezava ni varna</target>
         <note>This is the value for a label that indicates if a user is on an unencrypted website.</note>
       </trans-unit>
-      <trans-unit id="ProtectionStatus.Secure">
+      <trans-unit id="ProtectionStatus.Secure" xml:space="preserve">
         <source>Connection is secure</source>
+        <target>Povezava je varna</target>
         <note>This is the value for a label that indicates if a user is on a secure https connection.</note>
       </trans-unit>
-      <trans-unit id="Request Desktop Site">
+      <trans-unit id="Request Desktop Site" xml:space="preserve">
         <source>Request Desktop Site</source>
         <target>Zahtevaj stran za namizja</target>
         <note>Label for button that requests the desktop version of the currently loaded website.</note>
       </trans-unit>
-      <trans-unit id="Safari.instructionsContentBlockers">
+      <trans-unit id="Safari.instructionsContentBlockers" xml:space="preserve">
         <source>Tap Safari, then select Content Blockers</source>
         <target>Tapnite Safari in izberite Content Blockers</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
-      <trans-unit id="Safari.instructionsEnable">
+      <trans-unit id="Safari.instructionsEnable" xml:space="preserve">
         <source>Enable %@</source>
         <target>Omogočite %@</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
-      <trans-unit id="Safari.instructionsNotEnabled">
+      <trans-unit id="Safari.instructionsNotEnabled" xml:space="preserve">
         <source>%@ is not enabled.</source>
         <target>%@ ni omogočen.</target>
         <note>Error label when the blocker is not enabled, shown in the intro and main app when disabled</note>
       </trans-unit>
-      <trans-unit id="Safari.instructionsOpen">
+      <trans-unit id="Safari.instructionsOpen" xml:space="preserve">
         <source>Open Settings App</source>
         <target>Odprite nastavitve naprave</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
-      <trans-unit id="Save">
+      <trans-unit id="Save" xml:space="preserve">
         <source>Save</source>
         <target>Shrani</target>
         <note>Save button label</note>
       </trans-unit>
-      <trans-unit id="SearchEngine.addEngineError">
+      <trans-unit id="SearchEngine.addEngineError" xml:space="preserve">
         <source>That didn't work. Try replacing the search term with this: %s.</source>
         <target>To ni delovalo. Poskusite iskalno poizvedbo zamenjati z: %s.</target>
         <note>Label for error state when entering an invalid search engine URL. %s is a search term in a URL.</note>
       </trans-unit>
-      <trans-unit id="SearchSuggestions.promptDisable">
+      <trans-unit id="SearchSuggestions.promptDisable" xml:space="preserve">
         <source>No</source>
         <target>Ne</target>
         <note>Label for disable option on search suggestions prompt</note>
       </trans-unit>
-      <trans-unit id="SearchSuggestions.promptEnable">
+      <trans-unit id="SearchSuggestions.promptEnable" xml:space="preserve">
         <source>Yes</source>
         <target>Da</target>
         <note>Label for enable option on search suggestions prompt</note>
       </trans-unit>
-      <trans-unit id="SearchSuggestions.promptMessage">
+      <trans-unit id="SearchSuggestions.promptMessage" xml:space="preserve">
         <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
         <target>Da pridobi predloge iskanja, mora %@ besede, ki jih natipkate v naslovno vrstico, poslati iskalniku.</target>
         <note>%@ is the name of the app (Focus / Klar). Label for search suggestions prompt message</note>
       </trans-unit>
-      <trans-unit id="SearchSuggestions.promptTitle">
+      <trans-unit id="SearchSuggestions.promptTitle" xml:space="preserve">
         <source>Show Search Suggestions?</source>
         <target>Prikažem predloge iskanja?</target>
         <note>Title for search suggestions prompt</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.AddSearchEngineButton">
+      <trans-unit id="Settings.Search.AddSearchEngineButton" xml:space="preserve">
         <source>Add Another Search Engine</source>
         <target>Dodaj drug iskalnik</target>
         <note>Text for button to add another search engine in settings</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.AddSearchEngineButtonWithPlus">
+      <trans-unit id="Settings.Search.AddSearchEngineButtonWithPlus" xml:space="preserve">
         <source>+ Add Another Search Engine</source>
         <target>+ Dodaj drug iskalnik</target>
         <note>Text for button to add another search engine in settings with the + prefix</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.AddSearchEngineTitle">
+      <trans-unit id="Settings.Search.AddSearchEngineTitle" xml:space="preserve">
         <source>Add Search Engine</source>
         <target>Dodaj iskalnik</target>
         <note>Title on add search engine settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.InstalledSearchEngines">
+      <trans-unit id="Settings.Search.InstalledSearchEngines" xml:space="preserve">
         <source>INSTALLED SEARCH ENGINES</source>
         <target>NAMEŠČENI ISKALNIKI</target>
         <note>Header for rows of installed search engines</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.NameToDisplay">
+      <trans-unit id="Settings.Search.NameToDisplay" xml:space="preserve">
         <source>Name to display</source>
         <target>Ime za prikaz</target>
         <note>Label for input field for the name of the search engine to be added</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.NewSearchEngineAdded">
+      <trans-unit id="Settings.Search.NewSearchEngineAdded" xml:space="preserve">
         <source>New Search Engine Added.</source>
         <target>Nov iskalnik dodan.</target>
         <note>Toast displayed after adding a search engine</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.RestoreEngine">
+      <trans-unit id="Settings.Search.RestoreEngine" xml:space="preserve">
         <source>Restore Default Search Engines</source>
         <target>Ponastavi privzete iskalnike</target>
         <note>Label for button to bring deleted default engines back</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.SearchEngineName">
+      <trans-unit id="Settings.Search.SearchEngineName" xml:space="preserve">
         <source>Search engine name</source>
         <target>Ime iskalnika</target>
         <note>Placeholder text for input of new search engine name</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.SearchTemplate">
+      <trans-unit id="Settings.Search.SearchTemplate" xml:space="preserve">
         <source>Search string to use</source>
         <target>Iskalni niz za uporabo</target>
         <note>Label for input of search engine template</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.SearchTemplatePlaceholder">
+      <trans-unit id="Settings.Search.SearchTemplatePlaceholder" xml:space="preserve">
         <source>Paste or enter search string. If necessary, replace search term with: %s.</source>
         <target>Prilepite ali vnesite iskalni niz. Če je potrebno, zamenjajte iskalni izraz z: %s.</target>
         <note>Placeholder text for input of new search engine template</note>
       </trans-unit>
-      <trans-unit id="Settings.autocompleteSection">
+      <trans-unit id="Settings.autocompleteSection" xml:space="preserve">
         <source>URL Autocomplete</source>
         <target>Samodejno dopolni URL</target>
         <note>Title for the URL Autocomplete row</note>
       </trans-unit>
-      <trans-unit id="Settings.blockOtherMessage">
+      <trans-unit id="Settings.blockOtherMessage" xml:space="preserve">
         <source>Blocking other content trackers may break some videos and web pages.</source>
         <target>Zavračanje drugih vsebinskih sledilcev lahko pokvari nekatere videoposnetke in strani.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
-      <trans-unit id="Settings.blockOtherNo2">
+      <trans-unit id="Settings.blockOtherNo2" xml:space="preserve">
         <source>Cancel</source>
         <target>Prekliči</target>
         <note>Button label for declining Content blocker alert</note>
       </trans-unit>
-      <trans-unit id="Settings.blockOtherYes2">
+      <trans-unit id="Settings.blockOtherYes2" xml:space="preserve">
         <source>Block Content Trackers</source>
         <target>Zavračaj sledilce vsebine</target>
         <note>Button label for accepting Content blocker alert</note>
       </trans-unit>
-      <trans-unit id="Settings.darkTheme">
+      <trans-unit id="Settings.darkTheme" xml:space="preserve">
         <source>Dark</source>
         <target>Temna</target>
         <note>Dark theme option in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.detailTextSearchSuggestion">
+      <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
         <source>%@ will send what you type in the address bar to your search engine.</source>
         <target>%@ bo natipkano v naslovno vrstico poslal iskalniku.</target>
         <note>Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
-      <trans-unit id="Settings.detailTextSendUsageData">
+      <trans-unit id="Settings.detailTextSendUsageData" xml:space="preserve">
         <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
         <target>Mozilla se trudi, da zbira samo podatke, ki jih potrebuje za razvoj in izboljševanje %@a.</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
-      <trans-unit id="Settings.detailTextStudies">
+      <trans-unit id="Settings.detailTextStudies" xml:space="preserve">
         <source>%@ may install and run studies from time to time.</source>
+        <target>%@ lahko občasno namesti in izvaja raziskave.</target>
         <note>Description associated to the Studies toggle on the settings screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
-      <trans-unit id="Settings.general">
+      <trans-unit id="Settings.general" xml:space="preserve">
         <source>General</source>
+        <target>Splošno</target>
         <note>Title for section in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.learnMore">
+      <trans-unit id="Settings.learnMore" xml:space="preserve">
         <source>Learn more.</source>
         <target>Več o tem.</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.lightTheme">
+      <trans-unit id="Settings.lightTheme" xml:space="preserve">
         <source>Light</source>
         <target>Svetla</target>
         <note>Light theme option in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.manualTheme">
+      <trans-unit id="Settings.manualTheme" xml:space="preserve">
         <source>Manual</source>
         <target>Ročno</target>
         <note>Manual value for theme section in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.rate">
+      <trans-unit id="Settings.rate" xml:space="preserve">
         <source>Rate %@</source>
         <target>Ocenite %@</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, allows the user to leave a review for the app on the app store.</note>
       </trans-unit>
-      <trans-unit id="Settings.safariTitle">
+      <trans-unit id="Settings.safariTitle" xml:space="preserve">
         <source>SAFARI INTEGRATION</source>
         <target>INTEGRACIJA S SAFARIJEM</target>
         <note>Label for Safari integration section</note>
       </trans-unit>
-      <trans-unit id="Settings.screenTitle">
+      <trans-unit id="Settings.screenTitle" xml:space="preserve">
         <source>Settings</source>
         <target>Nastavitve</target>
         <note>Title for settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.searchLabel">
+      <trans-unit id="Settings.searchLabel" xml:space="preserve">
         <source>Search Engine</source>
         <target>Iskalnik</target>
         <note>Label for the search engine in the search screen</note>
       </trans-unit>
-      <trans-unit id="Settings.searchSuggestions">
+      <trans-unit id="Settings.searchSuggestions" xml:space="preserve">
         <source>Get Search Suggestions</source>
         <target>Prejemaj predloge iskanja</target>
         <note>Label for the Search Suggestions toggle row</note>
       </trans-unit>
-      <trans-unit id="Settings.searchTitle2">
+      <trans-unit id="Settings.searchTitle2" xml:space="preserve">
         <source>SEARCH</source>
         <target>ISKANJE</target>
         <note>Title for the search selection screen</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionIntegration">
+      <trans-unit id="Settings.sectionIntegration" xml:space="preserve">
         <source>INTEGRATION</source>
         <target>INTEGRACIJA</target>
         <note>Label for Safari integration section</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionMozilla">
+      <trans-unit id="Settings.sectionMozilla" xml:space="preserve">
         <source>MOZILLA</source>
         <target>MOZILLA</target>
         <note>Section label for Mozilla toggles</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionPerformance">
+      <trans-unit id="Settings.sectionPerformance" xml:space="preserve">
         <source>PERFORMANCE</source>
         <target>UČINKOVITOST DELOVANJA</target>
         <note>Section label for performance toggles</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionPrivacy">
+      <trans-unit id="Settings.sectionPrivacy" xml:space="preserve">
         <source>PRIVACY</source>
         <target>ZASEBNOST</target>
         <note>Section label for privacy toggles</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionSecurity">
+      <trans-unit id="Settings.sectionSecurity" xml:space="preserve">
         <source>SECURITY</source>
         <target>VARNOST</target>
         <note>Header label for security toggles displayed in the settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.systemTheme">
+      <trans-unit id="Settings.systemTheme" xml:space="preserve">
         <source>System Theme</source>
         <target>Sistemska tema</target>
         <note>System value for theme section in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.theme">
+      <trans-unit id="Settings.theme" xml:space="preserve">
         <source>Theme</source>
         <target>Tema</target>
         <note>Theme section in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.themePicker">
+      <trans-unit id="Settings.themePicker" xml:space="preserve">
         <source>Theme Picker</source>
         <target>Izbira teme</target>
         <note>Header for manual theme section in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockAds2">
+      <trans-unit id="Settings.toggleBlockAds2" xml:space="preserve">
         <source>Advertising</source>
         <target>Oglasi</target>
         <note>Label for the checkbox to toggle Advertising trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockAnalytics2">
+      <trans-unit id="Settings.toggleBlockAnalytics2" xml:space="preserve">
         <source>Analytics</source>
         <target>Analitika</target>
         <note>Label for the checkbox to toggle Analytics trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockFonts">
+      <trans-unit id="Settings.toggleBlockFonts" xml:space="preserve">
         <source>Block web fonts</source>
         <target>Zavračaj spletne pisave</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockOther2">
+      <trans-unit id="Settings.toggleBlockOther2" xml:space="preserve">
         <source>Content</source>
         <target>Vsebina</target>
         <note>Label for the checkbox to toggle Other trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockSocial2">
+      <trans-unit id="Settings.toggleBlockSocial2" xml:space="preserve">
         <source>Social</source>
         <target>Družbeno</target>
         <note>Label for the checkbox to toggle Social trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleFaceID">
+      <trans-unit id="Settings.toggleFaceID" xml:space="preserve">
         <source>Use Face ID to unlock app</source>
         <target>Uporabljaj Face ID za odklepanje aplikacije</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleFaceIDDescription">
+      <trans-unit id="Settings.toggleFaceIDDescription" xml:space="preserve">
         <source>Face ID can unlock %@ if a URL is already open in the app</source>
         <target>Face ID lahko odklene %@, če je spletni naslov že odprt v aplikaciji</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleHomeScreenTips">
+      <trans-unit id="Settings.toggleHomeScreenTips" xml:space="preserve">
         <source>Show home screen tips</source>
         <target>Prikazuj namige na začetnem zaslonu</target>
         <note>Show home screen tips toggle label on settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleOtherSubtitle">
+      <trans-unit id="Settings.toggleOtherSubtitle" xml:space="preserve">
         <source>May break some videos and Web pages</source>
         <target>Lahko pokvari nekatere videoposnetke in strani</target>
         <note>Label subtitle for toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleSafari">
+      <trans-unit id="Settings.toggleSafari" xml:space="preserve">
         <source>Safari</source>
         <target>Safari</target>
         <note>Safari toggle label on settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleSendUsageData">
+      <trans-unit id="Settings.toggleSendUsageData" xml:space="preserve">
         <source>Send usage data</source>
         <target>Pošiljaj podatke o uporabi</target>
         <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleStudies">
+      <trans-unit id="Settings.toggleStudies" xml:space="preserve">
         <source>Studies</source>
+        <target>Raziskave</target>
         <note>Label for Studies toggle on the settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleTouchID">
+      <trans-unit id="Settings.toggleTouchID" xml:space="preserve">
         <source>Use Touch ID to unlock app</source>
         <target>Uporabljaj Touch ID za odklepanje aplikacije</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleTouchIDDescription">
+      <trans-unit id="Settings.toggleTouchIDDescription" xml:space="preserve">
         <source>Touch ID can unlock %@ if a URL is already open in the app</source>
         <target>Touch ID lahko odklene %@, če je spletni naslov že odprt v aplikaciji</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
-      <trans-unit id="Settings.trackingProtectionOff">
+      <trans-unit id="Settings.trackingProtectionOff" xml:space="preserve">
         <source>Off</source>
         <target>Izključeno</target>
         <note>Status off for tracking protection in settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.trackingProtectionOn">
+      <trans-unit id="Settings.trackingProtectionOn" xml:space="preserve">
         <source>On</source>
         <target>Vključeno</target>
         <note>Status on for tracking protection in settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.useSystemTheme">
+      <trans-unit id="Settings.useSystemTheme" xml:space="preserve">
         <source>Use System Light/Dark Mode</source>
         <target>Uporabi svetli/temni način sistema</target>
         <note>Value for theme toggle in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.whatsNewTitle">
+      <trans-unit id="Settings.whatsNewTitle" xml:space="preserve">
         <source>What’s New</source>
         <target>Novosti</target>
         <note>Title for What's new screen</note>
       </trans-unit>
-      <trans-unit id="Settinsg.siriShortcutsTitle">
+      <trans-unit id="Settinsg.siriShortcutsTitle" xml:space="preserve">
         <source>SIRI SHORTCUTS</source>
         <target>BLIŽNJICE ZA SIRI</target>
         <note>Title for settings section to enable different Siri Shortcuts.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.AddToShortcuts">
+      <trans-unit id="ShareMenu.AddToShortcuts" xml:space="preserve">
         <source>Add to Shortcuts</source>
         <target>Dodaj med bližnjice</target>
         <note>Text for the share menu option when a user wants to add the site to Shortcuts</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.FindInPage">
+      <trans-unit id="ShareMenu.FindInPage" xml:space="preserve">
         <source>Find in Page</source>
         <target>Najdi na strani</target>
         <note>Text for the share menu option when a user wants to open the find in page menu</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.GetFirefox">
+      <trans-unit id="ShareMenu.GetFirefox" xml:space="preserve">
         <source>Get the Firefox App</source>
         <target>Prenesi Firefox</target>
         <note>Text for the share menu option when a user wants to open a page in Firefox but doesn’t have it installed. This string will not wrap in the interface. Instead, it will truncate. To prevent this, please keep the localized string to 18 or fewer characters. If your string runs longer than 18 characters, you can use 'Get Firefox' as the basis for your string. However, if at all possible, we’d like to signal to the user that they will be going to the App Store and installing the application from there. That is why we are using Get and App in the en-US string.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.PageActions">
+      <trans-unit id="ShareMenu.PageActions" xml:space="preserve">
         <source>Page Actions</source>
         <target>Dejanja strani</target>
         <note>Title for the share menu where users can take actions for the current website they are on.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.RemoveFromShortcuts">
+      <trans-unit id="ShareMenu.RemoveFromShortcuts" xml:space="preserve">
         <source>Remove from Shortcuts</source>
         <target>Odstrani iz bližnjic</target>
         <note>Text for the share menu option when a user wants to remove the site from Shortcuts</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.RequestDesktop">
+      <trans-unit id="ShareMenu.RequestDesktop" xml:space="preserve">
         <source>Request Desktop Site</source>
         <target>Zahtevaj stran za namizja</target>
         <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.RequestMobile">
+      <trans-unit id="ShareMenu.RequestMobile" xml:space="preserve">
         <source>Request Mobile Site</source>
         <target>Zahtevaj mobilno stran</target>
         <note>Text for the share menu option when a user wants to reload the site as a mobile device</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.ShareOpenChrome">
+      <trans-unit id="ShareMenu.ShareOpenChrome" xml:space="preserve">
         <source>Open in Chrome</source>
         <target>Odpri v Chromu</target>
         <note>Text for the share menu option when a user wants to open the current website in the Chrome app.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.ShareOpenDefaultBrowser">
+      <trans-unit id="ShareMenu.ShareOpenDefaultBrowser" xml:space="preserve">
         <source>Open in Default Browser</source>
+        <target>Odpri v privzetem brskalniku</target>
         <note>Text for the share menu option when a user wants to open the current website in the default browser.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.ShareOpenFirefox">
+      <trans-unit id="ShareMenu.ShareOpenFirefox" xml:space="preserve">
         <source>Open in Firefox</source>
         <target>Odpri v Firefoxu</target>
         <note>Text for the share menu option when a user wants to open the current website in the Firefox app.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.SharePage">
+      <trans-unit id="ShareMenu.SharePage" xml:space="preserve">
         <source>Share Page With...</source>
         <target>Deli stran z …</target>
         <note>Text for the share menu option when a user wants to share the current website they are on through another app.</note>
       </trans-unit>
-      <trans-unit id="ShortcutView.RemoveFromShortcuts">
+      <trans-unit id="ShortcutView.RemoveFromShortcuts" xml:space="preserve">
         <source>Remove from Shortcuts</source>
         <target>Odstrani iz bližnjic</target>
         <note>Text for the long press on a shortcut option in context menu.</note>
       </trans-unit>
-      <trans-unit id="Siri.add">
+      <trans-unit id="Siri.add" xml:space="preserve">
         <source>Add</source>
         <target>Dodaj</target>
         <note>Button to add a favorite URL to Siri.</note>
       </trans-unit>
-      <trans-unit id="Siri.addTo">
+      <trans-unit id="Siri.addTo" xml:space="preserve">
         <source>Add to Siri</source>
         <target>Dodaj v Siri</target>
         <note>Button to add a specified shortcut option to Siri.</note>
       </trans-unit>
-      <trans-unit id="Siri.editOpenUrl">
+      <trans-unit id="Siri.editOpenUrl" xml:space="preserve">
         <source>Re-Record or Delete Shortcut</source>
         <target>Posnemite znova ali izbrišite bližnjico</target>
         <note>Label for button to edit the Siri phrase or delete the Siri functionality.</note>
       </trans-unit>
-      <trans-unit id="Siri.erase">
+      <trans-unit id="Siri.erase" xml:space="preserve">
         <source>Erase</source>
         <target>Izbriši</target>
         <note>Title of option in settings to set up Siri to erase</note>
       </trans-unit>
-      <trans-unit id="Siri.eraseAndOpen">
+      <trans-unit id="Siri.eraseAndOpen" xml:space="preserve">
         <source>Erase &amp; Open</source>
         <target>Izbriši in odpri</target>
         <note>Title of option in settings to set up Siri to erase and then open the app.</note>
       </trans-unit>
-      <trans-unit id="Siri.favoriteUrl">
+      <trans-unit id="Siri.favoriteUrl" xml:space="preserve">
         <source>Open Favorite Site</source>
         <target>Odpri priljubljeno stran</target>
         <note>Title for screen to add a favorite URL to Siri.</note>
       </trans-unit>
-      <trans-unit id="Siri.openURL">
+      <trans-unit id="Siri.openURL" xml:space="preserve">
         <source>Open Favorite Site</source>
         <target>Odpri priljubljeno stran</target>
         <note>Title of option in settings to set up Siri to open a specified URL in Focus/Klar.</note>
       </trans-unit>
-      <trans-unit id="Siri.urlToOpen">
+      <trans-unit id="Siri.urlToOpen" xml:space="preserve">
         <source>URL to open</source>
         <target>Spletni naslov za odprtje</target>
         <note>Label for input to set a favorite URL to be opened by Siri.</note>
       </trans-unit>
-      <trans-unit id="Tip.Biometric.Title">
+      <trans-unit id="Tip.Biometric.Title" xml:space="preserve">
         <source>Lock %@ when a site is open:</source>
+        <target>Zakleni %@, ko je odprto spletno mesto:</target>
         <note>Text for a label that indicates the title for biometric tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
       </trans-unit>
-      <trans-unit id="Tip.BiometricFaceId.Description">
+      <trans-unit id="Tip.BiometricFaceId.Description" xml:space="preserve">
         <source>Turn on Face ID</source>
+        <target>Vklopi Face ID</target>
         <note>Text for a label that indicates the description for biometric Face ID tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.BiometricTouchId.Description">
+      <trans-unit id="Tip.BiometricTouchId.Description" xml:space="preserve">
         <source>Turn on Touch ID</source>
+        <target>Vklopi Touch ID</target>
         <note>Text for a label that indicates the description for biometric Touch ID tip.</note>
       </trans-unit>
       <trans-unit id="Tip.Release.Description">
@@ -992,157 +1002,157 @@
         <source>Site missing content or acting strange?</source>
         <note>Text for a label that indicates the title for sites not working tip.</note>
       </trans-unit>
-      <trans-unit id="URL.addToAutocompleteLabel">
+      <trans-unit id="URL.addToAutocompleteLabel" xml:space="preserve">
         <source>Add link to autocomplete</source>
         <target>Dodaj povezavo za samodejno dopolnjevanje</target>
         <note>Label displayed for button used as a shortcut to add a link to the list of URLs to autocomplete.</note>
       </trans-unit>
-      <trans-unit id="URL.cancelLabel">
+      <trans-unit id="URL.cancelLabel" xml:space="preserve">
         <source>Cancel</source>
         <target>Prekliči</target>
         <note>Label for cancel button shown when entering a URL or search</note>
       </trans-unit>
-      <trans-unit id="URL.contextMenu">
+      <trans-unit id="URL.contextMenu" xml:space="preserve">
         <source>Paste &amp; Go</source>
         <target>Prilepi in odpri</target>
         <note>Text for the URL context menu when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
-      <trans-unit id="URL.eraseButtonLabel">
+      <trans-unit id="URL.eraseButtonLabel" xml:space="preserve">
         <source>ERASE</source>
         <target>IZBRIŠI</target>
         <note>Erase button in the URL bar</note>
       </trans-unit>
-      <trans-unit id="URL.eraseMessageLabel2">
+      <trans-unit id="URL.eraseMessageLabel2" xml:space="preserve">
         <source>Browsing history cleared</source>
         <target>Zgodovina brskanja izbrisana</target>
         <note>Message shown after pressing the Erase button</note>
       </trans-unit>
-      <trans-unit id="URL.findOnPageLabel">
+      <trans-unit id="URL.findOnPageLabel" xml:space="preserve">
         <source>Find in page: %@</source>
         <target>Najdi na strani: %@</target>
         <note>Label displayed for find in page button when typing in the URL Bar. %@ is any text the user has typed into the URL bar that they want to find on the current page.</note>
       </trans-unit>
-      <trans-unit id="URL.paste">
+      <trans-unit id="URL.paste" xml:space="preserve">
         <source>Paste</source>
         <target>Prilepi</target>
         <note>Text for a menu displayed from the bottom of the screen when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
-      <trans-unit id="URL.placeholderText">
+      <trans-unit id="URL.placeholderText" xml:space="preserve">
         <source>Search or enter address</source>
         <target>Iskanje ali naslov strani</target>
         <note>Placeholder text shown in the URL bar before the user navigates to a page</note>
       </trans-unit>
-      <trans-unit id="URL.searchLabel">
+      <trans-unit id="URL.searchLabel" xml:space="preserve">
         <source>Search for %@</source>
         <target>Išči %@</target>
         <note>Label displayed for search button when typing in the URL bar</note>
       </trans-unit>
-      <trans-unit id="URL.trackersBlockedLabel">
+      <trans-unit id="URL.trackersBlockedLabel" xml:space="preserve">
         <source>Trackers blocked</source>
         <target>Zavrnjeni sledilci</target>
         <note>Text for the URL bar showing the number of trackers blocked on a webpage.</note>
       </trans-unit>
-      <trans-unit id="actionSheet.openIn">
+      <trans-unit id="actionSheet.openIn" xml:space="preserve">
         <source>Open in %@</source>
         <target>Odpri v %@</target>
         <note>Title for action sheet item to open the current page in another application. Placeholder is the name of the application to open the current page.</note>
       </trans-unit>
-      <trans-unit id="browser.copyAddressToast">
+      <trans-unit id="browser.copyAddressToast" xml:space="preserve">
         <source>URL Copied To Clipboard</source>
         <target>Spletni naslov kopiran v odložišče</target>
         <note>Toast displayed after a URL has been copied to the clipboard</note>
       </trans-unit>
-      <trans-unit id="browserShortcutDescription.selectLocationBar">
+      <trans-unit id="browserShortcutDescription.selectLocationBar" xml:space="preserve">
         <source>Select Location Bar</source>
         <target>Izberi naslovno vrstico</target>
         <note>Label to display in the Discoverability overlay for keyboard shortcuts</note>
       </trans-unit>
-      <trans-unit id="contextMenu.clipboardLink">
+      <trans-unit id="contextMenu.clipboardLink" xml:space="preserve">
         <source>Link you copied: %@</source>
         <target>Povezava, ki ste jo kopirali: %@</target>
         <note>Text for the context menu when a user has a link on their clipboard.</note>
       </trans-unit>
-      <trans-unit id="contextMenu.copyImageTitle">
+      <trans-unit id="contextMenu.copyImageTitle" xml:space="preserve">
         <source>Copy Image</source>
         <target>Kopiraj sliko</target>
         <note>Text for the context menu when a user wants to copy an image after long pressing it.</note>
       </trans-unit>
-      <trans-unit id="contextMenu.copyLink">
+      <trans-unit id="contextMenu.copyLink" xml:space="preserve">
         <source>Copy Link</source>
         <target>Kopiraj povezavo</target>
         <note>Text for the context menu when a user wants to copy a link after long pressing it.</note>
       </trans-unit>
-      <trans-unit id="contextMenu.linkCopied">
+      <trans-unit id="contextMenu.linkCopied" xml:space="preserve">
         <source>Link you copied: </source>
         <target>Povezava, ki ste jo kopirali:</target>
         <note>Text for the context menu when a user has a link on their clipboard.</note>
       </trans-unit>
-      <trans-unit id="contextMenu.saveImageTitle">
+      <trans-unit id="contextMenu.saveImageTitle" xml:space="preserve">
         <source>Save Image</source>
         <target>Shrani sliko</target>
         <note>Text for the context menu when a user wants to save an image after long pressing it.</note>
       </trans-unit>
-      <trans-unit id="contextMenu.shareLinkTitle">
+      <trans-unit id="contextMenu.shareLinkTitle" xml:space="preserve">
         <source>Share Link</source>
         <target>Deli povezavo</target>
         <note>Text for the context menu when a user wants to share a link after long pressing it.</note>
       </trans-unit>
-      <trans-unit id="externalAppLinkWithAppName.messageTitle">
+      <trans-unit id="externalAppLinkWithAppName.messageTitle" xml:space="preserve">
         <source>%1$@ wants to open %2$@</source>
         <target>%1$@ želi odpreti %2$@</target>
         <note>Dialog title used for opening an external app from Focus. First placeholder string is the app name of either Focus or Klar and the second placeholder string specifies the app it wants to open.</note>
       </trans-unit>
-      <trans-unit id="photosPermission.description">
+      <trans-unit id="photosPermission.description" xml:space="preserve">
         <source>This lets you save images to your Camera Roll</source>
         <target>To vam omogoča shranjevati slike med fotografije</target>
         <note>Description for dialog used for requesting a user to enable access to Photos.</note>
       </trans-unit>
-      <trans-unit id="photosPermission.openSettings">
+      <trans-unit id="photosPermission.openSettings" xml:space="preserve">
         <source>Open Settings</source>
         <target>Odpri nastavitve</target>
         <note>Title for button that takes the user to system settings</note>
       </trans-unit>
-      <trans-unit id="photosPermission.title">
+      <trans-unit id="photosPermission.title" xml:space="preserve">
         <source>“%@” Would Like to Access Your Photos</source>
         <target>“%@” želi dostop do vaših slik</target>
         <note>Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
-      <trans-unit id="settings.Search.SearchTemplateExample">
+      <trans-unit id="settings.Search.SearchTemplateExample" xml:space="preserve">
         <source>Example: searchengineexample.com/search/?q=%s</source>
         <target>Primer: primeriskalnika.com/search/?q=%s</target>
         <note>Text displayed as an example of the template to add a search engine.</note>
       </trans-unit>
-      <trans-unit id="share">
+      <trans-unit id="share" xml:space="preserve">
         <source>Share</source>
         <target>Deli</target>
         <note>Text for a share button</note>
       </trans-unit>
-      <trans-unit id="shareMenu.copyAddress">
+      <trans-unit id="shareMenu.copyAddress" xml:space="preserve">
         <source>Copy Address</source>
         <target>Kopiraj naslov</target>
         <note>Text for the share menu when a user wants to copy a URL.</note>
       </trans-unit>
-      <trans-unit id="touchId.reason">
+      <trans-unit id="touchId.reason" xml:space="preserve">
         <source>Use Touch ID to return to %@</source>
         <target>Uporabi Touch ID za vrnitev v %@</target>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID to continue browsing after returning to the app.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.adTrackersLabel">
+      <trans-unit id="trackingProtection.adTrackersLabel" xml:space="preserve">
         <source>Ad trackers</source>
         <target>Oglaševalski sledilci</target>
         <note>Label for ad trackers.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.analyticTrackerLabel">
+      <trans-unit id="trackingProtection.analyticTrackerLabel" xml:space="preserve">
         <source>Analytic trackers</source>
         <target>Analitični sledilci</target>
         <note>label for analytic trackers.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.connectionNotSecureLabel">
+      <trans-unit id="trackingProtection.connectionNotSecureLabel" xml:space="preserve">
         <source>Connection is not secure</source>
         <target>Povezava ni varna</target>
         <note>Text for tracking protection screen showing the connection is not secure</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.connectionSecureLabel">
+      <trans-unit id="trackingProtection.connectionSecureLabel" xml:space="preserve">
         <source>Connection is secure</source>
         <target>Povezava je varna</target>
         <note>Text for tracking protection screen showing the connection is secure</note>
@@ -1151,72 +1161,72 @@
         <source>Verified by %@</source>
         <note>String to let users know the site verifier, where the placeholder represents the SSL certificate signer.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.contentTrackerLabel">
+      <trans-unit id="trackingProtection.contentTrackerLabel" xml:space="preserve">
         <source>Content trackers</source>
         <target>Sledilci vsebine</target>
         <note>label for content trackers.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.disabledLabel">
+      <trans-unit id="trackingProtection.disabledLabel" xml:space="preserve">
         <source>Tracking Protection off</source>
         <target>Zaščita pred sledenjem je izključena</target>
         <note>text showing the tracking protection is disabled.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.label">
+      <trans-unit id="trackingProtection.label" xml:space="preserve">
         <source>Tracking Protection</source>
         <target>Zaščita pred sledenjem</target>
         <note>Title for the tracking settings page to change what trackers are blocked.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.labelDescription">
+      <trans-unit id="trackingProtection.labelDescription" xml:space="preserve">
         <source>Turning this off may fix some site problems</source>
         <target>Z izklopom lahko odpravite nekatere težave s stranjo</target>
         <note>Description/subtitle for the tracking protection label.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.learnMore">
+      <trans-unit id="trackingProtection.learnMore" xml:space="preserve">
         <source>Learn More</source>
         <target>Več o tem</target>
         <note>Text for the button to learn more about Tracking Protection.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.moreSettings">
+      <trans-unit id="trackingProtection.moreSettings" xml:space="preserve">
         <source>More Settings</source>
         <target>Več nastavitev</target>
         <note>Text for the button that closes the Shield Data and opens the regular Settings screen.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.socialTrackerLabel">
+      <trans-unit id="trackingProtection.socialTrackerLabel" xml:space="preserve">
         <source>Social trackers</source>
         <target>Družbeni sledilci</target>
         <note>label for social trackers.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.statusOff">
+      <trans-unit id="trackingProtection.statusOff" xml:space="preserve">
         <source>Protections are OFF for this session</source>
         <target>Zaščite za to sejo so IZKLJUČENE</target>
         <note>Text for the status off from Tracking Protection.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.statusOn">
+      <trans-unit id="trackingProtection.statusOn" xml:space="preserve">
         <source>Protections are ON for this session</source>
         <target>Zaščite za to sejo so VKLJUČENE</target>
         <note>Text for the status on from Tracking Protection.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.toggleDescription1">
+      <trans-unit id="trackingProtection.toggleDescription1" xml:space="preserve">
         <source>Disable until you close %@ or tap ERASE.</source>
         <target>Onemogoči, dokler ne zaprete %@a ali tapnete IZBRIŠI.</target>
         <note>Description for the tracking protection toggle. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.toggleLabel2">
+      <trans-unit id="trackingProtection.toggleLabel2" xml:space="preserve">
         <source>Enhanced Tracking Protection</source>
         <target>Izboljšana zaščita pred sledenjem</target>
         <note>Text for the toggle that enables/disables tracking protection.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.trackerDescriptionLabel2">
+      <trans-unit id="trackingProtection.trackerDescriptionLabel2" xml:space="preserve">
         <source>Keep your data to yourself. %@ protects you from many of the most common trackers that follow what you do online.</source>
         <target>Obdržite svoje podatke zase. %@ vas ščiti pred številnimi najpogostejšimi sledilci, ki sledijo vašemu brskanju po spletu.</target>
         <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.trackersBlockedLabel">
+      <trans-unit id="trackingProtection.trackersBlockedLabel" xml:space="preserve">
         <source>Trackers blocked since %@</source>
         <target>Zavrnjeni sledilci od %@</target>
         <note>Text for tracking protection screen showing the number of trackers blocked since the app install. The placeholder is replaced with the install date of the application.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.trackersHeader">
+      <trans-unit id="trackingProtection.trackersHeader" xml:space="preserve">
         <source>Trackers and scripts to block</source>
         <target>Sledilci in skripte za zavračanje</target>
         <note>Text for the header of trackers section from Tracking Protection.</note>
@@ -1228,7 +1238,7 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
     </header>
     <body>
-      <trans-unit id="SettingsBundle.Licenses">
+      <trans-unit id="SettingsBundle.Licenses" xml:space="preserve">
         <source>Licenses</source>
         <target>Licence</target>
         <note>The title of the Licenses setting in the settings that Focus shows in the global iOS Settings app.</note>
@@ -1236,4 +1246,3 @@
     </body>
   </file>
 </xliff>
-
