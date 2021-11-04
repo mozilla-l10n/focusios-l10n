@@ -428,12 +428,12 @@
       </trans-unit>
       <trans-unit id="FindInPage.NextResult" xml:space="preserve">
         <source>Find next in page</source>
-        <target>Trovar le proxime in le pagina</target>
+        <target>Cercar proxime in pagina</target>
         <note>Accessibility label for next result button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.PreviousResult" xml:space="preserve">
         <source>Find previous in page</source>
-        <target>Trovar le previe in le pagina</target>
+        <target>Cercar previe in pagina</target>
         <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel" xml:space="preserve">
@@ -838,7 +838,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.FindInPage" xml:space="preserve">
         <source>Find in Page</source>
-        <target>Trovar in le pagina</target>
+        <target>Cercar in pagina</target>
         <note>Text for the share menu option when a user wants to open the find in page menu</note>
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox" xml:space="preserve">
@@ -1043,7 +1043,7 @@
       </trans-unit>
       <trans-unit id="URL.findOnPageLabel" xml:space="preserve">
         <source>Find in page: %@</source>
-        <target>Trovar in le pagina: %@</target>
+        <target>Cercar in pagina: %@</target>
         <note>Label displayed for find in page button when typing in the URL Bar. %@ is any text the user has typed into the URL bar that they want to find on the current page.</note>
       </trans-unit>
       <trans-unit id="URL.paste" xml:space="preserve">
