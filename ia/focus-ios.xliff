@@ -641,12 +641,14 @@
         <target>Mozilla se effortia a colliger solmente le informationes necessari pro fornir e meliorar %@ pro totes.</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
-      <trans-unit id="Settings.detailTextStudies">
+      <trans-unit id="Settings.detailTextStudies" xml:space="preserve">
         <source>%@ may install and run studies from time to time.</source>
+        <target>%@ pote installar e conducer studios de tempore in tempore.</target>
         <note>Description associated to the Studies toggle on the settings screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
-      <trans-unit id="Settings.general">
+      <trans-unit id="Settings.general" xml:space="preserve">
         <source>General</source>
+        <target>General</target>
         <note>Title for section in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.learnMore" xml:space="preserve">
@@ -789,8 +791,9 @@
         <target>Inviar datos de uso</target>
         <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleStudies">
+      <trans-unit id="Settings.toggleStudies" xml:space="preserve">
         <source>Studies</source>
+        <target>Studios</target>
         <note>Label for Studies toggle on the settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleTouchID" xml:space="preserve">
@@ -928,72 +931,89 @@
         <target>URL a aperir</target>
         <note>Label for input to set a favorite URL to be opened by Siri.</note>
       </trans-unit>
-      <trans-unit id="Tip.Biometric.Title">
+      <trans-unit id="Tip.Biometric.Title" xml:space="preserve">
         <source>Lock %@ when a site is open:</source>
+        <target>Blocar %@ quando un sito es aperte:</target>
         <note>Text for a label that indicates the title for biometric tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
       </trans-unit>
-      <trans-unit id="Tip.BiometricFaceId.Description">
+      <trans-unit id="Tip.BiometricFaceId.Description" xml:space="preserve">
         <source>Turn on Face ID</source>
+        <target>Activar Face ID</target>
         <note>Text for a label that indicates the description for biometric Face ID tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.BiometricTouchId.Description">
+      <trans-unit id="Tip.BiometricTouchId.Description" xml:space="preserve">
         <source>Turn on Touch ID</source>
+        <target>Activar Touch ID</target>
         <note>Text for a label that indicates the description for biometric Touch ID tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.Release.Description">
+      <trans-unit id="Tip.Release.Description" xml:space="preserve">
         <source>Read more about this and other updates to %@.</source>
+        <target>Leger plus sur iste e altere actualisationes de %@.</target>
         <note>Text for a label that indicates the description for release tip. The placeholder is replaced with the short product name (Focus or Klar).</note>
       </trans-unit>
-      <trans-unit id="Tip.Release.Title">
+      <trans-unit id="Tip.Release.Title" xml:space="preserve">
         <source>Why yes, we do have a fresh new look!</source>
+        <target>Ma si, nos ha un look toto nove!</target>
         <note>Text for a label that indicates the title for release tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.RequestDesktop.Description">
+      <trans-unit id="Tip.RequestDesktop.Description" xml:space="preserve">
         <source>Page Actions &gt; Request Desktop Site</source>
+        <target>Actiones del pagina &gt; Requestar sito de scriptorio</target>
         <note>Text for a label that indicates the description for request desktop tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.RequestDesktop.Title">
+      <trans-unit id="Tip.RequestDesktop.Title" xml:space="preserve">
         <source>Want to see the full desktop version of a site?</source>
+        <target>Vole vider le version de scriptorio complete de un sito?</target>
         <note>Text for a label that indicates the title for request desktop tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.ShareTrackers.Description">
+      <trans-unit id="Tip.ShareTrackers.Description" xml:space="preserve">
         <source>%@ trackers blocked so far</source>
+        <target>%@ traciatores blocate usque ora</target>
         <note>Text for a label that indicates the description for share trackers tip. The placeholder is the number of trackers blocked. Only shown when there are more than 10 trackers blocked. For locales where we would need plural support, please feel free to translate this string as `Trackers blocked so far: %@` instead.</note>
       </trans-unit>
-      <trans-unit id="Tip.ShareTrackers.Title">
+      <trans-unit id="Tip.ShareTrackers.Title" xml:space="preserve">
         <source>You browse. %@ blocks.</source>
+        <target>Tu naviga. %@ bloca.</target>
         <note>Text for a label that indicates the title for share trackers tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
       </trans-unit>
-      <trans-unit id="Tip.Shortcuts.Description">
+      <trans-unit id="Tip.Shortcuts.Description" xml:space="preserve">
         <source>Select Add to Shortcuts from the %@ menu</source>
+        <target>Selige “Adder al accessos directe” del menu %@</target>
         <note>Text for a label that indicates the description for shortcuts tip. The placeholder is replaced with the short product name (Focus or Klar).</note>
       </trans-unit>
-      <trans-unit id="Tip.Shortcuts.Title">
+      <trans-unit id="Tip.Shortcuts.Title" xml:space="preserve">
         <source>Create shortcuts to the sites you visit most:</source>
+        <target>Crear accessos directe al sitos que tu visita le plus:</target>
         <note>Text for a label that indicates the title for shortcuts tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.SiriErase.Description">
+      <trans-unit id="Tip.SiriErase.Description" xml:space="preserve">
         <source>Add Siri shortcut</source>
+        <target>Adder accesso directe de Siri</target>
         <note>Text for a label that indicates the description for siri erase tip. The shortcut in this context is the iOS Siri Shortcut, not a Focus website shortcut.</note>
       </trans-unit>
-      <trans-unit id="Tip.SiriErase.Title">
+      <trans-unit id="Tip.SiriErase.Title" xml:space="preserve">
         <source>“Siri, erase my %@ session.”</source>
+        <target>“Siri, rade mi session de %@.”</target>
         <note>Text for a label that indicates the title for siri erase tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
       </trans-unit>
-      <trans-unit id="Tip.SiriFavorite.Description">
+      <trans-unit id="Tip.SiriFavorite.Description" xml:space="preserve">
         <source>Add Siri shortcut</source>
+        <target>Adder accesso directe de Siri</target>
         <note>Text for a label that indicates the description for siri favorite tip. The shortcut in this context is the iOS Siri Shortcut, not a Focus website shortcut.</note>
       </trans-unit>
-      <trans-unit id="Tip.SiriFavorite.Title">
+      <trans-unit id="Tip.SiriFavorite.Title" xml:space="preserve">
         <source>“Siri, open my favorite site.”</source>
+        <target>“Siri, aperi mi sito favorite.”</target>
         <note>Text for a label that indicates the title for siri favorite tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.SitesNotWorking.Description">
+      <trans-unit id="Tip.SitesNotWorking.Description" xml:space="preserve">
         <source>Try turning off Tracking Protection</source>
+        <target>Tenta disactivar le protection anti-traciamento</target>
         <note>Text for a label that indicates the description for sites not working tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.SitesNotWorking.Title">
+      <trans-unit id="Tip.SitesNotWorking.Title" xml:space="preserve">
         <source>Site missing content or acting strange?</source>
+        <target>Le sito ha contento mancante o se comporta estraniemente?</target>
         <note>Text for a label that indicates the title for sites not working tip.</note>
       </trans-unit>
       <trans-unit id="URL.addToAutocompleteLabel" xml:space="preserve">
@@ -1151,8 +1171,9 @@
         <target>Connexion secur</target>
         <note>Text for tracking protection screen showing the connection is secure</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.connectionVerifiedByLabel">
+      <trans-unit id="trackingProtection.connectionVerifiedByLabel" xml:space="preserve">
         <source>Verified by %@</source>
+        <target>Verificate per %@</target>
         <note>String to let users know the site verifier, where the placeholder represents the SSL certificate signer.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.contentTrackerLabel" xml:space="preserve">
