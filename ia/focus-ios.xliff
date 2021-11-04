@@ -491,12 +491,14 @@
         <target>Safari</target>
         <note>Label in share alert to open the URL in Safari</note>
       </trans-unit>
-      <trans-unit id="ProtectionStatus.NotSecure">
+      <trans-unit id="ProtectionStatus.NotSecure" xml:space="preserve">
         <source>Connection is not secure</source>
+        <target>Le connexion non es secur</target>
         <note>This is the value for a label that indicates if a user is on an unencrypted website.</note>
       </trans-unit>
-      <trans-unit id="ProtectionStatus.Secure">
+      <trans-unit id="ProtectionStatus.Secure" xml:space="preserve">
         <source>Connection is secure</source>
+        <target>Le connexion es secur</target>
         <note>This is the value for a label that indicates if a user is on a secure https connection.</note>
       </trans-unit>
       <trans-unit id="Request Desktop Site" xml:space="preserve">
