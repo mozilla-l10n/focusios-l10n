@@ -453,7 +453,7 @@
       </trans-unit>
       <trans-unit id="Focus.handoffSyncing" xml:space="preserve">
         <source>Apple Handoff is syncing</source>
-        <target>Synchronisation de Apple Handoff</target>
+        <target>Apple Handoff ora synchronisa…</target>
         <note>Title for the loading screen when the handoff of clipboard delays Focus launch. “Handoff” should not be localized, see https://support.apple.com/HT204681</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1" xml:space="preserve">
@@ -463,7 +463,7 @@
       </trans-unit>
       <trans-unit id="Home.descriptionLabel2" xml:space="preserve">
         <source>Browse. Erase. Repeat.</source>
-        <target>Naviga. Elimina. Repete.</target>
+        <target>Naviga. Rade. Repete.</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Menu.Close" xml:space="preserve">
@@ -533,7 +533,7 @@
       </trans-unit>
       <trans-unit id="SearchEngine.addEngineError" xml:space="preserve">
         <source>That didn't work. Try replacing the search term with this: %s.</source>
-        <target>Illo non functiona. Prova a supplantar le termino de recerca con isto: %s.</target>
+        <target>Isto non functiona. Tenta reimplaciar le termino de recerca per isto: %s.</target>
         <note>Label for error state when entering an invalid search engine URL. %s is a search term in a URL.</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptDisable" xml:space="preserve">
@@ -573,7 +573,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.InstalledSearchEngines" xml:space="preserve">
         <source>INSTALLED SEARCH ENGINES</source>
-        <target>MOTORES de RECERCA INSTALLATE</target>
+        <target>MOTORES DE RECERCA INSTALLATE</target>
         <note>Header for rows of installed search engines</note>
       </trans-unit>
       <trans-unit id="Settings.Search.NameToDisplay" xml:space="preserve">
@@ -708,7 +708,7 @@
       </trans-unit>
       <trans-unit id="Settings.sectionPerformance" xml:space="preserve">
         <source>PERFORMANCE</source>
-        <target>PERFORMANCES</target>
+        <target>RENDIMENTO</target>
         <note>Section label for performance toggles</note>
       </trans-unit>
       <trans-unit id="Settings.sectionPrivacy" xml:space="preserve">
