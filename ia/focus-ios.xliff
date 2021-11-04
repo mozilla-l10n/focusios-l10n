@@ -198,7 +198,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlError" xml:space="preserve">
         <source>Double-check the URL you entered.</source>
-        <target>Clicca duple le URL que tu insereva.</target>
+        <target>Re-verifica le URL que tu ha inserite.</target>
         <note>Label for error state when entering an invalid URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlExample" xml:space="preserve">
@@ -213,7 +213,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlPlaceholder" xml:space="preserve">
         <source>Paste or enter URL</source>
-        <target>Colla o insere le URL</target>
+        <target>Colla o insere un URL</target>
         <note>Placeholder for the input field to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlWithPlus" xml:space="preserve">
@@ -223,7 +223,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customDescriptoin" xml:space="preserve">
         <source>Add and manage custom autocomplete URLs.</source>
-        <target>Adde e gere le complementamento personalisate del URLs.</target>
+        <target>Adder e gerer le URLs personalisate de auto-completamento.</target>
         <note>Description for adding and managing custom autocomplete URLs</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customLabel" xml:space="preserve">
@@ -233,7 +233,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customTitle" xml:space="preserve">
         <source>CUSTOM URL LIST</source>
-        <target>LISTA del URLs PERSONALISATE</target>
+        <target>LISTA DE URLs PERSONALISATE</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customUrlAdded" xml:space="preserve">
