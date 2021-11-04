@@ -778,7 +778,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle" xml:space="preserve">
         <source>May break some videos and Web pages</source>
-        <target>Pote causar problemas a alcun videos e paginas web</target>
+        <target>Pote impedir le functionamento de alcun videos e paginas web</target>
         <note>Label subtitle for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSafari" xml:space="preserve">
@@ -903,17 +903,17 @@
       </trans-unit>
       <trans-unit id="Siri.editOpenUrl" xml:space="preserve">
         <source>Re-Record or Delete Shortcut</source>
-        <target>Re-registra o dele le instantaneo</target>
+        <target>Re-registrar o deler le accesso directe</target>
         <note>Label for button to edit the Siri phrase or delete the Siri functionality.</note>
       </trans-unit>
       <trans-unit id="Siri.erase" xml:space="preserve">
         <source>Erase</source>
-        <target>Eliminar</target>
+        <target>Rader</target>
         <note>Title of option in settings to set up Siri to erase</note>
       </trans-unit>
       <trans-unit id="Siri.eraseAndOpen" xml:space="preserve">
         <source>Erase &amp; Open</source>
-        <target>Eliminar e aperir</target>
+        <target>Rader e aperir</target>
         <note>Title of option in settings to set up Siri to erase and then open the app.</note>
       </trans-unit>
       <trans-unit id="Siri.favoriteUrl" xml:space="preserve">
@@ -1018,7 +1018,7 @@
       </trans-unit>
       <trans-unit id="URL.addToAutocompleteLabel" xml:space="preserve">
         <source>Add link to autocomplete</source>
-        <target>Adde ligamine pro autocompletar</target>
+        <target>Adder ligamine a auto-completar</target>
         <note>Label displayed for button used as a shortcut to add a link to the list of URLs to autocomplete.</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel" xml:space="preserve">
@@ -1033,12 +1033,12 @@
       </trans-unit>
       <trans-unit id="URL.eraseButtonLabel" xml:space="preserve">
         <source>ERASE</source>
-        <target>ELIMINA</target>
+        <target>RADER</target>
         <note>Erase button in the URL bar</note>
       </trans-unit>
       <trans-unit id="URL.eraseMessageLabel2" xml:space="preserve">
         <source>Browsing history cleared</source>
-        <target>Chronologia de navigation clarate</target>
+        <target>Chronologia de navigation vacuate</target>
         <note>Message shown after pressing the Erase button</note>
       </trans-unit>
       <trans-unit id="URL.findOnPageLabel" xml:space="preserve">
@@ -1073,7 +1073,7 @@
       </trans-unit>
       <trans-unit id="browser.copyAddressToast" xml:space="preserve">
         <source>URL Copied To Clipboard</source>
-        <target>URL copiate in le planchetta</target>
+        <target>URL copiate al area de transferentia</target>
         <note>Toast displayed after a URL has been copied to the clipboard</note>
       </trans-unit>
       <trans-unit id="browserShortcutDescription.selectLocationBar" xml:space="preserve">
@@ -1083,32 +1083,32 @@
       </trans-unit>
       <trans-unit id="contextMenu.clipboardLink" xml:space="preserve">
         <source>Link you copied: %@</source>
-        <target>Ligamine que tu ha copiate: %@</target>
+        <target>Ligamine copiate: %@</target>
         <note>Text for the context menu when a user has a link on their clipboard.</note>
       </trans-unit>
       <trans-unit id="contextMenu.copyImageTitle" xml:space="preserve">
         <source>Copy Image</source>
-        <target>Copiar le imagine</target>
+        <target>Copiar imagine</target>
         <note>Text for the context menu when a user wants to copy an image after long pressing it.</note>
       </trans-unit>
       <trans-unit id="contextMenu.copyLink" xml:space="preserve">
         <source>Copy Link</source>
-        <target>Copiar le ligamine</target>
+        <target>Copiar ligamine</target>
         <note>Text for the context menu when a user wants to copy a link after long pressing it.</note>
       </trans-unit>
       <trans-unit id="contextMenu.linkCopied" xml:space="preserve">
         <source>Link you copied: </source>
-        <target>Ligamine que tu ha copiate:</target>
+        <target>Ligamine copiate:</target>
         <note>Text for the context menu when a user has a link on their clipboard.</note>
       </trans-unit>
       <trans-unit id="contextMenu.saveImageTitle" xml:space="preserve">
         <source>Save Image</source>
-        <target>Salvar le imagine</target>
+        <target>Salvar imagine</target>
         <note>Text for the context menu when a user wants to save an image after long pressing it.</note>
       </trans-unit>
       <trans-unit id="contextMenu.shareLinkTitle" xml:space="preserve">
         <source>Share Link</source>
-        <target>Compartir le ligamine</target>
+        <target>Compartir ligamine</target>
         <note>Text for the context menu when a user wants to share a link after long pressing it.</note>
       </trans-unit>
       <trans-unit id="externalAppLinkWithAppName.messageTitle" xml:space="preserve">
@@ -1118,12 +1118,12 @@
       </trans-unit>
       <trans-unit id="photosPermission.description" xml:space="preserve">
         <source>This lets you save images to your Camera Roll</source>
-        <target>Isto te permitte de salvar le imagines in tu rolo de camera</target>
+        <target>Isto te permitte salvar imagines in tu rolo de camera</target>
         <note>Description for dialog used for requesting a user to enable access to Photos.</note>
       </trans-unit>
       <trans-unit id="photosPermission.openSettings" xml:space="preserve">
         <source>Open Settings</source>
-        <target>Aperir le parametros</target>
+        <target>Aperir parametros</target>
         <note>Title for button that takes the user to system settings</note>
       </trans-unit>
       <trans-unit id="photosPermission.title" xml:space="preserve">
