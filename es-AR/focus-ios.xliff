@@ -960,16 +960,19 @@
         <target>Acciones de página &gt; Solicitar sitio de escritorio</target>
         <note>Text for a label that indicates the description for request desktop tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.RequestDesktop.Title">
+      <trans-unit id="Tip.RequestDesktop.Title" xml:space="preserve">
         <source>Want to see the full desktop version of a site?</source>
+        <target>¿Querés ver la versión de escritorio completa de un sitio?</target>
         <note>Text for a label that indicates the title for request desktop tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.ShareTrackers.Description">
+      <trans-unit id="Tip.ShareTrackers.Description" xml:space="preserve">
         <source>%@ trackers blocked so far</source>
+        <target>%@ rastreadores bloqueados hasta ahora</target>
         <note>Text for a label that indicates the description for share trackers tip. The placeholder is the number of trackers blocked. Only shown when there are more than 10 trackers blocked. For locales where we would need plural support, please feel free to translate this string as `Trackers blocked so far: %@` instead.</note>
       </trans-unit>
-      <trans-unit id="Tip.ShareTrackers.Title">
+      <trans-unit id="Tip.ShareTrackers.Title" xml:space="preserve">
         <source>You browse. %@ blocks.</source>
+        <target>Vos navegás. %@ bloquea.</target>
         <note>Text for a label that indicates the title for share trackers tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.Shortcuts.Description">
@@ -984,16 +987,18 @@
         <source>Add Siri shortcut</source>
         <note>Text for a label that indicates the description for siri erase tip. The shortcut in this context is the iOS Siri Shortcut, not a Focus website shortcut.</note>
       </trans-unit>
-      <trans-unit id="Tip.SiriErase.Title">
+      <trans-unit id="Tip.SiriErase.Title" xml:space="preserve">
         <source>“Siri, erase my %@ session.”</source>
+        <target>“Siri, borra mi sesión de %@.”</target>
         <note>Text for a label that indicates the title for siri erase tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.SiriFavorite.Description">
         <source>Add Siri shortcut</source>
         <note>Text for a label that indicates the description for siri favorite tip. The shortcut in this context is the iOS Siri Shortcut, not a Focus website shortcut.</note>
       </trans-unit>
-      <trans-unit id="Tip.SiriFavorite.Title">
+      <trans-unit id="Tip.SiriFavorite.Title" xml:space="preserve">
         <source>“Siri, open my favorite site.”</source>
+        <target>“Siri, abre mi sitio favorito.”</target>
         <note>Text for a label that indicates the title for siri favorite tip.</note>
       </trans-unit>
       <trans-unit id="Tip.SitesNotWorking.Description">
@@ -1159,8 +1164,9 @@
         <target>Conexión segura</target>
         <note>Text for tracking protection screen showing the connection is secure</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.connectionVerifiedByLabel">
+      <trans-unit id="trackingProtection.connectionVerifiedByLabel" xml:space="preserve">
         <source>Verified by %@</source>
+        <target>Verificado por %@</target>
         <note>String to let users know the site verifier, where the placeholder represents the SSL certificate signer.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.contentTrackerLabel" xml:space="preserve">
