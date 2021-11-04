@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
         <source>This lets you take and upload photos.</source>
-        <target>Isto te permitte de prender e inviar photos.</target>
+        <target>Isto te permitte prender e incargar photos.</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
@@ -22,17 +22,17 @@
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
         <source>This lets you take and upload videos.</source>
-        <target>Isto te permitte de prender e inviar videos.</target>
+        <target>Isto te permitte prender e incargar videos.</target>
         <note>Privacy - Microphone Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
         <source>This lets you save and upload photos.</source>
-        <target>Isto te permitte de salvar e inviar photos.</target>
+        <target>Isto te permitte salvar e incargar photos.</target>
         <note>Privacy - Photo Library Additions Usage Description</note>
       </trans-unit>
       <trans-unit id="UIApplicationShortcutItemTitle.EraseAndOpen" xml:space="preserve">
         <source>Erase and Open</source>
-        <target>Eliminar e aperir</target>
+        <target>Rader e aperir</target>
         <note>This is the menu item that appears when you long press the Focus icon on the phone home screen.</note>
       </trans-unit>
     </body>
@@ -44,7 +44,7 @@
     <body>
       <trans-unit id="Intents.Erase.Title" xml:space="preserve">
         <source>Erase</source>
-        <target>Eliminar</target>
+        <target>Rader</target>
         <note>Title of the Erase intent.</note>
       </trans-unit>
     </body>
@@ -86,12 +86,12 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description" xml:space="preserve">
         <source>Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.</source>
-        <target>Porta le navigation private al nivello superior. Bloca publicitates e altere contentos que pote traciar te per le sitos e relentar le tempore de carga del paginas.</target>
+        <target>Porta le navigation private al nivello superior. Bloca publicitate e altere contento que pote traciar te inter sitos e relentar le cargamento de paginas.</target>
         <note>Description for the 'Welcome' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Title" xml:space="preserve">
         <source>Power up your privacy</source>
-        <target>Reinfortia tu confidentialitate</target>
+        <target>Reinfortia tu vita private</target>
         <note>Title for the first panel 'Welcome' in the First Run tour.</note>
       </trans-unit>
     </body>
@@ -113,17 +113,17 @@
       </trans-unit>
       <trans-unit id="About.privateBullet1" xml:space="preserve">
         <source>Search and browse right in the app</source>
-        <target>Recerca e naviga justo intra le application</target>
+        <target>Recerca e naviga directemente in le application</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet2" xml:space="preserve">
         <source>Block trackers (or update settings to allow trackers)</source>
-        <target>Bloca le traciatores (o modifica le parametros pro los autorisar)</target>
+        <target>Bloca traciatores (o modifica le parametros pro permitter los)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3" xml:space="preserve">
         <source>Erase to delete cookies as well as search and browsing history</source>
-        <target>Cancella pro eliminar le cookies e le chronologias de recerca e de navigation</target>
+        <target>Rader pro eliminar le cookies e le chronologia de recerca e de navigation</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader" xml:space="preserve">
@@ -138,7 +138,7 @@
       </trans-unit>
       <trans-unit id="About.rowPrivacy" xml:space="preserve">
         <source>Privacy Notice</source>
-        <target>Notification de confidentialitate</target>
+        <target>Aviso de confidentialitate</target>
         <note>Link to Privacy Notice in the About screen</note>
       </trans-unit>
       <trans-unit id="About.rowRights" xml:space="preserve">
@@ -148,12 +148,12 @@
       </trans-unit>
       <trans-unit id="About.safariBullet1" xml:space="preserve">
         <source>Block trackers for improved privacy</source>
-        <target>Bloca le traciatores pro un melior confidentialitate</target>
+        <target>Bloca traciatores pro melior confidentialitate</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2" xml:space="preserve">
         <source>Block web fonts to reduce page size</source>
-        <target>Bloca le discargamento de characteres web pro reducer le dimension del pagina</target>
+        <target>Bloca typos de litteras web pro reducer le peso de paginas</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader" xml:space="preserve">
