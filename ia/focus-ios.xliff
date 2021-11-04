@@ -243,7 +243,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin" xml:space="preserve">
         <source>Enable to have %@ autocomplete over 450 popular URLs in the address bar.</source>
-        <target>Activa pro consentir a %@ de auto-completar plus de 450 URLs popular in le barra de adresses.</target>
+        <target>Activa pro facer %@ auto-completar plus de 450 URLs popular in le barra de adresse.</target>
         <note>Description for enabling or disabling the default list. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultLabel" xml:space="preserve">
@@ -253,7 +253,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.defaultTitle" xml:space="preserve">
         <source>DEFAULT URL LIST</source>
-        <target>LISTA del URLs PREDEFINITE</target>
+        <target>LISTA DE URLs PREDEFINITE</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
       <trans-unit id="Autocomplete.disabled" xml:space="preserve">
@@ -278,7 +278,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.manageSites" xml:space="preserve">
         <source>Manage Sites</source>
-        <target>Gerer le sitos</target>
+        <target>Gerer sitos</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
       <trans-unit id="Autocomplete.mySites" xml:space="preserve">
@@ -288,7 +288,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.mySitesDesc" xml:space="preserve">
         <source>Enable to have %@ autocomplete your favorite URLs.</source>
-        <target>Activar pro que %@ completa automaticamente te URLs favorite.</target>
+        <target>Activa pro facer %@ auto-completar tu URLs favorite.</target>
         <note>Description for adding and managing custom autocomplete URLs. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.topSites" xml:space="preserve">
@@ -313,7 +313,7 @@
       </trans-unit>
       <trans-unit id="Browser.copyAddressLabel" xml:space="preserve">
         <source>Copy Address</source>
-        <target>Copiar le adresse</target>
+        <target>Copiar adresse</target>
         <note>Copy URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.copyMenuLabel" xml:space="preserve">
@@ -348,7 +348,7 @@
       </trans-unit>
       <trans-unit id="Browser.stopLabel" xml:space="preserve">
         <source>Stop</source>
-        <target>Cessar</target>
+        <target>Stoppar</target>
         <note>Accessibility label for the stop button</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
@@ -363,7 +363,7 @@
       </trans-unit>
       <trans-unit id="Edit" xml:space="preserve">
         <source>Edit</source>
-        <target>Editar</target>
+        <target>Modificar</target>
         <note>Label on button to allow edits</note>
       </trans-unit>
       <trans-unit id="Error.tryAgainButton" xml:space="preserve">
@@ -378,7 +378,7 @@
       </trans-unit>
       <trans-unit id="ExternalAppLink.messageTitle" xml:space="preserve">
         <source>%@ wants to open another App</source>
-        <target>%@ vole aperir un altere App</target>
+        <target>%@ vole aperir un altere application</target>
         <note>Dialog title used for opening an external app from Focus. The placeholder string is the app name of either Focus or Klar.</note>
       </trans-unit>
       <trans-unit id="ExternalAppLink.openTitle" xml:space="preserve">
@@ -388,7 +388,7 @@
       </trans-unit>
       <trans-unit id="ExternalLink.callButton" xml:space="preserve">
         <source>Call</source>
-        <target>Appellar</target>
+        <target>Telephonar</target>
         <note>Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.cancelButton" xml:space="preserve">
@@ -398,32 +398,32 @@
       </trans-unit>
       <trans-unit id="ExternalLink.emailButton" xml:space="preserve">
         <source>Email</source>
-        <target>Email</target>
+        <target>E-mail</target>
         <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.messageTitleWithPlaceholder" xml:space="preserve">
         <source>You are now leaving %@.</source>
-        <target>Tu va exir de %@.</target>
+        <target>Tu quita ora %@.</target>
         <note>Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreButton" xml:space="preserve">
         <source>Open App Store</source>
-        <target>Aperir le Magazin del applicationes</target>
+        <target>Aperir App Store</target>
         <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreTitle" xml:space="preserve">
         <source>%@ wants to open the App Store.</source>
-        <target>%@ vole aperir le Magazin del applicationes.</target>
+        <target>%@ vole aperir App Store.</target>
         <note>Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openMapsButton" xml:space="preserve">
         <source>Open Maps</source>
-        <target>Aperi Maps</target>
+        <target>Aperir Maps</target>
         <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="FindInPage.Done" xml:space="preserve">
         <source>Find in page done</source>
-        <target>Finite de trovar in pagina</target>
+        <target>Concluder le recerca in pagina</target>
         <note>Accessibility label for done button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.NextResult" xml:space="preserve">
