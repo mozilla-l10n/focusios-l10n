@@ -1133,7 +1133,7 @@
       </trans-unit>
       <trans-unit id="settings.Search.SearchTemplateExample" xml:space="preserve">
         <source>Example: searchengineexample.com/search/?q=%s</source>
-        <target>Exemplo: searchengineexample.com/search/?q=%s</target>
+        <target>Exemplo: motorderecerca.example.com/search/?q=%s</target>
         <note>Text displayed as an example of the template to add a search engine.</note>
       </trans-unit>
       <trans-unit id="share" xml:space="preserve">
@@ -1143,12 +1143,12 @@
       </trans-unit>
       <trans-unit id="shareMenu.copyAddress" xml:space="preserve">
         <source>Copy Address</source>
-        <target>Copiar le adresse</target>
+        <target>Copiar adresse</target>
         <note>Text for the share menu when a user wants to copy a URL.</note>
       </trans-unit>
       <trans-unit id="touchId.reason" xml:space="preserve">
         <source>Use Touch ID to return to %@</source>
-        <target>Usa ID de tocco pro retornar a %@</target>
+        <target>Usa Touch ID pro retornar a %@</target>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID to continue browsing after returning to the app.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel" xml:space="preserve">
@@ -1168,7 +1168,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.connectionSecureLabel" xml:space="preserve">
         <source>Connection is secure</source>
-        <target>Connexion secur</target>
+        <target>Le connexion es secur</target>
         <note>Text for tracking protection screen showing the connection is secure</note>
       </trans-unit>
       <trans-unit id="trackingProtection.connectionVerifiedByLabel" xml:space="preserve">
@@ -1183,17 +1183,17 @@
       </trans-unit>
       <trans-unit id="trackingProtection.disabledLabel" xml:space="preserve">
         <source>Tracking Protection off</source>
-        <target>Protection anti-traciamento inactive</target>
+        <target>Protection antitraciamento inactive</target>
         <note>text showing the tracking protection is disabled.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.label" xml:space="preserve">
         <source>Tracking Protection</source>
-        <target>Protection anti-traciamento</target>
+        <target>Protection antitraciamento</target>
         <note>Title for the tracking settings page to change what trackers are blocked.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.labelDescription" xml:space="preserve">
         <source>Turning this off may fix some site problems</source>
-        <target>Disactivar isto pote remediar alicun problemas del sito</target>
+        <target>Disactivar isto pote resolver certe problemas de sitos</target>
         <note>Description/subtitle for the tracking protection label.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.learnMore" xml:space="preserve">
@@ -1203,7 +1203,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.moreSettings" xml:space="preserve">
         <source>More Settings</source>
-        <target>Altere parametros</target>
+        <target>Plus parametros</target>
         <note>Text for the button that closes the Shield Data and opens the regular Settings screen.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.socialTrackerLabel" xml:space="preserve">
@@ -1223,7 +1223,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription1" xml:space="preserve">
         <source>Disable until you close %@ or tap ERASE.</source>
-        <target>Disactiva usque %@ es claudite o tocca ELIMINA.</target>
+        <target>Disactivar usque tu claude %@ o tocca RADER.</target>
         <note>Description for the tracking protection toggle. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel2" xml:space="preserve">
