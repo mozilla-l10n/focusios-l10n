@@ -56,7 +56,7 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description" xml:space="preserve">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
-        <target>Vacua tu integre chronologia del session de navigation, contrasignos, cookies, quando tu vole con un singule tocco.</target>
+        <target>Vacua tote le chronologia, contrasignos e cookies de tu session de navigation, quando tu vole, con un sol tocco.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title" xml:space="preserve">
@@ -438,7 +438,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel" xml:space="preserve">
         <source>OK, Got It!</source>
-        <target>De accordo!</target>
+        <target>Ben, comprendite!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription" xml:space="preserve">
@@ -548,7 +548,7 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptMessage" xml:space="preserve">
         <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
-        <target>Pro obtener suggestiones, %@ debe inviar lo que tu scribe in le barra de adresses verso le motor de recerca.</target>
+        <target>Pro obtener suggestiones, %@ debe inviar lo que tu scribe in le barra de adresse al motor de recerca.</target>
         <note>%@ is the name of the app (Focus / Klar). Label for search suggestions prompt message</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptTitle" xml:space="preserve">
@@ -1183,7 +1183,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.disabledLabel" xml:space="preserve">
         <source>Tracking Protection off</source>
-        <target>Protection contra le traciamento disactivate</target>
+        <target>Protection anti-traciamento inactive</target>
         <note>text showing the tracking protection is disabled.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.label" xml:space="preserve">
