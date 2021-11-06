@@ -956,8 +956,9 @@
         <target>Әрине, бізде жаңа сыртқы түрі бар!</target>
         <note>Text for a label that indicates the title for release tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.RequestDesktop.Description">
+      <trans-unit id="Tip.RequestDesktop.Description" xml:space="preserve">
         <source>Page Actions &gt; Request Desktop Site</source>
+        <target>Бет әрекеттері &gt; Сайттың толық нұсқасы</target>
         <note>Text for a label that indicates the description for request desktop tip.</note>
       </trans-unit>
       <trans-unit id="Tip.RequestDesktop.Title" xml:space="preserve">
