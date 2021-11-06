@@ -918,7 +918,7 @@
       </trans-unit>
       <trans-unit id="Siri.favoriteUrl" xml:space="preserve">
         <source>Open Favorite Site</source>
-        <target>打开喜爱的网站</target>
+        <target>打开最常访问的网站</target>
         <note>Title for screen to add a favorite URL to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.openURL" xml:space="preserve">
