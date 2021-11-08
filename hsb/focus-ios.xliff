@@ -946,36 +946,44 @@
         <target>Touch ID zmóžnić</target>
         <note>Text for a label that indicates the description for biometric Touch ID tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.Release.Description">
+      <trans-unit id="Tip.Release.Description" xml:space="preserve">
         <source>Read more about this and other updates to %@.</source>
+        <target>Čitajće wjace wo tym a druhich aktualizacijach za %@.</target>
         <note>Text for a label that indicates the description for release tip. The placeholder is replaced with the short product name (Focus or Klar).</note>
       </trans-unit>
-      <trans-unit id="Tip.Release.Title">
+      <trans-unit id="Tip.Release.Title" xml:space="preserve">
         <source>Why yes, we do have a fresh new look!</source>
+        <target>Wězo, mamy moderny nowy napohlad!</target>
         <note>Text for a label that indicates the title for release tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.RequestDesktop.Description">
+      <trans-unit id="Tip.RequestDesktop.Description" xml:space="preserve">
         <source>Page Actions &gt; Request Desktop Site</source>
+        <target>Akcije strony &gt; Desktopowe sydło požadać</target>
         <note>Text for a label that indicates the description for request desktop tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.RequestDesktop.Title">
+      <trans-unit id="Tip.RequestDesktop.Title" xml:space="preserve">
         <source>Want to see the full desktop version of a site?</source>
+        <target>Chceće sej dospołnu desktopowu wersiju sydła wobhladać?</target>
         <note>Text for a label that indicates the title for request desktop tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.ShareTrackers.Description">
+      <trans-unit id="Tip.ShareTrackers.Description" xml:space="preserve">
         <source>%@ trackers blocked so far</source>
+        <target>%@ přesćěhowakow dotal zablokowane</target>
         <note>Text for a label that indicates the description for share trackers tip. The placeholder is the number of trackers blocked. Only shown when there are more than 10 trackers blocked. For locales where we would need plural support, please feel free to translate this string as `Trackers blocked so far: %@` instead.</note>
       </trans-unit>
-      <trans-unit id="Tip.ShareTrackers.Title">
+      <trans-unit id="Tip.ShareTrackers.Title" xml:space="preserve">
         <source>You browse. %@ blocks.</source>
+        <target>Wy přehladujeće. %@ blokuje.</target>
         <note>Text for a label that indicates the title for share trackers tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
       </trans-unit>
-      <trans-unit id="Tip.Shortcuts.Description">
+      <trans-unit id="Tip.Shortcuts.Description" xml:space="preserve">
         <source>Select Add to Shortcuts from the %@ menu</source>
+        <target>Wubjerće „Zwjazanjam přidać“ w meniju %@</target>
         <note>Text for a label that indicates the description for shortcuts tip. The placeholder is replaced with the short product name (Focus or Klar).</note>
       </trans-unit>
-      <trans-unit id="Tip.Shortcuts.Title">
+      <trans-unit id="Tip.Shortcuts.Title" xml:space="preserve">
         <source>Create shortcuts to the sites you visit most:</source>
+        <target>Wutworće zwjazanja ze sydłami, kotrež najhusćišo wopytujeće:</target>
         <note>Text for a label that indicates the title for shortcuts tip.</note>
       </trans-unit>
       <trans-unit id="Tip.SiriErase.Description" xml:space="preserve">
@@ -998,8 +1006,9 @@
         <target>„Siri, wočiń moje najlubše sydło.“</target>
         <note>Text for a label that indicates the title for siri favorite tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.SitesNotWorking.Description">
+      <trans-unit id="Tip.SitesNotWorking.Description" xml:space="preserve">
         <source>Try turning off Tracking Protection</source>
+        <target>Spytajće slědowanski škit znjemóžnjeć</target>
         <note>Text for a label that indicates the description for sites not working tip.</note>
       </trans-unit>
       <trans-unit id="Tip.SitesNotWorking.Title">
