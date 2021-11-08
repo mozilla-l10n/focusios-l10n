@@ -1011,8 +1011,9 @@
         <target>Spytajće slědowanski škit znjemóžnjeć</target>
         <note>Text for a label that indicates the description for sites not working tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.SitesNotWorking.Title">
+      <trans-unit id="Tip.SitesNotWorking.Title" xml:space="preserve">
         <source>Site missing content or acting strange?</source>
+        <target>Sydło so dźiwnje zadźeržuje abo wobsah faluje?</target>
         <note>Text for a label that indicates the title for sites not working tip.</note>
       </trans-unit>
       <trans-unit id="URL.addToAutocompleteLabel" xml:space="preserve">
