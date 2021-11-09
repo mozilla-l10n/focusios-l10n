@@ -957,8 +957,9 @@
         <source>Page Actions &gt; Request Desktop Site</source>
         <note>Text for a label that indicates the description for request desktop tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.RequestDesktop.Title">
+      <trans-unit id="Tip.RequestDesktop.Title" xml:space="preserve">
         <source>Want to see the full desktop version of a site?</source>
+        <target>ต้องการดูไซต์เวอร์ชันเดสก์ท็อปแบบเต็มหรือไม่?</target>
         <note>Text for a label that indicates the title for request desktop tip.</note>
       </trans-unit>
       <trans-unit id="Tip.ShareTrackers.Description">
