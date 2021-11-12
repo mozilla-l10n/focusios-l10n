@@ -411,8 +411,9 @@
         <target>App Store खोल्नुहोस्</target>
         <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.openAppStoreTitle">
+      <trans-unit id="ExternalLink.openAppStoreTitle" xml:space="preserve">
         <source>%@ wants to open the App Store.</source>
+        <target>%@ ले एप स्टोर खोल्न चाहन्छ।</target>
         <note>Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openMapsButton" xml:space="preserve">
@@ -420,16 +421,19 @@
         <target>Maps खोल्नुहोस्</target>
         <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="FindInPage.Done">
+      <trans-unit id="FindInPage.Done" xml:space="preserve">
         <source>Find in page done</source>
+        <target>पृष्ठमा फेला पार्नुभयो</target>
         <note>Accessibility label for done button in Find in Page Toolbar.</note>
       </trans-unit>
-      <trans-unit id="FindInPage.NextResult">
+      <trans-unit id="FindInPage.NextResult" xml:space="preserve">
         <source>Find next in page</source>
+        <target>अर्को पृष्ठमा फेला पार्नुहोस्</target>
         <note>Accessibility label for next result button in Find in Page Toolbar.</note>
       </trans-unit>
-      <trans-unit id="FindInPage.PreviousResult">
+      <trans-unit id="FindInPage.PreviousResult" xml:space="preserve">
         <source>Find previous in page</source>
+        <target>पहिलाको पृष्ठमा फेला पार्नुहोस्</target>
         <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel" xml:space="preserve">
@@ -437,8 +441,9 @@
         <target>ठीक छ, थाहा पाएँ!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
-      <trans-unit id="FirstRun.messageLabelDescription">
+      <trans-unit id="FirstRun.messageLabelDescription" xml:space="preserve">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
+        <target>तपाईंले ब्राउज गर्दा अनलाइन ट्र्याकरहरू स्वचालित रूपमा ब्लक गर्नुहोस्। त्यसपछि आफ्नो यन्त्रबाट भ्रमण गरिएका पृष्ठहरू, खोजहरू, कुकीजहरू र पासवर्डहरू मेटाउन ट्याप गर्नुहोस्।</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline" xml:space="preserve">
@@ -446,20 +451,24 @@
         <target>कसैले नहेरे जसरी ब्राउज गर्नुहोस्</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
-      <trans-unit id="Focus.handoffSyncing">
+      <trans-unit id="Focus.handoffSyncing" xml:space="preserve">
         <source>Apple Handoff is syncing</source>
+        <target>Apple Handoff सिङ्क हुँदैछ</target>
         <note>Title for the loading screen when the handoff of clipboard delays Focus launch. “Handoff” should not be localized, see https://support.apple.com/HT204681</note>
       </trans-unit>
-      <trans-unit id="Home.descriptionLabel1">
+      <trans-unit id="Home.descriptionLabel1" xml:space="preserve">
         <source>Automatic private browsing.</source>
+        <target>स्वचालित निजि ब्राउजिङ्ग।</target>
         <note>First label for product description on the home screen</note>
       </trans-unit>
-      <trans-unit id="Home.descriptionLabel2">
+      <trans-unit id="Home.descriptionLabel2" xml:space="preserve">
         <source>Browse. Erase. Repeat.</source>
+        <target>ब्राउज गर्नुहोस्। हटाउनुहोस्। दोहोराउनुहोस्।</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
-      <trans-unit id="Menu.Close">
+      <trans-unit id="Menu.Close" xml:space="preserve">
         <source>Close</source>
+        <target>बन्द गर्नुहोस्</target>
         <note>Button label used to close a menu that displays as a popup.</note>
       </trans-unit>
       <trans-unit id="Open.Cancel" xml:space="preserve">
@@ -482,20 +491,24 @@
         <target>Safari</target>
         <note>Label in share alert to open the URL in Safari</note>
       </trans-unit>
-      <trans-unit id="ProtectionStatus.NotSecure">
+      <trans-unit id="ProtectionStatus.NotSecure" xml:space="preserve">
         <source>Connection is not secure</source>
+        <target>यो जडान सुरक्षित छैन</target>
         <note>This is the value for a label that indicates if a user is on an unencrypted website.</note>
       </trans-unit>
-      <trans-unit id="ProtectionStatus.Secure">
+      <trans-unit id="ProtectionStatus.Secure" xml:space="preserve">
         <source>Connection is secure</source>
+        <target>यो जडान सुरक्षित छ</target>
         <note>This is the value for a label that indicates if a user is on a secure https connection.</note>
       </trans-unit>
-      <trans-unit id="Request Desktop Site">
+      <trans-unit id="Request Desktop Site" xml:space="preserve">
         <source>Request Desktop Site</source>
+        <target>डेस्कटप साइट अनुरोध गर्नुहोस्</target>
         <note>Label for button that requests the desktop version of the currently loaded website.</note>
       </trans-unit>
-      <trans-unit id="Safari.instructionsContentBlockers">
+      <trans-unit id="Safari.instructionsContentBlockers" xml:space="preserve">
         <source>Tap Safari, then select Content Blockers</source>
+        <target>सफारी ट्याप गर्नुहोस्, त्यसपछि सामग्री अवरोधकहरूको चयन गर्नुहोस्</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsEnable" xml:space="preserve">
@@ -518,24 +531,29 @@
         <target>सङ्ग्रह गर्नुहोस्</target>
         <note>Save button label</note>
       </trans-unit>
-      <trans-unit id="SearchEngine.addEngineError">
+      <trans-unit id="SearchEngine.addEngineError" xml:space="preserve">
         <source>That didn't work. Try replacing the search term with this: %s.</source>
+        <target>त्यो काम गरेन। खोज शब्दलाई यसले प्रतिस्थापन गर्ने प्रयास गर्नुहोस्: %s</target>
         <note>Label for error state when entering an invalid search engine URL. %s is a search term in a URL.</note>
       </trans-unit>
-      <trans-unit id="SearchSuggestions.promptDisable">
+      <trans-unit id="SearchSuggestions.promptDisable" xml:space="preserve">
         <source>No</source>
+        <target>होइन</target>
         <note>Label for disable option on search suggestions prompt</note>
       </trans-unit>
-      <trans-unit id="SearchSuggestions.promptEnable">
+      <trans-unit id="SearchSuggestions.promptEnable" xml:space="preserve">
         <source>Yes</source>
+        <target>हो</target>
         <note>Label for enable option on search suggestions prompt</note>
       </trans-unit>
-      <trans-unit id="SearchSuggestions.promptMessage">
+      <trans-unit id="SearchSuggestions.promptMessage" xml:space="preserve">
         <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
+        <target>सुझावहरू प्राप्त गर्न, %@ ले तपाईंले ठेगाना पट्टीमा टाइप गर्नुहुने कुरा सर्च इन्जिनमा पठाउनु पर्दछ।</target>
         <note>%@ is the name of the app (Focus / Klar). Label for search suggestions prompt message</note>
       </trans-unit>
-      <trans-unit id="SearchSuggestions.promptTitle">
+      <trans-unit id="SearchSuggestions.promptTitle" xml:space="preserve">
         <source>Show Search Suggestions?</source>
+        <target>खोजी सुझाबहरू देखाउन चाहानुहुन्छ ?</target>
         <note>Title for search suggestions prompt</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton" xml:space="preserve">
@@ -583,8 +601,9 @@
         <target>प्रयोग गर्न स्ट्रिङ खोजी गर्नुहोस्</target>
         <note>Label for input of search engine template</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.SearchTemplatePlaceholder">
+      <trans-unit id="Settings.Search.SearchTemplatePlaceholder" xml:space="preserve">
         <source>Paste or enter search string. If necessary, replace search term with: %s.</source>
+        <target>पेष्ट गर्नुहोस् वा खोजी गरिएको अक्षर प्रविष्ट गर्नुहोस्। आवश्यक भएमा, खोज शब्दलाई %s सँग प्रतिस्थापन गर्नुहोस् ।</target>
         <note>Placeholder text for input of new search engine template</note>
       </trans-unit>
       <trans-unit id="Settings.autocompleteSection" xml:space="preserve">
