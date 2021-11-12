@@ -611,24 +611,29 @@
         <target>URL स्वत: पूर्ण</target>
         <note>Title for the URL Autocomplete row</note>
       </trans-unit>
-      <trans-unit id="Settings.blockOtherMessage">
+      <trans-unit id="Settings.blockOtherMessage" xml:space="preserve">
         <source>Blocking other content trackers may break some videos and web pages.</source>
+        <target>अन्य सामग्री ट्र्याकरहरू अवरुद्ध गर्नाले केही भिडियोहरू र वेब पृष्ठहरू राम्रो सङ्ग लोड नहुन पनि सक्छ।</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
-      <trans-unit id="Settings.blockOtherNo2">
+      <trans-unit id="Settings.blockOtherNo2" xml:space="preserve">
         <source>Cancel</source>
+        <target>रद्द गर्नुहोस्</target>
         <note>Button label for declining Content blocker alert</note>
       </trans-unit>
-      <trans-unit id="Settings.blockOtherYes2">
+      <trans-unit id="Settings.blockOtherYes2" xml:space="preserve">
         <source>Block Content Trackers</source>
+        <target>सामग्री ट्रयाकरहरू ब्लक गर्नुहोस्</target>
         <note>Button label for accepting Content blocker alert</note>
       </trans-unit>
-      <trans-unit id="Settings.darkTheme">
+      <trans-unit id="Settings.darkTheme" xml:space="preserve">
         <source>Dark</source>
+        <target>अँध्यारो</target>
         <note>Dark theme option in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.detailTextSearchSuggestion">
+      <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
         <source>%@ will send what you type in the address bar to your search engine.</source>
+        <target>%@ ले तपाईले ठेगाना पट्टीमा टाइप गर्नुभएका कुराहरुलाई तपाईको खोज इन्जिनमा पठाउनेछ।</target>
         <note>Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData" xml:space="preserve">
@@ -636,12 +641,14 @@
         <target>Mozilla सबैको लागि %@ प्रदान र सुधार गर्न आवश्यक कुरा मात्र संकलन गर्ने प्रयास गर्दछ ।</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
-      <trans-unit id="Settings.detailTextStudies">
+      <trans-unit id="Settings.detailTextStudies" xml:space="preserve">
         <source>%@ may install and run studies from time to time.</source>
+        <target>%@ ले समय-समयमा अध्ययनहरू स्थापना गर्न र चलाउन सक्छ।</target>
         <note>Description associated to the Studies toggle on the settings screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
-      <trans-unit id="Settings.general">
+      <trans-unit id="Settings.general" xml:space="preserve">
         <source>General</source>
+        <target>सामान्य</target>
         <note>Title for section in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.learnMore" xml:space="preserve">
@@ -649,20 +656,24 @@
         <target>थप जान्नुहोस् ।</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.lightTheme">
+      <trans-unit id="Settings.lightTheme" xml:space="preserve">
         <source>Light</source>
+        <target>उज्यालो</target>
         <note>Light theme option in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.manualTheme">
+      <trans-unit id="Settings.manualTheme" xml:space="preserve">
         <source>Manual</source>
+        <target>म्यानुअल</target>
         <note>Manual value for theme section in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.rate">
+      <trans-unit id="Settings.rate" xml:space="preserve">
         <source>Rate %@</source>
+        <target>रेट गर्नुहोस् %@</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, allows the user to leave a review for the app on the app store.</note>
       </trans-unit>
-      <trans-unit id="Settings.safariTitle">
+      <trans-unit id="Settings.safariTitle" xml:space="preserve">
         <source>SAFARI INTEGRATION</source>
+        <target>सफारी एकिकरण</target>
         <note>Label for Safari integration section</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle" xml:space="preserve">
@@ -675,8 +686,9 @@
         <target>खोजी इन्जिन</target>
         <note>Label for the search engine in the search screen</note>
       </trans-unit>
-      <trans-unit id="Settings.searchSuggestions">
+      <trans-unit id="Settings.searchSuggestions" xml:space="preserve">
         <source>Get Search Suggestions</source>
+        <target>खोजी सुझावहरू प्राप्त गर्नुहोस्</target>
         <note>Label for the Search Suggestions toggle row</note>
       </trans-unit>
       <trans-unit id="Settings.searchTitle2" xml:space="preserve">
@@ -704,28 +716,34 @@
         <target>PRIVACY</target>
         <note>Section label for privacy toggles</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionSecurity">
+      <trans-unit id="Settings.sectionSecurity" xml:space="preserve">
         <source>SECURITY</source>
+        <target>सुरक्षा</target>
         <note>Header label for security toggles displayed in the settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.systemTheme">
+      <trans-unit id="Settings.systemTheme" xml:space="preserve">
         <source>System Theme</source>
+        <target>प्रणाली थीम</target>
         <note>System value for theme section in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.theme">
+      <trans-unit id="Settings.theme" xml:space="preserve">
         <source>Theme</source>
+        <target>थीम</target>
         <note>Theme section in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.themePicker">
+      <trans-unit id="Settings.themePicker" xml:space="preserve">
         <source>Theme Picker</source>
+        <target>थीम चयनकर्ता</target>
         <note>Header for manual theme section in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockAds2">
+      <trans-unit id="Settings.toggleBlockAds2" xml:space="preserve">
         <source>Advertising</source>
+        <target>बिज्ञापन</target>
         <note>Label for the checkbox to toggle Advertising trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockAnalytics2">
+      <trans-unit id="Settings.toggleBlockAnalytics2" xml:space="preserve">
         <source>Analytics</source>
+        <target>बिश्लेषण</target>
         <note>Label for the checkbox to toggle Analytics trackers</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts" xml:space="preserve">
@@ -733,24 +751,29 @@
         <target>वेब फन्टहरू अवरुद्ध गर्नुहोस्</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockOther2">
+      <trans-unit id="Settings.toggleBlockOther2" xml:space="preserve">
         <source>Content</source>
+        <target>सामग्री</target>
         <note>Label for the checkbox to toggle Other trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockSocial2">
+      <trans-unit id="Settings.toggleBlockSocial2" xml:space="preserve">
         <source>Social</source>
+        <target>सामाजिक</target>
         <note>Label for the checkbox to toggle Social trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleFaceID">
+      <trans-unit id="Settings.toggleFaceID" xml:space="preserve">
         <source>Use Face ID to unlock app</source>
+        <target>एप अनलक गर्न फेस आईडीको प्रयोग गर्नुहोस्</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleFaceIDDescription">
+      <trans-unit id="Settings.toggleFaceIDDescription" xml:space="preserve">
         <source>Face ID can unlock %@ if a URL is already open in the app</source>
+        <target>यदि एपमा पहिले नै URL खोलिएको छ भने, फेस आईडीले %@ अनलक गर्न सक्छ</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleHomeScreenTips">
+      <trans-unit id="Settings.toggleHomeScreenTips" xml:space="preserve">
         <source>Show home screen tips</source>
+        <target>गृह स्क्रिनमा सुझावहरू देखाउनुहोस्</target>
         <note>Show home screen tips toggle label on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle" xml:space="preserve">
@@ -768,28 +791,34 @@
         <target>उपयोग डाटा पठाउनुहोस्</target>
         <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleStudies">
+      <trans-unit id="Settings.toggleStudies" xml:space="preserve">
         <source>Studies</source>
+        <target>अध्ययनहरु</target>
         <note>Label for Studies toggle on the settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleTouchID">
+      <trans-unit id="Settings.toggleTouchID" xml:space="preserve">
         <source>Use Touch ID to unlock app</source>
+        <target>एप अनलक गर्न टच आईडीको प्रयोग गर्नुहोस्</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleTouchIDDescription">
+      <trans-unit id="Settings.toggleTouchIDDescription" xml:space="preserve">
         <source>Touch ID can unlock %@ if a URL is already open in the app</source>
+        <target>यदि एपमा पहिले नै URL खोलिएको छ भने, टच आईडीले %@ अनलक गर्न सक्छ</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
-      <trans-unit id="Settings.trackingProtectionOff">
+      <trans-unit id="Settings.trackingProtectionOff" xml:space="preserve">
         <source>Off</source>
+        <target>बन्द गर्नुहोस्</target>
         <note>Status off for tracking protection in settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.trackingProtectionOn">
+      <trans-unit id="Settings.trackingProtectionOn" xml:space="preserve">
         <source>On</source>
+        <target>खोल्नुहोस्</target>
         <note>Status on for tracking protection in settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.useSystemTheme">
+      <trans-unit id="Settings.useSystemTheme" xml:space="preserve">
         <source>Use System Light/Dark Mode</source>
+        <target>प्रणालीको उज्यालो/अँध्यारो मोड प्रयोग गर्नुहोस्</target>
         <note>Value for theme toggle in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle" xml:space="preserve">
@@ -797,12 +826,14 @@
         <target>नयाँ के छ</target>
         <note>Title for What's new screen</note>
       </trans-unit>
-      <trans-unit id="Settinsg.siriShortcutsTitle">
+      <trans-unit id="Settinsg.siriShortcutsTitle" xml:space="preserve">
         <source>SIRI SHORTCUTS</source>
+        <target>SIRI सर्टकटहरू</target>
         <note>Title for settings section to enable different Siri Shortcuts.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.AddToShortcuts">
+      <trans-unit id="ShareMenu.AddToShortcuts" xml:space="preserve">
         <source>Add to Shortcuts</source>
+        <target>सर्टकटहरुमा थप्नुहोस्</target>
         <note>Text for the share menu option when a user wants to add the site to Shortcuts</note>
       </trans-unit>
       <trans-unit id="ShareMenu.FindInPage">
