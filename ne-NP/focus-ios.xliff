@@ -861,64 +861,79 @@
         <target>डेस्कटप साइट अनुरोध गर्नुहोस्</target>
         <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.RequestMobile">
+      <trans-unit id="ShareMenu.RequestMobile" xml:space="preserve">
         <source>Request Mobile Site</source>
+        <target>मोबाइल साइट अनुरोध गर्नुहोस्</target>
         <note>Text for the share menu option when a user wants to reload the site as a mobile device</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.ShareOpenChrome">
+      <trans-unit id="ShareMenu.ShareOpenChrome" xml:space="preserve">
         <source>Open in Chrome</source>
+        <target>Chrome मा खोल्नुहोस्</target>
         <note>Text for the share menu option when a user wants to open the current website in the Chrome app.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.ShareOpenDefaultBrowser">
+      <trans-unit id="ShareMenu.ShareOpenDefaultBrowser" xml:space="preserve">
         <source>Open in Default Browser</source>
+        <target>पूर्वनिर्धारित ब्राउजरमा खोल्नुहोस्</target>
         <note>Text for the share menu option when a user wants to open the current website in the default browser.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.ShareOpenFirefox">
+      <trans-unit id="ShareMenu.ShareOpenFirefox" xml:space="preserve">
         <source>Open in Firefox</source>
+        <target>Firefox मा खोल्नुहोस्</target>
         <note>Text for the share menu option when a user wants to open the current website in the Firefox app.</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.SharePage">
+      <trans-unit id="ShareMenu.SharePage" xml:space="preserve">
         <source>Share Page With...</source>
+        <target>यससँग पृष्ठ सेयर गर्नुहोस्...</target>
         <note>Text for the share menu option when a user wants to share the current website they are on through another app.</note>
       </trans-unit>
-      <trans-unit id="ShortcutView.RemoveFromShortcuts">
+      <trans-unit id="ShortcutView.RemoveFromShortcuts" xml:space="preserve">
         <source>Remove from Shortcuts</source>
+        <target>सर्टकटहरु बाट हटाउनुहोस्</target>
         <note>Text for the long press on a shortcut option in context menu.</note>
       </trans-unit>
-      <trans-unit id="Siri.add">
+      <trans-unit id="Siri.add" xml:space="preserve">
         <source>Add</source>
+        <target>थप्नुहोस्</target>
         <note>Button to add a favorite URL to Siri.</note>
       </trans-unit>
-      <trans-unit id="Siri.addTo">
+      <trans-unit id="Siri.addTo" xml:space="preserve">
         <source>Add to Siri</source>
+        <target>Siri मा थप्नुहोस्</target>
         <note>Button to add a specified shortcut option to Siri.</note>
       </trans-unit>
-      <trans-unit id="Siri.editOpenUrl">
+      <trans-unit id="Siri.editOpenUrl" xml:space="preserve">
         <source>Re-Record or Delete Shortcut</source>
+        <target>पुन: रेकर्ड वा सर्टकट हटाउनुहोस्</target>
         <note>Label for button to edit the Siri phrase or delete the Siri functionality.</note>
       </trans-unit>
-      <trans-unit id="Siri.erase">
+      <trans-unit id="Siri.erase" xml:space="preserve">
         <source>Erase</source>
+        <target>मेटाउनुहोस्</target>
         <note>Title of option in settings to set up Siri to erase</note>
       </trans-unit>
-      <trans-unit id="Siri.eraseAndOpen">
+      <trans-unit id="Siri.eraseAndOpen" xml:space="preserve">
         <source>Erase &amp; Open</source>
+        <target>मेटाउनुहोस् &amp; खोल्नुहोस्</target>
         <note>Title of option in settings to set up Siri to erase and then open the app.</note>
       </trans-unit>
-      <trans-unit id="Siri.favoriteUrl">
+      <trans-unit id="Siri.favoriteUrl" xml:space="preserve">
         <source>Open Favorite Site</source>
+        <target>मनपर्ने साइट खोल्नुहोस्</target>
         <note>Title for screen to add a favorite URL to Siri.</note>
       </trans-unit>
-      <trans-unit id="Siri.openURL">
+      <trans-unit id="Siri.openURL" xml:space="preserve">
         <source>Open Favorite Site</source>
+        <target>मनपर्ने साइट खोल्नुहोस्</target>
         <note>Title of option in settings to set up Siri to open a specified URL in Focus/Klar.</note>
       </trans-unit>
-      <trans-unit id="Siri.urlToOpen">
+      <trans-unit id="Siri.urlToOpen" xml:space="preserve">
         <source>URL to open</source>
+        <target>खोल्नको लागि URL</target>
         <note>Label for input to set a favorite URL to be opened by Siri.</note>
       </trans-unit>
-      <trans-unit id="Tip.Biometric.Title">
+      <trans-unit id="Tip.Biometric.Title" xml:space="preserve">
         <source>Lock %@ when a site is open:</source>
+        <target>जब साइट खुला छ %@ लक गर्नुहोस्: </target>
         <note>Text for a label that indicates the title for biometric tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.BiometricFaceId.Description">
