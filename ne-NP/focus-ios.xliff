@@ -991,28 +991,34 @@
         <target>Siri सर्टकट थप्नुहोस्</target>
         <note>Text for a label that indicates the description for siri erase tip. The shortcut in this context is the iOS Siri Shortcut, not a Focus website shortcut.</note>
       </trans-unit>
-      <trans-unit id="Tip.SiriErase.Title">
+      <trans-unit id="Tip.SiriErase.Title" xml:space="preserve">
         <source>“Siri, erase my %@ session.”</source>
+        <target>"सिरी, मेरो %@ सत्र मेटाऊ।"</target>
         <note>Text for a label that indicates the title for siri erase tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
       </trans-unit>
-      <trans-unit id="Tip.SiriFavorite.Description">
+      <trans-unit id="Tip.SiriFavorite.Description" xml:space="preserve">
         <source>Add Siri shortcut</source>
+        <target>Siri सर्टकट थप्नुहोस्</target>
         <note>Text for a label that indicates the description for siri favorite tip. The shortcut in this context is the iOS Siri Shortcut, not a Focus website shortcut.</note>
       </trans-unit>
-      <trans-unit id="Tip.SiriFavorite.Title">
+      <trans-unit id="Tip.SiriFavorite.Title" xml:space="preserve">
         <source>“Siri, open my favorite site.”</source>
+        <target>"सिरी, मेरो मनपर्ने साइट खोल।"</target>
         <note>Text for a label that indicates the title for siri favorite tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.SitesNotWorking.Description">
+      <trans-unit id="Tip.SitesNotWorking.Description" xml:space="preserve">
         <source>Try turning off Tracking Protection</source>
+        <target>ट्र्याकिङ्ग सुरक्षा बन्द गर्ने प्रयास गर्नुहोस्</target>
         <note>Text for a label that indicates the description for sites not working tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.SitesNotWorking.Title">
+      <trans-unit id="Tip.SitesNotWorking.Title" xml:space="preserve">
         <source>Site missing content or acting strange?</source>
+        <target>साइट हराइरहेको सामग्री वा अनौठो कार्य अनुभव गर्नुभएको छ?</target>
         <note>Text for a label that indicates the title for sites not working tip.</note>
       </trans-unit>
-      <trans-unit id="URL.addToAutocompleteLabel">
+      <trans-unit id="URL.addToAutocompleteLabel" xml:space="preserve">
         <source>Add link to autocomplete</source>
+        <target>स्वत: पुरा गर्न लिङ्क थप्नुहोस्</target>
         <note>Label displayed for button used as a shortcut to add a link to the list of URLs to autocomplete.</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel" xml:space="preserve">
@@ -1225,16 +1231,19 @@
         <target>थप बलियो ट्रयाकिङ्ग सुरक्षा</target>
         <note>Text for the toggle that enables/disables tracking protection.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.trackerDescriptionLabel2">
+      <trans-unit id="trackingProtection.trackerDescriptionLabel2" xml:space="preserve">
         <source>Keep your data to yourself. %@ protects you from many of the most common trackers that follow what you do online.</source>
+        <target>आफ्नो डाटा आफैसङ्ग राख्नुहोस्। %@ ले तपाईलाई धेरै सामान्य ट्र्याकरहरूबाट जोगाउँछ, जसले तपाईले अनलाइनमा गर्नु भएको कुरालाई पछ्याउँछन्।</target>
         <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.trackersBlockedLabel">
+      <trans-unit id="trackingProtection.trackersBlockedLabel" xml:space="preserve">
         <source>Trackers blocked since %@</source>
+        <target>%@ देखि ट्र्याकरहरू अवरुद्ध भएका छन्</target>
         <note>Text for tracking protection screen showing the number of trackers blocked since the app install. The placeholder is replaced with the install date of the application.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.trackersHeader">
+      <trans-unit id="trackingProtection.trackersHeader" xml:space="preserve">
         <source>Trackers and scripts to block</source>
+        <target>ब्लक गर्नका लागि ट्र्याकरहरू र स्क्रिप्टहरू</target>
         <note>Text for the header of trackers section from Tracking Protection.</note>
       </trans-unit>
     </body>
@@ -1244,8 +1253,9 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
     </header>
     <body>
-      <trans-unit id="SettingsBundle.Licenses">
+      <trans-unit id="SettingsBundle.Licenses" xml:space="preserve">
         <source>Licenses</source>
+        <target>इजाजतपत्रहरु</target>
         <note>The title of the Licenses setting in the settings that Focus shows in the global iOS Settings app.</note>
       </trans-unit>
     </body>
