@@ -970,8 +970,9 @@
         <source>Create shortcuts to the sites you visit most:</source>
         <note>Text for a label that indicates the title for shortcuts tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.SiriErase.Description">
+      <trans-unit id="Tip.SiriErase.Description" xml:space="preserve">
         <source>Add Siri shortcut</source>
+        <target>Tilføj Siri-genvej</target>
         <note>Text for a label that indicates the description for siri erase tip. The shortcut in this context is the iOS Siri Shortcut, not a Focus website shortcut.</note>
       </trans-unit>
       <trans-unit id="Tip.SiriErase.Title">
