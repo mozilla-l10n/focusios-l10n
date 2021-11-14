@@ -153,7 +153,7 @@
       </trans-unit>
       <trans-unit id="About.safariBullet2" xml:space="preserve">
         <source>Block web fonts to reduce page size</source>
-        <target>ვებშრიფტების შეზღუდვა, გვერდის მოცულობის შესამცირებლად</target>
+        <target>შეზღუდეთ ვებშრიფტები, გვერდის მოცულობის შესამცირებლად</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader" xml:space="preserve">
@@ -913,7 +913,7 @@
       </trans-unit>
       <trans-unit id="Siri.eraseAndOpen" xml:space="preserve">
         <source>Erase &amp; Open</source>
-        <target>გასუფთავება და გახსნა</target>
+        <target>წაშლა და გახსნა</target>
         <note>Title of option in settings to set up Siri to erase and then open the app.</note>
       </trans-unit>
       <trans-unit id="Siri.favoriteUrl" xml:space="preserve">
@@ -951,13 +951,14 @@
         <target>იხილეთ ვრცლად, ამ და სხვა სიახლეებზე, რომლებითაც წარმოდგენილია %@.</target>
         <note>Text for a label that indicates the description for release tip. The placeholder is replaced with the short product name (Focus or Klar).</note>
       </trans-unit>
-      <trans-unit id="Tip.Release.Title">
+      <trans-unit id="Tip.Release.Title" xml:space="preserve">
         <source>Why yes, we do have a fresh new look!</source>
+        <target>რასაკვირველია, ახალი იერსახითაა!</target>
         <note>Text for a label that indicates the title for release tip.</note>
       </trans-unit>
       <trans-unit id="Tip.RequestDesktop.Description" xml:space="preserve">
         <source>Page Actions &gt; Request Desktop Site</source>
-        <target>გვერდზე მოქმედება &gt; სრული საიტი</target>
+        <target>გვერდზე ზემოქმედება &gt; სრული საიტი</target>
         <note>Text for a label that indicates the description for request desktop tip.</note>
       </trans-unit>
       <trans-unit id="Tip.RequestDesktop.Title" xml:space="preserve">
@@ -1237,7 +1238,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.trackersBlockedLabel" xml:space="preserve">
         <source>Trackers blocked since %@</source>
-        <target>სულ შეზღუდულია თარიღიდან %@</target>
+        <target>სულ შეზღუდული, თარიღიდან %@</target>
         <note>Text for tracking protection screen showing the number of trackers blocked since the app install. The placeholder is replaced with the install date of the application.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.trackersHeader" xml:space="preserve">
