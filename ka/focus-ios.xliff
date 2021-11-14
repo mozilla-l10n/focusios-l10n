@@ -773,7 +773,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleHomeScreenTips" xml:space="preserve">
         <source>Show home screen tips</source>
-        <target>ცნობების ჩვენება საწყის გვერდზე</target>
+        <target>ცნობები საწყის გვერდზე</target>
         <note>Show home screen tips toggle label on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle" xml:space="preserve">
@@ -946,8 +946,9 @@
         <target>ჩაირთოს Touch ID</target>
         <note>Text for a label that indicates the description for biometric Touch ID tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.Release.Description">
+      <trans-unit id="Tip.Release.Description" xml:space="preserve">
         <source>Read more about this and other updates to %@.</source>
+        <target>იხილეთ ვრცლად, ამ და სხვა სიახლეებზე, რომლებითაც წარმოდგენილია %@.</target>
         <note>Text for a label that indicates the description for release tip. The placeholder is replaced with the short product name (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.Release.Title">
