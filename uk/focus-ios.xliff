@@ -12,7 +12,7 @@
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
         <source>This lets you unlock the app.</source>
-        <target>Це дозволить вам блокувати програму.</target>
+        <target>Це дозволить вам розблоковувати програму.</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit id="About.missionLabel" xml:space="preserve">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
-        <target>%@ створено в Mozilla. Нашою місією є сприяння розвитку здорового, відкритого Інтернету.</target>
+        <target>%@ створено в Mozilla. Наша місія — сприяння розвитку здорового й відкритого Інтернету.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet1" xml:space="preserve">
