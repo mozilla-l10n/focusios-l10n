@@ -558,12 +558,12 @@
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton" xml:space="preserve">
         <source>Add Another Search Engine</source>
-        <target>სხვა საძიებო სისტემის დამატება</target>
+        <target>სხვა საძიებოს დამატება</target>
         <note>Text for button to add another search engine in settings</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButtonWithPlus" xml:space="preserve">
         <source>+ Add Another Search Engine</source>
-        <target>+ სხვა საძიებო სისტემის დამატება</target>
+        <target>+ სხვა საძიებოს დამატება</target>
         <note>Text for button to add another search engine in settings with the + prefix</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineTitle" xml:space="preserve">
@@ -608,7 +608,7 @@
       </trans-unit>
       <trans-unit id="Settings.autocompleteSection" xml:space="preserve">
         <source>URL Autocomplete</source>
-        <target>URL-ს თვითშევსება</target>
+        <target>ბმულის თვითშევსება</target>
         <note>Title for the URL Autocomplete row</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage" xml:space="preserve">
@@ -643,7 +643,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextStudies" xml:space="preserve">
         <source>%@ may install and run studies from time to time.</source>
-        <target>%@ შეძლებს, დროდადრო კვლევების ჩატარებას.</target>
+        <target>%@ დროდადრო დააყენებს და ჩაატარებს კვლევებს.</target>
         <note>Description associated to the Studies toggle on the settings screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.general" xml:space="preserve">
@@ -673,7 +673,7 @@
       </trans-unit>
       <trans-unit id="Settings.safariTitle" xml:space="preserve">
         <source>SAFARI INTEGRATION</source>
-        <target>SAFARI შეთავსება</target>
+        <target>SAFARI-სთან შეთავსება</target>
         <note>Label for Safari integration section</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle" xml:space="preserve">
@@ -723,7 +723,7 @@
       </trans-unit>
       <trans-unit id="Settings.systemTheme" xml:space="preserve">
         <source>System Theme</source>
-        <target>სისტემის იერსახე</target>
+        <target>სისტემის მიხედვით</target>
         <note>System value for theme section in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.theme" xml:space="preserve">
@@ -828,7 +828,7 @@
       </trans-unit>
       <trans-unit id="Settinsg.siriShortcutsTitle" xml:space="preserve">
         <source>SIRI SHORTCUTS</source>
-        <target>SIRI მალსახმობები</target>
+        <target>SIRI-ს მალსახმობები</target>
         <note>Title for settings section to enable different Siri Shortcuts.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.AddToShortcuts" xml:space="preserve">
@@ -948,7 +948,7 @@
       </trans-unit>
       <trans-unit id="Tip.Release.Description" xml:space="preserve">
         <source>Read more about this and other updates to %@.</source>
-        <target>იხილეთ ვრცლად, ამ და სხვა სიახლეებზე, რომლებითაც წარმოდგენილია %@.</target>
+        <target>იხილეთ, %@-ის ამ და სხვა სიახლეებზე ვრცლად.</target>
         <note>Text for a label that indicates the description for release tip. The placeholder is replaced with the short product name (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.Release.Title" xml:space="preserve">
