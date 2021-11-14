@@ -208,7 +208,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlLabel" xml:space="preserve">
         <source>URL to add</source>
-        <target>URL დასამატებლად</target>
+        <target>ბმული დასამატებლად</target>
         <note>Label for the input to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlPlaceholder" xml:space="preserve">
@@ -603,7 +603,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplatePlaceholder" xml:space="preserve">
         <source>Paste or enter search string. If necessary, replace search term with: %s.</source>
-        <target>ჩასვით ან შეიყვანეთ საძიებო ფრაზა. თუ საჭიროა, შეცვალეთ სიტყვა %s-ით.</target>
+        <target>ჩასვით ან შეიყვანეთ საძიებო ფრაზა. თუ საჭიროა, მიუწერეთ %s.</target>
         <note>Placeholder text for input of new search engine template</note>
       </trans-unit>
       <trans-unit id="Settings.autocompleteSection" xml:space="preserve">
@@ -873,7 +873,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenDefaultBrowser" xml:space="preserve">
         <source>Open in Default Browser</source>
-        <target>გახსნა ნაგულისხმევ ბრაუზერში</target>
+        <target>ნაგულისხმევი ბრაუზერით</target>
         <note>Text for the share menu option when a user wants to open the current website in the default browser.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenFirefox" xml:space="preserve">
@@ -928,7 +928,7 @@
       </trans-unit>
       <trans-unit id="Siri.urlToOpen" xml:space="preserve">
         <source>URL to open</source>
-        <target>URL-მისამართი გასახსნელად</target>
+        <target>ბმული გასახსნელად</target>
         <note>Label for input to set a favorite URL to be opened by Siri.</note>
       </trans-unit>
       <trans-unit id="Tip.Biometric.Title" xml:space="preserve">
