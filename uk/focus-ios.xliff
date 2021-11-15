@@ -223,7 +223,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customDescriptoin" xml:space="preserve">
         <source>Add and manage custom autocomplete URLs.</source>
-        <target>Додавайте і керуйте автозавершенням власних URL-адрес.</target>
+        <target>Додавання й керування автозавершенням власних URL-адрес.</target>
         <note>Description for adding and managing custom autocomplete URLs</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customLabel" xml:space="preserve">
@@ -243,7 +243,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin" xml:space="preserve">
         <source>Enable to have %@ autocomplete over 450 popular URLs in the address bar.</source>
-        <target>Увімкніть автозавершення в %@ для понад 450 популярних URL-адрес в панелі адреси.</target>
+        <target>Увімкніть автозавершення в %@ для понад 450 популярних сайтів у панелі адреси.</target>
         <note>Description for enabling or disabling the default list. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultLabel" xml:space="preserve">
@@ -303,7 +303,7 @@
       </trans-unit>
       <trans-unit id="BiometricPrompt.reason" xml:space="preserve">
         <source>Unlock %@ when re-opening in order to prevent unauthorized access.</source>
-        <target>Блокуйте %@ при повторному відкритті для запобігання небажаного доступу.</target>
+        <target>Розблоковуйте %@ при кожному відкритті для запобігання небажаного доступу.</target>
         <note>%@ is app name. Explanation for why the app needs access to biometric information. Prompt is only shown once when the user first tries to enable Face ID to open the app.</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel" xml:space="preserve">
