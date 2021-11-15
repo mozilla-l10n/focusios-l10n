@@ -953,7 +953,7 @@
       </trans-unit>
       <trans-unit id="Tip.Release.Title" xml:space="preserve">
         <source>Why yes, we do have a fresh new look!</source>
-        <target>Res je - imamo nov izgled!</target>
+        <target>Res je – imamo nov videz!</target>
         <note>Text for a label that indicates the title for release tip.</note>
       </trans-unit>
       <trans-unit id="Tip.RequestDesktop.Description" xml:space="preserve">
