@@ -91,7 +91,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Title" xml:space="preserve">
         <source>Power up your privacy</source>
-        <target>Прокачайте вашу приватність</target>
+        <target>Посильте вашу приватність</target>
         <note>Title for the first panel 'Welcome' in the First Run tour.</note>
       </trans-unit>
     </body>
