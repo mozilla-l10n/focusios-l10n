@@ -523,7 +523,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsOpen" xml:space="preserve">
         <source>Open Settings App</source>
-        <target>Відкрийте параметри</target>
+        <target>Відкрийте параметри програми</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
