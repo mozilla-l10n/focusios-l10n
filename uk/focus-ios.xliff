@@ -32,7 +32,7 @@
       </trans-unit>
       <trans-unit id="UIApplicationShortcutItemTitle.EraseAndOpen" xml:space="preserve">
         <source>Erase and Open</source>
-        <target>Стерти і відкрити</target>
+        <target>Стерти й відкрити</target>
         <note>This is the menu item that appears when you long press the Focus icon on the phone home screen.</note>
       </trans-unit>
     </body>
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="About.privateBulletHeader" xml:space="preserve">
         <source>Use it as a private browser:</source>
-        <target>Використовуйте в якості приватного браузера:</target>
+        <target>Використовуйте його як приватний браузер:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp" xml:space="preserve">
@@ -158,7 +158,7 @@
       </trans-unit>
       <trans-unit id="About.safariBulletHeader" xml:space="preserve">
         <source>Use it as a Safari extension:</source>
-        <target>Використовуйте в якості розширення для Safari:</target>
+        <target>Використовуйте його як розширення для Safari:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.title" xml:space="preserve">
