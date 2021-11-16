@@ -56,7 +56,7 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description" xml:space="preserve">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
-        <target>Одним дотиком, будь-коли стирайте всю історію сеансу, паролі та куки.</target>
+        <target>Будь-коли стирайте всю історію перегляду, паролі та куки одним дотиком.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title" xml:space="preserve">
@@ -878,7 +878,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenFirefox" xml:space="preserve">
         <source>Open in Firefox</source>
-        <target>Відкрити в Firefox</target>
+        <target>Відкрити у Firefox</target>
         <note>Text for the share menu option when a user wants to open the current website in the Firefox app.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.SharePage" xml:space="preserve">
@@ -1078,7 +1078,7 @@
       </trans-unit>
       <trans-unit id="browserShortcutDescription.selectLocationBar" xml:space="preserve">
         <source>Select Location Bar</source>
-        <target>Виберіть панель адреси</target>
+        <target>Вибрати панель адреси</target>
         <note>Label to display in the Discoverability overlay for keyboard shortcuts</note>
       </trans-unit>
       <trans-unit id="contextMenu.clipboardLink" xml:space="preserve">
@@ -1148,7 +1148,7 @@
       </trans-unit>
       <trans-unit id="touchId.reason" xml:space="preserve">
         <source>Use Touch ID to return to %@</source>
-        <target>Використовувати Touch ID для повернення до %@</target>
+        <target>Використовуйте Touch ID для повернення до %@</target>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID to continue browsing after returning to the app.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel" xml:space="preserve">
@@ -1223,7 +1223,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription1" xml:space="preserve">
         <source>Disable until you close %@ or tap ERASE.</source>
-        <target>Вимкнути до закриття %@, або оберіть СТЕРТИ.</target>
+        <target>Вимкнути до закриття %@ або натискання СТЕРТИ.</target>
         <note>Description for the tracking protection toggle. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel2" xml:space="preserve">
@@ -1233,7 +1233,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.trackerDescriptionLabel2" xml:space="preserve">
         <source>Keep your data to yourself. %@ protects you from many of the most common trackers that follow what you do online.</source>
-        <target>Зберігайте свої дані при собі. %@ захищає вас від численних найпоширеніших елементів стеження, що переслідують вас в мережі.</target>
+        <target>Зберігайте свої дані при собі. %@ захищає вас від багатьох найпоширеніших елементів стеження, що переслідують вас в Інтернеті.</target>
         <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="trackingProtection.trackersBlockedLabel" xml:space="preserve">
