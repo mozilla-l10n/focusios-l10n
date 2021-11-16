@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="Blockzilla/en.lproj/InfoPlist.strings" source-language="en" datatype="plaintext" target-language="tt">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Blockzilla/en.lproj/InfoPlist.strings" source-language="en" target-language="tt" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
     </header>
     <body>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
@@ -37,9 +36,9 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Blockzilla/en.lproj/Intents.strings" source-language="en" datatype="plaintext" target-language="tt">
+  <file original="Blockzilla/en.lproj/Intents.strings" source-language="en" target-language="tt" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
     </header>
     <body>
       <trans-unit id="Intents.Erase.Title" xml:space="preserve">
@@ -49,9 +48,9 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Blockzilla/en.lproj/Intro.strings" source-language="en" datatype="plaintext" target-language="tt">
+  <file original="Blockzilla/en.lproj/Intro.strings" source-language="en" target-language="tt" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
     </header>
     <body>
       <trans-unit id="Intro.Slides.History.Description" xml:space="preserve">
@@ -96,9 +95,9 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="tt">
+  <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" target-language="tt" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
     </header>
     <body>
       <trans-unit id="About.learnMoreButton" xml:space="preserve">
@@ -491,6 +490,14 @@
         <target>Safari</target>
         <note>Label in share alert to open the URL in Safari</note>
       </trans-unit>
+      <trans-unit id="ProtectionStatus.NotSecure" xml:space="preserve">
+        <source>Connection is not secure</source>
+        <note>This is the value for a label that indicates if a user is on an unencrypted website.</note>
+      </trans-unit>
+      <trans-unit id="ProtectionStatus.Secure" xml:space="preserve">
+        <source>Connection is secure</source>
+        <note>This is the value for a label that indicates if a user is on a secure https connection.</note>
+      </trans-unit>
       <trans-unit id="Request Desktop Site" xml:space="preserve">
         <source>Request Desktop Site</source>
         <target>Сайтның тулы версиясен сорау</target>
@@ -630,6 +637,14 @@
         <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
         <target>Mozilla, %@-ны һәркемгә дә тәкъдим итү һәм яхшырту өчен кирәкле мәгълүматларны гына җыярга тырыша.</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)</note>
+      </trans-unit>
+      <trans-unit id="Settings.detailTextStudies" xml:space="preserve">
+        <source>%@ may install and run studies from time to time.</source>
+        <note>Description associated to the Studies toggle on the settings screen. %@ is the app name (Focus/Klar)</note>
+      </trans-unit>
+      <trans-unit id="Settings.general" xml:space="preserve">
+        <source>General</source>
+        <note>Title for section in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.learnMore" xml:space="preserve">
         <source>Learn more.</source>
@@ -771,6 +786,10 @@
         <target>Куллану мәгълүматларын җибәрү</target>
         <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
+      <trans-unit id="Settings.toggleStudies" xml:space="preserve">
+        <source>Studies</source>
+        <note>Label for Studies toggle on the settings screen</note>
+      </trans-unit>
       <trans-unit id="Settings.toggleTouchID" xml:space="preserve">
         <source>Use Touch ID to unlock app</source>
         <target>Кушымтаны ачу өчен Touch ID кулланыгыз</target>
@@ -846,15 +865,14 @@
         <target>Chrome-да ачу</target>
         <note>Text for the share menu option when a user wants to open the current website in the Chrome app.</note>
       </trans-unit>
+      <trans-unit id="ShareMenu.ShareOpenDefaultBrowser" xml:space="preserve">
+        <source>Open in Default Browser</source>
+        <note>Text for the share menu option when a user wants to open the current website in the default browser.</note>
+      </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenFirefox" xml:space="preserve">
         <source>Open in Firefox</source>
         <target>Firefox-та ачу</target>
         <note>Text for the share menu option when a user wants to open the current website in the Firefox app.</note>
-      </trans-unit>
-      <trans-unit id="ShareMenu.ShareOpenSafari" xml:space="preserve">
-        <source>Open in Safari</source>
-        <target>Safari-дә ачу</target>
-        <note>Text for the share menu option when a user wants to open the current website in the Safari app.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.SharePage" xml:space="preserve">
         <source>Share Page With...</source>
@@ -905,6 +923,74 @@
         <source>URL to open</source>
         <target>Ачылачак URL</target>
         <note>Label for input to set a favorite URL to be opened by Siri.</note>
+      </trans-unit>
+      <trans-unit id="Tip.Biometric.Title" xml:space="preserve">
+        <source>Lock %@ when a site is open:</source>
+        <note>Text for a label that indicates the title for biometric tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
+      </trans-unit>
+      <trans-unit id="Tip.BiometricFaceId.Description" xml:space="preserve">
+        <source>Turn on Face ID</source>
+        <note>Text for a label that indicates the description for biometric Face ID tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.BiometricTouchId.Description" xml:space="preserve">
+        <source>Turn on Touch ID</source>
+        <note>Text for a label that indicates the description for biometric Touch ID tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.Release.Description" xml:space="preserve">
+        <source>Read more about this and other updates to %@.</source>
+        <note>Text for a label that indicates the description for release tip. The placeholder is replaced with the short product name (Focus or Klar).</note>
+      </trans-unit>
+      <trans-unit id="Tip.Release.Title" xml:space="preserve">
+        <source>Why yes, we do have a fresh new look!</source>
+        <note>Text for a label that indicates the title for release tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.RequestDesktop.Description" xml:space="preserve">
+        <source>Page Actions &gt; Request Desktop Site</source>
+        <note>Text for a label that indicates the description for request desktop tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.RequestDesktop.Title" xml:space="preserve">
+        <source>Want to see the full desktop version of a site?</source>
+        <note>Text for a label that indicates the title for request desktop tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.ShareTrackers.Description" xml:space="preserve">
+        <source>%@ trackers blocked so far</source>
+        <note>Text for a label that indicates the description for share trackers tip. The placeholder is the number of trackers blocked. Only shown when there are more than 10 trackers blocked. For locales where we would need plural support, please feel free to translate this string as `Trackers blocked so far: %@` instead.</note>
+      </trans-unit>
+      <trans-unit id="Tip.ShareTrackers.Title" xml:space="preserve">
+        <source>You browse. %@ blocks.</source>
+        <note>Text for a label that indicates the title for share trackers tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
+      </trans-unit>
+      <trans-unit id="Tip.Shortcuts.Description" xml:space="preserve">
+        <source>Select Add to Shortcuts from the %@ menu</source>
+        <note>Text for a label that indicates the description for shortcuts tip. The placeholder is replaced with the short product name (Focus or Klar).</note>
+      </trans-unit>
+      <trans-unit id="Tip.Shortcuts.Title" xml:space="preserve">
+        <source>Create shortcuts to the sites you visit most:</source>
+        <note>Text for a label that indicates the title for shortcuts tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.SiriErase.Description" xml:space="preserve">
+        <source>Add Siri shortcut</source>
+        <note>Text for a label that indicates the description for siri erase tip. The shortcut in this context is the iOS Siri Shortcut, not a Focus website shortcut.</note>
+      </trans-unit>
+      <trans-unit id="Tip.SiriErase.Title" xml:space="preserve">
+        <source>“Siri, erase my %@ session.”</source>
+        <note>Text for a label that indicates the title for siri erase tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
+      </trans-unit>
+      <trans-unit id="Tip.SiriFavorite.Description" xml:space="preserve">
+        <source>Add Siri shortcut</source>
+        <note>Text for a label that indicates the description for siri favorite tip. The shortcut in this context is the iOS Siri Shortcut, not a Focus website shortcut.</note>
+      </trans-unit>
+      <trans-unit id="Tip.SiriFavorite.Title" xml:space="preserve">
+        <source>“Siri, open my favorite site.”</source>
+        <note>Text for a label that indicates the title for siri favorite tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.SitesNotWorking.Description" xml:space="preserve">
+        <source>Try turning off Tracking Protection</source>
+        <note>Text for a label that indicates the description for sites not working tip.</note>
+      </trans-unit>
+      <trans-unit id="Tip.SitesNotWorking.Title" xml:space="preserve">
+        <source>Site missing content or acting strange?</source>
+        <note>Text for a label that indicates the title for sites not working tip.</note>
       </trans-unit>
       <trans-unit id="URL.addToAutocompleteLabel" xml:space="preserve">
         <source>Add link to autocomplete</source>
@@ -1061,6 +1147,10 @@
         <target>Хәвефсез бәйләнеш</target>
         <note>Text for tracking protection screen showing the connection is secure</note>
       </trans-unit>
+      <trans-unit id="trackingProtection.connectionVerifiedByLabel" xml:space="preserve">
+        <source>Verified by %@</source>
+        <note>String to let users know the site verifier, where the placeholder represents the SSL certificate signer.</note>
+      </trans-unit>
       <trans-unit id="trackingProtection.contentTrackerLabel" xml:space="preserve">
         <source>Content trackers</source>
         <target>Эчтәлек күзәтүчеләре</target>
@@ -1133,9 +1223,9 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Blockzilla/Settings.bundle/en.lproj/Root.strings" source-language="en" datatype="plaintext" target-language="tt">
+  <file original="Blockzilla/Settings.bundle/en.lproj/Root.strings" source-language="en" target-language="tt" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
     </header>
     <body>
       <trans-unit id="SettingsBundle.Licenses" xml:space="preserve">
