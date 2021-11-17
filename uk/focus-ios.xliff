@@ -533,7 +533,7 @@
       </trans-unit>
       <trans-unit id="SearchEngine.addEngineError" xml:space="preserve">
         <source>That didn't work. Try replacing the search term with this: %s.</source>
-        <target>Це не спрацювало. Спробуйте змінити пошуковий запит цим: %s.</target>
+        <target>Це не спрацювало. Спробуйте замінити пошуковий запит цим: %s.</target>
         <note>Label for error state when entering an invalid search engine URL. %s is a search term in a URL.</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptDisable" xml:space="preserve">
@@ -613,7 +613,7 @@
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage" xml:space="preserve">
         <source>Blocking other content trackers may break some videos and web pages.</source>
-        <target>Блокування інших елементів стеження може пошкодити деякі відео і вебсторінки.</target>
+        <target>Блокування інших елементів стеження може порушити роботу деяких відео і вебсторінок.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo2" xml:space="preserve">
@@ -638,7 +638,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData" xml:space="preserve">
         <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
-        <target>Mozilla зобов'язується збирати лише дані, що необхідні для роботи і вдосконалення %@.</target>
+        <target>Mozilla зобов'язується збирати лише ті дані, що необхідні для роботи та вдосконалення %@.</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextStudies" xml:space="preserve">
@@ -778,7 +778,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle" xml:space="preserve">
         <source>May break some videos and Web pages</source>
-        <target>Може пошкодити деякі відео і вебсторінки</target>
+        <target>Може порушити роботу деяких відео і вебсторінок</target>
         <note>Label subtitle for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSafari" xml:space="preserve">
@@ -1028,7 +1028,7 @@
       </trans-unit>
       <trans-unit id="URL.contextMenu" xml:space="preserve">
         <source>Paste &amp; Go</source>
-        <target>Вставити і перейти</target>
+        <target>Уставити й перейти</target>
         <note>Text for the URL context menu when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
       <trans-unit id="URL.eraseButtonLabel" xml:space="preserve">
