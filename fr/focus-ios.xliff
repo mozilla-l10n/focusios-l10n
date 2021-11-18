@@ -933,7 +933,7 @@
       </trans-unit>
       <trans-unit id="Tip.Biometric.Title" xml:space="preserve">
         <source>Lock %@ when a site is open:</source>
-        <target>Verrouiller %@ lorsqu’un site est ouvert :</target>
+        <target>Verrouillez %@ lorsqu’un site est ouvert :</target>
         <note>Text for a label that indicates the title for biometric tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.BiometricFaceId.Description" xml:space="preserve">
