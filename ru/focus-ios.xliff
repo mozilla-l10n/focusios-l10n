@@ -56,7 +56,7 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description" xml:space="preserve">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
-        <target>Удалите в любой момент одним нажатием всю историю веб-сёрфинга, пароли и куки.</target>
+        <target>В любой момент стирайте одним нажатием всю историю просмотров, пароли и куки.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title" xml:space="preserve">
@@ -293,7 +293,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.topSites" xml:space="preserve">
         <source>Top Sites</source>
-        <target>Топ сайтов</target>
+        <target>Популярные сайты</target>
         <note>Label for enabling or disabling top sites</note>
       </trans-unit>
       <trans-unit id="BiometricPrompt.newSession" xml:space="preserve">
@@ -443,7 +443,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription" xml:space="preserve">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
-        <target>Автоматически блокируйте онлайн-трекеры во время веб-сёрфинга. Затем нажмите кнопку, чтобы стереть посещённые страницы, поиски, куки и пароли со своего устройства.</target>
+        <target>Автоматически блокируйте онлайн-трекеры во время работы в Интернете. Затем нажмите, чтобы стереть посещённые страницы, поисковые запросы, куки и пароли со своего устройства.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline" xml:space="preserve">
@@ -503,7 +503,7 @@
       </trans-unit>
       <trans-unit id="Request Desktop Site" xml:space="preserve">
         <source>Request Desktop Site</source>
-        <target>Запросить полную версию сайта</target>
+        <target>Полная версия сайта</target>
         <note>Label for button that requests the desktop version of the currently loaded website.</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers" xml:space="preserve">
@@ -598,12 +598,12 @@
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplate" xml:space="preserve">
         <source>Search string to use</source>
-        <target>Строка поискового запроса</target>
+        <target>Поисковый запрос</target>
         <note>Label for input of search engine template</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplatePlaceholder" xml:space="preserve">
         <source>Paste or enter search string. If necessary, replace search term with: %s.</source>
-        <target>Вставьте или введите строку поискового запроса. При необходимости, замените поисковый термин на %s.</target>
+        <target>Вставьте или введите поисковый запрос. При необходимости замените его на %s.</target>
         <note>Placeholder text for input of new search engine template</note>
       </trans-unit>
       <trans-unit id="Settings.autocompleteSection" xml:space="preserve">
@@ -768,7 +768,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleFaceIDDescription" xml:space="preserve">
         <source>Face ID can unlock %@ if a URL is already open in the app</source>
-        <target>Face ID будет блокировать %@, если в нём открыта какая-либо страница</target>
+        <target>Face ID будет разблокировать %@, если в нём открыта какая-либо страница</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.toggleHomeScreenTips" xml:space="preserve">
@@ -858,12 +858,12 @@
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop" xml:space="preserve">
         <source>Request Desktop Site</source>
-        <target>Запросить полную версию сайта</target>
+        <target>Полная версия сайта</target>
         <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RequestMobile" xml:space="preserve">
         <source>Request Mobile Site</source>
-        <target>Запросить мобильную версию сайта</target>
+        <target>Мобильная версия сайта</target>
         <note>Text for the share menu option when a user wants to reload the site as a mobile device</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenChrome" xml:space="preserve">
@@ -951,44 +951,54 @@
         <target>Подробнее об этом и других обновлениях %@.</target>
         <note>Text for a label that indicates the description for release tip. The placeholder is replaced with the short product name (Focus or Klar).</note>
       </trans-unit>
-      <trans-unit id="Tip.Release.Title">
+      <trans-unit id="Tip.Release.Title" xml:space="preserve">
         <source>Why yes, we do have a fresh new look!</source>
+        <target>Почему бы и нет, у нас новый внешний вид!</target>
         <note>Text for a label that indicates the title for release tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.RequestDesktop.Description">
+      <trans-unit id="Tip.RequestDesktop.Description" xml:space="preserve">
         <source>Page Actions &gt; Request Desktop Site</source>
+        <target>Действия на странице &gt; Полная версия сайта</target>
         <note>Text for a label that indicates the description for request desktop tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.RequestDesktop.Title">
+      <trans-unit id="Tip.RequestDesktop.Title" xml:space="preserve">
         <source>Want to see the full desktop version of a site?</source>
+        <target>Хотите увидеть полную версию сайта?</target>
         <note>Text for a label that indicates the title for request desktop tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.ShareTrackers.Description">
+      <trans-unit id="Tip.ShareTrackers.Description" xml:space="preserve">
         <source>%@ trackers blocked so far</source>
+        <target>Заблокировано трекеров: %@</target>
         <note>Text for a label that indicates the description for share trackers tip. The placeholder is the number of trackers blocked. Only shown when there are more than 10 trackers blocked. For locales where we would need plural support, please feel free to translate this string as `Trackers blocked so far: %@` instead.</note>
       </trans-unit>
-      <trans-unit id="Tip.ShareTrackers.Title">
+      <trans-unit id="Tip.ShareTrackers.Title" xml:space="preserve">
         <source>You browse. %@ blocks.</source>
+        <target>Вы просматриваете. %@ блокирует.</target>
         <note>Text for a label that indicates the title for share trackers tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
       </trans-unit>
-      <trans-unit id="Tip.Shortcuts.Description">
+      <trans-unit id="Tip.Shortcuts.Description" xml:space="preserve">
         <source>Select Add to Shortcuts from the %@ menu</source>
+        <target>Выберите «Добавить в ярлыки» в меню %@</target>
         <note>Text for a label that indicates the description for shortcuts tip. The placeholder is replaced with the short product name (Focus or Klar).</note>
       </trans-unit>
-      <trans-unit id="Tip.Shortcuts.Title">
+      <trans-unit id="Tip.Shortcuts.Title" xml:space="preserve">
         <source>Create shortcuts to the sites you visit most:</source>
+        <target>Создайте ярлыки для сайтов, которые вы посещаете чаще всего:</target>
         <note>Text for a label that indicates the title for shortcuts tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.SiriErase.Description">
+      <trans-unit id="Tip.SiriErase.Description" xml:space="preserve">
         <source>Add Siri shortcut</source>
+        <target>Добавить быструю команду Siri</target>
         <note>Text for a label that indicates the description for siri erase tip. The shortcut in this context is the iOS Siri Shortcut, not a Focus website shortcut.</note>
       </trans-unit>
-      <trans-unit id="Tip.SiriErase.Title">
+      <trans-unit id="Tip.SiriErase.Title" xml:space="preserve">
         <source>“Siri, erase my %@ session.”</source>
+        <target>«Siri, сотри мою сессию %@.»</target>
         <note>Text for a label that indicates the title for siri erase tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
       </trans-unit>
-      <trans-unit id="Tip.SiriFavorite.Description">
+      <trans-unit id="Tip.SiriFavorite.Description" xml:space="preserve">
         <source>Add Siri shortcut</source>
+        <target>Добавить быструю команду Siri</target>
         <note>Text for a label that indicates the description for siri favorite tip. The shortcut in this context is the iOS Siri Shortcut, not a Focus website shortcut.</note>
       </trans-unit>
       <trans-unit id="Tip.SiriFavorite.Title" xml:space="preserve">
@@ -1001,8 +1011,9 @@
         <target>Попробуйте отключить защиту от отслеживания</target>
         <note>Text for a label that indicates the description for sites not working tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.SitesNotWorking.Title">
+      <trans-unit id="Tip.SitesNotWorking.Title" xml:space="preserve">
         <source>Site missing content or acting strange?</source>
+        <target>На сайте отсутствует контент или он ведёт себя странно?</target>
         <note>Text for a label that indicates the title for sites not working tip.</note>
       </trans-unit>
       <trans-unit id="URL.addToAutocompleteLabel" xml:space="preserve">
@@ -1117,7 +1128,7 @@
       </trans-unit>
       <trans-unit id="photosPermission.title" xml:space="preserve">
         <source>“%@” Would Like to Access Your Photos</source>
-        <target>“%@” хотел бы получить доступ к вашим Фото</target>
+        <target>«%@» хочет получить доступ к вашим фото</target>
         <note>Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="settings.Search.SearchTemplateExample" xml:space="preserve">
@@ -1162,7 +1173,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.connectionVerifiedByLabel" xml:space="preserve">
         <source>Verified by %@</source>
-        <target>Подтверждено: %@</target>
+        <target>Подтверждено %@</target>
         <note>String to let users know the site verifier, where the placeholder represents the SSL certificate signer.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.contentTrackerLabel" xml:space="preserve">
@@ -1222,12 +1233,12 @@
       </trans-unit>
       <trans-unit id="trackingProtection.trackerDescriptionLabel2" xml:space="preserve">
         <source>Keep your data to yourself. %@ protects you from many of the most common trackers that follow what you do online.</source>
-        <target>Храните свои данные при себе. %@ защитит вас от многих наиболее известных трекеров, которые следят за вашим поведением в Интернете.</target>
+        <target>Храните свои данные при себе. %@ защитит вас от большинства наиболее известных трекеров, которые следят за вами в Интернете.</target>
         <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="trackingProtection.trackersBlockedLabel" xml:space="preserve">
         <source>Trackers blocked since %@</source>
-        <target>Заблокировано трекеров, начиная с %@</target>
+        <target>Заблокировано трекеров с %@</target>
         <note>Text for tracking protection screen showing the number of trackers blocked since the app install. The placeholder is replaced with the install date of the application.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.trackersHeader" xml:space="preserve">
