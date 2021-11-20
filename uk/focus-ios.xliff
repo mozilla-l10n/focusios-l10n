@@ -613,7 +613,7 @@
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage" xml:space="preserve">
         <source>Blocking other content trackers may break some videos and web pages.</source>
-        <target>Блокування інших елементів стеження може порушити роботу деяких відео і вебсторінок.</target>
+        <target>Блокування інших елементів стеження може порушити роботу деяких відео й вебсторінок.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo2" xml:space="preserve">
@@ -778,7 +778,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle" xml:space="preserve">
         <source>May break some videos and Web pages</source>
-        <target>Може порушити роботу деяких відео і вебсторінок</target>
+        <target>Може порушити роботу деяких відео й вебсторінок</target>
         <note>Label subtitle for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSafari" xml:space="preserve">
