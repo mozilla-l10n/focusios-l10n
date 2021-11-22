@@ -948,7 +948,7 @@
       </trans-unit>
       <trans-unit id="Tip.Release.Description" xml:space="preserve">
         <source>Read more about this and other updates to %@.</source>
-        <target>Prečítajte si viac o tejto a ďalších aktualizáciách prehliadača %@.</target>
+        <target>Prečítajte si viac o tejto a ďalších novinkách prehliadača %@.</target>
         <note>Text for a label that indicates the description for release tip. The placeholder is replaced with the short product name (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.Release.Title" xml:space="preserve">
