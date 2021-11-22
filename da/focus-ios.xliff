@@ -151,8 +151,9 @@
         <target>Bloker sporings-mekanismer for at beskytte dit privatliv bedre</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.safariBullet2">
+      <trans-unit id="About.safariBullet2" xml:space="preserve">
         <source>Block web fonts to reduce page size</source>
+        <target>Bloker webskrifttyper, så sider indlæses hurtigere</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader" xml:space="preserve">
@@ -610,8 +611,9 @@
         <target>Autofuldfør URL</target>
         <note>Title for the URL Autocomplete row</note>
       </trans-unit>
-      <trans-unit id="Settings.blockOtherMessage">
+      <trans-unit id="Settings.blockOtherMessage" xml:space="preserve">
         <source>Blocking other content trackers may break some videos and web pages.</source>
+        <target>Blokering af andre former for indholdssporing kan forhindre nogle videoer og websider i at fungere.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo2" xml:space="preserve">
@@ -619,12 +621,14 @@
         <target>Annuller</target>
         <note>Button label for declining Content blocker alert</note>
       </trans-unit>
-      <trans-unit id="Settings.blockOtherYes2">
+      <trans-unit id="Settings.blockOtherYes2" xml:space="preserve">
         <source>Block Content Trackers</source>
+        <target>Bloker indholdssporing</target>
         <note>Button label for accepting Content blocker alert</note>
       </trans-unit>
-      <trans-unit id="Settings.darkTheme">
+      <trans-unit id="Settings.darkTheme" xml:space="preserve">
         <source>Dark</source>
+        <target>Mørkt</target>
         <note>Dark theme option in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
@@ -652,12 +656,14 @@
         <target>Læs mere.</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.lightTheme">
+      <trans-unit id="Settings.lightTheme" xml:space="preserve">
         <source>Light</source>
+        <target>Lyst</target>
         <note>Light theme option in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.manualTheme">
+      <trans-unit id="Settings.manualTheme" xml:space="preserve">
         <source>Manual</source>
+        <target>Manuelt</target>
         <note>Manual value for theme section in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.rate" xml:space="preserve">
@@ -740,8 +746,9 @@
         <target>Analyse</target>
         <note>Label for the checkbox to toggle Analytics trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockFonts">
+      <trans-unit id="Settings.toggleBlockFonts" xml:space="preserve">
         <source>Block web fonts</source>
+        <target>Blokér webskrifttyper</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther2" xml:space="preserve">
@@ -808,8 +815,9 @@
         <target>Til</target>
         <note>Status on for tracking protection in settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.useSystemTheme">
+      <trans-unit id="Settings.useSystemTheme" xml:space="preserve">
         <source>Use System Light/Dark Mode</source>
+        <target>Brug systemets lys-/mørk-tilstand</target>
         <note>Value for theme toggle in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle" xml:space="preserve">
@@ -946,28 +954,32 @@
         <source>Why yes, we do have a fresh new look!</source>
         <note>Text for a label that indicates the title for release tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.RequestDesktop.Description">
+      <trans-unit id="Tip.RequestDesktop.Description" xml:space="preserve">
         <source>Page Actions &gt; Request Desktop Site</source>
+        <target>Sidehandlinger &gt; Bed om desktop-version</target>
         <note>Text for a label that indicates the description for request desktop tip.</note>
       </trans-unit>
       <trans-unit id="Tip.RequestDesktop.Title">
         <source>Want to see the full desktop version of a site?</source>
         <note>Text for a label that indicates the title for request desktop tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.ShareTrackers.Description">
+      <trans-unit id="Tip.ShareTrackers.Description" xml:space="preserve">
         <source>%@ trackers blocked so far</source>
+        <target>%@ sporings-mekanismer blokeret indtil videre</target>
         <note>Text for a label that indicates the description for share trackers tip. The placeholder is the number of trackers blocked. Only shown when there are more than 10 trackers blocked. For locales where we would need plural support, please feel free to translate this string as `Trackers blocked so far: %@` instead.</note>
       </trans-unit>
       <trans-unit id="Tip.ShareTrackers.Title">
         <source>You browse. %@ blocks.</source>
         <note>Text for a label that indicates the title for share trackers tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
       </trans-unit>
-      <trans-unit id="Tip.Shortcuts.Description">
+      <trans-unit id="Tip.Shortcuts.Description" xml:space="preserve">
         <source>Select Add to Shortcuts from the %@ menu</source>
+        <target>Vælg “Føj til genveje” fra %@-menuen</target>
         <note>Text for a label that indicates the description for shortcuts tip. The placeholder is replaced with the short product name (Focus or Klar).</note>
       </trans-unit>
-      <trans-unit id="Tip.Shortcuts.Title">
+      <trans-unit id="Tip.Shortcuts.Title" xml:space="preserve">
         <source>Create shortcuts to the sites you visit most:</source>
+        <target>Opret genveje til de websteder, du besøger mest:</target>
         <note>Text for a label that indicates the title for shortcuts tip.</note>
       </trans-unit>
       <trans-unit id="Tip.SiriErase.Description" xml:space="preserve">
@@ -975,8 +987,9 @@
         <target>Tilføj Siri-genvej</target>
         <note>Text for a label that indicates the description for siri erase tip. The shortcut in this context is the iOS Siri Shortcut, not a Focus website shortcut.</note>
       </trans-unit>
-      <trans-unit id="Tip.SiriErase.Title">
+      <trans-unit id="Tip.SiriErase.Title" xml:space="preserve">
         <source>“Siri, erase my %@ session.”</source>
+        <target>“Siri, slet min %@-session.”</target>
         <note>Text for a label that indicates the title for siri erase tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.SiriFavorite.Description" xml:space="preserve">
@@ -984,16 +997,19 @@
         <target>Tilføj Siri-genvej</target>
         <note>Text for a label that indicates the description for siri favorite tip. The shortcut in this context is the iOS Siri Shortcut, not a Focus website shortcut.</note>
       </trans-unit>
-      <trans-unit id="Tip.SiriFavorite.Title">
+      <trans-unit id="Tip.SiriFavorite.Title" xml:space="preserve">
         <source>“Siri, open my favorite site.”</source>
+        <target>“Siri, åbn min yndlingsside.”</target>
         <note>Text for a label that indicates the title for siri favorite tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.SitesNotWorking.Description">
+      <trans-unit id="Tip.SitesNotWorking.Description" xml:space="preserve">
         <source>Try turning off Tracking Protection</source>
+        <target>Prøv at deaktivere beskyttelse mod sporing</target>
         <note>Text for a label that indicates the description for sites not working tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.SitesNotWorking.Title">
+      <trans-unit id="Tip.SitesNotWorking.Title" xml:space="preserve">
         <source>Site missing content or acting strange?</source>
+        <target>Mangler siden indhold eller opfører den sig underligt?</target>
         <note>Text for a label that indicates the title for sites not working tip.</note>
       </trans-unit>
       <trans-unit id="URL.addToAutocompleteLabel" xml:space="preserve">
