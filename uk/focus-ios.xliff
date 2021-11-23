@@ -223,7 +223,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customDescriptoin" xml:space="preserve">
         <source>Add and manage custom autocomplete URLs.</source>
-        <target>Додавання й керування автозавершенням власних URL-адрес.</target>
+        <target>Додавайте і керуйте автозавершенням власних URL-адрес.</target>
         <note>Description for adding and managing custom autocomplete URLs</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customLabel" xml:space="preserve">
