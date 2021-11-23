@@ -288,7 +288,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.mySitesDesc" xml:space="preserve">
         <source>Enable to have %@ autocomplete your favorite URLs.</source>
-        <target>Увімкнути, щоб %@ автоматично завершував URL-адреси популярних сайтів.</target>
+        <target>Увімкніть, щоб %@ автоматично завершував URL-адреси ваших улюблених сайтів.</target>
         <note>Description for adding and managing custom autocomplete URLs. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.topSites" xml:space="preserve">
