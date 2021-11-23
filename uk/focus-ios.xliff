@@ -998,7 +998,7 @@
       </trans-unit>
       <trans-unit id="Tip.SiriFavorite.Description" xml:space="preserve">
         <source>Add Siri shortcut</source>
-        <target>Додати ярлик Siri</target>
+        <target>Додати швидку команду Siri</target>
         <note>Text for a label that indicates the description for siri favorite tip. The shortcut in this context is the iOS Siri Shortcut, not a Focus website shortcut.</note>
       </trans-unit>
       <trans-unit id="Tip.SiriFavorite.Title" xml:space="preserve">
