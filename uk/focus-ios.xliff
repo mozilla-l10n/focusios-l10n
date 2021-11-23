@@ -263,7 +263,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.duplicateUrl" xml:space="preserve">
         <source>URL already exists</source>
-        <target>URL вже наявна</target>
+        <target>URL вже наявний</target>
         <note>Label for toast alerting that the custom URL being added is a duplicate</note>
       </trans-unit>
       <trans-unit id="Autocomplete.emptyState" xml:space="preserve">
