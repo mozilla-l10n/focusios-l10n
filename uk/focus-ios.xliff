@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet1" xml:space="preserve">
         <source>Search and browse right in the app</source>
-        <target>Пошук і перегляд прямо в програмі</target>
+        <target>Шукайте й переглядайте безпосередньо в програмі</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet2" xml:space="preserve">
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="About.privateBulletHeader" xml:space="preserve">
         <source>Use it as a private browser:</source>
-        <target>Використовуйте його як приватний браузер:</target>
+        <target>Використовуйте як приватний браузер:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp" xml:space="preserve">
@@ -158,7 +158,7 @@
       </trans-unit>
       <trans-unit id="About.safariBulletHeader" xml:space="preserve">
         <source>Use it as a Safari extension:</source>
-        <target>Використовуйте його як розширення для Safari:</target>
+        <target>Використовуйте як розширення для Safari:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.title" xml:space="preserve">
