@@ -768,7 +768,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleFaceIDDescription" xml:space="preserve">
         <source>Face ID can unlock %@ if a URL is already open in the app</source>
-        <target>Face ID може розблокувати %@ якщо URL-адреса вже відкрита в програмі</target>
+        <target>Face ID блокуватиме %@, якщо в програмі відкрито якусь сторінку</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.toggleHomeScreenTips" xml:space="preserve">
@@ -803,7 +803,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleTouchIDDescription" xml:space="preserve">
         <source>Touch ID can unlock %@ if a URL is already open in the app</source>
-        <target>Touch ID може розблокувати %@ якщо URL-адреса вже відкрита в програмі</target>
+        <target>Touch ID блокуватиме %@, якщо в програмі відкрито якусь сторінку</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.trackingProtectionOff" xml:space="preserve">
