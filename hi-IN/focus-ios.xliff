@@ -176,8 +176,9 @@
         <target>ठीक</target>
         <note>Button to dismiss the 'Add Pass Failed' alert.</note>
       </trans-unit>
-      <trans-unit id="AddPass.Error.Message">
+      <trans-unit id="AddPass.Error.Message" xml:space="preserve">
         <source>An error occured while adding the pass to Wallet. Please try again later.</source>
+        <target>पास को वॉलेट में जोड़ने के दौरान त्रुटि आई। कृपया बाद में पुनः प्रयास करें।</target>
         <note>Message of the 'Add Pass Failed' alert.</note>
       </trans-unit>
       <trans-unit id="AddPass.Error.Title" xml:space="preserve">
@@ -545,8 +546,9 @@
         <target>हाँ‌</target>
         <note>Label for enable option on search suggestions prompt</note>
       </trans-unit>
-      <trans-unit id="SearchSuggestions.promptMessage">
+      <trans-unit id="SearchSuggestions.promptMessage" xml:space="preserve">
         <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
+        <target>सुझाव पाने हेतु, %@ को आपके द्वारा पता बार में टाइप किए चीज़ों को सर्च इंजन को भेजने की आवश्यकता होती है।</target>
         <note>%@ is the name of the app (Focus / Klar). Label for search suggestions prompt message</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptTitle" xml:space="preserve">
@@ -814,8 +816,9 @@
         <target>चालू</target>
         <note>Status on for tracking protection in settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.useSystemTheme">
+      <trans-unit id="Settings.useSystemTheme" xml:space="preserve">
         <source>Use System Light/Dark Mode</source>
+        <target>सिस्टम लाइट/डार्क मोड का उपयोग करें</target>
         <note>Value for theme toggle in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle" xml:space="preserve">
@@ -950,8 +953,9 @@
         <source>Why yes, we do have a fresh new look!</source>
         <note>Text for a label that indicates the title for release tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.RequestDesktop.Description">
+      <trans-unit id="Tip.RequestDesktop.Description" xml:space="preserve">
         <source>Page Actions &gt; Request Desktop Site</source>
+        <target>पृष्ठ क्रियाएँ &gt; डेस्कटॉप साइट का अनुरोध करें</target>
         <note>Text for a label that indicates the description for request desktop tip.</note>
       </trans-unit>
       <trans-unit id="Tip.RequestDesktop.Title">
@@ -962,8 +966,9 @@
         <source>%@ trackers blocked so far</source>
         <note>Text for a label that indicates the description for share trackers tip. The placeholder is the number of trackers blocked. Only shown when there are more than 10 trackers blocked. For locales where we would need plural support, please feel free to translate this string as `Trackers blocked so far: %@` instead.</note>
       </trans-unit>
-      <trans-unit id="Tip.ShareTrackers.Title">
+      <trans-unit id="Tip.ShareTrackers.Title" xml:space="preserve">
         <source>You browse. %@ blocks.</source>
+        <target>आप ब्राउज़ करें। %@ ब्लॉक करेगा ।</target>
         <note>Text for a label that indicates the title for share trackers tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.Shortcuts.Description">
