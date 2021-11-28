@@ -629,8 +629,9 @@
         <target>अंधेरा</target>
         <note>Dark theme option in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.detailTextSearchSuggestion">
+      <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
         <source>%@ will send what you type in the address bar to your search engine.</source>
+        <target>%@ आपके द्वारा पता बार में टाइप किए गए चीज़ों को आपके सर्च इंजन को भेज देगा।</target>
         <note>Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData" xml:space="preserve">
@@ -638,8 +639,9 @@
         <target>Mozilla मात्र वही एकत्रित करने का प्रयास करता है जिसकी हमें %@ को बेहतर बनाने और सबको उपलब्ध कराने के लिए आवश्यकता है.</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
-      <trans-unit id="Settings.detailTextStudies">
+      <trans-unit id="Settings.detailTextStudies" xml:space="preserve">
         <source>%@ may install and run studies from time to time.</source>
+        <target>%@ समय-समय पर संस्थापित करने और अध्ययन चला सकता हैं।</target>
         <note>Description associated to the Studies toggle on the settings screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.general" xml:space="preserve">
@@ -737,8 +739,9 @@
         <target>विज्ञापन</target>
         <note>Label for the checkbox to toggle Advertising trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockAnalytics2">
+      <trans-unit id="Settings.toggleBlockAnalytics2" xml:space="preserve">
         <source>Analytics</source>
+        <target>एनालिटिक्स</target>
         <note>Label for the checkbox to toggle Analytics trackers</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts" xml:space="preserve">
@@ -967,30 +970,34 @@
         <source>Select Add to Shortcuts from the %@ menu</source>
         <note>Text for a label that indicates the description for shortcuts tip. The placeholder is replaced with the short product name (Focus or Klar).</note>
       </trans-unit>
-      <trans-unit id="Tip.Shortcuts.Title">
+      <trans-unit id="Tip.Shortcuts.Title" xml:space="preserve">
         <source>Create shortcuts to the sites you visit most:</source>
+        <target>उन साइटों के लिए शॉर्टकट बनायें  जिन पर आप सबसे अधिक जाते हैं:</target>
         <note>Text for a label that indicates the title for shortcuts tip.</note>
       </trans-unit>
       <trans-unit id="Tip.SiriErase.Description" xml:space="preserve">
         <source>Add Siri shortcut</source>
-        <target>सिरी शॉर्टकट जोड़ें</target>
+        <target>Siri शॉर्टकट जोड़ें</target>
         <note>Text for a label that indicates the description for siri erase tip. The shortcut in this context is the iOS Siri Shortcut, not a Focus website shortcut.</note>
       </trans-unit>
-      <trans-unit id="Tip.SiriErase.Title">
+      <trans-unit id="Tip.SiriErase.Title" xml:space="preserve">
         <source>“Siri, erase my %@ session.”</source>
+        <target>“Siri, मेरा %@ सत्र मिटा दें।”</target>
         <note>Text for a label that indicates the title for siri erase tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.SiriFavorite.Description" xml:space="preserve">
         <source>Add Siri shortcut</source>
-        <target>सिरी शॉर्टकट जोड़ें</target>
+        <target>Siri शॉर्टकट जोड़ें</target>
         <note>Text for a label that indicates the description for siri favorite tip. The shortcut in this context is the iOS Siri Shortcut, not a Focus website shortcut.</note>
       </trans-unit>
-      <trans-unit id="Tip.SiriFavorite.Title">
+      <trans-unit id="Tip.SiriFavorite.Title" xml:space="preserve">
         <source>“Siri, open my favorite site.”</source>
+        <target>“Siri, मेरी पसंदीदा साइट खोलें।”</target>
         <note>Text for a label that indicates the title for siri favorite tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.SitesNotWorking.Description">
+      <trans-unit id="Tip.SitesNotWorking.Description" xml:space="preserve">
         <source>Try turning off Tracking Protection</source>
+        <target>ट्रैकिंग सुरक्षा बंद करने का प्रयास करें</target>
         <note>Text for a label that indicates the description for sites not working tip.</note>
       </trans-unit>
       <trans-unit id="Tip.SitesNotWorking.Title">
@@ -1231,8 +1238,9 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
     </header>
     <body>
-      <trans-unit id="SettingsBundle.Licenses">
+      <trans-unit id="SettingsBundle.Licenses" xml:space="preserve">
         <source>Licenses</source>
+        <target>लाइसेंस</target>
         <note>The title of the Licenses setting in the settings that Focus shows in the global iOS Settings app.</note>
       </trans-unit>
     </body>
