@@ -928,7 +928,7 @@
       </trans-unit>
       <trans-unit id="Siri.urlToOpen" xml:space="preserve">
         <source>URL to open</source>
-        <target>Відкрити URL</target>
+        <target>URL-адреса</target>
         <note>Label for input to set a favorite URL to be opened by Siri.</note>
       </trans-unit>
       <trans-unit id="Tip.Biometric.Title" xml:space="preserve">
@@ -1083,7 +1083,7 @@
       </trans-unit>
       <trans-unit id="contextMenu.clipboardLink" xml:space="preserve">
         <source>Link you copied: %@</source>
-        <target>Ваше скопійоване посилання: %@</target>
+        <target>Скопійоване посилання: %@</target>
         <note>Text for the context menu when a user has a link on their clipboard.</note>
       </trans-unit>
       <trans-unit id="contextMenu.copyImageTitle" xml:space="preserve">
