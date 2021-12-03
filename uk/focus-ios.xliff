@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
         <source>This lets you take and upload photos.</source>
-        <target>Це дозволяє вам знімати й вивантажувати фото.</target>
+        <target>Це дозволить вам знімати й вивантажувати фото.</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
@@ -22,12 +22,12 @@
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
         <source>This lets you take and upload videos.</source>
-        <target>Це дозволяє вам знімати й вивантажувати відео.</target>
+        <target>Це дозволить вам знімати й вивантажувати відео.</target>
         <note>Privacy - Microphone Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
         <source>This lets you save and upload photos.</source>
-        <target>Це дозволяє вам знімати й вивантажувати фото.</target>
+        <target>Це дозволить вам знімати й вивантажувати фото.</target>
         <note>Privacy - Photo Library Additions Usage Description</note>
       </trans-unit>
       <trans-unit id="UIApplicationShortcutItemTitle.EraseAndOpen" xml:space="preserve">
