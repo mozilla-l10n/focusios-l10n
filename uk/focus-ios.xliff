@@ -1118,7 +1118,7 @@
       </trans-unit>
       <trans-unit id="photosPermission.description" xml:space="preserve">
         <source>This lets you save images to your Camera Roll</source>
-        <target>Це дозволяє вам зберігати зображення до своєї фотоплівки</target>
+        <target>Це дозволить вам зберігати зображення до своєї фотоплівки</target>
         <note>Description for dialog used for requesting a user to enable access to Photos.</note>
       </trans-unit>
       <trans-unit id="photosPermission.openSettings" xml:space="preserve">
