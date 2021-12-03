@@ -818,7 +818,7 @@
       </trans-unit>
       <trans-unit id="Settings.useSystemTheme" xml:space="preserve">
         <source>Use System Light/Dark Mode</source>
-        <target>Системна світла / темна тема</target>
+        <target>Повторювати тему системи</target>
         <note>Value for theme toggle in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle" xml:space="preserve">
