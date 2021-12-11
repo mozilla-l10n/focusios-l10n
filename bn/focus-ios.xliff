@@ -641,8 +641,9 @@
         <target>Mozilla এর প্রচেষ্টা হচ্ছে অত্যাবশ্যকীয় এবং প্রয়োজনীয় তথ্য ও উপাত্ত সংগ্রহ করে, সকলের জন্যে %@ এর আরও উন্নত সংস্করণ তৈরী করা।</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
-      <trans-unit id="Settings.detailTextStudies">
+      <trans-unit id="Settings.detailTextStudies" xml:space="preserve">
         <source>%@ may install and run studies from time to time.</source>
+        <target>কিছু দিন পর %@ স্টাডিজ ইনস্টল এবং চালাতে পারে।</target>
         <note>Description associated to the Studies toggle on the settings screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.general" xml:space="preserve">
@@ -930,8 +931,9 @@
         <target>খুলতে URL</target>
         <note>Label for input to set a favorite URL to be opened by Siri.</note>
       </trans-unit>
-      <trans-unit id="Tip.Biometric.Title">
+      <trans-unit id="Tip.Biometric.Title" xml:space="preserve">
         <source>Lock %@ when a site is open:</source>
+        <target>একটি সাইট খোলা হলে %@ লক করুন:</target>
         <note>Text for a label that indicates the title for biometric tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.BiometricFaceId.Description" xml:space="preserve">
@@ -944,12 +946,14 @@
         <target>Touch ID চালু করুন</target>
         <note>Text for a label that indicates the description for biometric Touch ID tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.Release.Description">
+      <trans-unit id="Tip.Release.Description" xml:space="preserve">
         <source>Read more about this and other updates to %@.</source>
+        <target>এই সম্পর্কে আরও পড়ুন এবং %@ এর অন্যান্য আপডেট।</target>
         <note>Text for a label that indicates the description for release tip. The placeholder is replaced with the short product name (Focus or Klar).</note>
       </trans-unit>
-      <trans-unit id="Tip.Release.Title">
+      <trans-unit id="Tip.Release.Title" xml:space="preserve">
         <source>Why yes, we do have a fresh new look!</source>
+        <target>কেন হ্যাঁ, আমাদের একটি পুরোপুরি নতুন লুক আছে না!</target>
         <note>Text for a label that indicates the title for release tip.</note>
       </trans-unit>
       <trans-unit id="Tip.RequestDesktop.Description" xml:space="preserve">
@@ -962,12 +966,14 @@
         <target>একটি সাইটের সম্পূর্ণ ডেস্কটপ সংস্করণ দেখতে চান?</target>
         <note>Text for a label that indicates the title for request desktop tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.ShareTrackers.Description">
+      <trans-unit id="Tip.ShareTrackers.Description" xml:space="preserve">
         <source>%@ trackers blocked so far</source>
+        <target>%@ ট্র্যাকার এখনও ব্লক আছে</target>
         <note>Text for a label that indicates the description for share trackers tip. The placeholder is the number of trackers blocked. Only shown when there are more than 10 trackers blocked. For locales where we would need plural support, please feel free to translate this string as `Trackers blocked so far: %@` instead.</note>
       </trans-unit>
-      <trans-unit id="Tip.ShareTrackers.Title">
+      <trans-unit id="Tip.ShareTrackers.Title" xml:space="preserve">
         <source>You browse. %@ blocks.</source>
+        <target>আপনি ব্রাউজ করুন। %@ ব্লক।</target>
         <note>Text for a label that indicates the title for share trackers tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.Shortcuts.Description">
@@ -1158,8 +1164,9 @@
         <target>সংযোগ সুরক্ষিত</target>
         <note>Text for tracking protection screen showing the connection is secure</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.connectionVerifiedByLabel">
+      <trans-unit id="trackingProtection.connectionVerifiedByLabel" xml:space="preserve">
         <source>Verified by %@</source>
+        <target>%@ যাচাই করেছে</target>
         <note>String to let users know the site verifier, where the placeholder represents the SSL certificate signer.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.contentTrackerLabel" xml:space="preserve">
