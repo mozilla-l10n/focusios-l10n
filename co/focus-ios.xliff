@@ -123,7 +123,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet3" xml:space="preserve">
         <source>Erase to delete cookies as well as search and browsing history</source>
-        <target>Squassate i canistrelli è ancu e crunulogie di navigazione è di ricerca</target>
+        <target>Squassate i canistrelli è ancu e cronolugie di navigazione è di ricerca</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader" xml:space="preserve">
