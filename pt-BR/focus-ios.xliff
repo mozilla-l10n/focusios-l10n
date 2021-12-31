@@ -413,7 +413,7 @@
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreTitle" xml:space="preserve">
         <source>%@ wants to open the App Store.</source>
-        <target>%@ deseja abrir a App Store.</target>
+        <target>%@ quer abrir a App Store.</target>
         <note>Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openMapsButton" xml:space="preserve">
