@@ -1000,8 +1000,9 @@
         <target>مٹائيں</target>
         <note>Erase button in the URL bar</note>
       </trans-unit>
-      <trans-unit id="URL.eraseMessageLabel2">
+      <trans-unit id="URL.eraseMessageLabel2" xml:space="preserve">
         <source>Browsing history cleared</source>
+        <target>براؤزنگ کی سابقات صاف ہو گئی۔</target>
         <note>Message shown after pressing the Erase button</note>
       </trans-unit>
       <trans-unit id="URL.findOnPageLabel" xml:space="preserve">
