@@ -548,7 +548,7 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptMessage" xml:space="preserve">
         <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
-        <target>Per ottene sugestioni di ricerca, %@ hà bisognu di mandà à u mutore di ricerca ciò chì vo scrivite in a barra d’indirizzu.</target>
+        <target>Per ottene sugestioni di ricerca, %@ hà bisognu di mandà à u mutore di ricerca ciò chì vo stampittate in a barra d’indirizzu.</target>
         <note>%@ is the name of the app (Focus / Klar). Label for search suggestions prompt message</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptTitle" xml:space="preserve">
@@ -603,7 +603,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplatePlaceholder" xml:space="preserve">
         <source>Paste or enter search string. If necessary, replace search term with: %s.</source>
-        <target>Incullate o scrivite una catena di ricerca. S’ellu hè bisognu, rimpiazzate u termine di ricerca da : %s.</target>
+        <target>Incullate o stampittate una catena di ricerca. S’ellu hè bisognu, rimpiazzate u termine di ricerca da : %s.</target>
         <note>Placeholder text for input of new search engine template</note>
       </trans-unit>
       <trans-unit id="Settings.autocompleteSection" xml:space="preserve">
@@ -633,7 +633,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
         <source>%@ will send what you type in the address bar to your search engine.</source>
-        <target>%@ manderà à u vostru mutore di ricerca ciò chì vo scrivite in a barra d’indirizzu.</target>
+        <target>%@ manderà à u vostru mutore di ricerca ciò chì vo stampittate in a barra d’indirizzu.</target>
         <note>Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData" xml:space="preserve">
