@@ -143,7 +143,7 @@
       </trans-unit>
       <trans-unit id="About.rowRights" xml:space="preserve">
         <source>Your Rights</source>
-        <target>Rétturinn þinn</target>
+        <target>Réttindi þín</target>
         <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet1" xml:space="preserve">
@@ -153,12 +153,12 @@
       </trans-unit>
       <trans-unit id="About.safariBullet2" xml:space="preserve">
         <source>Block web fonts to reduce page size</source>
-        <target>Loka á vef leturgerðir til að minnka stærð síðunnar</target>
+        <target>Loka á vefletur til að minnka stærð síðunnar</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader" xml:space="preserve">
         <source>Use it as a Safari extension:</source>
-        <target>Nota sem Safari viðauka til að:</target>
+        <target>Nota sem Safari-viðauka til að:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.title" xml:space="preserve">
@@ -168,7 +168,7 @@
       </trans-unit>
       <trans-unit id="About.topLabel" xml:space="preserve">
         <source>%@ puts you in control.</source>
-        <target>%@ gefur þér stjórn.</target>
+        <target>%@ gefur þér stjórnina.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="AddPass.Error.Dismiss" xml:space="preserve">
@@ -178,7 +178,7 @@
       </trans-unit>
       <trans-unit id="AddPass.Error.Message" xml:space="preserve">
         <source>An error occured while adding the pass to Wallet. Please try again later.</source>
-        <target>Villa átti sér stað þegar verið var að senda gögn í veskið. Vinsamlega reyndu aftur síðar.</target>
+        <target>Villa átti sér stað þegar verið var að senda gögn í veskið. Reyndu aftur síðar.</target>
         <note>Message of the 'Add Pass Failed' alert.</note>
       </trans-unit>
       <trans-unit id="AddPass.Error.Title" xml:space="preserve">
@@ -408,12 +408,12 @@
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreButton" xml:space="preserve">
         <source>Open App Store</source>
-        <target>Opna smáforrits verslun</target>
+        <target>Opna App Store</target>
         <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openAppStoreTitle" xml:space="preserve">
         <source>%@ wants to open the App Store.</source>
-        <target>%@ vill opna smáforrita verslunina.</target>
+        <target>%@ vill opna App Store.</target>
         <note>Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="ExternalLink.openMapsButton" xml:space="preserve">
@@ -843,7 +843,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox" xml:space="preserve">
         <source>Get the Firefox App</source>
-        <target>Sækja Firefox smáforritið</target>
+        <target>Sækja Firefox-smáforritið</target>
         <note>Text for the share menu option when a user wants to open a page in Firefox but doesn’t have it installed. This string will not wrap in the interface. Instead, it will truncate. To prevent this, please keep the localized string to 18 or fewer characters. If your string runs longer than 18 characters, you can use 'Get Firefox' as the basis for your string. However, if at all possible, we’d like to signal to the user that they will be going to the App Store and installing the application from there. That is why we are using Get and App in the en-US string.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.PageActions" xml:space="preserve">
