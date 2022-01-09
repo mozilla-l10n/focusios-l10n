@@ -56,7 +56,7 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description" xml:space="preserve">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
-        <target>Hreinsa feril, lykilorð, smákökur hvenær sem er með einni snertingu.</target>
+        <target>Hreinsa feril, lykilorð, vefkökur hvenær sem er með einni snertingu.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title" xml:space="preserve">
@@ -223,32 +223,32 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customDescriptoin" xml:space="preserve">
         <source>Add and manage custom autocomplete URLs.</source>
-        <target>Bæta við og sýsla með sjálfvirka leiðréttingu á URL.</target>
+        <target>Bættu við og stjórnaðu sérsniðnum sjálfvirkum útfyllingarslóðum.</target>
         <note>Description for adding and managing custom autocomplete URLs</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customLabel" xml:space="preserve">
         <source>Custom URLs</source>
-        <target>Sérsniðið URL</target>
+        <target>Sérsniðnar vefslóðir</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customTitle" xml:space="preserve">
         <source>CUSTOM URL LIST</source>
-        <target>SÉRSNIÐINN URL LISTI</target>
+        <target>SÉRSNIÐINN SLÓÐALISTI</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customUrlAdded" xml:space="preserve">
         <source>New Custom URL added.</source>
-        <target>Nýtt sérsniðið URL bætt við.</target>
+        <target>Nýrri sérsniðinni vefslóð bætt við.</target>
         <note>Label for toast alerting a custom URL has been added</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin" xml:space="preserve">
         <source>Enable to have %@ autocomplete over 450 popular URLs in the address bar.</source>
-        <target>Virkja sjálfvirku leiðréttingu fyrir %@ í staðsetningarslá á rúmlega 450 vinsælum slóðum.</target>
+        <target>Virkja sjálfvirka útfyllingu í staðsetningarslá %@ á rúmlega 450 vinsælum slóðum.</target>
         <note>Description for enabling or disabling the default list. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultLabel" xml:space="preserve">
         <source>Autocomplete</source>
-        <target>Sjálfvirk leiðrétting</target>
+        <target>Sjálfvirk útfylling</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultTitle" xml:space="preserve">
@@ -288,7 +288,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.mySitesDesc" xml:space="preserve">
         <source>Enable to have %@ autocomplete your favorite URLs.</source>
-        <target>Leyfa %@ að klára uppáhaldsvefsvæði þín.</target>
+        <target>Leyfa %@ að klára uppáhaldsvefslóðirnar þínar.</target>
         <note>Description for adding and managing custom autocomplete URLs. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.topSites" xml:space="preserve">
@@ -323,7 +323,7 @@
       </trans-unit>
       <trans-unit id="Browser.customURLMenuLabel" xml:space="preserve">
         <source>Add Custom URL</source>
-        <target>Bæta við sérsniðnu URL</target>
+        <target>Bæta við sérsniðinni vefslóð</target>
         <note>Custom URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.forwardLabel" xml:space="preserve">
@@ -443,7 +443,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription" xml:space="preserve">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
-        <target>Loka sjálfvirkt á tengda rekjara á meðan þú vafrar. Snertu síðan til að eyða heimsóttum síðum, uppflettingum, smákökum og lykilorðum úr tæki þínu.</target>
+        <target>Loka sjálfvirkt á tengda rekjara á meðan þú vafrar. Ýttu síðan til að eyða heimsóttum síðum, uppflettingum, vefkökum og lykilorðum úr tækinu þínu.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline" xml:space="preserve">
@@ -463,7 +463,7 @@
       </trans-unit>
       <trans-unit id="Home.descriptionLabel2" xml:space="preserve">
         <source>Browse. Erase. Repeat.</source>
-        <target>Vafra. Eyða. Endurtaka.</target>
+        <target>Vafra. Hreinsa. Endurtaka.</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Menu.Close" xml:space="preserve">
@@ -508,7 +508,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers" xml:space="preserve">
         <source>Tap Safari, then select Content Blockers</source>
-        <target>Snertu Safari, veldu síðan lokun á efni</target>
+        <target>Ýttu á Safari, veldu síðan lokun á efni</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsEnable" xml:space="preserve">
@@ -908,12 +908,12 @@
       </trans-unit>
       <trans-unit id="Siri.erase" xml:space="preserve">
         <source>Erase</source>
-        <target>Eyða</target>
+        <target>Hreinsa</target>
         <note>Title of option in settings to set up Siri to erase</note>
       </trans-unit>
       <trans-unit id="Siri.eraseAndOpen" xml:space="preserve">
         <source>Erase &amp; Open</source>
-        <target>Eyða og Opna</target>
+        <target>Hreinsa og opna</target>
         <note>Title of option in settings to set up Siri to erase and then open the app.</note>
       </trans-unit>
       <trans-unit id="Siri.favoriteUrl" xml:space="preserve">
@@ -1216,7 +1216,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription1" xml:space="preserve">
         <source>Disable until you close %@ or tap ERASE.</source>
-        <target>Slökkva á þar til þú lokar %@ eða snertir ERASE.</target>
+        <target>Slökkva á þar til þú lokar %@ eða ýttu á ERASE.</target>
         <note>Description for the tracking protection toggle. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel2" xml:space="preserve">
