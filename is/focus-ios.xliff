@@ -86,7 +86,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description" xml:space="preserve">
         <source>Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.</source>
-        <target>Betrumbæta einkavafra notkun. Loka á auglýsingar og annað efni sem getur fylgjast með þér og hægt á vafranum.</target>
+        <target>Taktu einkavafur upp á næsta stig. Lokaðu fyrir auglýsingar og annað efni sem getur fylgst með þér á milli vefsvæða og aukið hleðslutíma á vefsíðum.</target>
         <note>Description for the 'Welcome' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Title" xml:space="preserve">
@@ -123,7 +123,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet3" xml:space="preserve">
         <source>Erase to delete cookies as well as search and browsing history</source>
-        <target>Eyða smákökum, leitar- og vafraferlum</target>
+        <target>Hreinsa til að eyða vefkökum, leitar- og vafraferlum</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader" xml:space="preserve">
@@ -478,7 +478,7 @@
       </trans-unit>
       <trans-unit id="Open.Firefox" xml:space="preserve">
         <source>Firefox (Private Browsing)</source>
-        <target>Firefox (Einkavafur)</target>
+        <target>Firefox (einkavafur)</target>
         <note>Label in share alert to open the URL in Firefox</note>
       </trans-unit>
       <trans-unit id="Open.More" xml:space="preserve">
@@ -1026,7 +1026,7 @@
       </trans-unit>
       <trans-unit id="URL.eraseButtonLabel" xml:space="preserve">
         <source>ERASE</source>
-        <target>EYÐA</target>
+        <target>HREINSA</target>
         <note>Erase button in the URL bar</note>
       </trans-unit>
       <trans-unit id="URL.eraseMessageLabel2" xml:space="preserve">
@@ -1216,7 +1216,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription1" xml:space="preserve">
         <source>Disable until you close %@ or tap ERASE.</source>
-        <target>Slökkva á þar til þú lokar %@ eða ýttu á ERASE.</target>
+        <target>Slökkva á þar til þú lokar %@ eða ýttu á HREINSA.</target>
         <note>Description for the tracking protection toggle. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel2" xml:space="preserve">
