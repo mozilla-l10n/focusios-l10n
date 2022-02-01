@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Blockzilla/en.lproj/InfoPlist.strings" source-language="en" target-language="bs" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.2.1" build-num="13C100"/>
     </header>
     <body>
       <trans-unit id="NSCameraUsageDescription">
@@ -37,7 +37,7 @@
   </file>
   <file original="Blockzilla/en.lproj/Intents.strings" source-language="en" target-language="bs" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.2.1" build-num="13C100"/>
     </header>
     <body>
       <trans-unit id="Intents.Erase.Title">
@@ -48,7 +48,7 @@
   </file>
   <file original="Blockzilla/en.lproj/Intro.strings" source-language="en" target-language="bs" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.2.1" build-num="13C100"/>
     </header>
     <body>
       <trans-unit id="Intro.Slides.History.Description">
@@ -95,9 +95,13 @@
   </file>
   <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" target-language="bs" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.2.1" build-num="13C100"/>
     </header>
     <body>
+      <trans-unit id="%@">
+        <source>%@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="About.learnMoreButton">
         <source>Learn more</source>
         <target>Saznaj više</target>
@@ -167,6 +171,10 @@
         <source>%@ puts you in control.</source>
         <target>%@ vam daje kontrolu.</target>
         <note>Label on About screen</note>
+      </trans-unit>
+      <trans-unit id="Active Branch">
+        <source>Active Branch</source>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="AddPass.Error.Dismiss">
         <source>Ok</source>
@@ -284,6 +292,14 @@
         <source>Top Sites</source>
         <note>Label for enabling or disabling top sites</note>
       </trans-unit>
+      <trans-unit id="Available Branches">
+        <source>Available Branches</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Available Experiments">
+        <source>Available Experiments</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="BiometricPrompt.newSession">
         <source>New Session</source>
         <target>Nova sesija</target>
@@ -342,6 +358,10 @@
         <source>Cancel</source>
         <target>Otkaži</target>
         <note>Label on button to cancel edits</note>
+      </trans-unit>
+      <trans-unit id="Crash Triggers">
+        <source>Crash Triggers</source>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Done">
         <source>Done</source>
@@ -457,6 +477,14 @@
         <source>Close</source>
         <note>Button label used to close a menu that displays as a popup.</note>
       </trans-unit>
+      <trans-unit id="No Experiments Found">
+        <source>No Experiments Found</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Not Enrolled">
+        <source>Not Enrolled</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Open.Cancel">
         <source>Cancel</source>
         <target>Otkaži</target>
@@ -489,6 +517,10 @@
         <source>Request Desktop Site</source>
         <target>Zahtjevaj desktop stranicu</target>
         <note>Label for button that requests the desktop version of the currently loaded website.</note>
+      </trans-unit>
+      <trans-unit id="Requires app restart">
+        <source>Requires app restart</source>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers">
         <source>Tap Safari, then select Content Blockers</source>
@@ -534,6 +566,10 @@
       <trans-unit id="SearchSuggestions.promptTitle">
         <source>Show Search Suggestions?</source>
         <note>Title for search suggestions prompt</note>
+      </trans-unit>
+      <trans-unit id="Settings">
+        <source>Settings</source>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton">
         <source>Add Another Search Engine</source>
@@ -664,11 +700,6 @@
         <source>SEARCH</source>
         <target>TRAŽI</target>
         <note>Title for the search selection screen</note>
-      </trans-unit>
-      <trans-unit id="Settings.sectionIntegration">
-        <source>INTEGRATION</source>
-        <target>INTEGRATION</target>
-        <note>Label for Safari integration section</note>
       </trans-unit>
       <trans-unit id="Settings.sectionMozilla">
         <source>MOZILLA</source>
@@ -870,6 +901,10 @@
         <source>URL to open</source>
         <note>Label for input to set a favorite URL to be opened by Siri.</note>
       </trans-unit>
+      <trans-unit id="The settings in this section are used by Focus developers and testers.">
+        <source>The settings in this section are used by Focus developers and testers.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Tip.Biometric.Title">
         <source>Lock %@ when a site is open:</source>
         <note>Text for a label that indicates the title for biometric tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
@@ -985,6 +1020,14 @@
         <target>Blokirani pratioci</target>
         <note>Text for the URL bar showing the number of trackers blocked on a webpage.</note>
       </trans-unit>
+      <trans-unit id="Use Preview Collection">
+        <source>Use Preview Collection</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Use Staging Server">
+        <source>Use Staging Server</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="actionSheet.openIn">
         <source>Open in %@</source>
         <target>Otvori u %@</target>
@@ -998,11 +1041,6 @@
         <source>Select Location Bar</source>
         <target>Izaberite traku lokacije</target>
         <note>Label to display in the Discoverability overlay for keyboard shortcuts</note>
-      </trans-unit>
-      <trans-unit id="contextMenu.clipboardLink">
-        <source>Link you copied: %@</source>
-        <target>Link koji ste kopirali: %@</target>
-        <note>Text for the context menu when a user has a link on their clipboard.</note>
       </trans-unit>
       <trans-unit id="contextMenu.copyImageTitle">
         <source>Copy Image</source>
@@ -1049,8 +1087,7 @@
         <note>Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="settings.Search.SearchTemplateExample">
-        <source>Example: searchengineexample.com/search/?q=%s</source>
-        <target>Primjer: searchengineexample.com/search/?q=%s</target>
+        <source>Example: searchengine.example.com/search/?q=%s</source>
         <note>Text displayed as an example of the template to add a search engine.</note>
       </trans-unit>
       <trans-unit id="share">
@@ -1154,7 +1191,7 @@
   </file>
   <file original="Blockzilla/Settings.bundle/en.lproj/Root.strings" datatype="plaintext" source-language="en" target-language="bs">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.2.1" build-num="13C100"/>
     </header>
     <body>
       <trans-unit id="SettingsBundle.Licenses">
