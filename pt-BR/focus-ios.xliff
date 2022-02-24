@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
         <source>This lets you take and upload photos.</source>
-        <target>Isso permite tirar fotos e enviar.</target>
+        <target>Isso permite tirar e enviar fotos.</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
