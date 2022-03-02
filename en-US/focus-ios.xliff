@@ -695,11 +695,6 @@
         <target>SEARCH</target>
         <note>Title for the search selection screen</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionIntegration">
-        <source>INTEGRATION</source>
-        <target>INTEGRATION</target>
-        <note>Label for Safari integration section</note>
-      </trans-unit>
       <trans-unit id="Settings.sectionMozilla">
         <source>MOZILLA</source>
         <target>MOZILLA</target>
@@ -889,6 +884,26 @@
         <source>Remove from Shortcuts</source>
         <target>Remove from Shortcuts</target>
         <note>Text for the long press on a shortcut option in context menu.</note>
+      </trans-unit>
+      <trans-unit id="ShortcutView.Rename">
+        <source>Rename Shortcut</source>
+        <target>Rename Shortcut</target>
+        <note>Text for the long press on a shortcut rename option in context menu.</note>
+      </trans-unit>
+      <trans-unit id="ShortcutView.RenameShortcutAlertPlaceholder">
+        <source>Shortcut name</source>
+        <target>Shortcut name</target>
+        <note>Text for the placeholder textfield on rename shortcut alert.</note>
+      </trans-unit>
+      <trans-unit id="ShortcutView.RenameShortcutAlertPrimaryAction">
+        <source>Save</source>
+        <target>Save</target>
+        <note>Text for the rename shortcut alert primary action.</note>
+      </trans-unit>
+      <trans-unit id="ShortcutView.RenameShortcutAlertSecondaryAction">
+        <source>Cancel</source>
+        <target>Cancel</target>
+        <note>Text for the rename shortcut alert secondary action.</note>
       </trans-unit>
       <trans-unit id="Siri.add">
         <source>Add</source>
@@ -1080,11 +1095,6 @@
         <target>Select Location Bar</target>
         <note>Label to display in the Discoverability overlay for keyboard shortcuts</note>
       </trans-unit>
-      <trans-unit id="contextMenu.clipboardLink">
-        <source>Link you copied: %@</source>
-        <target>Link you copied: %@</target>
-        <note>Text for the context menu when a user has a link on their clipboard.</note>
-      </trans-unit>
       <trans-unit id="contextMenu.copyImageTitle">
         <source>Copy Image</source>
         <target>Copy Image</target>
@@ -1131,7 +1141,7 @@
         <note>Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="settings.Search.SearchTemplateExample">
-        <source>Example: searchengineexample.com/search/?q=%s</source>
+        <source>Example: searchengine.example.com/search/?q=%s</source>
         <target>Example: searchengineexample.com/search/?q=%s</target>
         <note>Text displayed as an example of the template to add a search engine.</note>
       </trans-unit>
