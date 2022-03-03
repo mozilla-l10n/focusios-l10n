@@ -886,20 +886,24 @@
         <target>Fjern fra genveje</target>
         <note>Text for the long press on a shortcut option in context menu.</note>
       </trans-unit>
-      <trans-unit id="ShortcutView.Rename">
+      <trans-unit id="ShortcutView.Rename" xml:space="preserve">
         <source>Rename Shortcut</source>
+        <target>Omdøb genvej</target>
         <note>Text for the long press on a shortcut rename option in context menu.</note>
       </trans-unit>
-      <trans-unit id="ShortcutView.RenameShortcutAlertPlaceholder">
+      <trans-unit id="ShortcutView.RenameShortcutAlertPlaceholder" xml:space="preserve">
         <source>Shortcut name</source>
+        <target>Genvejsnavn</target>
         <note>Text for the placeholder textfield on rename shortcut alert.</note>
       </trans-unit>
-      <trans-unit id="ShortcutView.RenameShortcutAlertPrimaryAction">
+      <trans-unit id="ShortcutView.RenameShortcutAlertPrimaryAction" xml:space="preserve">
         <source>Save</source>
+        <target>Gem</target>
         <note>Text for the rename shortcut alert primary action.</note>
       </trans-unit>
-      <trans-unit id="ShortcutView.RenameShortcutAlertSecondaryAction">
+      <trans-unit id="ShortcutView.RenameShortcutAlertSecondaryAction" xml:space="preserve">
         <source>Cancel</source>
+        <target>Annuller</target>
         <note>Text for the rename shortcut alert secondary action.</note>
       </trans-unit>
       <trans-unit id="Siri.add" xml:space="preserve">
