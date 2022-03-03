@@ -1141,8 +1141,9 @@
         <target>“%@” quiere acceder a tus fotos</target>
         <note>Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
-      <trans-unit id="settings.Search.SearchTemplateExample">
+      <trans-unit id="settings.Search.SearchTemplateExample" xml:space="preserve">
         <source>Example: searchengine.example.com/search/?q=%s</source>
+        <target>Ejemplo: searchengineexample.com/search/?q=%s</target>
         <note>Text displayed as an example of the template to add a search engine.</note>
       </trans-unit>
       <trans-unit id="share" xml:space="preserve">
