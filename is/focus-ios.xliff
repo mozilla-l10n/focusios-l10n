@@ -893,7 +893,7 @@
       </trans-unit>
       <trans-unit id="ShortcutView.RenameShortcutAlertPlaceholder" xml:space="preserve">
         <source>Shortcut name</source>
-        <target>Heiti á flýtivísun</target>
+        <target>Nafn flýtileiðar</target>
         <note>Text for the placeholder textfield on rename shortcut alert.</note>
       </trans-unit>
       <trans-unit id="ShortcutView.RenameShortcutAlertPrimaryAction" xml:space="preserve">
