@@ -901,8 +901,9 @@
         <target>Arregistrà</target>
         <note>Text for the rename shortcut alert primary action.</note>
       </trans-unit>
-      <trans-unit id="ShortcutView.RenameShortcutAlertSecondaryAction">
+      <trans-unit id="ShortcutView.RenameShortcutAlertSecondaryAction" xml:space="preserve">
         <source>Cancel</source>
+        <target>Abbandunà</target>
         <note>Text for the rename shortcut alert secondary action.</note>
       </trans-unit>
       <trans-unit id="Siri.add" xml:space="preserve">
@@ -1140,8 +1141,9 @@
         <target>« %@ » vole accede à e vostre fotò</target>
         <note>Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
-      <trans-unit id="settings.Search.SearchTemplateExample">
+      <trans-unit id="settings.Search.SearchTemplateExample" xml:space="preserve">
         <source>Example: searchengine.example.com/search/?q=%s</source>
+        <target>Esempiu : esempiudimutorediricerca.com/search/?q=%s</target>
         <note>Text displayed as an example of the template to add a search engine.</note>
       </trans-unit>
       <trans-unit id="share" xml:space="preserve">
