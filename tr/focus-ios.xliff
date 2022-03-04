@@ -891,16 +891,19 @@
         <target>Kısayol adını değiştir</target>
         <note>Text for the long press on a shortcut rename option in context menu.</note>
       </trans-unit>
-      <trans-unit id="ShortcutView.RenameShortcutAlertPlaceholder">
+      <trans-unit id="ShortcutView.RenameShortcutAlertPlaceholder" xml:space="preserve">
         <source>Shortcut name</source>
+        <target>Kısayol adı</target>
         <note>Text for the placeholder textfield on rename shortcut alert.</note>
       </trans-unit>
-      <trans-unit id="ShortcutView.RenameShortcutAlertPrimaryAction">
+      <trans-unit id="ShortcutView.RenameShortcutAlertPrimaryAction" xml:space="preserve">
         <source>Save</source>
+        <target>Kaydet</target>
         <note>Text for the rename shortcut alert primary action.</note>
       </trans-unit>
-      <trans-unit id="ShortcutView.RenameShortcutAlertSecondaryAction">
+      <trans-unit id="ShortcutView.RenameShortcutAlertSecondaryAction" xml:space="preserve">
         <source>Cancel</source>
+        <target>İptal</target>
         <note>Text for the rename shortcut alert secondary action.</note>
       </trans-unit>
       <trans-unit id="Siri.add" xml:space="preserve">
@@ -1138,8 +1141,9 @@
         <target>“%@” fotoğraflarınıza erişmek istiyor</target>
         <note>Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
-      <trans-unit id="settings.Search.SearchTemplateExample">
+      <trans-unit id="settings.Search.SearchTemplateExample" xml:space="preserve">
         <source>Example: searchengine.example.com/search/?q=%s</source>
+        <target>Örnek: aramamotoru.example.com/search/?q=%s</target>
         <note>Text displayed as an example of the template to add a search engine.</note>
       </trans-unit>
       <trans-unit id="share" xml:space="preserve">
