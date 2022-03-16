@@ -848,7 +848,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.RemoveFromShortcuts" xml:space="preserve">
         <source>Remove from Shortcuts</source>
-        <target>Hapuskan dari Shortcuts</target>
+        <target>Hapus dari Pintasan</target>
         <note>Text for the share menu option when a user wants to remove the site from Shortcuts</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop" xml:space="preserve">
@@ -878,12 +878,12 @@
       </trans-unit>
       <trans-unit id="ShareMenu.SharePage" xml:space="preserve">
         <source>Share Page With...</source>
-        <target>Bagikan Laman Dengan...</target>
+        <target>Bagikan Laman...</target>
         <note>Text for the share menu option when a user wants to share the current website they are on through another app.</note>
       </trans-unit>
       <trans-unit id="ShortcutView.RemoveFromShortcuts" xml:space="preserve">
         <source>Remove from Shortcuts</source>
-        <target>Hapuskan dari Shortcuts</target>
+        <target>Hapus dari Pintasan</target>
         <note>Text for the long press on a shortcut option in context menu.</note>
       </trans-unit>
       <trans-unit id="ShortcutView.Rename" xml:space="preserve">
@@ -1238,7 +1238,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel2" xml:space="preserve">
         <source>Enhanced Tracking Protection</source>
-        <target>Perlindungan Pelacakan Dipertingkat</target>
+        <target>Perlindungan Pelacakan yang Ditingkatkan</target>
         <note>Text for the toggle that enables/disables tracking protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.trackerDescriptionLabel2" xml:space="preserve">
