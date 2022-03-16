@@ -833,7 +833,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.FindInPage" xml:space="preserve">
         <source>Find in Page</source>
-        <target>Sayfada Bul</target>
+        <target>Sayfada bul</target>
         <note>Text for the share menu option when a user wants to open the find in page menu</note>
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox" xml:space="preserve">
