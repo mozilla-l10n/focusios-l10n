@@ -464,6 +464,42 @@
         <target>Isarado</target>
         <note>Button label used to close a menu that displays as a popup.</note>
       </trans-unit>
+      <trans-unit id="Onboarding.Button.Title">
+        <source>Start browsing</source>
+        <note>Text for a label that indicates the title of button from onboarding screen</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.History.Description">
+        <source>Erase your browsing history, passwords, cookies, and prevent unwanted ads from following you in a simple click!</source>
+        <note>Text for a label that indicates the description of history section from onboarding screen.</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.History.Title">
+        <source>Your history doesn’t follow you</source>
+        <note>Text for a label that indicates the title of history section from onboarding screen.</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.Incognito.Description">
+        <source>Focus is a dedicated privacy browser with tracking protection and content blocking.</source>
+        <note>Text for a label that indicates the description of incognito section from onboarding screen.</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.Incognito.Title">
+        <source>More than just incognito</source>
+        <note>Text for a label that indicates the title of incognito section from onboarding screen.</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.Protection.Description">
+        <source>Configure settings so you can decide how much or how little you share.</source>
+        <note>Text for a label that indicates the description of protection section from onboarding screen.</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.Protection.Title">
+        <source>Protection at your own discretion</source>
+        <note>Text for a label that indicates the title of protection section from onboarding screen.</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.Subtitle">
+        <source>Take your private browsing to the next level.</source>
+        <note>Text for a label that indicates the subtitle for onboarding screen.</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.Title">
+        <source>Welcome to Firefox %@!</source>
+        <note>Text for a label that indicates the title for onboarding screen. (Focus and Klar)</note>
+      </trans-unit>
       <trans-unit id="Open.Cancel">
         <source>Cancel</source>
         <target>I-cancel</target>
@@ -984,6 +1020,26 @@
       <trans-unit id="Tip.SitesNotWorking.Title">
         <source>Site missing content or acting strange?</source>
         <note>Text for a label that indicates the title for sites not working tip.</note>
+      </trans-unit>
+      <trans-unit id="TooltipBodyText.ContextMenu">
+        <source>Go to Settings to manage specific privacy &amp; security options.</source>
+        <note>This is the body text that is displayed for the Context Menu icon tooltip</note>
+      </trans-unit>
+      <trans-unit id="TooltipBodyText.Privacy">
+        <source>These default settings offer strong protection. But it’s easy to tweak the settings to meet your specific needs.</source>
+        <note>This is the body text that is displayed for the Privacy tooltip</note>
+      </trans-unit>
+      <trans-unit id="TooltipBodyText.ShieldIcon">
+        <source>Focus stopped this site from spying on you. Tap the shield for info on what we blocked.</source>
+        <note>This is the body text that is displayed for the Shield icon tooltip</note>
+      </trans-unit>
+      <trans-unit id="TooltipBodyText.TrashIcon">
+        <source>Tap the trash anytime to remove all traces of your current session.</source>
+        <note>This is the body text that is displayed for the Trash icon tooltip</note>
+      </trans-unit>
+      <trans-unit id="TooltipTitleText.Privacy">
+        <source>You’re protected! </source>
+        <note>This is the title text that is displayed for the Privacy tooltip</note>
       </trans-unit>
       <trans-unit id="URL.addToAutocompleteLabel">
         <source>Add link to autocomplete</source>

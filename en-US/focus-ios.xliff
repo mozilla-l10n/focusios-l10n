@@ -470,6 +470,51 @@
         <target>Close</target>
         <note>Button label used to close a menu that displays as a popup.</note>
       </trans-unit>
+      <trans-unit id="Onboarding.Button.Title">
+        <source>Start browsing</source>
+        <target>Start browsing</target>
+        <note>Text for a label that indicates the title of button from onboarding screen</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.History.Description">
+        <source>Erase your browsing history, passwords, cookies, and prevent unwanted ads from following you in a simple click!</source>
+        <target>Erase your browsing history, passwords, cookies, and prevent unwanted ads from following you in a simple click!</target>
+        <note>Text for a label that indicates the description of history section from onboarding screen.</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.History.Title">
+        <source>Your history doesn’t follow you</source>
+        <target>Your history doesn’t follow you</target>
+        <note>Text for a label that indicates the title of history section from onboarding screen.</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.Incognito.Description">
+        <source>Focus is a dedicated privacy browser with tracking protection and content blocking.</source>
+        <target>Focus is a dedicated privacy browser with tracking protection and content blocking.</target>
+        <note>Text for a label that indicates the description of incognito section from onboarding screen.</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.Incognito.Title">
+        <source>More than just incognito</source>
+        <target>More than just incognito</target>
+        <note>Text for a label that indicates the title of incognito section from onboarding screen.</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.Protection.Description">
+        <source>Configure settings so you can decide how much or how little you share.</source>
+        <target>Configure settings so you can decide how much or how little you share.</target>
+        <note>Text for a label that indicates the description of protection section from onboarding screen.</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.Protection.Title">
+        <source>Protection at your own discretion</source>
+        <target>Protection at your own discretion</target>
+        <note>Text for a label that indicates the title of protection section from onboarding screen.</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.Subtitle">
+        <source>Take your private browsing to the next level.</source>
+        <target>Take your private browsing to the next level.</target>
+        <note>Text for a label that indicates the subtitle for onboarding screen.</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.Title">
+        <source>Welcome to Firefox %@!</source>
+        <target>Welcome to Firefox %@!</target>
+        <note>Text for a label that indicates the title for onboarding screen. (Focus and Klar)</note>
+      </trans-unit>
       <trans-unit id="Open.Cancel">
         <source>Cancel</source>
         <target>Cancel</target>
@@ -1029,6 +1074,31 @@
         <source>Site missing content or acting strange?</source>
         <target>Site missing content or acting strange?</target>
         <note>Text for a label that indicates the title for sites not working tip.</note>
+      </trans-unit>
+      <trans-unit id="TooltipBodyText.ContextMenu">
+        <source>Go to Settings to manage specific privacy &amp; security options.</source>
+        <target>Go to Settings to manage specific privacy &amp; security options.</target>
+        <note>This is the body text that is displayed for the Context Menu icon tooltip</note>
+      </trans-unit>
+      <trans-unit id="TooltipBodyText.Privacy">
+        <source>These default settings offer strong protection. But it’s easy to tweak the settings to meet your specific needs.</source>
+        <target>These default settings offer strong protection. But it’s easy to tweak the settings to meet your specific needs.</target>
+        <note>This is the body text that is displayed for the Privacy tooltip</note>
+      </trans-unit>
+      <trans-unit id="TooltipBodyText.ShieldIcon">
+        <source>Focus stopped this site from spying on you. Tap the shield for info on what we blocked.</source>
+        <target>Focus stopped this site from spying on you. Tap the shield for info on what we blocked.</target>
+        <note>This is the body text that is displayed for the Shield icon tooltip</note>
+      </trans-unit>
+      <trans-unit id="TooltipBodyText.TrashIcon">
+        <source>Tap the trash anytime to remove all traces of your current session.</source>
+        <target>Tap the trash anytime to remove all traces of your current session.</target>
+        <note>This is the body text that is displayed for the Trash icon tooltip</note>
+      </trans-unit>
+      <trans-unit id="TooltipTitleText.Privacy">
+        <source>You’re protected! </source>
+        <target>You’re protected! </target>
+        <note>This is the title text that is displayed for the Privacy tooltip</note>
       </trans-unit>
       <trans-unit id="URL.addToAutocompleteLabel">
         <source>Add link to autocomplete</source>
