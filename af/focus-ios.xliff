@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Blockzilla/en.lproj/InfoPlist.strings" source-language="en" target-language="af" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.2.1" build-num="13C100"/>
     </header>
     <body>
       <trans-unit id="NSCameraUsageDescription">
@@ -36,7 +36,7 @@
   </file>
   <file original="Blockzilla/en.lproj/Intents.strings" source-language="en" target-language="af" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.2.1" build-num="13C100"/>
     </header>
     <body>
       <trans-unit id="Intents.Erase.Title">
@@ -47,7 +47,7 @@
   </file>
   <file original="Blockzilla/en.lproj/Intro.strings" source-language="en" target-language="af" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.2.1" build-num="13C100"/>
     </header>
     <body>
       <trans-unit id="Intro.Slides.History.Description">
@@ -86,7 +86,7 @@
   </file>
   <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" target-language="af" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.2.1" build-num="13C100"/>
     </header>
     <body>
       <trans-unit id="About.learnMoreButton">
@@ -413,6 +413,42 @@
       <trans-unit id="Menu.Close">
         <source>Close</source>
         <note>Button label used to close a menu that displays as a popup.</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.Button.Title">
+        <source>Start browsing</source>
+        <note>Text for a label that indicates the title of button from onboarding screen</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.History.Description">
+        <source>Erase your browsing history, passwords, cookies, and prevent unwanted ads from following you in a simple click!</source>
+        <note>Text for a label that indicates the description of history section from onboarding screen.</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.History.Title">
+        <source>Your history doesn’t follow you</source>
+        <note>Text for a label that indicates the title of history section from onboarding screen.</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.Incognito.Description">
+        <source>%@ is a dedicated privacy browser with tracking protection and content blocking.</source>
+        <note>Text for a label that indicates the description of incognito section from onboarding screen. Placeholder can be (Focus or Klar).</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.Incognito.Title">
+        <source>More than just incognito</source>
+        <note>Text for a label that indicates the title of incognito section from onboarding screen.</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.Protection.Description">
+        <source>Configure settings so you can decide how much or how little you share.</source>
+        <note>Text for a label that indicates the description of protection section from onboarding screen.</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.Protection.Title">
+        <source>Protection at your own discretion</source>
+        <note>Text for a label that indicates the title of protection section from onboarding screen.</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.Subtitle">
+        <source>Take your private browsing to the next level.</source>
+        <note>Text for a label that indicates the subtitle for onboarding screen.</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.Title">
+        <source>Welcome to Firefox %@!</source>
+        <note>Text for a label that indicates the title for onboarding screen. Placeholder can be (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="Open.Cancel">
         <source>Cancel</source>
@@ -878,6 +914,26 @@
         <source>Site missing content or acting strange?</source>
         <note>Text for a label that indicates the title for sites not working tip.</note>
       </trans-unit>
+      <trans-unit id="TooltipBodyText.ContextMenu">
+        <source>Go to Settings to manage specific privacy &amp; security options.</source>
+        <note>This is the body text that is displayed for the Context Menu icon tooltip</note>
+      </trans-unit>
+      <trans-unit id="TooltipBodyText.Privacy">
+        <source>These default settings offer strong protection. But it’s easy to tweak the settings to meet your specific needs.</source>
+        <note>This is the body text that is displayed for the Privacy tooltip</note>
+      </trans-unit>
+      <trans-unit id="TooltipBodyText.ShieldIcon">
+        <source>%@ stopped this site from spying on you. Tap the shield for info on what we blocked.</source>
+        <note>This is the body text that is displayed for the Shield icon tooltip. Where placeholder can be (Focus or Klar).</note>
+      </trans-unit>
+      <trans-unit id="TooltipBodyText.TrashIcon">
+        <source>Tap the trash anytime to remove all traces of your current session.</source>
+        <note>This is the body text that is displayed for the Trash icon tooltip</note>
+      </trans-unit>
+      <trans-unit id="TooltipTitleText.Privacy">
+        <source>You’re protected! </source>
+        <note>This is the title text that is displayed for the Privacy tooltip</note>
+      </trans-unit>
       <trans-unit id="URL.addToAutocompleteLabel">
         <source>Add link to autocomplete</source>
         <note>Label displayed for button used as a shortcut to add a link to the list of URLs to autocomplete.</note>
@@ -1066,7 +1122,7 @@
   </file>
   <file original="Blockzilla/Settings.bundle/en.lproj/Root.strings" datatype="plaintext" source-language="en" target-language="af">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.2.1" build-num="13C100"/>
     </header>
     <body>
       <trans-unit id="SettingsBundle.Licenses">
