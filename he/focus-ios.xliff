@@ -286,8 +286,9 @@
         <target>האתרים שלי</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.mySitesDesc">
+      <trans-unit id="Autocomplete.mySitesDesc" xml:space="preserve">
         <source>Enable to have %@ autocomplete your favorite URLs.</source>
+        <target>יש להפעיל כדי ש־%@ ישלים אוטומטית את כתובות האתרים המועדפות עליך.</target>
         <note>Description for adding and managing custom autocomplete URLs. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.topSites" xml:space="preserve">
@@ -300,8 +301,9 @@
         <target>הפעלה חדשה</target>
         <note>Create a new session after failing a biometric check</note>
       </trans-unit>
-      <trans-unit id="BiometricPrompt.reason">
+      <trans-unit id="BiometricPrompt.reason" xml:space="preserve">
         <source>Unlock %@ when re-opening in order to prevent unauthorized access.</source>
+        <target>יש לבטל את הנעילה של %@ בעת פתיחה מחדש כדי למנוע גישה לא מורשית.</target>
         <note>%@ is app name. Explanation for why the app needs access to biometric information. Prompt is only shown once when the user first tries to enable Face ID to open the app.</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel" xml:space="preserve">
@@ -1000,8 +1002,9 @@
         <target>הפעלת Touch ID</target>
         <note>Text for a label that indicates the description for biometric Touch ID tip.</note>
       </trans-unit>
-      <trans-unit id="Tip.Release.Description">
+      <trans-unit id="Tip.Release.Description" xml:space="preserve">
         <source>Read more about this and other updates to %@.</source>
+        <target>מידע נוסף על העדכון הזה ואחרים עבור %@.</target>
         <note>Text for a label that indicates the description for release tip. The placeholder is replaced with the short product name (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.Release.Title" xml:space="preserve">
