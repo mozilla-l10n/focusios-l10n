@@ -471,8 +471,9 @@
         <target>Cerrar</target>
         <note>Button label used to close a menu that displays as a popup.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Button.Title">
+      <trans-unit id="Onboarding.Button.Title" xml:space="preserve">
         <source>Start browsing</source>
+        <target>Empieza a navegar</target>
         <note>Text for a label that indicates the title of button from onboarding screen</note>
       </trans-unit>
       <trans-unit id="Onboarding.History.Description">
@@ -499,12 +500,14 @@
         <source>Protection at your own discretion</source>
         <note>Text for a label that indicates the title of protection section from onboarding screen.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Subtitle">
+      <trans-unit id="Onboarding.Subtitle" xml:space="preserve">
         <source>Take your private browsing to the next level.</source>
+        <target>Lleva tu navegación privada al siguiente nivel.</target>
         <note>Text for a label that indicates the subtitle for onboarding screen.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Title">
+      <trans-unit id="Onboarding.Title" xml:space="preserve">
         <source>Welcome to Firefox %@!</source>
+        <target>¡Bienvenido a Firefox %@!</target>
         <note>Text for a label that indicates the title for onboarding screen. Placeholder can be (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="Open.Cancel" xml:space="preserve">
