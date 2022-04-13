@@ -871,8 +871,8 @@
         <note>Text for the share menu option when a user wants to open the current website in the Firefox app.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.SharePage">
-        <source>Share Page With...</source>
-        <target>ಇದರೊಂದಿಗೆ ಪುಟ ಹಂಚಿಕೊಳ್ಳಿ...</target>
+        <source>Share Page With…</source>
+        <target>ಇದರೊಂದಿಗೆ ಪುಟ ಹಂಚಿಕೊಳ್ಳಿ…</target>
         <note>Text for the share menu option when a user wants to share the current website they are on through another app.</note>
       </trans-unit>
       <trans-unit id="ShortcutView.RemoveFromShortcuts">
