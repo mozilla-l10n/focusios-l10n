@@ -593,7 +593,7 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptMessage" xml:space="preserve">
         <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
-        <target>Til að fá tillögur, þarf% @ að senda það sem þú skrifar í slóðina til leitarvélarinnar.</target>
+        <target>Til að fá tillögur, þarf %@ að senda það sem þú skrifar í slóðina til leitarvélarinnar.</target>
         <note>%@ is the name of the app (Focus / Klar). Label for search suggestions prompt message</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptTitle" xml:space="preserve">
@@ -678,7 +678,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
         <source>%@ will send what you type in the address bar to your search engine.</source>
-        <target>% @ mun senda það sem þú skrifar í slóðina yfir á leitarvélina þína.</target>
+        <target>%@ mun senda það sem þú skrifar í slóðina yfir á leitarvélina þína.</target>
         <note>Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData" xml:space="preserve">
