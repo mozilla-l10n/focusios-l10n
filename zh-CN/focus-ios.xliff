@@ -478,7 +478,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.History.Description" xml:space="preserve">
         <source>Erase your browsing history, passwords, cookies, and prevent unwanted ads from following you in a simple click!</source>
-        <target>只需点按一下，即可清除您的浏览历史、密码、Cookie，并阻止被烦人的广告跟踪！</target>
+        <target>一按即可清除您的浏览历史、密码、Cookie，并阻止被烦人的广告跟踪！</target>
         <note>Text for a label that indicates the description of history section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.History.Title">
