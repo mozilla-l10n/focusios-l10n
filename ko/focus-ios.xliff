@@ -496,20 +496,24 @@
         <target>시크릿 그 이상</target>
         <note>Text for a label that indicates the title of incognito section from onboarding screen.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Protection.Description">
+      <trans-unit id="Onboarding.Protection.Description" xml:space="preserve">
         <source>Configure settings so you can decide how much or how little you share.</source>
+        <target>설정을 통해 얼마나 많이 또는 적게 공유할지 결정할 수 있습니다.</target>
         <note>Text for a label that indicates the description of protection section from onboarding screen.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Protection.Title">
+      <trans-unit id="Onboarding.Protection.Title" xml:space="preserve">
         <source>Protection at your own discretion</source>
+        <target>내가 정하는 보호 기능</target>
         <note>Text for a label that indicates the title of protection section from onboarding screen.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Subtitle">
+      <trans-unit id="Onboarding.Subtitle" xml:space="preserve">
         <source>Take your private browsing to the next level.</source>
+        <target>개인 브라우징을 한 단계 업그레이드하세요.</target>
         <note>Text for a label that indicates the subtitle for onboarding screen.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Title">
+      <trans-unit id="Onboarding.Title" xml:space="preserve">
         <source>Welcome to Firefox %@!</source>
+        <target>Firefox %@에 오신 것을 환영합니다!</target>
         <note>Text for a label that indicates the title for onboarding screen. Placeholder can be (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="Open.Cancel" xml:space="preserve">
@@ -1072,24 +1076,29 @@
         <target>사이트에 콘텐츠가 없거나 이상하게 작동합니까?</target>
         <note>Text for a label that indicates the title for sites not working tip.</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.ContextMenu">
+      <trans-unit id="TooltipBodyText.ContextMenu" xml:space="preserve">
         <source>Go to Settings to manage specific privacy &amp; security options.</source>
+        <target>특정 개인 정보 및 보안 옵션을 관리하려면 설정으로 이동하십시오.</target>
         <note>This is the body text that is displayed for the Context Menu icon tooltip</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.Privacy">
+      <trans-unit id="TooltipBodyText.Privacy" xml:space="preserve">
         <source>These default settings offer strong protection. But it’s easy to tweak the settings to meet your specific needs.</source>
+        <target>이러한 기본 설정은 강력한 보호 기능을 제공합니다. 하지만 특정 요구 사항에 맞게 설정을 쉽게 수정할 수도 있습니다.</target>
         <note>This is the body text that is displayed for the Privacy tooltip</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.ShieldIcon">
+      <trans-unit id="TooltipBodyText.ShieldIcon" xml:space="preserve">
         <source>%@ stopped this site from spying on you. Tap the shield for info on what we blocked.</source>
+        <target>%@가 사용자를 감시하는 이 사이트를 중지했습니다. 차단된 항목에 대한 정보를 보려면 방패를 탭하세요.</target>
         <note>This is the body text that is displayed for the Shield icon tooltip. Where placeholder can be (Focus or Klar).</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.TrashIcon">
+      <trans-unit id="TooltipBodyText.TrashIcon" xml:space="preserve">
         <source>Tap the trash anytime to remove all traces of your current session.</source>
+        <target>현재 세션의 모든 흔적을 제거하려면 언제든지 휴지통을 탭하세요.</target>
         <note>This is the body text that is displayed for the Trash icon tooltip</note>
       </trans-unit>
-      <trans-unit id="TooltipTitleText.Privacy">
+      <trans-unit id="TooltipTitleText.Privacy" xml:space="preserve">
         <source>You’re protected! </source>
+        <target>보호되고 있습니다!</target>
         <note>This is the title text that is displayed for the Privacy tooltip</note>
       </trans-unit>
       <trans-unit id="URL.addToAutocompleteLabel" xml:space="preserve">
