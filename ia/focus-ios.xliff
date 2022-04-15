@@ -476,28 +476,34 @@
         <target>Initia a navigar</target>
         <note>Text for a label that indicates the title of button from onboarding screen</note>
       </trans-unit>
-      <trans-unit id="Onboarding.History.Description">
+      <trans-unit id="Onboarding.History.Description" xml:space="preserve">
         <source>Erase your browsing history, passwords, cookies, and prevent unwanted ads from following you in a simple click!</source>
+        <target>Per un simple clic, cancella chronologia de navigation, contrasignos, cookies, e impedi al avisos publicitari indesiderate de sequer te!</target>
         <note>Text for a label that indicates the description of history section from onboarding screen.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.History.Title">
+      <trans-unit id="Onboarding.History.Title" xml:space="preserve">
         <source>Your history doesn’t follow you</source>
+        <target>Tu chronologia non te seque plus</target>
         <note>Text for a label that indicates the title of history section from onboarding screen.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Incognito.Description">
+      <trans-unit id="Onboarding.Incognito.Description" xml:space="preserve">
         <source>%@ is a dedicated privacy browser with tracking protection and content blocking.</source>
+        <target>%@ es un navigator dedicate al confidentialitate con protection contra traciamento e blocada del contentos.</target>
         <note>Text for a label that indicates the description of incognito section from onboarding screen. Placeholder can be (Focus or Klar).</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Incognito.Title">
+      <trans-unit id="Onboarding.Incognito.Title" xml:space="preserve">
         <source>More than just incognito</source>
+        <target>Plus del sol navigation incognite</target>
         <note>Text for a label that indicates the title of incognito section from onboarding screen.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Protection.Description">
+      <trans-unit id="Onboarding.Protection.Description" xml:space="preserve">
         <source>Configure settings so you can decide how much or how little you share.</source>
+        <target>Configura le parametros e decide assi que informationes compartir.</target>
         <note>Text for a label that indicates the description of protection section from onboarding screen.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Protection.Title">
+      <trans-unit id="Onboarding.Protection.Title" xml:space="preserve">
         <source>Protection at your own discretion</source>
+        <target>Protection a tu proprie discretion</target>
         <note>Text for a label that indicates the title of protection section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Subtitle" xml:space="preserve">
@@ -1080,8 +1086,9 @@
         <target>Iste parametros predefinite offere forte protection. Ma il es facile adjustar le parametros pro satisfacer tu specific besonios.</target>
         <note>This is the body text that is displayed for the Privacy tooltip</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.ShieldIcon">
+      <trans-unit id="TooltipBodyText.ShieldIcon" xml:space="preserve">
         <source>%@ stopped this site from spying on you. Tap the shield for info on what we blocked.</source>
+        <target>%@ impediva a iste sito de spiar te. Tocca le schermo pro info re lo que nos ha blocate.</target>
         <note>This is the body text that is displayed for the Shield icon tooltip. Where placeholder can be (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon">
