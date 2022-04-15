@@ -506,8 +506,9 @@
         <target>Beskyttelse etter eget skjønn</target>
         <note>Text for a label that indicates the title of protection section from onboarding screen.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Subtitle">
+      <trans-unit id="Onboarding.Subtitle" xml:space="preserve">
         <source>Take your private browsing to the next level.</source>
+        <target>Ta din private surfing til neste nivå.</target>
         <note>Text for a label that indicates the subtitle for onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Title" xml:space="preserve">
