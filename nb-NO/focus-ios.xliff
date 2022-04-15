@@ -486,28 +486,33 @@
         <target>Historikken din følger deg ikke</target>
         <note>Text for a label that indicates the title of history section from onboarding screen.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Incognito.Description">
+      <trans-unit id="Onboarding.Incognito.Description" xml:space="preserve">
         <source>%@ is a dedicated privacy browser with tracking protection and content blocking.</source>
+        <target>%@ er en dedikert personvernnettleser med sporingsbeskyttelse og innholdsblokkering.</target>
         <note>Text for a label that indicates the description of incognito section from onboarding screen. Placeholder can be (Focus or Klar).</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Incognito.Title">
+      <trans-unit id="Onboarding.Incognito.Title" xml:space="preserve">
         <source>More than just incognito</source>
+        <target>Mer enn bare inkognito</target>
         <note>Text for a label that indicates the title of incognito section from onboarding screen.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Protection.Description">
+      <trans-unit id="Onboarding.Protection.Description" xml:space="preserve">
         <source>Configure settings so you can decide how much or how little you share.</source>
+        <target>Konfigurer innstillinger slik at du kan bestemme hvor mye eller lite du deler.</target>
         <note>Text for a label that indicates the description of protection section from onboarding screen.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Protection.Title">
+      <trans-unit id="Onboarding.Protection.Title" xml:space="preserve">
         <source>Protection at your own discretion</source>
+        <target>Beskyttelse etter eget skjønn</target>
         <note>Text for a label that indicates the title of protection section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Subtitle">
         <source>Take your private browsing to the next level.</source>
         <note>Text for a label that indicates the subtitle for onboarding screen.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Title">
+      <trans-unit id="Onboarding.Title" xml:space="preserve">
         <source>Welcome to Firefox %@!</source>
+        <target>Velkommen til Firefox %@!</target>
         <note>Text for a label that indicates the title for onboarding screen. Placeholder can be (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="Open.Cancel" xml:space="preserve">
@@ -1070,24 +1075,29 @@
         <target>Mangler nettstedet innhold eller oppfører den seg rart?</target>
         <note>Text for a label that indicates the title for sites not working tip.</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.ContextMenu">
+      <trans-unit id="TooltipBodyText.ContextMenu" xml:space="preserve">
         <source>Go to Settings to manage specific privacy &amp; security options.</source>
+        <target>Gå til Innstillinger for å behandle spesifikke personvern- og sikkerhetsalternativer.</target>
         <note>This is the body text that is displayed for the Context Menu icon tooltip</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.Privacy">
+      <trans-unit id="TooltipBodyText.Privacy" xml:space="preserve">
         <source>These default settings offer strong protection. But it’s easy to tweak the settings to meet your specific needs.</source>
+        <target>Disse standardinnstillingene gir sterk beskyttelse. Men det er enkelt å tilpasse innstillingene for å møte dine spesifikke behov.</target>
         <note>This is the body text that is displayed for the Privacy tooltip</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.ShieldIcon">
+      <trans-unit id="TooltipBodyText.ShieldIcon" xml:space="preserve">
         <source>%@ stopped this site from spying on you. Tap the shield for info on what we blocked.</source>
+        <target>%@ stoppet denne siden fra å spionere på deg. Trykk på skjoldet for informasjon om hva vi blokkerte.</target>
         <note>This is the body text that is displayed for the Shield icon tooltip. Where placeholder can be (Focus or Klar).</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.TrashIcon">
+      <trans-unit id="TooltipBodyText.TrashIcon" xml:space="preserve">
         <source>Tap the trash anytime to remove all traces of your current session.</source>
+        <target>Trykk på papirkurven når som helst for å fjerne alle spor etter gjeldende økt.</target>
         <note>This is the body text that is displayed for the Trash icon tooltip</note>
       </trans-unit>
-      <trans-unit id="TooltipTitleText.Privacy">
+      <trans-unit id="TooltipTitleText.Privacy" xml:space="preserve">
         <source>You’re protected! </source>
+        <target>Du er beskyttet!</target>
         <note>This is the title text that is displayed for the Privacy tooltip</note>
       </trans-unit>
       <trans-unit id="URL.addToAutocompleteLabel" xml:space="preserve">
