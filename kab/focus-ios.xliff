@@ -476,8 +476,9 @@
         <target>Bdu tunigin</target>
         <note>Text for a label that indicates the title of button from onboarding screen</note>
       </trans-unit>
-      <trans-unit id="Onboarding.History.Description">
+      <trans-unit id="Onboarding.History.Description" xml:space="preserve">
         <source>Erase your browsing history, passwords, cookies, and prevent unwanted ads from following you in a simple click!</source>
+        <target>Sfeḍ azray-ik•im n Tunigin, awalen-ik•im uffir, inagan-ik•im n tuqqna, tesweḥleḍ adellel akken ur ak•akem-iṭṭafar ara s yiwen kan usiti!</target>
         <note>Text for a label that indicates the description of history section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.History.Title" xml:space="preserve">
