@@ -1085,8 +1085,9 @@
         <source>%@ stopped this site from spying on you. Tap the shield for info on what we blocked.</source>
         <note>This is the body text that is displayed for the Shield icon tooltip. Where placeholder can be (Focus or Klar).</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.TrashIcon">
+      <trans-unit id="TooltipBodyText.TrashIcon" xml:space="preserve">
         <source>Tap the trash anytime to remove all traces of your current session.</source>
+        <target>Sit ɣef tqecwalt yal tikkelt i tukksa n lǧeṛṛa n tɣimit-ik•im tamirant.</target>
         <note>This is the body text that is displayed for the Trash icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipTitleText.Privacy" xml:space="preserve">
