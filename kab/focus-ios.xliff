@@ -1073,8 +1073,9 @@
         <target>Asmel ixuṣṣ agbur neɣ ur iteddu ara akken yella uqbel?</target>
         <note>Text for a label that indicates the title for sites not working tip.</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.ContextMenu">
+      <trans-unit id="TooltipBodyText.ContextMenu" xml:space="preserve">
         <source>Go to Settings to manage specific privacy &amp; security options.</source>
+        <target>Ddu ɣer yiɣewwaren i wakken ad tesferkeḍ tixtiṛiyin tufrinin n tbaḍnit &amp; tɣellist.</target>
         <note>This is the body text that is displayed for the Context Menu icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.Privacy" xml:space="preserve">
