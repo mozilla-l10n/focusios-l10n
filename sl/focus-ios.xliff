@@ -506,8 +506,9 @@
         <source>Take your private browsing to the next level.</source>
         <note>Text for a label that indicates the subtitle for onboarding screen.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Title">
+      <trans-unit id="Onboarding.Title" xml:space="preserve">
         <source>Welcome to Firefox %@!</source>
+        <target>Dobrodošli v Firefox %@u!</target>
         <note>Text for a label that indicates the title for onboarding screen. Placeholder can be (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="Open.Cancel" xml:space="preserve">
