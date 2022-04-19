@@ -491,8 +491,9 @@
         <target>%@ d iminig n tbaḍnit yettwagen i ummesten mgal aḍfar akked usewḥel n ugbur.</target>
         <note>Text for a label that indicates the description of incognito section from onboarding screen. Placeholder can be (Focus or Klar).</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Incognito.Title">
+      <trans-unit id="Onboarding.Incognito.Title" xml:space="preserve">
         <source>More than just incognito</source>
+        <target>Ugar n tunigin tusligt tafessast</target>
         <note>Text for a label that indicates the title of incognito section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Description" xml:space="preserve">
