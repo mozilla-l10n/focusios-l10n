@@ -227,196 +227,242 @@
         <target>ਚੁਣਿੰਦਾ URL ਸੂਚੀ</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.customUrlAdded">
+      <trans-unit id="Autocomplete.customUrlAdded" xml:space="preserve">
         <source>New Custom URL added.</source>
+        <target>ਨਵਾਂ ਚੁਣਿੰਦਾ URL ਜੋੜਿਆ।</target>
         <note>Label for toast alerting a custom URL has been added</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.defaultDescriptoin">
+      <trans-unit id="Autocomplete.defaultDescriptoin" xml:space="preserve">
         <source>Enable to have %@ autocomplete over 450 popular URLs in the address bar.</source>
+        <target>%@ ਨੂੰ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ 450 ਹਰਮਨਪਿਆਰੇ URL ਆਪਣੇ-ਆਪ ਪੂਰੇ ਕਰਨ ਦੇ ਸਮਰੱਥ ਬਣਾਓ।</target>
         <note>Description for enabling or disabling the default list. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.defaultLabel">
+      <trans-unit id="Autocomplete.defaultLabel" xml:space="preserve">
         <source>Autocomplete</source>
+        <target>ਆਪੇ-ਪੂਰਨ</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.defaultTitle">
+      <trans-unit id="Autocomplete.defaultTitle" xml:space="preserve">
         <source>DEFAULT URL LIST</source>
+        <target>ਮੂਲ URL ਸੂਚੀ</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.disabled">
+      <trans-unit id="Autocomplete.disabled" xml:space="preserve">
         <source>Disabled</source>
+        <target>ਅਸਮਰੱਥ ਹੈ</target>
         <note>label describing URL Autocomplete as disabled</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.duplicateUrl">
+      <trans-unit id="Autocomplete.duplicateUrl" xml:space="preserve">
         <source>URL already exists</source>
+        <target>URL ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ</target>
         <note>Label for toast alerting that the custom URL being added is a duplicate</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.emptyState">
+      <trans-unit id="Autocomplete.emptyState" xml:space="preserve">
         <source>No Custom URLs to display</source>
+        <target>ਦਿਖਾਉਣ ਲਈ ਕੋਈ ਚੁਣਿੰਦਾ URL ਨਹੀਂ ਹੈ</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.enabled">
+      <trans-unit id="Autocomplete.enabled" xml:space="preserve">
         <source>Enabled</source>
+        <target>ਸਮਰੱਥ ਹੈ</target>
         <note>label describing URL Autocomplete as enabled</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.manageSites">
+      <trans-unit id="Autocomplete.manageSites" xml:space="preserve">
         <source>Manage Sites</source>
+        <target>ਸਾਈਟਾਂ ਦਾ ਇੰਤਜ਼ਾਮ</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.mySites">
+      <trans-unit id="Autocomplete.mySites" xml:space="preserve">
         <source>My Sites</source>
+        <target>ਮੇਰੀਆਂ ਸਾਈਟਾਂ</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.mySitesDesc">
+      <trans-unit id="Autocomplete.mySitesDesc" xml:space="preserve">
         <source>Enable to have %@ autocomplete your favorite URLs.</source>
+        <target>%@ ਨੂੰ ਤੁਹਾਡੇ ਮਨਪਸੰਦ URL ਆਪਣੇ-ਆਪ ਪੂਰੇ ਕਰਨ ਦੇ ਸਮਰੱਥ ਬਣਾਓ।</target>
         <note>Description for adding and managing custom autocomplete URLs. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.topSites">
+      <trans-unit id="Autocomplete.topSites" xml:space="preserve">
         <source>Top Sites</source>
+        <target>ਸਿਖਰਲੀਆਂ ਸਾਈਟਾਂ</target>
         <note>Label for enabling or disabling top sites</note>
       </trans-unit>
-      <trans-unit id="BiometricPrompt.newSession">
+      <trans-unit id="BiometricPrompt.newSession" xml:space="preserve">
         <source>New Session</source>
+        <target>ਨਵਾਂ ਸ਼ੈਸ਼ਨ</target>
         <note>Create a new session after failing a biometric check</note>
       </trans-unit>
       <trans-unit id="BiometricPrompt.reason">
         <source>Unlock %@ when re-opening in order to prevent unauthorized access.</source>
         <note>%@ is app name. Explanation for why the app needs access to biometric information. Prompt is only shown once when the user first tries to enable Face ID to open the app.</note>
       </trans-unit>
-      <trans-unit id="Browser.backLabel">
+      <trans-unit id="Browser.backLabel" xml:space="preserve">
         <source>Back</source>
+        <target>ਪਿੱਛੇ</target>
         <note>Accessibility label for the back button</note>
       </trans-unit>
-      <trans-unit id="Browser.copyAddressLabel">
+      <trans-unit id="Browser.copyAddressLabel" xml:space="preserve">
         <source>Copy Address</source>
+        <target>ਸਿਰਨਾਵਾਂ ਕਾਪੀ ਕਰੋ</target>
         <note>Copy URL button in URL long press menu</note>
       </trans-unit>
-      <trans-unit id="Browser.copyMenuLabel">
+      <trans-unit id="Browser.copyMenuLabel" xml:space="preserve">
         <source>Copy</source>
+        <target>ਕਾਪੀ ਕਰੋ</target>
         <note>Copy URL button in URL long press menu</note>
       </trans-unit>
-      <trans-unit id="Browser.customURLMenuLabel">
+      <trans-unit id="Browser.customURLMenuLabel" xml:space="preserve">
         <source>Add Custom URL</source>
+        <target>ਚੁਣਿੰਦਾ URL ਜੋੜੋ</target>
         <note>Custom URL button in URL long press menu</note>
       </trans-unit>
-      <trans-unit id="Browser.forwardLabel">
+      <trans-unit id="Browser.forwardLabel" xml:space="preserve">
         <source>Forward</source>
+        <target>ਅੱਗੇ</target>
         <note>Accessibility label for the forward button</note>
       </trans-unit>
-      <trans-unit id="Browser.reloadLabel">
+      <trans-unit id="Browser.reloadLabel" xml:space="preserve">
         <source>Reload</source>
+        <target>ਮੁੜ-ਲੋਡ ਕਰੋ</target>
         <note>Accessibility label for the reload button</note>
       </trans-unit>
-      <trans-unit id="Browser.settingsLabel">
+      <trans-unit id="Browser.settingsLabel" xml:space="preserve">
         <source>Settings</source>
+        <target>ਸੈਟਿੰਗਾਂ</target>
         <note>Accessibility label for the settings button</note>
       </trans-unit>
-      <trans-unit id="Browser.shareLabel">
+      <trans-unit id="Browser.shareLabel" xml:space="preserve">
         <source>Share</source>
+        <target>ਸਾਂਝਾ ਕਰੋ</target>
         <note>Accessibility label for the share button</note>
       </trans-unit>
-      <trans-unit id="Browser.stopLabel">
+      <trans-unit id="Browser.stopLabel" xml:space="preserve">
         <source>Stop</source>
+        <target>ਰੋਕੋ</target>
         <note>Accessibility label for the stop button</note>
       </trans-unit>
-      <trans-unit id="Cancel">
+      <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
+        <target>ਰੱਦ ਕਰੋ</target>
         <note>Label on button to cancel edits</note>
       </trans-unit>
-      <trans-unit id="Done">
+      <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
+        <target>ਮੁਕੰਮਲ</target>
         <note>Label on button to complete edits</note>
       </trans-unit>
-      <trans-unit id="Edit">
+      <trans-unit id="Edit" xml:space="preserve">
         <source>Edit</source>
+        <target>ਸੋਧੋ</target>
         <note>Label on button to allow edits</note>
       </trans-unit>
-      <trans-unit id="Error.tryAgainButton">
+      <trans-unit id="Error.tryAgainButton" xml:space="preserve">
         <source>Try again</source>
+        <target>ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ</target>
         <note>Button label to reload the error page</note>
       </trans-unit>
-      <trans-unit id="ExternalAppLink.cancelTitle">
+      <trans-unit id="ExternalAppLink.cancelTitle" xml:space="preserve">
         <source>Cancel</source>
+        <target>ਰੱਦ ਕਰੋ</target>
         <note>Button label used for cancelling to open another app from Focus</note>
       </trans-unit>
-      <trans-unit id="ExternalAppLink.messageTitle">
+      <trans-unit id="ExternalAppLink.messageTitle" xml:space="preserve">
         <source>%@ wants to open another App</source>
+        <target>%@ ਹੋਰ ਐਪ ਖੋਲ੍ਹਣੀ ਚਾਹੁੰਦਾ ਹੈ</target>
         <note>Dialog title used for opening an external app from Focus. The placeholder string is the app name of either Focus or Klar.</note>
       </trans-unit>
-      <trans-unit id="ExternalAppLink.openTitle">
+      <trans-unit id="ExternalAppLink.openTitle" xml:space="preserve">
         <source>Open</source>
+        <target>ਖੋਲ੍ਹੋ</target>
         <note>Button label for opening another app from Focus</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.callButton">
+      <trans-unit id="ExternalLink.callButton" xml:space="preserve">
         <source>Call</source>
+        <target>ਕਾਲ</target>
         <note>Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.cancelButton">
+      <trans-unit id="ExternalLink.cancelButton" xml:space="preserve">
         <source>Cancel</source>
+        <target>ਰੱਦ ਕਰੋ</target>
         <note>Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.emailButton">
+      <trans-unit id="ExternalLink.emailButton" xml:space="preserve">
         <source>Email</source>
+        <target>ਈਮੇਲ</target>
         <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.messageTitleWithPlaceholder">
+      <trans-unit id="ExternalLink.messageTitleWithPlaceholder" xml:space="preserve">
         <source>You are now leaving %@.</source>
+        <target>ਹੁਣ ਤੁਸੀਂ %@ ਨੂੰ ਛੱਡ ਰਹੇ ਹੋ।</target>
         <note>Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.openAppStoreButton">
+      <trans-unit id="ExternalLink.openAppStoreButton" xml:space="preserve">
         <source>Open App Store</source>
+        <target>App Store ਖੋਲ੍ਹੋ</target>
         <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.openAppStoreTitle">
+      <trans-unit id="ExternalLink.openAppStoreTitle" xml:space="preserve">
         <source>%@ wants to open the App Store.</source>
+        <target>%@ App Store ਖੋਲ੍ਹਣਾ ਚਾਹੁੰਦਾ ਹੈ।</target>
         <note>Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.openMapsButton">
+      <trans-unit id="ExternalLink.openMapsButton" xml:space="preserve">
         <source>Open Maps</source>
+        <target>ਨਕਸ਼ੇ ਖੋਲ੍ਹੋ</target>
         <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="FindInPage.Done">
+      <trans-unit id="FindInPage.Done" xml:space="preserve">
         <source>Find in page done</source>
+        <target>ਸਫ਼ੇ ਵਿੱਚ ਲੱਭਣਾ ਪੂਰਾ</target>
         <note>Accessibility label for done button in Find in Page Toolbar.</note>
       </trans-unit>
-      <trans-unit id="FindInPage.NextResult">
+      <trans-unit id="FindInPage.NextResult" xml:space="preserve">
         <source>Find next in page</source>
+        <target>ਸਫ਼ੇ ਵਿੱਚ ਅੱਗੇ ਲੱਭੋ</target>
         <note>Accessibility label for next result button in Find in Page Toolbar.</note>
       </trans-unit>
-      <trans-unit id="FindInPage.PreviousResult">
+      <trans-unit id="FindInPage.PreviousResult" xml:space="preserve">
         <source>Find previous in page</source>
+        <target>ਸਫ਼ੇ ਵਿੱਚ ਪਿੱਛੇ ਲੱਭੋ</target>
         <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
       </trans-unit>
-      <trans-unit id="FirstRun.lastSlide.buttonLabel">
+      <trans-unit id="FirstRun.lastSlide.buttonLabel" xml:space="preserve">
         <source>OK, Got It!</source>
+        <target>ਠੀਕ ਹੈ, ਸਮਝ ਗਏ!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
         <note>Message label on the first run screen</note>
       </trans-unit>
-      <trans-unit id="FirstRun.messageLabelTagline">
+      <trans-unit id="FirstRun.messageLabelTagline" xml:space="preserve">
         <source>Browse like no one’s watching.</source>
+        <target>ਇੰਝ ਬਰਾਊਜ਼ ਕਰੋ ਜਿਵੇਂ ਕੋਈ ਵੇਂਹਦਾ ਨਾ ਹੋਵੇ</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
-      <trans-unit id="Focus.handoffSyncing">
+      <trans-unit id="Focus.handoffSyncing" xml:space="preserve">
         <source>Apple Handoff is syncing</source>
+        <target>Apple Handoff ਸਿੰਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ</target>
         <note>Title for the loading screen when the handoff of clipboard delays Focus launch. “Handoff” should not be localized, see https://support.apple.com/HT204681</note>
       </trans-unit>
-      <trans-unit id="Home.descriptionLabel1">
+      <trans-unit id="Home.descriptionLabel1" xml:space="preserve">
         <source>Automatic private browsing.</source>
+        <target>ਆਪਣੇ-ਆਪ ਹੀ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ।</target>
         <note>First label for product description on the home screen</note>
       </trans-unit>
-      <trans-unit id="Home.descriptionLabel2">
+      <trans-unit id="Home.descriptionLabel2" xml:space="preserve">
         <source>Browse. Erase. Repeat.</source>
+        <target>ਬਰਾਊਜ਼ ਕਰੋ, ਮਿਟਾਓ, ਦੁਹਰਾਓ।</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
-      <trans-unit id="Menu.Close">
+      <trans-unit id="Menu.Close" xml:space="preserve">
         <source>Close</source>
+        <target>ਬੰਦ ਕਰੋ</target>
         <note>Button label used to close a menu that displays as a popup.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Button.Title">
+      <trans-unit id="Onboarding.Button.Title" xml:space="preserve">
         <source>Start browsing</source>
+        <target>ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ</target>
         <note>Text for a label that indicates the title of button from onboarding screen</note>
       </trans-unit>
       <trans-unit id="Onboarding.History.Description">
@@ -567,60 +613,73 @@
         <source>Blocking other content trackers may break some videos and web pages.</source>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
-      <trans-unit id="Settings.blockOtherNo2">
+      <trans-unit id="Settings.blockOtherNo2" xml:space="preserve">
         <source>Cancel</source>
+        <target>ਰੱਦ ਕਰੋ</target>
         <note>Button label for declining Content blocker alert</note>
       </trans-unit>
-      <trans-unit id="Settings.blockOtherYes2">
+      <trans-unit id="Settings.blockOtherYes2" xml:space="preserve">
         <source>Block Content Trackers</source>
+        <target>ਸਮੱਗਰੀ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਓ</target>
         <note>Button label for accepting Content blocker alert</note>
       </trans-unit>
-      <trans-unit id="Settings.darkTheme">
+      <trans-unit id="Settings.darkTheme" xml:space="preserve">
         <source>Dark</source>
+        <target>ਗੂੜ੍ਹਾ</target>
         <note>Dark theme option in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion">
         <source>%@ will send what you type in the address bar to your search engine.</source>
         <note>Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
-      <trans-unit id="Settings.detailTextSendUsageData">
+      <trans-unit id="Settings.detailTextSendUsageData" xml:space="preserve">
         <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
+        <target>Mozilla ਸਿਰਫ਼ ਉਹੀ ਇਕੱਠਾ ਕਰਦਾ ਹੈ, ਜੋ ਕਿ ਸਾਨੂੰ ਹਰੇਕ ਲਈ %@ ਨੂੰ ਸੁਧਾਰ ਕਰਨ ਲਈ ਚਾਹੀਦਾ ਹੈ।</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
-      <trans-unit id="Settings.detailTextStudies">
+      <trans-unit id="Settings.detailTextStudies" xml:space="preserve">
         <source>%@ may install and run studies from time to time.</source>
+        <target>%@ ਸਮੇਂ ਸਮੇਂ ਉੱਤੇ ਅਧਿਐਨ ਇੰਸਟਾਲ ਕਰ ਤੇ ਚਲਾ ਸਕਦਾ ਹੈ।</target>
         <note>Description associated to the Studies toggle on the settings screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
-      <trans-unit id="Settings.general">
+      <trans-unit id="Settings.general" xml:space="preserve">
         <source>General</source>
+        <target>ਆਮ</target>
         <note>Title for section in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.learnMore">
+      <trans-unit id="Settings.learnMore" xml:space="preserve">
         <source>Learn more.</source>
+        <target>ਹੋਰ ਜਾਣੋ</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.lightTheme">
+      <trans-unit id="Settings.lightTheme" xml:space="preserve">
         <source>Light</source>
+        <target>ਹਲਕਾ</target>
         <note>Light theme option in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.manualTheme">
+      <trans-unit id="Settings.manualTheme" xml:space="preserve">
         <source>Manual</source>
+        <target>ਖੁਦ</target>
         <note>Manual value for theme section in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.rate">
+      <trans-unit id="Settings.rate" xml:space="preserve">
         <source>Rate %@</source>
+        <target>%@ ਦਰਜਾ ਦਿਓ</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, allows the user to leave a review for the app on the app store.</note>
       </trans-unit>
-      <trans-unit id="Settings.safariTitle">
+      <trans-unit id="Settings.safariTitle" xml:space="preserve">
         <source>SAFARI INTEGRATION</source>
+        <target>SAFARI ਜੋੜ</target>
         <note>Label for Safari integration section</note>
       </trans-unit>
-      <trans-unit id="Settings.screenTitle">
+      <trans-unit id="Settings.screenTitle" xml:space="preserve">
         <source>Settings</source>
+        <target>ਸੈਟਿੰਗਾਂ</target>
         <note>Title for settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.searchLabel">
+      <trans-unit id="Settings.searchLabel" xml:space="preserve">
         <source>Search Engine</source>
+        <target>ਖੋਜ ਇੰਜਣ</target>
         <note>Label for the search engine in the search screen</note>
       </trans-unit>
       <trans-unit id="Settings.searchSuggestions">
