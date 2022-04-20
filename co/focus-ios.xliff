@@ -583,12 +583,12 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptDisable" xml:space="preserve">
         <source>No</source>
-        <target>Innò</target>
+        <target>Nò</target>
         <note>Label for disable option on search suggestions prompt</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptEnable" xml:space="preserve">
         <source>Yes</source>
-        <target>Iè</target>
+        <target>Sì</target>
         <note>Label for enable option on search suggestions prompt</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptMessage" xml:space="preserve">
@@ -1086,16 +1086,19 @@
         <target>Ste preferenze predefinite furniscenu una prutezzione forte. Ma hè faciule di mudificalle per suddisfà i vostri bisogni specifichi.</target>
         <note>This is the body text that is displayed for the Privacy tooltip</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.ShieldIcon">
+      <trans-unit id="TooltipBodyText.ShieldIcon" xml:space="preserve">
         <source>%@ stopped this site from spying on you. Tap the shield for info on what we blocked.</source>
+        <target>%@ hà fermatu stu situ di spiunavvi. Picchichjate u scudu per cunnosce ciò ch’avemu bluccatu.</target>
         <note>This is the body text that is displayed for the Shield icon tooltip. Where placeholder can be (Focus or Klar).</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.TrashIcon">
+      <trans-unit id="TooltipBodyText.TrashIcon" xml:space="preserve">
         <source>Tap the trash anytime to remove all traces of your current session.</source>
+        <target>Picchichjate a curbella à ogni mumenti per caccià tutta traccia di a vostra sessione currente.</target>
         <note>This is the body text that is displayed for the Trash icon tooltip</note>
       </trans-unit>
-      <trans-unit id="TooltipTitleText.Privacy">
+      <trans-unit id="TooltipTitleText.Privacy" xml:space="preserve">
         <source>You’re protected! </source>
+        <target>Site prutetti !</target>
         <note>This is the title text that is displayed for the Privacy tooltip</note>
       </trans-unit>
       <trans-unit id="URL.addToAutocompleteLabel" xml:space="preserve">
