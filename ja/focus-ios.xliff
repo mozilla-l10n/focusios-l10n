@@ -1081,20 +1081,24 @@
         <target>設定を開いて特定のプライバシーとセキュリティの設定を管理します。</target>
         <note>This is the body text that is displayed for the Context Menu icon tooltip</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.Privacy">
+      <trans-unit id="TooltipBodyText.Privacy" xml:space="preserve">
         <source>These default settings offer strong protection. But it’s easy to tweak the settings to meet your specific needs.</source>
+        <target>これらのデフォルト設定は強力な保護を提供します。必要に応じて、簡単に設定を調整できます。</target>
         <note>This is the body text that is displayed for the Privacy tooltip</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.ShieldIcon">
+      <trans-unit id="TooltipBodyText.ShieldIcon" xml:space="preserve">
         <source>%@ stopped this site from spying on you. Tap the shield for info on what we blocked.</source>
+        <target>%@ がこのサイトによるスパイ行動を阻止しました。ブロックしたものに関する情報を見るには盾アイコンをタップしてください。</target>
         <note>This is the body text that is displayed for the Shield icon tooltip. Where placeholder can be (Focus or Klar).</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.TrashIcon">
+      <trans-unit id="TooltipBodyText.TrashIcon" xml:space="preserve">
         <source>Tap the trash anytime to remove all traces of your current session.</source>
+        <target>ゴミ箱をタップするだけで、いつでも現在のセッションの痕跡をすべて削除します。</target>
         <note>This is the body text that is displayed for the Trash icon tooltip</note>
       </trans-unit>
-      <trans-unit id="TooltipTitleText.Privacy">
+      <trans-unit id="TooltipTitleText.Privacy" xml:space="preserve">
         <source>You’re protected! </source>
+        <target>保護されています</target>
         <note>This is the title text that is displayed for the Privacy tooltip</note>
       </trans-unit>
       <trans-unit id="URL.addToAutocompleteLabel" xml:space="preserve">
