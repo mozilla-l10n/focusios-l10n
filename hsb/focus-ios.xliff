@@ -476,8 +476,9 @@
         <target>Přehladowanje započeć</target>
         <note>Text for a label that indicates the title of button from onboarding screen</note>
       </trans-unit>
-      <trans-unit id="Onboarding.History.Description">
+      <trans-unit id="Onboarding.History.Description" xml:space="preserve">
         <source>Erase your browsing history, passwords, cookies, and prevent unwanted ads from following you in a simple click!</source>
+        <target>Zhašejće swoju přehladowansku historiju, hesła, placki, a zadźěwajće z jednym kliknjenjom tomu, zo wam njewitane wabjenje slěduje!</target>
         <note>Text for a label that indicates the description of history section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.History.Title" xml:space="preserve">
@@ -485,8 +486,9 @@
         <target>Waša historija wam njeslěduje</target>
         <note>Text for a label that indicates the title of history section from onboarding screen.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Incognito.Description">
+      <trans-unit id="Onboarding.Incognito.Description" xml:space="preserve">
         <source>%@ is a dedicated privacy browser with tracking protection and content blocking.</source>
+        <target>%@ je wobhladowak z funkcijemi priwatnosće ze škitom před slědowanjom a blokowanjom wobsaha.</target>
         <note>Text for a label that indicates the description of incognito section from onboarding screen. Placeholder can be (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="Onboarding.Incognito.Title" xml:space="preserve">
