@@ -496,8 +496,9 @@
         <target>Wjace hač jenož njespóznaty</target>
         <note>Text for a label that indicates the title of incognito section from onboarding screen.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Protection.Description">
+      <trans-unit id="Onboarding.Protection.Description" xml:space="preserve">
         <source>Configure settings so you can decide how much or how little you share.</source>
+        <target>Konfigurujće nastajenja, zo byšće móhł rozsudźić, kelko abo kak mało přeradźeće.</target>
         <note>Text for a label that indicates the description of protection section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Title" xml:space="preserve">
@@ -1075,8 +1076,9 @@
         <target>Sydło so dźiwnje zadźeržuje abo wobsah faluje?</target>
         <note>Text for a label that indicates the title for sites not working tip.</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.ContextMenu">
+      <trans-unit id="TooltipBodyText.ContextMenu" xml:space="preserve">
         <source>Go to Settings to manage specific privacy &amp; security options.</source>
+        <target>Wočińće nastajenja, zo byšće wěste nastajenja priwatnosće a wěstoty rjadował.</target>
         <note>This is the body text that is displayed for the Context Menu icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.Privacy" xml:space="preserve">
@@ -1084,12 +1086,14 @@
         <target>Tute standardne nastajenja mócny škit poskićeja. Ale je lochko, nastajenja wašim specifiskim potrjebam přměrić.</target>
         <note>This is the body text that is displayed for the Privacy tooltip</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.ShieldIcon">
+      <trans-unit id="TooltipBodyText.ShieldIcon" xml:space="preserve">
         <source>%@ stopped this site from spying on you. Tap the shield for info on what we blocked.</source>
+        <target>%@ je sydłu zadźěwał was wuskušować. Podótkńće so tarče, zo byšće informacije wo tym dóstał, štož smy zablokowali.</target>
         <note>This is the body text that is displayed for the Shield icon tooltip. Where placeholder can be (Focus or Klar).</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.TrashIcon">
+      <trans-unit id="TooltipBodyText.TrashIcon" xml:space="preserve">
         <source>Tap the trash anytime to remove all traces of your current session.</source>
+        <target>Podótkńće so kóždy čas papjernika, zo byšće wšě slědy swojeho posedźenja wotstronił.</target>
         <note>This is the body text that is displayed for the Trash icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipTitleText.Privacy" xml:space="preserve">
