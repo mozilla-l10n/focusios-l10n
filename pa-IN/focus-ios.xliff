@@ -476,8 +476,9 @@
         <target>ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ</target>
         <note>Text for a label that indicates the title of button from onboarding screen</note>
       </trans-unit>
-      <trans-unit id="Onboarding.History.Description">
+      <trans-unit id="Onboarding.History.Description" xml:space="preserve">
         <source>Erase your browsing history, passwords, cookies, and prevent unwanted ads from following you in a simple click!</source>
+        <target>ਬੱਸ ਇੱਕ ਕਲਿੱਕ ਨਾਲ ਆਪਣੇ ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਅਤੀਤ, ਪਾਸਵਰਡਾ, ਕੂਕੀਜ਼ ਨੂੰ ਮਿਟਾਓ ਅਤੇ ਬੇਲੋੜੇ ਇਸ਼ਤਿਹਾਰਾਂ ਨੂੰ ਤੁਹਾਡਾ ਪਿੱਛਾ ਕਰਨ ਰੋਕੋ!</target>
         <note>Text for a label that indicates the description of history section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.History.Title" xml:space="preserve">
@@ -495,12 +496,14 @@
         <target>ਸਿਰਫ਼ ਗੁੰਮਸ਼ੁਦਾ ਤੋਂ ਵੱਧ ਕੇ</target>
         <note>Text for a label that indicates the title of incognito section from onboarding screen.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Protection.Description">
+      <trans-unit id="Onboarding.Protection.Description" xml:space="preserve">
         <source>Configure settings so you can decide how much or how little you share.</source>
+        <target>ਤੁਸੀਂ ਕਿੰਨਾ ਕੁ ਜਾਂ ਕਿੰਨਾ ਘੱਟ ਸਾਂਝਾ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ, ਦੇ ਬਾਰੇ ਫ਼ੈਸਲਾ ਕਰਨ ਲਈ ਸੈਟਿੰਗਾਂ ਦੀ ਸੰਰਚਨਾ ਕਰੋ।</target>
         <note>Text for a label that indicates the description of protection section from onboarding screen.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Protection.Title">
+      <trans-unit id="Onboarding.Protection.Title" xml:space="preserve">
         <source>Protection at your own discretion</source>
+        <target>ਆਪਣੀ ਮਰਜ਼ੀ ਨਾਲ ਸੁਰੱਖਿਆ ਕਰੋ</target>
         <note>Text for a label that indicates the title of protection section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Subtitle" xml:space="preserve">
@@ -1073,20 +1076,24 @@
         <target>ਸਾਈਟ ਦੀ ਸਮੱਗਰੀ ਗੁੰਮ ਹੈ ਜਾਂ ਅਜੀਬ ਤਰ੍ਹਾਂ ਕੰਮ ਕਰ ਰਹੀ ਹੈ?</target>
         <note>Text for a label that indicates the title for sites not working tip.</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.ContextMenu">
+      <trans-unit id="TooltipBodyText.ContextMenu" xml:space="preserve">
         <source>Go to Settings to manage specific privacy &amp; security options.</source>
+        <target>ਖਾਸ ਪਰਦੇਦਾਰੀ ਅਤੇ ਸੁਰੱਖਿਆ ਚੋਣਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰਨ ਲਈ ਸੈਟਿੰਗਾਂ ਉੱਤੇ ਜਾਓ।</target>
         <note>This is the body text that is displayed for the Context Menu icon tooltip</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.Privacy">
+      <trans-unit id="TooltipBodyText.Privacy" xml:space="preserve">
         <source>These default settings offer strong protection. But it’s easy to tweak the settings to meet your specific needs.</source>
+        <target>ਇਹ ਮੂਲ ਸੈਟਿੰਗਾਂ ਮਜ਼ਬੂਤ ਸੁਰੱਖਿਆ ਦਿੰਦੀਆਂ ਹਨ। ਪਰ ਤੁਹਾਡੀਆਂ ਖਾਸ ਲੋੜਾਂ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਦਲਣਾ ਸੌਖਾ ਹੈ।</target>
         <note>This is the body text that is displayed for the Privacy tooltip</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.ShieldIcon">
+      <trans-unit id="TooltipBodyText.ShieldIcon" xml:space="preserve">
         <source>%@ stopped this site from spying on you. Tap the shield for info on what we blocked.</source>
+        <target>%@ ਨੇ ਇਸ ਸਾਈਟ ਨੂੰ ਤੁਹਾਡੀ ਜਾਸੂਸੀ ਕਰਨ ਤੋਂ ਰੋਕਿਆ ਹੈ। ਢਾਲ ਨੂੰ ਛੂਹ ਕੇ ਵੇਖੋ ਕਿ ਅਸੀਂ ਕਿਸ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ।</target>
         <note>This is the body text that is displayed for the Shield icon tooltip. Where placeholder can be (Focus or Klar).</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.TrashIcon">
+      <trans-unit id="TooltipBodyText.TrashIcon" xml:space="preserve">
         <source>Tap the trash anytime to remove all traces of your current session.</source>
+        <target>ਆਪਣੇ ਮੌਜੂਦਾ ਸ਼ੈਸ਼ਨ ਦੀਆਂ ਸਾਰੀਆਂ ਪੈੜਾਂ ਮਿਟਾਉਣ ਲਈ ਕਿਸੇ ਵੀ ਵੇਲੇੇ ਰੱਦੀ ਨੂੰ ਛੂਹੋ।</target>
         <note>This is the body text that is displayed for the Trash icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipTitleText.Privacy" xml:space="preserve">
@@ -1264,12 +1271,14 @@
         <target>ਟਰੈਕਿੰਗ ਤੋਂ ਸੁਰੱਖਿਆ</target>
         <note>Title for the tracking settings page to change what trackers are blocked.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.labelDescription">
+      <trans-unit id="trackingProtection.labelDescription" xml:space="preserve">
         <source>Turning this off may fix some site problems</source>
+        <target>ਇਸ ਨੂੰ ਬੰਦ ਕਰਨ ਨਾਲ ਕੁਝ ਸਾਈਟ ਸਮੱਸਿਆਵਾਂ ਠੀਕ ਹੋ ਸਕਦੀਆਂ ਹਨ</target>
         <note>Description/subtitle for the tracking protection label.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.learnMore">
+      <trans-unit id="trackingProtection.learnMore" xml:space="preserve">
         <source>Learn More</source>
+        <target>ਹੋਰ ਜਾਣੋ</target>
         <note>Text for the button to learn more about Tracking Protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.moreSettings" xml:space="preserve">
