@@ -1084,8 +1084,9 @@
         <target>ეს ნაგულისხმევი პარამეტრები ძლიერ დაცვას გთავაზობთ. თუმცა მარტივად შეგიძლიათ პარამეტრების შესწორება და საკუთარ საჭიროებებზე მორგება.</target>
         <note>This is the body text that is displayed for the Privacy tooltip</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.ShieldIcon">
+      <trans-unit id="TooltipBodyText.ShieldIcon" xml:space="preserve">
         <source>%@ stopped this site from spying on you. Tap the shield for info on what we blocked.</source>
+        <target>%@ უკრძალავს ამ საიტს თქვენს თვალთვალს. შეეხეთ ფარის ნიშანს და იხილეთ ვრცლად, რა შეიზღუდა.</target>
         <note>This is the body text that is displayed for the Shield icon tooltip. Where placeholder can be (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon">
