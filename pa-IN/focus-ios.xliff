@@ -10,8 +10,9 @@
         <target>ਇਹ ਤੁਹਾਨੂੰ ਫ਼ੋਟੋ ਲੈਣ ਅਤੇ ਅੱਪਲੋਡ ਕਰਨ ਦਿੰਦਾ ਹੈ।</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSFaceIDUsageDescription">
+      <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
         <source>This lets you unlock the app.</source>
+        <target>ਇਹ ਤੁਹਾਨੂੰ ਐਪ ਅਣ-ਲਾਕ ਕਰ ਦਿੰਦਾ ਹੈ।</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
@@ -53,8 +54,9 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.2.1" build-num="13C100"/>
     </header>
     <body>
-      <trans-unit id="Intro.Slides.History.Description">
+      <trans-unit id="Intro.Slides.History.Description" xml:space="preserve">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
+        <target>ਆਪਣੇ ਪੂਰੇ ਬਰਾਊਜ਼ਿੰਗ ਸ਼ੈਸ਼ਨ ਅਤੀਤ, ਪਾਸਵਰਡ, ਕੂਕੀਜ਼ ਨੂੰ ਕਿਸੇ ਵੀ ਵੇਲੇ ਇੱਕ ਛੋਹ ਨਾਲ ਮਿਟਾ ਦਿਓ।</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title" xml:space="preserve">
@@ -67,8 +69,9 @@
         <target>ਅੱਗੇ</target>
         <note>Button to go to the next card in Focus onboarding.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Search.Description">
+      <trans-unit id="Intro.Slides.Search.Description" xml:space="preserve">
         <source>Searching for something different? Choose a different search engine.</source>
+        <target>ਕੁਝ ਵੱਖਰਾ ਲੱਭ ਰਹੇ ਹੋ? ਵੱਖਰਾ ਖੋਜ ਇੰਜਣ ਚੁਣੋ।</target>
         <note>Description for the 'Favorite Search Engine' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Title" xml:space="preserve">
@@ -103,20 +106,24 @@
         <target>ਹੋਰ ਜਾਣੋ</target>
         <note>Button on About screen</note>
       </trans-unit>
-      <trans-unit id="About.missionLabel">
+      <trans-unit id="About.missionLabel" xml:space="preserve">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
+        <target>%@ ਨੂੰ Mozilla ਵਲੋਂ ਬਣਾਇਆ ਗਿਆ ਹੈ। ਸਾਡਾ ਮਕਸਦ ਹੈ ਮਜ਼ਬੂਤ, ਆਜ਼ਾਦ ਤਿਆਰ ਕਰਨਾ ਹੈ।</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.privateBullet1">
+      <trans-unit id="About.privateBullet1" xml:space="preserve">
         <source>Search and browse right in the app</source>
+        <target>ਐਪ ਵਿੱਚ ਖੋਜੋ ਅਤੇ ਬਰਾਊਜ਼ ਕਰੋ</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.privateBullet2">
+      <trans-unit id="About.privateBullet2" xml:space="preserve">
         <source>Block trackers (or update settings to allow trackers)</source>
+        <target>ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ (ਜਾਂ ਟਰੈਕਰਾਂ ਨੂੰ ਇਜਾਜ਼ਤ ਦੇਣ ਲਈ ਸੈਟਿੰਗਾਂ ਅੱਪਡੇਟ ਕਰੋ)</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.privateBullet3">
+      <trans-unit id="About.privateBullet3" xml:space="preserve">
         <source>Erase to delete cookies as well as search and browsing history</source>
+        <target>ਕੂਕੀਜ਼ ਨੂੰ ਹਟਾਉਣ ਦੇ ਨਾਲ ਨਾਲ ਖੋਜ ਅਤੇ ਬਰਾਊਜ਼ਿੰਗ ਅਤੀਤ ਨੂੰ ਮਿਟਾਓ</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader" xml:space="preserve">
@@ -144,8 +151,9 @@
         <target>ਬੇਹਤਰ ਪਰਦੇਦਾਰੀ ਲਈ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.safariBullet2">
+      <trans-unit id="About.safariBullet2" xml:space="preserve">
         <source>Block web fonts to reduce page size</source>
+        <target>ਸਫ਼ਾ ਆਕਾਰ ਘਟਾਉਣ ਲਈ ਵੈੱਬ ਫ਼ੋਂਟਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader" xml:space="preserve">
@@ -213,8 +221,9 @@
         <target>+ ਕਸਟਮ URL ਜੋੜੋ</target>
         <note>Label for button to add a custom URL with the + prefix</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.customDescriptoin">
+      <trans-unit id="Autocomplete.customDescriptoin" xml:space="preserve">
         <source>Add and manage custom autocomplete URLs.</source>
+        <target>ਚੁਣਿੰਦਾ ਆਪੇ-ਪੂਰਨ URL ਜੋੜੋ ਅਤੇ ਇੰਤਜ਼ਾਮ ਕਰੋ।</target>
         <note>Description for adding and managing custom autocomplete URLs</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customLabel" xml:space="preserve">
