@@ -476,32 +476,39 @@
         <target>Начать веб-сёрфинг</target>
         <note>Text for a label that indicates the title of button from onboarding screen</note>
       </trans-unit>
-      <trans-unit id="Onboarding.History.Description">
+      <trans-unit id="Onboarding.History.Description" xml:space="preserve">
         <source>Erase your browsing history, passwords, cookies, and prevent unwanted ads from following you in a simple click!</source>
+        <target>Одним нажатием сотрите историю посещения страниц, пароли, куки и не дайте следовать за вами нежелательной рекламе!</target>
         <note>Text for a label that indicates the description of history section from onboarding screen.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.History.Title">
+      <trans-unit id="Onboarding.History.Title" xml:space="preserve">
         <source>Your history doesn’t follow you</source>
+        <target>Ваша история за вами следовать не будет</target>
         <note>Text for a label that indicates the title of history section from onboarding screen.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Incognito.Description">
+      <trans-unit id="Onboarding.Incognito.Description" xml:space="preserve">
         <source>%@ is a dedicated privacy browser with tracking protection and content blocking.</source>
+        <target>%@ — это специальный браузер для обеспечения приватности с защитой от отслеживания и блокировкой контента.</target>
         <note>Text for a label that indicates the description of incognito section from onboarding screen. Placeholder can be (Focus or Klar).</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Incognito.Title">
+      <trans-unit id="Onboarding.Incognito.Title" xml:space="preserve">
         <source>More than just incognito</source>
+        <target>Больше, чем просто инкогнито</target>
         <note>Text for a label that indicates the title of incognito section from onboarding screen.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Protection.Description">
+      <trans-unit id="Onboarding.Protection.Description" xml:space="preserve">
         <source>Configure settings so you can decide how much or how little you share.</source>
+        <target>Настройте параметры, чтобы вы могли решить, какими данными будете делиться.</target>
         <note>Text for a label that indicates the description of protection section from onboarding screen.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Protection.Title">
+      <trans-unit id="Onboarding.Protection.Title" xml:space="preserve">
         <source>Protection at your own discretion</source>
+        <target>Защита на ваше усмотрение</target>
         <note>Text for a label that indicates the title of protection section from onboarding screen.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Subtitle">
+      <trans-unit id="Onboarding.Subtitle" xml:space="preserve">
         <source>Take your private browsing to the next level.</source>
+        <target>Перейдите на новый уровень приватного просмотра.</target>
         <note>Text for a label that indicates the subtitle for onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Title" xml:space="preserve">
@@ -1069,20 +1076,24 @@
         <target>На сайте отсутствует контент или он ведёт себя странно?</target>
         <note>Text for a label that indicates the title for sites not working tip.</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.ContextMenu">
+      <trans-unit id="TooltipBodyText.ContextMenu" xml:space="preserve">
         <source>Go to Settings to manage specific privacy &amp; security options.</source>
+        <target>Перейдите в «Настройки» для управления специфичными настройками приватности и безопасности.</target>
         <note>This is the body text that is displayed for the Context Menu icon tooltip</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.Privacy">
+      <trans-unit id="TooltipBodyText.Privacy" xml:space="preserve">
         <source>These default settings offer strong protection. But it’s easy to tweak the settings to meet your specific needs.</source>
+        <target>Эти настройки по умолчанию обеспечивают надежную защиту. Но вы можете легко изменить их под ваши конкретные потребности.</target>
         <note>This is the body text that is displayed for the Privacy tooltip</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.ShieldIcon">
+      <trans-unit id="TooltipBodyText.ShieldIcon" xml:space="preserve">
         <source>%@ stopped this site from spying on you. Tap the shield for info on what we blocked.</source>
+        <target>%@ остановил слежку этого сайта за вами. Коснитесь щита, чтобы узнать, что мы заблокировали.</target>
         <note>This is the body text that is displayed for the Shield icon tooltip. Where placeholder can be (Focus or Klar).</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.TrashIcon">
+      <trans-unit id="TooltipBodyText.TrashIcon" xml:space="preserve">
         <source>Tap the trash anytime to remove all traces of your current session.</source>
+        <target>Коснитесь корзины в любое время, чтобы удалить все следы текущего сеанса.</target>
         <note>This is the body text that is displayed for the Trash icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipTitleText.Privacy" xml:space="preserve">
