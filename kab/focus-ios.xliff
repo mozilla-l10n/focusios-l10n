@@ -22,7 +22,7 @@
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
         <source>This lets you take and upload videos.</source>
-        <target>Ayagi ad ak-isireg asider d usali n tvidyutin.</target>
+        <target>Ayagi ad ak-isireg asader d usali n tvidyutin.</target>
         <note>Privacy - Microphone Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
