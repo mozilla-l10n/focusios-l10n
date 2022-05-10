@@ -493,8 +493,9 @@
         <source>More than just incognito</source>
         <note>Text for a label that indicates the title of incognito section from onboarding screen.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Protection.Description">
+      <trans-unit id="Onboarding.Protection.Description" xml:space="preserve">
         <source>Configure settings so you can decide how much or how little you share.</source>
+        <target>Configurez les paramètres afin de décider ce que vous partagez.</target>
         <note>Text for a label that indicates the description of protection section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Title">
@@ -1080,8 +1081,9 @@
         <target>Ces paramètres par défaut offrent une protection renforcée. Mais il est facile de modifier les paramètres pour répondre à vos besoins spécifiques.</target>
         <note>This is the body text that is displayed for the Privacy tooltip</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.ShieldIcon">
+      <trans-unit id="TooltipBodyText.ShieldIcon" xml:space="preserve">
         <source>%@ stopped this site from spying on you. Tap the shield for info on what we blocked.</source>
+        <target>%@ a empêché ce site de vous espionner. Appuyez sur le bouclier pour obtenir des informations sur ce que nous avons bloqué.</target>
         <note>This is the body text that is displayed for the Shield icon tooltip. Where placeholder can be (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon" xml:space="preserve">
