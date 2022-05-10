@@ -485,8 +485,9 @@
         <source>Your history doesn’t follow you</source>
         <note>Text for a label that indicates the title of history section from onboarding screen.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Incognito.Description">
+      <trans-unit id="Onboarding.Incognito.Description" xml:space="preserve">
         <source>%@ is a dedicated privacy browser with tracking protection and content blocking.</source>
+        <target>%@ est un navigateur dédié à la vie privée avec une protection contre le pistage et un blocage de contenu.</target>
         <note>Text for a label that indicates the description of incognito section from onboarding screen. Placeholder can be (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="Onboarding.Incognito.Title">
@@ -1072,8 +1073,9 @@
         <target>Un site se comporte bizarrement ou du contenu manque ?</target>
         <note>Text for a label that indicates the title for sites not working tip.</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.ContextMenu">
+      <trans-unit id="TooltipBodyText.ContextMenu" xml:space="preserve">
         <source>Go to Settings to manage specific privacy &amp; security options.</source>
+        <target>Rendez-vous dans les paramètres pour gérer les options avancées de sécurité et de vie privée.</target>
         <note>This is the body text that is displayed for the Context Menu icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.Privacy" xml:space="preserve">
