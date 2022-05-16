@@ -481,8 +481,9 @@
         <target>Effacez votre historique de navigation, vos mots de passe, vos cookies, et empêchez les publicités indésirables de vous suivre d’un simple clic !</target>
         <note>Text for a label that indicates the description of history section from onboarding screen.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.History.Title">
+      <trans-unit id="Onboarding.History.Title" xml:space="preserve">
         <source>Your history doesn’t follow you</source>
+        <target>Libérez-vous de votre historique</target>
         <note>Text for a label that indicates the title of history section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Incognito.Description" xml:space="preserve">
