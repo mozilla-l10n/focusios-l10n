@@ -178,7 +178,7 @@
       </trans-unit>
       <trans-unit id="AddPass.Error.Message" xml:space="preserve">
         <source>An error occured while adding the pass to Wallet. Please try again later.</source>
-        <target>Un sbagliu hè accadutu durante l’aghjuntu di u bigliettu à Wallet. Provate torna un altra volta.</target>
+        <target>Un sbagliu hè accadutu durante l’aghjuntu di u bigliettu à Wallet. Pruvate torna un altra volta.</target>
         <note>Message of the 'Add Pass Failed' alert.</note>
       </trans-unit>
       <trans-unit id="AddPass.Error.Title" xml:space="preserve">
