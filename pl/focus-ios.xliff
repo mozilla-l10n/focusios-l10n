@@ -498,7 +498,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Description" xml:space="preserve">
         <source>Configure settings so you can decide how much or how little you share.</source>
-        <target>Skonfiguruj ustawienia, aby samodzielnie zdecydować, jak dużo lub jak mało udostępniasz.</target>
+        <target>Skonfiguruj ustawienia, by samodzielnie zdecydować, jak dużo lub jak mało udostępniasz.</target>
         <note>Text for a label that indicates the description of protection section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Title" xml:space="preserve">
@@ -1078,7 +1078,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.ContextMenu" xml:space="preserve">
         <source>Go to Settings to manage specific privacy &amp; security options.</source>
-        <target>Przejdź do ustawień, aby zarządzać konkretnymi opcjami prywatności i bezpieczeństwa.</target>
+        <target>Przejdź do ustawień, by zarządzać konkretnymi opcjami prywatności i bezpieczeństwa.</target>
         <note>This is the body text that is displayed for the Context Menu icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.Privacy" xml:space="preserve">
@@ -1088,12 +1088,12 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.ShieldIcon" xml:space="preserve">
         <source>%@ stopped this site from spying on you. Tap the shield for info on what we blocked.</source>
-        <target>%@ uniemożliwił tej witrynie szpiegowanie Cię. Stuknij tarczę, aby dowiedzieć się, co zablokowaliśmy.</target>
+        <target>%@ uniemożliwił tej witrynie szpiegowanie Cię. Stuknij tarczę, by dowiedzieć się, co zablokowaliśmy.</target>
         <note>This is the body text that is displayed for the Shield icon tooltip. Where placeholder can be (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon" xml:space="preserve">
         <source>Tap the trash anytime to remove all traces of your current session.</source>
-        <target>Stuknij przycisk kosza w dowolnej chwili, aby usunąć wszystkie ślady obecnej sesji.</target>
+        <target>Stuknij przycisk kosza w dowolnej chwili, by usunąć wszystkie ślady obecnej sesji.</target>
         <note>This is the body text that is displayed for the Trash icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipTitleText.Privacy" xml:space="preserve">
