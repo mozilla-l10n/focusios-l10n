@@ -7,7 +7,6 @@
     <body>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
         <source>This lets you take and upload photos.</source>
-        <target>Це дозволить вам знімати й вивантажувати фото.</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
@@ -22,17 +21,14 @@
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
         <source>This lets you take and upload videos.</source>
-        <target>Це дозволить вам знімати й вивантажувати відео.</target>
         <note>Privacy - Microphone Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
         <source>This lets you save and upload photos.</source>
-        <target>Це дозволить вам знімати й вивантажувати фото.</target>
         <note>Privacy - Photo Library Additions Usage Description</note>
       </trans-unit>
       <trans-unit id="UIApplicationShortcutItemTitle.EraseAndOpen" xml:space="preserve">
         <source>Erase and Open</source>
-        <target>Стерти й відкрити</target>
         <note>This is the menu item that appears when you long press the Focus icon on the phone home screen.</note>
       </trans-unit>
     </body>
@@ -56,7 +52,6 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description" xml:space="preserve">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
-        <target>Будь-коли стирайте всю історію перегляду, паролі та куки одним дотиком.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title" xml:space="preserve">
@@ -91,7 +86,6 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Title" xml:space="preserve">
         <source>Power up your privacy</source>
-        <target>Посильте вашу приватність</target>
         <note>Title for the first panel 'Welcome' in the First Run tour.</note>
       </trans-unit>
     </body>
@@ -113,7 +107,6 @@
       </trans-unit>
       <trans-unit id="About.privateBullet1" xml:space="preserve">
         <source>Search and browse right in the app</source>
-        <target>Шукайте й переглядайте просто з програми</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet2" xml:space="preserve">
