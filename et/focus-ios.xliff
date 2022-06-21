@@ -266,36 +266,44 @@
         <target>URL on juba olemas</target>
         <note>Label for toast alerting that the custom URL being added is a duplicate</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.emptyState">
+      <trans-unit id="Autocomplete.emptyState" xml:space="preserve">
         <source>No Custom URLs to display</source>
+        <target>Kohandatud URLe pole</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.enabled">
+      <trans-unit id="Autocomplete.enabled" xml:space="preserve">
         <source>Enabled</source>
+        <target>Lubatud</target>
         <note>label describing URL Autocomplete as enabled</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.manageSites">
+      <trans-unit id="Autocomplete.manageSites" xml:space="preserve">
         <source>Manage Sites</source>
+        <target>Halda saite</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.mySites">
+      <trans-unit id="Autocomplete.mySites" xml:space="preserve">
         <source>My Sites</source>
+        <target>Minu saidid</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.mySitesDesc">
+      <trans-unit id="Autocomplete.mySitesDesc" xml:space="preserve">
         <source>Enable to have %@ autocomplete your favorite URLs.</source>
+        <target>Võimaldab %@el automaatselt lõpetada sinu lemmik URLe.</target>
         <note>Description for adding and managing custom autocomplete URLs. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.topSites">
+      <trans-unit id="Autocomplete.topSites" xml:space="preserve">
         <source>Top Sites</source>
+        <target>Top saidid</target>
         <note>Label for enabling or disabling top sites</note>
       </trans-unit>
-      <trans-unit id="BiometricPrompt.newSession">
+      <trans-unit id="BiometricPrompt.newSession" xml:space="preserve">
         <source>New Session</source>
+        <target>Uus seanss</target>
         <note>Create a new session after failing a biometric check</note>
       </trans-unit>
-      <trans-unit id="BiometricPrompt.reason">
+      <trans-unit id="BiometricPrompt.reason" xml:space="preserve">
         <source>Unlock %@ when re-opening in order to prevent unauthorized access.</source>
+        <target>Lukusta %@ uuesti avamisel lahti, et ära hoida volitamata ligipääsu.</target>
         <note>%@ is app name. Explanation for why the app needs access to biometric information. Prompt is only shown once when the user first tries to enable Face ID to open the app.</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel">
