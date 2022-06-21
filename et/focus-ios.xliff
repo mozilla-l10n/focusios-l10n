@@ -376,56 +376,69 @@
         <target>Loobu</target>
         <note>Button label used for cancelling to open another app from Focus</note>
       </trans-unit>
-      <trans-unit id="ExternalAppLink.messageTitle">
+      <trans-unit id="ExternalAppLink.messageTitle" xml:space="preserve">
         <source>%@ wants to open another App</source>
+        <target>%@ soovib avada teise äpi</target>
         <note>Dialog title used for opening an external app from Focus. The placeholder string is the app name of either Focus or Klar.</note>
       </trans-unit>
-      <trans-unit id="ExternalAppLink.openTitle">
+      <trans-unit id="ExternalAppLink.openTitle" xml:space="preserve">
         <source>Open</source>
+        <target>Ava</target>
         <note>Button label for opening another app from Focus</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.callButton">
+      <trans-unit id="ExternalLink.callButton" xml:space="preserve">
         <source>Call</source>
+        <target>Helista</target>
         <note>Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.cancelButton">
+      <trans-unit id="ExternalLink.cancelButton" xml:space="preserve">
         <source>Cancel</source>
+        <target>Loobu</target>
         <note>Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.emailButton">
+      <trans-unit id="ExternalLink.emailButton" xml:space="preserve">
         <source>Email</source>
+        <target>Saada e-kiri</target>
         <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.messageTitleWithPlaceholder">
+      <trans-unit id="ExternalLink.messageTitleWithPlaceholder" xml:space="preserve">
         <source>You are now leaving %@.</source>
+        <target>Lahkud nüüd %@est.</target>
         <note>Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.openAppStoreButton">
+      <trans-unit id="ExternalLink.openAppStoreButton" xml:space="preserve">
         <source>Open App Store</source>
+        <target>Ava App Store</target>
         <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.openAppStoreTitle">
+      <trans-unit id="ExternalLink.openAppStoreTitle" xml:space="preserve">
         <source>%@ wants to open the App Store.</source>
+        <target>%@ soovib avada App Store'i.</target>
         <note>Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.openMapsButton">
+      <trans-unit id="ExternalLink.openMapsButton" xml:space="preserve">
         <source>Open Maps</source>
+        <target>Ava Maps</target>
         <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="FindInPage.Done">
+      <trans-unit id="FindInPage.Done" xml:space="preserve">
         <source>Find in page done</source>
+        <target>Lehelt otsimine lõpetatud</target>
         <note>Accessibility label for done button in Find in Page Toolbar.</note>
       </trans-unit>
-      <trans-unit id="FindInPage.NextResult">
+      <trans-unit id="FindInPage.NextResult" xml:space="preserve">
         <source>Find next in page</source>
+        <target>Leia lehelt järgmine</target>
         <note>Accessibility label for next result button in Find in Page Toolbar.</note>
       </trans-unit>
-      <trans-unit id="FindInPage.PreviousResult">
+      <trans-unit id="FindInPage.PreviousResult" xml:space="preserve">
         <source>Find previous in page</source>
+        <target>Leia lehelt eelmine</target>
         <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
       </trans-unit>
-      <trans-unit id="FirstRun.lastSlide.buttonLabel">
+      <trans-unit id="FirstRun.lastSlide.buttonLabel" xml:space="preserve">
         <source>OK, Got It!</source>
+        <target>Olgu, sain aru!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
