@@ -441,16 +441,19 @@
         <target>Olgu, sain aru!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
-      <trans-unit id="FirstRun.messageLabelDescription">
+      <trans-unit id="FirstRun.messageLabelDescription" xml:space="preserve">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
+        <target>Automaatselt bloki jälitajad lehitsemise ajal. Seejärel puuduta oma seadmes külastatud lehtede, otsingute, küpsiste ja paroolide kustutamiseks.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
-      <trans-unit id="FirstRun.messageLabelTagline">
+      <trans-unit id="FirstRun.messageLabelTagline" xml:space="preserve">
         <source>Browse like no one’s watching.</source>
+        <target>Lehitse veebi nii nagu keegi ei vaataks.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
-      <trans-unit id="Focus.handoffSyncing">
+      <trans-unit id="Focus.handoffSyncing" xml:space="preserve">
         <source>Apple Handoff is syncing</source>
+        <target>Apple Handoff sünkroniseerib</target>
         <note>Title for the loading screen when the handoff of clipboard delays Focus launch. “Handoff” should not be localized, see https://support.apple.com/HT204681</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
