@@ -456,36 +456,44 @@
         <target>Apple Handoff sünkroniseerib</target>
         <note>Title for the loading screen when the handoff of clipboard delays Focus launch. “Handoff” should not be localized, see https://support.apple.com/HT204681</note>
       </trans-unit>
-      <trans-unit id="Home.descriptionLabel1">
+      <trans-unit id="Home.descriptionLabel1" xml:space="preserve">
         <source>Automatic private browsing.</source>
+        <target>Automaatne privaatne lehitsemine.</target>
         <note>First label for product description on the home screen</note>
       </trans-unit>
-      <trans-unit id="Home.descriptionLabel2">
+      <trans-unit id="Home.descriptionLabel2" xml:space="preserve">
         <source>Browse. Erase. Repeat.</source>
+        <target>Lehitse. Kustuta. Korda.</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
-      <trans-unit id="Menu.Close">
+      <trans-unit id="Menu.Close" xml:space="preserve">
         <source>Close</source>
+        <target>Sulge</target>
         <note>Button label used to close a menu that displays as a popup.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Button.Title">
+      <trans-unit id="Onboarding.Button.Title" xml:space="preserve">
         <source>Start browsing</source>
+        <target>Alusta veebilehitsemist</target>
         <note>Text for a label that indicates the title of button from onboarding screen</note>
       </trans-unit>
-      <trans-unit id="Onboarding.History.Description">
+      <trans-unit id="Onboarding.History.Description" xml:space="preserve">
         <source>Erase your browsing history, passwords, cookies, and prevent unwanted ads from following you in a simple click!</source>
+        <target>Kustuta lehitsemise ajalugu, paroolid ja küpsised ning väldi ühe puutega reklaamide poolt jälitamist!</target>
         <note>Text for a label that indicates the description of history section from onboarding screen.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.History.Title">
+      <trans-unit id="Onboarding.History.Title" xml:space="preserve">
         <source>Your history doesn’t follow you</source>
+        <target>Sinu ajalugu ei jälita sind</target>
         <note>Text for a label that indicates the title of history section from onboarding screen.</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Incognito.Description">
+      <trans-unit id="Onboarding.Incognito.Description" xml:space="preserve">
         <source>%@ is a dedicated privacy browser with tracking protection and content blocking.</source>
+        <target>%@ on spetsiaalne privaatsusbrauser, millel on jälitamisvastane kaitse ja sisu blokkimine sisse ehitatud.</target>
         <note>Text for a label that indicates the description of incognito section from onboarding screen. Placeholder can be (Focus or Klar).</note>
       </trans-unit>
-      <trans-unit id="Onboarding.Incognito.Title">
+      <trans-unit id="Onboarding.Incognito.Title" xml:space="preserve">
         <source>More than just incognito</source>
+        <target>Rohkem kui lihtsalt anonüümsus</target>
         <note>Text for a label that indicates the title of incognito section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Description">
