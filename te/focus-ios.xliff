@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Blockzilla/en.lproj/InfoPlist.strings" source-language="en" target-language="te" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.2.1" build-num="13C100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4.1" build-num="13F100"/>
     </header>
     <body>
       <trans-unit id="NSCameraUsageDescription">
@@ -36,7 +36,7 @@
   </file>
   <file original="Blockzilla/en.lproj/Intents.strings" source-language="en" target-language="te" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.2.1" build-num="13C100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4.1" build-num="13F100"/>
     </header>
     <body>
       <trans-unit id="Intents.Erase.Title">
@@ -47,7 +47,7 @@
   </file>
   <file original="Blockzilla/en.lproj/Intro.strings" source-language="en" target-language="te" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.2.1" build-num="13C100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4.1" build-num="13F100"/>
     </header>
     <body>
       <trans-unit id="Intro.Slides.History.Description">
@@ -94,7 +94,7 @@
   </file>
   <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" target-language="te" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.2.1" build-num="13C100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4.1" build-num="13F100"/>
     </header>
     <body>
       <trans-unit id="About.learnMoreButton">
@@ -803,6 +803,10 @@
         <source>Add to Shortcuts</source>
         <note>Text for the share menu option when a user wants to add the site to Shortcuts</note>
       </trans-unit>
+      <trans-unit id="ShareMenu.AddToShortcuts.Confirm">
+        <source>Added to Shortcuts</source>
+        <note>Toast displayed to the user after adding the item to the Shortcuts.</note>
+      </trans-unit>
       <trans-unit id="ShareMenu.FindInPage">
         <source>Find in Page</source>
         <target>పేజీలో వెతుకు</target>
@@ -1206,7 +1210,7 @@
   </file>
   <file original="Blockzilla/Settings.bundle/en.lproj/Root.strings" datatype="plaintext" source-language="en" target-language="te">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.2.1" build-num="13C100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4.1" build-num="13F100"/>
     </header>
     <body>
       <trans-unit id="SettingsBundle.Licenses">

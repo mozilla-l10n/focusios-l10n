@@ -1,11 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Blockzilla/en.lproj/InfoPlist.strings" source-language="en" target-language="hy-AM" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.2.1" build-num="13C100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4.1" build-num="13F100"/>
     </header>
     <body>
-      <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
+      <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
         <target>Սա հնարավորություն է տալիս ստանալ և վերբեռնել լուսանկարներ:</target>
         <note>Privacy - Camera Usage Description</note>
@@ -14,17 +13,17 @@
         <source>This lets you unlock the app.</source>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
+      <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
         <target>Ձեր այցելած կայքերը կարող են հարցնել ձեր տեղադրությունը:</target>
         <note>Privacy - Location When In Use Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
+      <trans-unit id="NSMicrophoneUsageDescription">
         <source>This lets you take and upload videos.</source>
         <target>Սա հնարավորություն է տալիս ստանալ և վերբեռնել լուսանկարներ:</target>
         <note>Privacy - Microphone Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
+      <trans-unit id="NSPhotoLibraryAddUsageDescription">
         <source>This lets you save and upload photos.</source>
         <target>Հնարավորություն է տալիս պահպանել և վերբեռնել լուսանկարները:</target>
         <note>Privacy - Photo Library Additions Usage Description</note>
@@ -37,7 +36,7 @@
   </file>
   <file original="Blockzilla/en.lproj/Intents.strings" source-language="en" target-language="hy-AM" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.2.1" build-num="13C100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4.1" build-num="13F100"/>
     </header>
     <body>
       <trans-unit id="Intents.Erase.Title">
@@ -48,45 +47,45 @@
   </file>
   <file original="Blockzilla/en.lproj/Intro.strings" source-language="en" target-language="hy-AM" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.2.1" build-num="13C100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4.1" build-num="13F100"/>
     </header>
     <body>
-      <trans-unit id="Intro.Slides.History.Description" xml:space="preserve">
+      <trans-unit id="Intro.Slides.History.Description">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
         <target>Մաքրում է դիտարկումների պատմությունը, գաղտնաբառերը և ավելին՝ մեկ սեղմամբ:</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.History.Title" xml:space="preserve">
+      <trans-unit id="Intro.Slides.History.Title">
         <source>Your history is history</source>
         <target>Ձեր պատմությունը պատմություն է:</target>
         <note>Title for the third  panel 'History' in the First Run tour.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Next.Button" xml:space="preserve">
+      <trans-unit id="Intro.Slides.Next.Button">
         <source>Next</source>
         <target>Հաջորդը</target>
         <note>Button to go to the next card in Focus onboarding.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Search.Description" xml:space="preserve">
+      <trans-unit id="Intro.Slides.Search.Description">
         <source>Searching for something different? Choose a different search engine.</source>
         <target>Այլ բա՞ն եք փնտրում: Ընտրեք այլ որոնիչ Կարգավորումներում:</target>
         <note>Description for the 'Favorite Search Engine' panel in the First Run tour.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Search.Title" xml:space="preserve">
+      <trans-unit id="Intro.Slides.Search.Title">
         <source>Your search, your way</source>
         <target>Ձեր որոնումը, ձեր ընտրությունը</target>
         <note>Title for the second  panel 'Search' in the First Run tour.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Skip.Button" xml:space="preserve">
+      <trans-unit id="Intro.Slides.Skip.Button">
         <source>Skip</source>
         <target>Բաց թողնել</target>
         <note>Button to skip onboarding in Focus</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Welcome.Description" xml:space="preserve">
+      <trans-unit id="Intro.Slides.Welcome.Description">
         <source>Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.</source>
         <target>Տարեք գաղտնի դիտարկումը հաջորդ մակարդակ: Արգելափակեք գովազդները և այլ բովանդակություն, որը կարող է հետագծել ձեզ կայքերում և արագացրեք էջի բեռնումը:</target>
         <note>Description for the 'Welcome' panel in the First Run tour.</note>
       </trans-unit>
-      <trans-unit id="Intro.Slides.Welcome.Title" xml:space="preserve">
+      <trans-unit id="Intro.Slides.Welcome.Title">
         <source>Power up your privacy</source>
         <target>Հզորացրեք ձեր գաղտնիությունը</target>
         <note>Title for the first panel 'Welcome' in the First Run tour.</note>
@@ -95,65 +94,65 @@
   </file>
   <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" target-language="hy-AM" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.2.1" build-num="13C100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4.1" build-num="13F100"/>
     </header>
     <body>
-      <trans-unit id="About.learnMoreButton" xml:space="preserve">
+      <trans-unit id="About.learnMoreButton">
         <source>Learn more</source>
         <target>Իմանալ ավելին</target>
         <note>Button on About screen</note>
       </trans-unit>
-      <trans-unit id="About.missionLabel" xml:space="preserve">
+      <trans-unit id="About.missionLabel">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
         <target>%@-ը ստեղծվել է Mozilla-ի կողմից: Մեր առաքելությունն է նպաստել առողջ, բաց համացանցին:</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.privateBullet1" xml:space="preserve">
+      <trans-unit id="About.privateBullet1">
         <source>Search and browse right in the app</source>
         <target>Որոնել և ընտրել անմիջապես հավելվածից</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.privateBullet2" xml:space="preserve">
+      <trans-unit id="About.privateBullet2">
         <source>Block trackers (or update settings to allow trackers)</source>
         <target>Արգելափակել հետագծումները (կամ թարմացրեք կարգավորումները՝ թույլատրելու համար հետագծումները)</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.privateBullet3" xml:space="preserve">
+      <trans-unit id="About.privateBullet3">
         <source>Erase to delete cookies as well as search and browsing history</source>
         <target>Ջնջեք՝ cookie-ները, որոնման և դիտարկման պատմությունը մաքրելու համար</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.privateBulletHeader" xml:space="preserve">
+      <trans-unit id="About.privateBulletHeader">
         <source>Use it as a private browser:</source>
         <target>Օգտագործել որպես գաղտնի դիտարկիչ</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.rowHelp" xml:space="preserve">
+      <trans-unit id="About.rowHelp">
         <source>Help</source>
         <target>Օգնություն</target>
         <note>Label for row in About screen</note>
       </trans-unit>
-      <trans-unit id="About.rowPrivacy" xml:space="preserve">
+      <trans-unit id="About.rowPrivacy">
         <source>Privacy Notice</source>
         <target>Գաղտնիության դրույթներ</target>
         <note>Link to Privacy Notice in the About screen</note>
       </trans-unit>
-      <trans-unit id="About.rowRights" xml:space="preserve">
+      <trans-unit id="About.rowRights">
         <source>Your Rights</source>
         <target>Ձեր իրավունքները</target>
         <note>Label for row in About screen</note>
       </trans-unit>
-      <trans-unit id="About.safariBullet1" xml:space="preserve">
+      <trans-unit id="About.safariBullet1">
         <source>Block trackers for improved privacy</source>
         <target>Արգելափակել հետագծումները՝ գաղտնիությունը լավարկելու համար</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.safariBullet2" xml:space="preserve">
+      <trans-unit id="About.safariBullet2">
         <source>Block web fonts to reduce page size</source>
         <target>Արգելափակել վեբ տառատեսակները՝ էջի չափը նվազեցնելու համար</target>
         <note>Label on About screen</note>
       </trans-unit>
-      <trans-unit id="About.safariBulletHeader" xml:space="preserve">
+      <trans-unit id="About.safariBulletHeader">
         <source>Use it as a Safari extension:</source>
         <target>Օգտագործել որպես Safari-ի ընդլայնում.</target>
         <note>Label on About screen</note>
@@ -162,7 +161,7 @@
         <source>About %@</source>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, takes the user to a page with information about the product. Also displayed as a header for the About page.</note>
       </trans-unit>
-      <trans-unit id="About.topLabel" xml:space="preserve">
+      <trans-unit id="About.topLabel">
         <source>%@ puts you in control.</source>
         <target>%@-ը տալիս է ձեզ կառավարում:</target>
         <note>Label on About screen</note>
@@ -183,72 +182,72 @@
         <source>Authenticate to return to %@</source>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID, Face ID, or passcode to continue browsing after returning to the app.</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.addCustomUrl" xml:space="preserve">
+      <trans-unit id="Autocomplete.addCustomUrl">
         <source>Add Custom URL</source>
         <target>Հավելել հարմարեցված URL</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.addCustomUrlError" xml:space="preserve">
+      <trans-unit id="Autocomplete.addCustomUrlError">
         <source>Double-check the URL you entered.</source>
         <target>Ստուգեք մուտքագրված URL-ն:</target>
         <note>Label for error state when entering an invalid URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.addCustomUrlExample" xml:space="preserve">
+      <trans-unit id="Autocomplete.addCustomUrlExample">
         <source>Example: example.com</source>
         <target>Օրինակ՝ example.com</target>
         <note>A label displaying an example URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.addCustomUrlLabel" xml:space="preserve">
+      <trans-unit id="Autocomplete.addCustomUrlLabel">
         <source>URL to add</source>
         <target>URL՝ ավելացնելու համար</target>
         <note>Label for the input to add a custom URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.addCustomUrlPlaceholder" xml:space="preserve">
+      <trans-unit id="Autocomplete.addCustomUrlPlaceholder">
         <source>Paste or enter URL</source>
         <target>Տեղադրեք կամ մուտքագրեք URL-ն</target>
         <note>Placeholder for the input field to add a custom URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.addCustomUrlWithPlus" xml:space="preserve">
+      <trans-unit id="Autocomplete.addCustomUrlWithPlus">
         <source>+ Add Custom URL</source>
         <target>+ Հավելել հարմարեցված URL</target>
         <note>Label for button to add a custom URL with the + prefix</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.customDescriptoin" xml:space="preserve">
+      <trans-unit id="Autocomplete.customDescriptoin">
         <source>Add and manage custom autocomplete URLs.</source>
         <target>Ավելացնել և կառավարել հարմարեցված ինքնալրացվող URL-ները:</target>
         <note>Description for adding and managing custom autocomplete URLs</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.customLabel" xml:space="preserve">
+      <trans-unit id="Autocomplete.customLabel">
         <source>Custom URLs</source>
         <target>Հարմարեցված URLներ</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.customTitle" xml:space="preserve">
+      <trans-unit id="Autocomplete.customTitle">
         <source>CUSTOM URL LIST</source>
         <target>ՀԱՐՄԱՐԵՑՎԱԾ URL ՑԱՆԿ</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.customUrlAdded" xml:space="preserve">
+      <trans-unit id="Autocomplete.customUrlAdded">
         <source>New Custom URL added.</source>
         <target>Նոր հարմարեցված URL է ավելացվել:</target>
         <note>Label for toast alerting a custom URL has been added</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.defaultDescriptoin" xml:space="preserve">
+      <trans-unit id="Autocomplete.defaultDescriptoin">
         <source>Enable to have %@ autocomplete over 450 popular URLs in the address bar.</source>
         <target>Միացրեք՝ ունենալու համար %@ ինքնալրացում աեվլի քան 450 հանրահայտ URL-ների համար:</target>
         <note>Description for enabling or disabling the default list. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.defaultLabel" xml:space="preserve">
+      <trans-unit id="Autocomplete.defaultLabel">
         <source>Autocomplete</source>
         <target>Ինքնալրացում</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.defaultTitle" xml:space="preserve">
+      <trans-unit id="Autocomplete.defaultTitle">
         <source>DEFAULT URL LIST</source>
         <target>ԼՌԵԼՅԱՅՆ URL ՑԱՆԿ</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.disabled" xml:space="preserve">
+      <trans-unit id="Autocomplete.disabled">
         <source>Disabled</source>
         <target>Անջատել</target>
         <note>label describing URL Autocomplete as disabled</note>
@@ -257,12 +256,12 @@
         <source>URL already exists</source>
         <note>Label for toast alerting that the custom URL being added is a duplicate</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.emptyState" xml:space="preserve">
+      <trans-unit id="Autocomplete.emptyState">
         <source>No Custom URLs to display</source>
         <target>Չկան հարմարեցված URL-ներ՝ ցուցադրելու համար</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.enabled" xml:space="preserve">
+      <trans-unit id="Autocomplete.enabled">
         <source>Enabled</source>
         <target>Միացնել</target>
         <note>label describing URL Autocomplete as enabled</note>
@@ -291,7 +290,7 @@
         <source>Unlock %@ when re-opening in order to prevent unauthorized access.</source>
         <note>%@ is app name. Explanation for why the app needs access to biometric information. Prompt is only shown once when the user first tries to enable Face ID to open the app.</note>
       </trans-unit>
-      <trans-unit id="Browser.backLabel" xml:space="preserve">
+      <trans-unit id="Browser.backLabel">
         <source>Back</source>
         <target>Նախորդը</target>
         <note>Accessibility label for the back button</note>
@@ -308,97 +307,97 @@
         <source>Add Custom URL</source>
         <note>Custom URL button in URL long press menu</note>
       </trans-unit>
-      <trans-unit id="Browser.forwardLabel" xml:space="preserve">
+      <trans-unit id="Browser.forwardLabel">
         <source>Forward</source>
         <target>Փոխանցել</target>
         <note>Accessibility label for the forward button</note>
       </trans-unit>
-      <trans-unit id="Browser.reloadLabel" xml:space="preserve">
+      <trans-unit id="Browser.reloadLabel">
         <source>Reload</source>
         <target>Կրկին բեռնել</target>
         <note>Accessibility label for the reload button</note>
       </trans-unit>
-      <trans-unit id="Browser.settingsLabel" xml:space="preserve">
+      <trans-unit id="Browser.settingsLabel">
         <source>Settings</source>
         <target>Կարգավորումներ</target>
         <note>Accessibility label for the settings button</note>
       </trans-unit>
-      <trans-unit id="Browser.shareLabel" xml:space="preserve">
+      <trans-unit id="Browser.shareLabel">
         <source>Share</source>
         <target>Համօգտագործել</target>
         <note>Accessibility label for the share button</note>
       </trans-unit>
-      <trans-unit id="Browser.stopLabel" xml:space="preserve">
+      <trans-unit id="Browser.stopLabel">
         <source>Stop</source>
         <target>Կանգնեցնել</target>
         <note>Accessibility label for the stop button</note>
       </trans-unit>
-      <trans-unit id="Cancel" xml:space="preserve">
+      <trans-unit id="Cancel">
         <source>Cancel</source>
         <target>Չեղարկել</target>
         <note>Label on button to cancel edits</note>
       </trans-unit>
-      <trans-unit id="Done" xml:space="preserve">
+      <trans-unit id="Done">
         <source>Done</source>
         <target>Պատրաստ է</target>
         <note>Label on button to complete edits</note>
       </trans-unit>
-      <trans-unit id="Edit" xml:space="preserve">
+      <trans-unit id="Edit">
         <source>Edit</source>
         <target>Խմբագրել</target>
         <note>Label on button to allow edits</note>
       </trans-unit>
-      <trans-unit id="Error.tryAgainButton" xml:space="preserve">
+      <trans-unit id="Error.tryAgainButton">
         <source>Try again</source>
         <target>Կրկին փորձել</target>
         <note>Button label to reload the error page</note>
       </trans-unit>
-      <trans-unit id="ExternalAppLink.cancelTitle" xml:space="preserve">
+      <trans-unit id="ExternalAppLink.cancelTitle">
         <source>Cancel</source>
         <target>Չեղարկել</target>
         <note>Button label used for cancelling to open another app from Focus</note>
       </trans-unit>
-      <trans-unit id="ExternalAppLink.messageTitle" xml:space="preserve">
+      <trans-unit id="ExternalAppLink.messageTitle">
         <source>%@ wants to open another App</source>
         <target>%@-ը ցանկանում է բացել այլ հավելված</target>
         <note>Dialog title used for opening an external app from Focus. The placeholder string is the app name of either Focus or Klar.</note>
       </trans-unit>
-      <trans-unit id="ExternalAppLink.openTitle" xml:space="preserve">
+      <trans-unit id="ExternalAppLink.openTitle">
         <source>Open</source>
         <target>Բացել</target>
         <note>Button label for opening another app from Focus</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.callButton" xml:space="preserve">
+      <trans-unit id="ExternalLink.callButton">
         <source>Call</source>
         <target>Զանգ</target>
         <note>Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.cancelButton" xml:space="preserve">
+      <trans-unit id="ExternalLink.cancelButton">
         <source>Cancel</source>
         <target>Չեղարկել</target>
         <note>Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.emailButton" xml:space="preserve">
+      <trans-unit id="ExternalLink.emailButton">
         <source>Email</source>
         <target>Էլ. փոստ</target>
         <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.messageTitleWithPlaceholder" xml:space="preserve">
+      <trans-unit id="ExternalLink.messageTitleWithPlaceholder">
         <source>You are now leaving %@.</source>
         <target>Դուք հետևում եք %@-ին։</target>
         <note>Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.openAppStoreButton" xml:space="preserve">
+      <trans-unit id="ExternalLink.openAppStoreButton">
         <source>Open App Store</source>
         <target>Բացել App Store-ը</target>
         <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.openAppStoreTitle" xml:space="preserve">
+      <trans-unit id="ExternalLink.openAppStoreTitle">
         <source>%@ wants to open the App Store.</source>
         <target>%@-ը ցանկանում է բացել App Store-ը:</target>
         <note>Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.openMapsButton" xml:space="preserve">
+      <trans-unit id="ExternalLink.openMapsButton">
         <source>Open Maps</source>
         <target>Բացել Քարտեզները</target>
         <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
@@ -415,32 +414,32 @@
         <source>Find previous in page</source>
         <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
       </trans-unit>
-      <trans-unit id="FirstRun.lastSlide.buttonLabel" xml:space="preserve">
+      <trans-unit id="FirstRun.lastSlide.buttonLabel">
         <source>OK, Got It!</source>
         <target>Լավ, հասկացա</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
-      <trans-unit id="FirstRun.messageLabelDescription" xml:space="preserve">
+      <trans-unit id="FirstRun.messageLabelDescription">
         <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
         <target>Ինքնաշխատ արգելափակել առցանց հետագծումները դիտարկելիս: Ապա հպեք՝ ջնջելու այցելած էջերը, որոնումները, cookie-ները և գաղտնաբառերը ձեր սարքից:</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
-      <trans-unit id="FirstRun.messageLabelTagline" xml:space="preserve">
+      <trans-unit id="FirstRun.messageLabelTagline">
         <source>Browse like no one’s watching.</source>
         <target>Դիտարկեք այնպես, որ ոչ ոք Ձեզ չի հետևում:</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
-      <trans-unit id="Focus.handoffSyncing" xml:space="preserve">
+      <trans-unit id="Focus.handoffSyncing">
         <source>Apple Handoff is syncing</source>
         <target>Apple Handoff-ը համաժամեցնում է</target>
         <note>Title for the loading screen when the handoff of clipboard delays Focus launch. “Handoff” should not be localized, see https://support.apple.com/HT204681</note>
       </trans-unit>
-      <trans-unit id="Home.descriptionLabel1" xml:space="preserve">
+      <trans-unit id="Home.descriptionLabel1">
         <source>Automatic private browsing.</source>
         <target>Ինքնաշխատ գաղտնի դիտարկիչ:</target>
         <note>First label for product description on the home screen</note>
       </trans-unit>
-      <trans-unit id="Home.descriptionLabel2" xml:space="preserve">
+      <trans-unit id="Home.descriptionLabel2">
         <source>Browse. Erase. Repeat.</source>
         <target>Դիտարկեք: Ջնջեք: Կրկնեք:</target>
         <note>Second label for product description on the home screen</note>
@@ -485,22 +484,22 @@
         <source>Welcome to Firefox %@!</source>
         <note>Text for a label that indicates the title for onboarding screen. Placeholder can be (Focus or Klar).</note>
       </trans-unit>
-      <trans-unit id="Open.Cancel" xml:space="preserve">
+      <trans-unit id="Open.Cancel">
         <source>Cancel</source>
         <target>Չեղարկել</target>
         <note>Label in share alert to cancel the alert</note>
       </trans-unit>
-      <trans-unit id="Open.Firefox" xml:space="preserve">
+      <trans-unit id="Open.Firefox">
         <source>Firefox (Private Browsing)</source>
         <target>Փորձեք Գաղտնի դիտարկումը</target>
         <note>Label in share alert to open the URL in Firefox</note>
       </trans-unit>
-      <trans-unit id="Open.More" xml:space="preserve">
+      <trans-unit id="Open.More">
         <source>More</source>
         <target>Ավելին</target>
         <note>Label in share alert to open the full system share menu</note>
       </trans-unit>
-      <trans-unit id="Open.Safari" xml:space="preserve">
+      <trans-unit id="Open.Safari">
         <source>Safari</source>
         <target>Safari­</target>
         <note>Label in share alert to open the URL in Safari</note>
@@ -517,27 +516,27 @@
         <source>Request Desktop Site</source>
         <note>Label for button that requests the desktop version of the currently loaded website.</note>
       </trans-unit>
-      <trans-unit id="Safari.instructionsContentBlockers" xml:space="preserve">
+      <trans-unit id="Safari.instructionsContentBlockers">
         <source>Tap Safari, then select Content Blockers</source>
         <target>Հպեք Safari, ընտրեք բովանդակության արգելափակիչներ</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
-      <trans-unit id="Safari.instructionsEnable" xml:space="preserve">
+      <trans-unit id="Safari.instructionsEnable">
         <source>Enable %@</source>
         <target>Միացնել %@-ը</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
-      <trans-unit id="Safari.instructionsNotEnabled" xml:space="preserve">
+      <trans-unit id="Safari.instructionsNotEnabled">
         <source>%@ is not enabled.</source>
         <target>%@-ը միացրած չէ:</target>
         <note>Error label when the blocker is not enabled, shown in the intro and main app when disabled</note>
       </trans-unit>
-      <trans-unit id="Safari.instructionsOpen" xml:space="preserve">
+      <trans-unit id="Safari.instructionsOpen">
         <source>Open Settings App</source>
         <target>Բացել կարգավորումները</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
-      <trans-unit id="Save" xml:space="preserve">
+      <trans-unit id="Save">
         <source>Save</source>
         <target>Պահպանել</target>
         <note>Save button label</note>
@@ -562,62 +561,62 @@
         <source>Show Search Suggestions?</source>
         <note>Title for search suggestions prompt</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.AddSearchEngineButton" xml:space="preserve">
+      <trans-unit id="Settings.Search.AddSearchEngineButton">
         <source>Add Another Search Engine</source>
         <target>Ավելացնել որոնողական հանգույց</target>
         <note>Text for button to add another search engine in settings</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.AddSearchEngineButtonWithPlus" xml:space="preserve">
+      <trans-unit id="Settings.Search.AddSearchEngineButtonWithPlus">
         <source>+ Add Another Search Engine</source>
         <target>Ավելացնել որոնողական հանգույց</target>
         <note>Text for button to add another search engine in settings with the + prefix</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.AddSearchEngineTitle" xml:space="preserve">
+      <trans-unit id="Settings.Search.AddSearchEngineTitle">
         <source>Add Search Engine</source>
         <target>Ավելացնել որոնիչ</target>
         <note>Title on add search engine settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.InstalledSearchEngines" xml:space="preserve">
+      <trans-unit id="Settings.Search.InstalledSearchEngines">
         <source>INSTALLED SEARCH ENGINES</source>
         <target>ՏԵՂԱԴՐՎԱԾ ՈՐՈՆԻՉՆԵՐ</target>
         <note>Header for rows of installed search engines</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.NameToDisplay" xml:space="preserve">
+      <trans-unit id="Settings.Search.NameToDisplay">
         <source>Name to display</source>
         <target>Ցուցադրվող անունը</target>
         <note>Label for input field for the name of the search engine to be added</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.NewSearchEngineAdded" xml:space="preserve">
+      <trans-unit id="Settings.Search.NewSearchEngineAdded">
         <source>New Search Engine Added.</source>
         <target>Նոր որոնիչը ավելացվել է:</target>
         <note>Toast displayed after adding a search engine</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.RestoreEngine" xml:space="preserve">
+      <trans-unit id="Settings.Search.RestoreEngine">
         <source>Restore Default Search Engines</source>
         <target>Վերականգնել հիմնական որոնիչը</target>
         <note>Label for button to bring deleted default engines back</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.SearchEngineName" xml:space="preserve">
+      <trans-unit id="Settings.Search.SearchEngineName">
         <source>Search engine name</source>
         <target>Որոնել որոնիչ</target>
         <note>Placeholder text for input of new search engine name</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.SearchTemplate" xml:space="preserve">
+      <trans-unit id="Settings.Search.SearchTemplate">
         <source>Search string to use</source>
         <target>Որոնել տողը՝ օգտագործելու համար</target>
         <note>Label for input of search engine template</note>
       </trans-unit>
-      <trans-unit id="Settings.Search.SearchTemplatePlaceholder" xml:space="preserve">
+      <trans-unit id="Settings.Search.SearchTemplatePlaceholder">
         <source>Paste or enter search string. If necessary, replace search term with: %s.</source>
         <target>Տեղադրեք կամ մուտքագրեք որոնիչի տողը: Եթե անհրաժեշտ է՝ փոխարինեք որոնվող բառը հետևյալով՝ %s:</target>
         <note>Placeholder text for input of new search engine template</note>
       </trans-unit>
-      <trans-unit id="Settings.autocompleteSection" xml:space="preserve">
+      <trans-unit id="Settings.autocompleteSection">
         <source>URL Autocomplete</source>
         <target>URL ինքնալրացում</target>
         <note>Title for the URL Autocomplete row</note>
       </trans-unit>
-      <trans-unit id="Settings.blockOtherMessage" xml:space="preserve">
+      <trans-unit id="Settings.blockOtherMessage">
         <source>Blocking other content trackers may break some videos and web pages.</source>
         <target>Բովանդակության այլ հետագծումների արգելափակումը կարող է ընդհատել որոշ տեսանյութեր և վեբ էջեր:</target>
         <note>Alert message shown when toggling the Content blocker</note>
@@ -638,7 +637,7 @@
         <source>%@ will send what you type in the address bar to your search engine.</source>
         <note>Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
-      <trans-unit id="Settings.detailTextSendUsageData" xml:space="preserve">
+      <trans-unit id="Settings.detailTextSendUsageData">
         <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
         <target>Mozilla-ն ձգտում է հավաքել միայն այն, ինչ պետք է՝ %@-ը լավարկելու համար</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)</note>
@@ -651,7 +650,7 @@
         <source>General</source>
         <note>Title for section in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.learnMore" xml:space="preserve">
+      <trans-unit id="Settings.learnMore">
         <source>Learn more.</source>
         <target>Իմանալ ավելին</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
@@ -672,12 +671,12 @@
         <source>SAFARI INTEGRATION</source>
         <note>Label for Safari integration section</note>
       </trans-unit>
-      <trans-unit id="Settings.screenTitle" xml:space="preserve">
+      <trans-unit id="Settings.screenTitle">
         <source>Settings</source>
         <target>Կարգավորումներ</target>
         <note>Title for settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.searchLabel" xml:space="preserve">
+      <trans-unit id="Settings.searchLabel">
         <source>Search Engine</source>
         <target>Որոնիչներ</target>
         <note>Label for the search engine in the search screen</note>
@@ -686,22 +685,22 @@
         <source>Get Search Suggestions</source>
         <note>Label for the Search Suggestions toggle row</note>
       </trans-unit>
-      <trans-unit id="Settings.searchTitle2" xml:space="preserve">
+      <trans-unit id="Settings.searchTitle2">
         <source>SEARCH</source>
         <target>ՈՐՈՆԵԼ</target>
         <note>Title for the search selection screen</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionMozilla" xml:space="preserve">
+      <trans-unit id="Settings.sectionMozilla">
         <source>MOZILLA</source>
         <target>MOZILLA</target>
         <note>Section label for Mozilla toggles</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionPerformance" xml:space="preserve">
+      <trans-unit id="Settings.sectionPerformance">
         <source>PERFORMANCE</source>
         <target>ԱՐՏԱԴՐՈՂԱԿԱՆՈՒԹՅՈՒՆ</target>
         <note>Section label for performance toggles</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionPrivacy" xml:space="preserve">
+      <trans-unit id="Settings.sectionPrivacy">
         <source>PRIVACY</source>
         <target>ԳԱՂՏՆԻՈՒԹՅՈՒՆ</target>
         <note>Section label for privacy toggles</note>
@@ -730,7 +729,7 @@
         <source>Analytics</source>
         <note>Label for the checkbox to toggle Analytics trackers</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleBlockFonts" xml:space="preserve">
+      <trans-unit id="Settings.toggleBlockFonts">
         <source>Block web fonts</source>
         <target>Արգելափակել վեբ տառատեսակները</target>
         <note>Label for toggle on main screen</note>
@@ -755,17 +754,17 @@
         <source>Show home screen tips</source>
         <note>Show home screen tips toggle label on settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleOtherSubtitle" xml:space="preserve">
+      <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
         <target>Կարող է ընդհատել որոշ տեսանյութեր և վեբ էջեր</target>
         <note>Label subtitle for toggle on main screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleSafari" xml:space="preserve">
+      <trans-unit id="Settings.toggleSafari">
         <source>Safari</source>
         <target>Safari­-ից</target>
         <note>Safari toggle label on settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleSendUsageData" xml:space="preserve">
+      <trans-unit id="Settings.toggleSendUsageData">
         <source>Send usage data</source>
         <target>Ուղարկել օգտագործման տվյալները</target>
         <note>Label for Send Usage Data toggle on main screen</note>
@@ -794,7 +793,7 @@
         <source>Use System Light/Dark Mode</source>
         <note>Value for theme toggle in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.whatsNewTitle" xml:space="preserve">
+      <trans-unit id="Settings.whatsNewTitle">
         <source>What’s New</source>
         <target>Ինչն է նոր</target>
         <note>Title for What's new screen</note>
@@ -807,11 +806,15 @@
         <source>Add to Shortcuts</source>
         <note>Text for the share menu option when a user wants to add the site to Shortcuts</note>
       </trans-unit>
+      <trans-unit id="ShareMenu.AddToShortcuts.Confirm">
+        <source>Added to Shortcuts</source>
+        <note>Toast displayed to the user after adding the item to the Shortcuts.</note>
+      </trans-unit>
       <trans-unit id="ShareMenu.FindInPage">
         <source>Find in Page</source>
         <note>Text for the share menu option when a user wants to open the find in page menu</note>
       </trans-unit>
-      <trans-unit id="ShareMenu.GetFirefox" xml:space="preserve">
+      <trans-unit id="ShareMenu.GetFirefox">
         <source>Get the Firefox App</source>
         <target>Ստանալ Firefox-ը</target>
         <note>Text for the share menu option when a user wants to open a page in Firefox but doesn’t have it installed. This string will not wrap in the interface. Instead, it will truncate. To prevent this, please keep the localized string to 18 or fewer characters. If your string runs longer than 18 characters, you can use 'Get Firefox' as the basis for your string. However, if at all possible, we’d like to signal to the user that they will be going to the App Store and installing the application from there. That is why we are using Get and App in the en-US string.</note>
@@ -992,17 +995,17 @@
         <source>Add link to autocomplete</source>
         <note>Label displayed for button used as a shortcut to add a link to the list of URLs to autocomplete.</note>
       </trans-unit>
-      <trans-unit id="URL.cancelLabel" xml:space="preserve">
+      <trans-unit id="URL.cancelLabel">
         <source>Cancel</source>
         <target>Չեղարկել</target>
         <note>Label for cancel button shown when entering a URL or search</note>
       </trans-unit>
-      <trans-unit id="URL.contextMenu" xml:space="preserve">
+      <trans-unit id="URL.contextMenu">
         <source>Paste &amp; Go</source>
         <target>Տեղադրել և Առաջ</target>
         <note>Text for the URL context menu when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
-      <trans-unit id="URL.eraseButtonLabel" xml:space="preserve">
+      <trans-unit id="URL.eraseButtonLabel">
         <source>ERASE</source>
         <target>ՋՆՋԵԼ</target>
         <note>Erase button in the URL bar</note>
@@ -1019,22 +1022,22 @@
         <source>Paste</source>
         <note>Text for a menu displayed from the bottom of the screen when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
-      <trans-unit id="URL.placeholderText" xml:space="preserve">
+      <trans-unit id="URL.placeholderText">
         <source>Search or enter address</source>
         <target>Մուտքագրեք կայքի հասցե կամ որոնում</target>
         <note>Placeholder text shown in the URL bar before the user navigates to a page</note>
       </trans-unit>
-      <trans-unit id="URL.searchLabel" xml:space="preserve">
+      <trans-unit id="URL.searchLabel">
         <source>Search for %@</source>
         <target>Որոնել %@-ը</target>
         <note>Label displayed for search button when typing in the URL bar</note>
       </trans-unit>
-      <trans-unit id="URL.trackersBlockedLabel" xml:space="preserve">
+      <trans-unit id="URL.trackersBlockedLabel">
         <source>Trackers blocked</source>
         <target>Արգելել հետագծումները</target>
         <note>Text for the URL bar showing the number of trackers blocked on a webpage.</note>
       </trans-unit>
-      <trans-unit id="actionSheet.openIn" xml:space="preserve">
+      <trans-unit id="actionSheet.openIn">
         <source>Open in %@</source>
         <target>Բացել %@-ում</target>
         <note>Title for action sheet item to open the current page in another application. Placeholder is the name of the application to open the current page.</note>
@@ -1043,17 +1046,17 @@
         <source>URL Copied To Clipboard</source>
         <note>Toast displayed after a URL has been copied to the clipboard</note>
       </trans-unit>
-      <trans-unit id="browserShortcutDescription.selectLocationBar" xml:space="preserve">
+      <trans-unit id="browserShortcutDescription.selectLocationBar">
         <source>Select Location Bar</source>
         <target>Ընտրել տեղադրության գոտին</target>
         <note>Label to display in the Discoverability overlay for keyboard shortcuts</note>
       </trans-unit>
-      <trans-unit id="contextMenu.copyImageTitle" xml:space="preserve">
+      <trans-unit id="contextMenu.copyImageTitle">
         <source>Copy Image</source>
         <target>Կրկնօրինակել Նկարը</target>
         <note>Text for the context menu when a user wants to copy an image after long pressing it.</note>
       </trans-unit>
-      <trans-unit id="contextMenu.copyLink" xml:space="preserve">
+      <trans-unit id="contextMenu.copyLink">
         <source>Copy Link</source>
         <target>Պատճենել հղումը</target>
         <note>Text for the context menu when a user wants to copy a link after long pressing it.</note>
@@ -1062,32 +1065,32 @@
         <source>Link you copied: </source>
         <note>Text for the context menu when a user has a link on their clipboard.</note>
       </trans-unit>
-      <trans-unit id="contextMenu.saveImageTitle" xml:space="preserve">
+      <trans-unit id="contextMenu.saveImageTitle">
         <source>Save Image</source>
         <target>Պահպանել պատկերը</target>
         <note>Text for the context menu when a user wants to save an image after long pressing it.</note>
       </trans-unit>
-      <trans-unit id="contextMenu.shareLinkTitle" xml:space="preserve">
+      <trans-unit id="contextMenu.shareLinkTitle">
         <source>Share Link</source>
         <target>Համօգտագործել հղումը</target>
         <note>Text for the context menu when a user wants to share a link after long pressing it.</note>
       </trans-unit>
-      <trans-unit id="externalAppLinkWithAppName.messageTitle" xml:space="preserve">
+      <trans-unit id="externalAppLinkWithAppName.messageTitle">
         <source>%1$@ wants to open %2$@</source>
         <target>%1$@-ը ցանկանում է բացել %2$@-ը</target>
         <note>Dialog title used for opening an external app from Focus. First placeholder string is the app name of either Focus or Klar and the second placeholder string specifies the app it wants to open.</note>
       </trans-unit>
-      <trans-unit id="photosPermission.description" xml:space="preserve">
+      <trans-unit id="photosPermission.description">
         <source>This lets you save images to your Camera Roll</source>
         <target>Հնարավորություն է տալիս պահպանել Camera Roll-ը</target>
         <note>Description for dialog used for requesting a user to enable access to Photos.</note>
       </trans-unit>
-      <trans-unit id="photosPermission.openSettings" xml:space="preserve">
+      <trans-unit id="photosPermission.openSettings">
         <source>Open Settings</source>
         <target>Բացել կարգավորումները</target>
         <note>Title for button that takes the user to system settings</note>
       </trans-unit>
-      <trans-unit id="photosPermission.title" xml:space="preserve">
+      <trans-unit id="photosPermission.title">
         <source>“%@” Would Like to Access Your Photos</source>
         <target>“%@”-ը ցանկանում է մատչել ձեր լուսանկարները</target>
         <note>Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar</note>
@@ -1108,12 +1111,12 @@
         <source>Use Touch ID to return to %@</source>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID to continue browsing after returning to the app.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.adTrackersLabel" xml:space="preserve">
+      <trans-unit id="trackingProtection.adTrackersLabel">
         <source>Ad trackers</source>
         <target>Գովազդի արգելափակում</target>
         <note>Label for ad trackers.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.analyticTrackerLabel" xml:space="preserve">
+      <trans-unit id="trackingProtection.analyticTrackerLabel">
         <source>Analytic trackers</source>
         <target>Վերլուծական հետագծումներ</target>
         <note>label for analytic trackers.</note>
@@ -1130,12 +1133,12 @@
         <source>Verified by %@</source>
         <note>String to let users know the site verifier, where the placeholder represents the SSL certificate signer.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.contentTrackerLabel" xml:space="preserve">
+      <trans-unit id="trackingProtection.contentTrackerLabel">
         <source>Content trackers</source>
         <target>Բովանդակության հետագծումներ</target>
         <note>label for content trackers.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.disabledLabel" xml:space="preserve">
+      <trans-unit id="trackingProtection.disabledLabel">
         <source>Tracking Protection off</source>
         <target>Հետագծման պաշտպանություն</target>
         <note>text showing the tracking protection is disabled.</note>
@@ -1148,7 +1151,7 @@
         <source>Turning this off may fix some site problems</source>
         <note>Description/subtitle for the tracking protection label.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.learnMore" xml:space="preserve">
+      <trans-unit id="trackingProtection.learnMore">
         <source>Learn More</source>
         <target>Իմանալ ավելին</target>
         <note>Text for the button to learn more about Tracking Protection.</note>
@@ -1157,7 +1160,7 @@
         <source>More Settings</source>
         <note>Text for the button that closes the Shield Data and opens the regular Settings screen.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.socialTrackerLabel" xml:space="preserve">
+      <trans-unit id="trackingProtection.socialTrackerLabel">
         <source>Social trackers</source>
         <target>Սոցիալական հետագծումներ</target>
         <note>label for social trackers.</note>
@@ -1170,7 +1173,7 @@
         <source>Protections are ON for this session</source>
         <note>Text for the status on from Tracking Protection.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.toggleDescription1" xml:space="preserve">
+      <trans-unit id="trackingProtection.toggleDescription1">
         <source>Disable until you close %@ or tap ERASE.</source>
         <target>Անջատել, մինչև կփակեք %@-ը կամ հպեք ՋՆՋԵԼ:</target>
         <note>Description for the tracking protection toggle. Placeholder is either Firefox Focus or Firefox Klar</note>
@@ -1195,7 +1198,7 @@
   </file>
   <file original="Blockzilla/Settings.bundle/en.lproj/Root.strings" datatype="plaintext" source-language="en" target-language="hy-AM">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.2.1" build-num="13C100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4.1" build-num="13F100"/>
     </header>
     <body>
       <trans-unit id="SettingsBundle.Licenses">
@@ -1205,3 +1208,4 @@
     </body>
   </file>
 </xliff>
+
