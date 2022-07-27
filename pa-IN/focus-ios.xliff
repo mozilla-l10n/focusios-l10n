@@ -763,10 +763,12 @@
       </trans-unit>
       <trans-unit id="Settings.setAsDefaultBrowser" xml:space="preserve">
         <source>Set as Default Browser</source>
+        <target>ਮੂਲ ਬਰਾਊਜ਼ਰ ਵਜੋਂ ਸੈੱਟ ਕਰੋ</target>
         <note>Label title for set as default browser row</note>
       </trans-unit>
       <trans-unit id="Settings.setAsDefaultBrowserDescription" xml:space="preserve">
         <source>Set links from websites, emails and messages to open automatically in %@.</source>
+        <target>ਵੈੱਬਸਾਈਟਾਂ, ਈਮੇਲਾਂ ਤੇ ਸੁਨੇਹਿਆਂ ਤੋਂ ਆਏ ਲਿੰਕ ਆਪਣੇ-ਆਪ %@ ਵਿੱਚ ਖੋਲ੍ਹੋ।</target>
         <note>%@ is the name of the app. Description for set as default browser option</note>
       </trans-unit>
       <trans-unit id="Settings.systemTheme" xml:space="preserve">
