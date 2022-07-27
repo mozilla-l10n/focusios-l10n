@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Blockzilla/en.lproj/InfoPlist.strings" source-language="en" target-language="he" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4.1" build-num="13F100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4" build-num="13F17a"/>
     </header>
     <body>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
@@ -39,7 +39,7 @@
   </file>
   <file original="Blockzilla/en.lproj/Intents.strings" source-language="en" target-language="he" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4.1" build-num="13F100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4" build-num="13F17a"/>
     </header>
     <body>
       <trans-unit id="Intents.Erase.Title" xml:space="preserve">
@@ -51,7 +51,7 @@
   </file>
   <file original="Blockzilla/en.lproj/Intro.strings" source-language="en" target-language="he" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4.1" build-num="13F100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4" build-num="13F17a"/>
     </header>
     <body>
       <trans-unit id="Intro.Slides.History.Description" xml:space="preserve">
@@ -98,7 +98,7 @@
   </file>
   <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" target-language="he" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4.1" build-num="13F100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4" build-num="13F17a"/>
     </header>
     <body>
       <trans-unit id="About.learnMoreButton" xml:space="preserve">
@@ -576,7 +576,7 @@
         <target>שמירה</target>
         <note>Save button label</note>
       </trans-unit>
-      <trans-unit id="SearchEngine.addEngineError">
+      <trans-unit id="SearchEngine.addEngineError" xml:space="preserve">
         <source>That didn't work. Try replacing the search term with this: %s.</source>
         <note>Label for error state when entering an invalid search engine URL. %s is a search term in a URL.</note>
       </trans-unit>
@@ -759,6 +759,14 @@
         <source>SECURITY</source>
         <target>אבטחה</target>
         <note>Header label for security toggles displayed in the settings menu</note>
+      </trans-unit>
+      <trans-unit id="Settings.setAsDefaultBrowser" xml:space="preserve">
+        <source>Set as Default Browser</source>
+        <note>Label title for set as default browser row</note>
+      </trans-unit>
+      <trans-unit id="Settings.setAsDefaultBrowserDescription" xml:space="preserve">
+        <source>Set links from websites, emails and messages to open automatically in %@.</source>
+        <note>%@ is the name of the app. Description for set as default browser option</note>
       </trans-unit>
       <trans-unit id="Settings.systemTheme" xml:space="preserve">
         <source>System Theme</source>
@@ -1055,7 +1063,7 @@
         <target>הוספת קיצור דרך ל־Siri</target>
         <note>Text for a label that indicates the description for siri erase tip. The shortcut in this context is the iOS Siri Shortcut, not a Focus website shortcut.</note>
       </trans-unit>
-      <trans-unit id="Tip.SiriErase.Title">
+      <trans-unit id="Tip.SiriErase.Title" xml:space="preserve">
         <source>“Siri, erase my %@ session.”</source>
         <note>Text for a label that indicates the title for siri erase tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
       </trans-unit>
@@ -1064,7 +1072,7 @@
         <target>הוספת קיצור דרך ל־Siri</target>
         <note>Text for a label that indicates the description for siri favorite tip. The shortcut in this context is the iOS Siri Shortcut, not a Focus website shortcut.</note>
       </trans-unit>
-      <trans-unit id="Tip.SiriFavorite.Title">
+      <trans-unit id="Tip.SiriFavorite.Title" xml:space="preserve">
         <source>“Siri, open my favorite site.”</source>
         <note>Text for a label that indicates the title for siri favorite tip.</note>
       </trans-unit>
@@ -1332,7 +1340,7 @@
   </file>
   <file original="Blockzilla/Settings.bundle/en.lproj/Root.strings" source-language="en" target-language="he" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4.1" build-num="13F100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4" build-num="13F17a"/>
     </header>
     <body>
       <trans-unit id="SettingsBundle.Licenses" xml:space="preserve">
