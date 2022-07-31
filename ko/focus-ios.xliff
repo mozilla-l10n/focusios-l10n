@@ -763,10 +763,12 @@
       </trans-unit>
       <trans-unit id="Settings.setAsDefaultBrowser" xml:space="preserve">
         <source>Set as Default Browser</source>
+        <target>기본 브라우저로 설정</target>
         <note>Label title for set as default browser row</note>
       </trans-unit>
       <trans-unit id="Settings.setAsDefaultBrowserDescription" xml:space="preserve">
         <source>Set links from websites, emails and messages to open automatically in %@.</source>
+        <target>%@에서 자동으로 열리도록 웹 사이트, 이메일 및 메시지의 링크를 설정합니다.</target>
         <note>%@ is the name of the app. Description for set as default browser option</note>
       </trans-unit>
       <trans-unit id="Settings.systemTheme" xml:space="preserve">
@@ -886,6 +888,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.AddToShortcuts.Confirm" xml:space="preserve">
         <source>Added to Shortcuts</source>
+        <target>바로가기에 추가됨</target>
         <note>Toast displayed to the user after adding the item to the Shortcuts.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.FindInPage" xml:space="preserve">
