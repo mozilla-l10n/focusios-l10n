@@ -763,10 +763,12 @@
       </trans-unit>
       <trans-unit id="Settings.setAsDefaultBrowser" xml:space="preserve">
         <source>Set as Default Browser</source>
+        <target>ნაგულისხმევ ბრაუზერად მითითება</target>
         <note>Label title for set as default browser row</note>
       </trans-unit>
       <trans-unit id="Settings.setAsDefaultBrowserDescription" xml:space="preserve">
         <source>Set links from websites, emails and messages to open automatically in %@.</source>
+        <target>შედეგად ბმულებს საიტებიდან, ელფოსტიდან, წერილებიდან, პირდაპირ გახსნის %@.</target>
         <note>%@ is the name of the app. Description for set as default browser option</note>
       </trans-unit>
       <trans-unit id="Settings.systemTheme" xml:space="preserve">
