@@ -1,5 +1,12 @@
 name: Import strings
 on:
+  schedule:
+    - cron: '0 22 * * 3' # At 15:00 PDT on Wednesday
+    inputs:
+      type:
+        description: Type of update (standard, nofile, matchid)
+        required: true
+        default: "standard"
   workflow_dispatch:
     inputs:
       type:
