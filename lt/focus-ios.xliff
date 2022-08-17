@@ -568,7 +568,7 @@
         <note>Save button label</note>
       </trans-unit>
       <trans-unit id="SearchEngine.addEngineError" xml:space="preserve">
-        <source>That didn't work. Try replacing the search term with this: %s.</source>
+        <source>That didn’t work. Try replacing the search term with this: %s.</source>
         <target>Nepavyko išanalizuoti adreso. Pamėginkite pakeisti paieškos žodžius šiuo tekstu: %s.</target>
         <note>Label for error state when entering an invalid search engine URL. %s is a search term in a URL.</note>
       </trans-unit>
