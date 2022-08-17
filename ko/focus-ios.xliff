@@ -577,7 +577,7 @@
         <note>Save button label</note>
       </trans-unit>
       <trans-unit id="SearchEngine.addEngineError" xml:space="preserve">
-        <source>That didn't work. Try replacing the search term with this: %s.</source>
+        <source>That didn’t work. Try replacing the search term with this: %s.</source>
         <target>찾을 수 없습니다. 검색어를 이것으로 바꿔 보세요: %s.</target>
         <note>Label for error state when entering an invalid search engine URL. %s is a search term in a URL.</note>
       </trans-unit>
