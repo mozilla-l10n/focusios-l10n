@@ -1027,10 +1027,12 @@
       </trans-unit>
       <trans-unit id="Tip.SiriFavorite.Title" xml:space="preserve">
         <source>“Siri, open my favorite site.”</source>
+        <target>“සිරි, මාගේ ප්‍රියතම අඩවිය අරින්න.”</target>
         <note>Text for a label that indicates the title for siri favorite tip.</note>
       </trans-unit>
       <trans-unit id="Tip.SitesNotWorking.Description" xml:space="preserve">
         <source>Try turning off Tracking Protection</source>
+        <target>ලුහුබැඳීමේ රැකවරණය අක්‍රිය කර බලන්න</target>
         <note>Text for a label that indicates the description for sites not working tip.</note>
       </trans-unit>
       <trans-unit id="Tip.SitesNotWorking.Title" xml:space="preserve">
@@ -1055,10 +1057,12 @@
       </trans-unit>
       <trans-unit id="TooltipTitleText.Privacy" xml:space="preserve">
         <source>You’re protected! </source>
+        <target>ඔබ සුරක්‍ෂිතයි!</target>
         <note>This is the title text that is displayed for the Privacy tooltip</note>
       </trans-unit>
       <trans-unit id="URL.addToAutocompleteLabel" xml:space="preserve">
         <source>Add link to autocomplete</source>
+        <target>ස්වයං පිරවීමට සබැඳිය යොදන්න</target>
         <note>Label displayed for button used as a shortcut to add a link to the list of URLs to autocomplete.</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel" xml:space="preserve">
@@ -1152,6 +1156,7 @@
       </trans-unit>
       <trans-unit id="photosPermission.description" xml:space="preserve">
         <source>This lets you save images to your Camera Roll</source>
+        <target>මෙය ඔබගේ ඡායා එකතුවට රූපය සුරැකීමට ඉඩ සලසයි</target>
         <note>Description for dialog used for requesting a user to enable access to Photos.</note>
       </trans-unit>
       <trans-unit id="photosPermission.openSettings" xml:space="preserve">
