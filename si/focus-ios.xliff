@@ -187,6 +187,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrl" xml:space="preserve">
         <source>Add Custom URL</source>
+        <target>අභිරුචි ඒ.ස.නි. යොදන්න</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlError" xml:space="preserve">
@@ -195,18 +196,22 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlExample" xml:space="preserve">
         <source>Example: example.com</source>
+        <target>නිදසුන: example.com</target>
         <note>A label displaying an example URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlLabel" xml:space="preserve">
         <source>URL to add</source>
+        <target>එක් කිරීමට ඒ.ස.නි.</target>
         <note>Label for the input to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlPlaceholder" xml:space="preserve">
         <source>Paste or enter URL</source>
+        <target>අලවන්න හෝ ඒ.ස.නි. යොදන්න</target>
         <note>Placeholder for the input field to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlWithPlus" xml:space="preserve">
         <source>+ Add Custom URL</source>
+        <target>+ අභිරුචි ඒ.ස.නි. යොදන්න</target>
         <note>Label for button to add a custom URL with the + prefix</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customDescriptoin" xml:space="preserve">
@@ -215,14 +220,17 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customLabel" xml:space="preserve">
         <source>Custom URLs</source>
+        <target>අභිරුචි ඒ.ස.නි.</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customTitle" xml:space="preserve">
         <source>CUSTOM URL LIST</source>
+        <target>අභිරුචි ඒ.ස.නි. ලේඛනය</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customUrlAdded" xml:space="preserve">
         <source>New Custom URL added.</source>
+        <target>නව අභිරුචි ඒ.ස.නි. එක් කෙරිණි.</target>
         <note>Label for toast alerting a custom URL has been added</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin" xml:space="preserve">
@@ -236,6 +244,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.defaultTitle" xml:space="preserve">
         <source>DEFAULT URL LIST</source>
+        <target>පෙරනිමි ඒ.ස.නි. ලේඛනය</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
       <trans-unit id="Autocomplete.disabled" xml:space="preserve">
@@ -245,6 +254,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.duplicateUrl" xml:space="preserve">
         <source>URL already exists</source>
+        <target>ඒ.ස.නි. දැනටමත් පවතී</target>
         <note>Label for toast alerting that the custom URL being added is a duplicate</note>
       </trans-unit>
       <trans-unit id="Autocomplete.emptyState" xml:space="preserve">
@@ -253,14 +263,17 @@
       </trans-unit>
       <trans-unit id="Autocomplete.enabled" xml:space="preserve">
         <source>Enabled</source>
+        <target>සබලයි</target>
         <note>label describing URL Autocomplete as enabled</note>
       </trans-unit>
       <trans-unit id="Autocomplete.manageSites" xml:space="preserve">
         <source>Manage Sites</source>
+        <target>අඩවි කළමනාකරණය</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
       <trans-unit id="Autocomplete.mySites" xml:space="preserve">
         <source>My Sites</source>
+        <target>මාගේ අඩවි</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
       <trans-unit id="Autocomplete.mySitesDesc" xml:space="preserve">
@@ -269,10 +282,12 @@
       </trans-unit>
       <trans-unit id="Autocomplete.topSites" xml:space="preserve">
         <source>Top Sites</source>
+        <target>ප්‍රචලිත අඩවි</target>
         <note>Label for enabling or disabling top sites</note>
       </trans-unit>
       <trans-unit id="BiometricPrompt.newSession" xml:space="preserve">
         <source>New Session</source>
+        <target>නව වාරය</target>
         <note>Create a new session after failing a biometric check</note>
       </trans-unit>
       <trans-unit id="BiometricPrompt.reason" xml:space="preserve">
@@ -426,10 +441,12 @@
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1" xml:space="preserve">
         <source>Automatic private browsing.</source>
+        <target>ස්වයංක්‍රීය පෞද්. පිරික්සුම.</target>
         <note>First label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel2" xml:space="preserve">
         <source>Browse. Erase. Repeat.</source>
+        <target>පිරික්සන්න. මකන්න. නැවතත්.</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Menu.Close" xml:space="preserve">
@@ -448,6 +465,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.History.Title" xml:space="preserve">
         <source>Your history doesn’t follow you</source>
+        <target>ඔබගේ ඉතිහාසය ඔබව හඹා නොයයි</target>
         <note>Text for a label that indicates the title of history section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Incognito.Description" xml:space="preserve">
@@ -585,14 +603,17 @@
       </trans-unit>
       <trans-unit id="Settings.Search.RestoreEngine" xml:space="preserve">
         <source>Restore Default Search Engines</source>
+        <target>පෙරනිමි සෙවුම් එළවුම් ප්‍රත්‍යර්පණය</target>
         <note>Label for button to bring deleted default engines back</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchEngineName" xml:space="preserve">
         <source>Search engine name</source>
+        <target>සෙවුම් යන්ත්‍රයේ නම</target>
         <note>Placeholder text for input of new search engine name</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplate" xml:space="preserve">
         <source>Search string to use</source>
+        <target>භාවිතයට සෙවුම් තන්තුව</target>
         <note>Label for input of search engine template</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplatePlaceholder" xml:space="preserve">
@@ -601,6 +622,7 @@
       </trans-unit>
       <trans-unit id="Settings.autocompleteSection" xml:space="preserve">
         <source>URL Autocomplete</source>
+        <target>ඒ.ස.නි. ස්වයං පිරවීම</target>
         <note>Title for the URL Autocomplete row</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage" xml:space="preserve">
@@ -793,14 +815,17 @@
       </trans-unit>
       <trans-unit id="Settings.trackingProtectionOff" xml:space="preserve">
         <source>Off</source>
+        <target>අක්‍රිය</target>
         <note>Status off for tracking protection in settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.trackingProtectionOn" xml:space="preserve">
         <source>On</source>
+        <target>සක්‍රිය</target>
         <note>Status on for tracking protection in settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.useSystemTheme" xml:space="preserve">
         <source>Use System Light/Dark Mode</source>
+        <target>පද්ධතියේ දීප්ත/අඳුරු ප්‍රකාරය භාවිතය</target>
         <note>Value for theme toggle in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle" xml:space="preserve">
@@ -815,10 +840,12 @@
       </trans-unit>
       <trans-unit id="ShareMenu.AddToShortcuts" xml:space="preserve">
         <source>Add to Shortcuts</source>
+        <target>කෙටිමං වෙත යොදන්න</target>
         <note>Text for the share menu option when a user wants to add the site to Shortcuts</note>
       </trans-unit>
       <trans-unit id="ShareMenu.AddToShortcuts.Confirm" xml:space="preserve">
         <source>Added to Shortcuts</source>
+        <target>කෙටිමං වෙත යෙදිණි</target>
         <note>Toast displayed to the user after adding the item to the Shortcuts.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.FindInPage" xml:space="preserve">
@@ -881,6 +908,7 @@
       </trans-unit>
       <trans-unit id="ShortcutView.RenameShortcutAlertPlaceholder" xml:space="preserve">
         <source>Shortcut name</source>
+        <target>කෙටිමඟ නාමය</target>
         <note>Text for the placeholder textfield on rename shortcut alert.</note>
       </trans-unit>
       <trans-unit id="ShortcutView.RenameShortcutAlertPrimaryAction" xml:space="preserve">
@@ -905,14 +933,17 @@
       </trans-unit>
       <trans-unit id="Siri.editOpenUrl" xml:space="preserve">
         <source>Re-Record or Delete Shortcut</source>
+        <target>කෙටිමඟ සංශෝධනය හෝ මකන්න</target>
         <note>Label for button to edit the Siri phrase or delete the Siri functionality.</note>
       </trans-unit>
       <trans-unit id="Siri.erase" xml:space="preserve">
         <source>Erase</source>
+        <target>මකන්න</target>
         <note>Title of option in settings to set up Siri to erase</note>
       </trans-unit>
       <trans-unit id="Siri.eraseAndOpen" xml:space="preserve">
         <source>Erase &amp; Open</source>
+        <target>මකා දමා අරින්න</target>
         <note>Title of option in settings to set up Siri to erase and then open the app.</note>
       </trans-unit>
       <trans-unit id="Siri.favoriteUrl" xml:space="preserve">
@@ -932,14 +963,17 @@
       </trans-unit>
       <trans-unit id="Tip.Biometric.Title" xml:space="preserve">
         <source>Lock %@ when a site is open:</source>
+        <target>අඩවියක් විවෘත විට %@ අගුළුලන්න:</target>
         <note>Text for a label that indicates the title for biometric tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.BiometricFaceId.Description" xml:space="preserve">
         <source>Turn on Face ID</source>
+        <target>මුහුණු හැඳු. සක්‍රිය කරන්න</target>
         <note>Text for a label that indicates the description for biometric Face ID tip.</note>
       </trans-unit>
       <trans-unit id="Tip.BiometricTouchId.Description" xml:space="preserve">
         <source>Turn on Touch ID</source>
+        <target>ස්පර්ශ හැඳු. සක්‍රිය කරන්න</target>
         <note>Text for a label that indicates the description for biometric Touch ID tip.</note>
       </trans-unit>
       <trans-unit id="Tip.Release.Description" xml:space="preserve">
@@ -948,10 +982,12 @@
       </trans-unit>
       <trans-unit id="Tip.Release.Title" xml:space="preserve">
         <source>Why yes, we do have a fresh new look!</source>
+        <target>ඇයි ඔව්, අපට නැවුම් නව පෙනුමක් තිබේ!</target>
         <note>Text for a label that indicates the title for release tip.</note>
       </trans-unit>
       <trans-unit id="Tip.RequestDesktop.Description" xml:space="preserve">
         <source>Page Actions &gt; Request Desktop Site</source>
+        <target>පිටු ක්‍රියාමාර්ග &gt; වැඩතල අඩවිය ඉල්ලන්න</target>
         <note>Text for a label that indicates the description for request desktop tip.</note>
       </trans-unit>
       <trans-unit id="Tip.RequestDesktop.Title" xml:space="preserve">
@@ -976,14 +1012,17 @@
       </trans-unit>
       <trans-unit id="Tip.SiriErase.Description" xml:space="preserve">
         <source>Add Siri shortcut</source>
+        <target>සිරි කෙටිමඟ යොදන්න</target>
         <note>Text for a label that indicates the description for siri erase tip. The shortcut in this context is the iOS Siri Shortcut, not a Focus website shortcut.</note>
       </trans-unit>
       <trans-unit id="Tip.SiriErase.Title" xml:space="preserve">
         <source>“Siri, erase my %@ session.”</source>
+        <target>“සිරි, මාගේ %@ වාරය මකන්න.”</target>
         <note>Text for a label that indicates the title for siri erase tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.SiriFavorite.Description" xml:space="preserve">
         <source>Add Siri shortcut</source>
+        <target>සිරි කෙටිමඟ යොදන්න</target>
         <note>Text for a label that indicates the description for siri favorite tip. The shortcut in this context is the iOS Siri Shortcut, not a Focus website shortcut.</note>
       </trans-unit>
       <trans-unit id="Tip.SiriFavorite.Title" xml:space="preserve">
