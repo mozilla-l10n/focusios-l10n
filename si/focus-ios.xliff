@@ -165,6 +165,7 @@
       </trans-unit>
       <trans-unit id="About.topLabel" xml:space="preserve">
         <source>%@ puts you in control.</source>
+        <target>%@ ඔබව පාලනයක තබයි.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="AddPass.Error.Dismiss" xml:space="preserve">
@@ -174,6 +175,7 @@
       </trans-unit>
       <trans-unit id="AddPass.Error.Message" xml:space="preserve">
         <source>An error occured while adding the pass to Wallet. Please try again later.</source>
+        <target>පසුම්බියට අවසර පත එක් කිරීමේදී දෝෂයක් ඇති විය. පසුව උත්සාහ කරන්න.</target>
         <note>Message of the 'Add Pass Failed' alert.</note>
       </trans-unit>
       <trans-unit id="AddPass.Error.Title" xml:space="preserve">
@@ -183,6 +185,7 @@
       </trans-unit>
       <trans-unit id="Authentication.reason" xml:space="preserve">
         <source>Authenticate to return to %@</source>
+        <target>%@ වෙත යාමට සත්‍යාපනය කරන්න</target>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID, Face ID, or passcode to continue browsing after returning to the app.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrl" xml:space="preserve">
