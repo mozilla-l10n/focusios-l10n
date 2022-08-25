@@ -442,6 +442,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline" xml:space="preserve">
         <source>Browse like no one’s watching.</source>
+        <target>කිසිවෙක් නොදකින ලෙස පිරික්සන්න.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="Focus.handoffSyncing" xml:space="preserve">
@@ -470,6 +471,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.History.Description" xml:space="preserve">
         <source>Erase your browsing history, passwords, cookies, and prevent unwanted ads from following you in a simple click!</source>
+        <target>ඔබගේ පිරික්සුම් ඉතිහාසය, මුරපද, දත්තකඩ මකන්න සහ තනි එබීමකින් අනවශ්‍ය දැන්වීම් ඔබව ලුහුබැඳීමෙන් වළක්වන්න!</target>
         <note>Text for a label that indicates the description of history section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.History.Title" xml:space="preserve">
@@ -479,14 +481,17 @@
       </trans-unit>
       <trans-unit id="Onboarding.Incognito.Description" xml:space="preserve">
         <source>%@ is a dedicated privacy browser with tracking protection and content blocking.</source>
+        <target>%@ යනු ලුහුබැඳීමේ රැකවරණය හා අන්තර්ගත අවහිරය සහිත පෞද්ගලික අතිරික්සුවකි.</target>
         <note>Text for a label that indicates the description of incognito section from onboarding screen. Placeholder can be (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="Onboarding.Incognito.Title" xml:space="preserve">
         <source>More than just incognito</source>
+        <target>අප්‍රසිද්ධත්‍වයට වඩා</target>
         <note>Text for a label that indicates the title of incognito section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Description" xml:space="preserve">
         <source>Configure settings so you can decide how much or how little you share.</source>
+        <target>සැකසුම් වින්‍යාස කරන්න එවිට ඔබ කොපමණ ප්‍රමාණයක් බෙදා ගන්නේ දැයි තීරණය කළ හැකිය.</target>
         <note>Text for a label that indicates the description of protection section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Title" xml:space="preserve">
@@ -495,6 +500,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.Subtitle" xml:space="preserve">
         <source>Take your private browsing to the next level.</source>
+        <target>පෞද්ගලික පිරික්සීම ඊළඟ මට්ටමට ගෙන යන්න.</target>
         <note>Text for a label that indicates the subtitle for onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Title" xml:space="preserve">
