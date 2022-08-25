@@ -231,6 +231,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.defaultLabel" xml:space="preserve">
         <source>Autocomplete</source>
+        <target>ස්වයං පිරවීම</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultTitle" xml:space="preserve">
@@ -239,6 +240,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.disabled" xml:space="preserve">
         <source>Disabled</source>
+        <target>අබලයි</target>
         <note>label describing URL Autocomplete as disabled</note>
       </trans-unit>
       <trans-unit id="Autocomplete.duplicateUrl" xml:space="preserve">
