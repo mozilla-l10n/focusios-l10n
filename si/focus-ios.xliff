@@ -7,26 +7,32 @@
     <body>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
         <source>This lets you take and upload photos.</source>
+        <target>මෙය ඡායාරූප ගැනීමට හා උඩුගත කිරීමට ඉඩ දෙයි.</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
         <source>This lets you unlock the app.</source>
+        <target>මෙය යෙදුම අගුළු ඇරීමට ඉඩ සලසයි.</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
         <source>Websites you visit may request your location.</source>
+        <target>ගොඩවදින අඩවි වෙතින් ස්ථානය ඉල්ලා සිටීමට හැකිය.</target>
         <note>Privacy - Location When In Use Usage Description</note>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
         <source>This lets you take and upload videos.</source>
+        <target>මෙය ඡායාරූප ගැනීමට හා උඩුගත කිරීමට ඉඩ දෙයි.</target>
         <note>Privacy - Microphone Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
         <source>This lets you save and upload photos.</source>
+        <target>මෙය ඡායාරූප සුරැකීමට හා උඩුගත කිරීමට ඉඩ දෙයි.</target>
         <note>Privacy - Photo Library Additions Usage Description</note>
       </trans-unit>
       <trans-unit id="UIApplicationShortcutItemTitle.EraseAndOpen" xml:space="preserve">
         <source>Erase and Open</source>
+        <target>මකා දමා අරින්න</target>
         <note>This is the menu item that appears when you long press the Focus icon on the phone home screen.</note>
       </trans-unit>
     </body>
@@ -38,6 +44,7 @@
     <body>
       <trans-unit id="Intents.Erase.Title" xml:space="preserve">
         <source>Erase</source>
+        <target>මකන්න</target>
         <note>Title of the Erase intent.</note>
       </trans-unit>
     </body>
@@ -49,6 +56,7 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description" xml:space="preserve">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
+        <target>ඔබගේ සමස්ත පිරික්සුම් වාර ඉතිහාසය, මුරපද, දත්තකඩ ඕනෑම විටෙක තනි තට්ටු කිරීමකින් මකන්න.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title" xml:space="preserve">
@@ -57,14 +65,17 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Next.Button" xml:space="preserve">
         <source>Next</source>
+        <target>ඊළඟ</target>
         <note>Button to go to the next card in Focus onboarding.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description" xml:space="preserve">
         <source>Searching for something different? Choose a different search engine.</source>
+        <target>වෙනස් දෙයක් සොයනවාද? වෙනත් සෙවුම් යන්ත්‍රයක් තෝරන්න.</target>
         <note>Description for the 'Favorite Search Engine' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Title" xml:space="preserve">
         <source>Your search, your way</source>
+        <target>ඔබගේ සෙවීම, ඔබගේ මාවත</target>
         <note>Title for the second  panel 'Search' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Skip.Button" xml:space="preserve">
@@ -74,10 +85,12 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description" xml:space="preserve">
         <source>Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.</source>
+        <target>පෞද්ගලික පිරික්සීම ඊළඟ මට්ටමට ගෙන යන්න. අඩවි හරහා ඔබව ලුහුබැඳීමට හැකි දැන්වීම් හා වෙනත් අන්තර්ගත අවහිර කර පිටු පූරණ කාලය අවම කර ගන්න.</target>
         <note>Description for the 'Welcome' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Title" xml:space="preserve">
         <source>Power up your privacy</source>
+        <target>ඔබගේ පෞද්ගලිකත්වය බලගන්වන්න</target>
         <note>Title for the first panel 'Welcome' in the First Run tour.</note>
       </trans-unit>
     </body>
@@ -102,34 +115,42 @@
       </trans-unit>
       <trans-unit id="About.privateBullet2" xml:space="preserve">
         <source>Block trackers (or update settings to allow trackers)</source>
+        <target>ලුහුබැඳීම් අවහිර කරන්න (හෝ ඒවාට ඉඩ දීමට සැකසුම් සකසන්න)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3" xml:space="preserve">
         <source>Erase to delete cookies as well as search and browsing history</source>
+        <target>දත්තකඩ මෙන්ම සෙවුම් හා පිරික්සුම් ඉතිහාසය ඉවතලීමට මකන්න</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader" xml:space="preserve">
         <source>Use it as a private browser:</source>
+        <target>පෞද්. අතිරික්සුවක් ලෙස යොදා ගන්න:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp" xml:space="preserve">
         <source>Help</source>
+        <target>උදව්</target>
         <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.rowPrivacy" xml:space="preserve">
         <source>Privacy Notice</source>
+        <target>පෞද්ගලිකත්ව දැන්වීම</target>
         <note>Link to Privacy Notice in the About screen</note>
       </trans-unit>
       <trans-unit id="About.rowRights" xml:space="preserve">
         <source>Your Rights</source>
+        <target>ඔබගේ අයිතීන්</target>
         <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet1" xml:space="preserve">
         <source>Block trackers for improved privacy</source>
+        <target>ඉහළ රහස්‍යතාවක් සඳහා ලුහුබැඳීම් අවහිරය</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2" xml:space="preserve">
         <source>Block web fonts to reduce page size</source>
+        <target>පිටුවේ ප්‍රමාණය අඩු කිරීමට වියමන අකුරු අවහිරය</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader" xml:space="preserve">
@@ -898,10 +919,12 @@
       </trans-unit>
       <trans-unit id="Siri.openURL" xml:space="preserve">
         <source>Open Favorite Site</source>
+        <target>ප්‍රියතම අඩවිය අරින්න</target>
         <note>Title of option in settings to set up Siri to open a specified URL in Focus/Klar.</note>
       </trans-unit>
       <trans-unit id="Siri.urlToOpen" xml:space="preserve">
         <source>URL to open</source>
+        <target>විවෘත කිරීමට ඒ.ස.නි.</target>
         <note>Label for input to set a favorite URL to be opened by Siri.</note>
       </trans-unit>
       <trans-unit id="Tip.Biometric.Title" xml:space="preserve">
@@ -998,10 +1021,12 @@
       </trans-unit>
       <trans-unit id="URL.cancelLabel" xml:space="preserve">
         <source>Cancel</source>
+        <target>අවලංගු</target>
         <note>Label for cancel button shown when entering a URL or search</note>
       </trans-unit>
       <trans-unit id="URL.contextMenu" xml:space="preserve">
         <source>Paste &amp; Go</source>
+        <target>අලවන්න හා යන්න</target>
         <note>Text for the URL context menu when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
       <trans-unit id="URL.eraseButtonLabel" xml:space="preserve">
@@ -1018,14 +1043,17 @@
       </trans-unit>
       <trans-unit id="URL.paste" xml:space="preserve">
         <source>Paste</source>
+        <target>අලවන්න</target>
         <note>Text for a menu displayed from the bottom of the screen when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText" xml:space="preserve">
         <source>Search or enter address</source>
+        <target>සොයන්න හෝ ලිපිනය යොදන්න</target>
         <note>Placeholder text shown in the URL bar before the user navigates to a page</note>
       </trans-unit>
       <trans-unit id="URL.searchLabel" xml:space="preserve">
         <source>Search for %@</source>
+        <target>%@ සඳහා සොයන්න</target>
         <note>Label displayed for search button when typing in the URL bar</note>
       </trans-unit>
       <trans-unit id="URL.trackersBlockedLabel" xml:space="preserve">
@@ -1046,10 +1074,12 @@
       </trans-unit>
       <trans-unit id="contextMenu.copyImageTitle" xml:space="preserve">
         <source>Copy Image</source>
+        <target>රූපයේ පිටපතක්</target>
         <note>Text for the context menu when a user wants to copy an image after long pressing it.</note>
       </trans-unit>
       <trans-unit id="contextMenu.copyLink" xml:space="preserve">
         <source>Copy Link</source>
+        <target>සබැඳියේ පිටපතක්</target>
         <note>Text for the context menu when a user wants to copy a link after long pressing it.</note>
       </trans-unit>
       <trans-unit id="contextMenu.linkCopied" xml:space="preserve">
@@ -1058,10 +1088,12 @@
       </trans-unit>
       <trans-unit id="contextMenu.saveImageTitle" xml:space="preserve">
         <source>Save Image</source>
+        <target>රූපය සුරකින්න</target>
         <note>Text for the context menu when a user wants to save an image after long pressing it.</note>
       </trans-unit>
       <trans-unit id="contextMenu.shareLinkTitle" xml:space="preserve">
         <source>Share Link</source>
+        <target>සබැඳිය බෙදාගන්න</target>
         <note>Text for the context menu when a user wants to share a link after long pressing it.</note>
       </trans-unit>
       <trans-unit id="externalAppLinkWithAppName.messageTitle" xml:space="preserve">
@@ -1074,6 +1106,7 @@
       </trans-unit>
       <trans-unit id="photosPermission.openSettings" xml:space="preserve">
         <source>Open Settings</source>
+        <target>සැකසුම් අරින්න</target>
         <note>Title for button that takes the user to system settings</note>
       </trans-unit>
       <trans-unit id="photosPermission.title" xml:space="preserve">
@@ -1086,10 +1119,12 @@
       </trans-unit>
       <trans-unit id="share" xml:space="preserve">
         <source>Share</source>
+        <target>බෙදාගන්න</target>
         <note>Text for a share button</note>
       </trans-unit>
       <trans-unit id="shareMenu.copyAddress" xml:space="preserve">
         <source>Copy Address</source>
+        <target>ලිපිනයේ පිටපතක්</target>
         <note>Text for the share menu when a user wants to copy a URL.</note>
       </trans-unit>
       <trans-unit id="touchId.reason" xml:space="preserve">
@@ -1134,14 +1169,17 @@
       </trans-unit>
       <trans-unit id="trackingProtection.learnMore" xml:space="preserve">
         <source>Learn More</source>
+        <target>තව දැනගන්න</target>
         <note>Text for the button to learn more about Tracking Protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.moreSettings" xml:space="preserve">
         <source>More Settings</source>
+        <target>තවත් සැකසුම්</target>
         <note>Text for the button that closes the Shield Data and opens the regular Settings screen.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.socialTrackerLabel" xml:space="preserve">
         <source>Social trackers</source>
+        <target>සමාජ ලුහුබැඳීම්</target>
         <note>label for social trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.statusOff" xml:space="preserve">
@@ -1158,6 +1196,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel2" xml:space="preserve">
         <source>Enhanced Tracking Protection</source>
+        <target>දියුණු කළ ලුහුබැඳීමේ රැකවරණය</target>
         <note>Text for the toggle that enables/disables tracking protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.trackerDescriptionLabel2" xml:space="preserve">
@@ -1181,6 +1220,7 @@
     <body>
       <trans-unit id="SettingsBundle.Licenses" xml:space="preserve">
         <source>Licenses</source>
+        <target>බලපත්‍ර</target>
         <note>The title of the Licenses setting in the settings that Focus shows in the global iOS Settings app.</note>
       </trans-unit>
     </body>
