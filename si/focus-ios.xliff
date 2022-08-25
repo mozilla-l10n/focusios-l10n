@@ -538,14 +538,17 @@
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButtonWithPlus" xml:space="preserve">
         <source>+ Add Another Search Engine</source>
+        <target>+ අන් සෙවුම් යන්ත්‍රයක් එක් කරන්න</target>
         <note>Text for button to add another search engine in settings with the + prefix</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineTitle" xml:space="preserve">
         <source>Add Search Engine</source>
+        <target>සෙවුම් යන්ත්‍රයක් යොදන්න</target>
         <note>Title on add search engine settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.Search.InstalledSearchEngines" xml:space="preserve">
         <source>INSTALLED SEARCH ENGINES</source>
+        <target>ස්ථාපිත සෙවුම් යන්ත්‍ර</target>
         <note>Header for rows of installed search engines</note>
       </trans-unit>
       <trans-unit id="Settings.Search.NameToDisplay" xml:space="preserve">
@@ -582,14 +585,17 @@
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo2" xml:space="preserve">
         <source>Cancel</source>
+        <target>අවලංගු</target>
         <note>Button label for declining Content blocker alert</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherYes2" xml:space="preserve">
         <source>Block Content Trackers</source>
+        <target>අන්තර්ගත ලුහුබැඳීම් අවහිරය</target>
         <note>Button label for accepting Content blocker alert</note>
       </trans-unit>
       <trans-unit id="Settings.darkTheme" xml:space="preserve">
         <source>Dark</source>
+        <target>අඳුරු</target>
         <note>Dark theme option in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
@@ -606,42 +612,52 @@
       </trans-unit>
       <trans-unit id="Settings.general" xml:space="preserve">
         <source>General</source>
+        <target>සාමාන්‍ය</target>
         <note>Title for section in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.learnMore" xml:space="preserve">
         <source>Learn more.</source>
+        <target>තව දැනගන්න.</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.lightTheme" xml:space="preserve">
         <source>Light</source>
+        <target>දීප්ත</target>
         <note>Light theme option in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.manualTheme" xml:space="preserve">
         <source>Manual</source>
+        <target>අතින්</target>
         <note>Manual value for theme section in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.rate" xml:space="preserve">
         <source>Rate %@</source>
+        <target>%@ අගයන්න</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, allows the user to leave a review for the app on the app store.</note>
       </trans-unit>
       <trans-unit id="Settings.safariTitle" xml:space="preserve">
         <source>SAFARI INTEGRATION</source>
+        <target>සෆාරි අනුකලනය</target>
         <note>Label for Safari integration section</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle" xml:space="preserve">
         <source>Settings</source>
+        <target>සැකසුම්</target>
         <note>Title for settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.searchLabel" xml:space="preserve">
         <source>Search Engine</source>
+        <target>සෙවුම් යන්ත්‍රය</target>
         <note>Label for the search engine in the search screen</note>
       </trans-unit>
       <trans-unit id="Settings.searchSuggestions" xml:space="preserve">
         <source>Get Search Suggestions</source>
+        <target>සෙවුම් යෝජනා ගන්න</target>
         <note>Label for the Search Suggestions toggle row</note>
       </trans-unit>
       <trans-unit id="Settings.searchTitle2" xml:space="preserve">
         <source>SEARCH</source>
+        <target>සොයන්න</target>
         <note>Title for the search selection screen</note>
       </trans-unit>
       <trans-unit id="Settings.sectionMozilla" xml:space="preserve">
@@ -650,18 +666,22 @@
       </trans-unit>
       <trans-unit id="Settings.sectionPerformance" xml:space="preserve">
         <source>PERFORMANCE</source>
+        <target>කාර්ය සාධනය</target>
         <note>Section label for performance toggles</note>
       </trans-unit>
       <trans-unit id="Settings.sectionPrivacy" xml:space="preserve">
         <source>PRIVACY</source>
+        <target>රහස්‍යතාව</target>
         <note>Section label for privacy toggles</note>
       </trans-unit>
       <trans-unit id="Settings.sectionSecurity" xml:space="preserve">
         <source>SECURITY</source>
+        <target>ආරක්‍ෂාව</target>
         <note>Header label for security toggles displayed in the settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.setAsDefaultBrowser" xml:space="preserve">
         <source>Set as Default Browser</source>
+        <target>පෙරනිමි අතිරික්සුව කරන්න</target>
         <note>Label title for set as default browser row</note>
       </trans-unit>
       <trans-unit id="Settings.setAsDefaultBrowserDescription" xml:space="preserve">
@@ -670,34 +690,42 @@
       </trans-unit>
       <trans-unit id="Settings.systemTheme" xml:space="preserve">
         <source>System Theme</source>
+        <target>පද්ධතියේ තේමාව</target>
         <note>System value for theme section in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.theme" xml:space="preserve">
         <source>Theme</source>
+        <target>තේමාව</target>
         <note>Theme section in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.themePicker" xml:space="preserve">
         <source>Theme Picker</source>
+        <target>තේමා ඇහුළුම</target>
         <note>Header for manual theme section in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds2" xml:space="preserve">
         <source>Advertising</source>
+        <target>දැන්වීම්කරණය</target>
         <note>Label for the checkbox to toggle Advertising trackers</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics2" xml:space="preserve">
         <source>Analytics</source>
+        <target>විශ්ලේෂ</target>
         <note>Label for the checkbox to toggle Analytics trackers</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts" xml:space="preserve">
         <source>Block web fonts</source>
+        <target>වියමන අකුරු අවහිරය</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther2" xml:space="preserve">
         <source>Content</source>
+        <target>අන්තර්ගතය</target>
         <note>Label for the checkbox to toggle Other trackers</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial2" xml:space="preserve">
         <source>Social</source>
+        <target>සමාජ</target>
         <note>Label for the checkbox to toggle Social trackers</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceID" xml:space="preserve">
@@ -718,14 +746,17 @@
       </trans-unit>
       <trans-unit id="Settings.toggleSafari" xml:space="preserve">
         <source>Safari</source>
+        <target>සෆාරි</target>
         <note>Safari toggle label on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSendUsageData" xml:space="preserve">
         <source>Send usage data</source>
+        <target>භාවිත දත්ත යවන්න</target>
         <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleStudies" xml:space="preserve">
         <source>Studies</source>
+        <target>අධ්‍යන</target>
         <note>Label for Studies toggle on the settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleTouchID" xml:space="preserve">
@@ -750,10 +781,12 @@
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle" xml:space="preserve">
         <source>What’s New</source>
+        <target>අළුත් දෑ</target>
         <note>Title for What's new screen</note>
       </trans-unit>
       <trans-unit id="Settinsg.siriShortcutsTitle" xml:space="preserve">
         <source>SIRI SHORTCUTS</source>
+        <target>සිරි කෙටිමං</target>
         <note>Title for settings section to enable different Siri Shortcuts.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.AddToShortcuts" xml:space="preserve">
@@ -766,6 +799,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.FindInPage" xml:space="preserve">
         <source>Find in Page</source>
+        <target>පිටුවේ සොයන්න</target>
         <note>Text for the share menu option when a user wants to open the find in page menu</note>
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox" xml:space="preserve">
@@ -774,26 +808,32 @@
       </trans-unit>
       <trans-unit id="ShareMenu.PageActions" xml:space="preserve">
         <source>Page Actions</source>
+        <target>පිටුවේ ක්‍රියාමාර්ග</target>
         <note>Title for the share menu where users can take actions for the current website they are on.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RemoveFromShortcuts" xml:space="preserve">
         <source>Remove from Shortcuts</source>
+        <target>කෙටිමං වලින් ඉවතලන්න</target>
         <note>Text for the share menu option when a user wants to remove the site from Shortcuts</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop" xml:space="preserve">
         <source>Request Desktop Site</source>
+        <target>වැඩතල අඩවිය ඉල්ලන්න</target>
         <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RequestMobile" xml:space="preserve">
         <source>Request Mobile Site</source>
+        <target>ජංගම අඩවිය ඉල්ලන්න</target>
         <note>Text for the share menu option when a user wants to reload the site as a mobile device</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenChrome" xml:space="preserve">
         <source>Open in Chrome</source>
+        <target>ක්‍රෝම් හි අරින්න</target>
         <note>Text for the share menu option when a user wants to open the current website in the Chrome app.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenDefaultBrowser" xml:space="preserve">
         <source>Open in Default Browser</source>
+        <target>පෙරනිමි අතිරික්සුවෙන් අරින්න</target>
         <note>Text for the share menu option when a user wants to open the current website in the default browser.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenFirefox" xml:space="preserve">
@@ -802,14 +842,17 @@
       </trans-unit>
       <trans-unit id="ShareMenu.SharePage" xml:space="preserve">
         <source>Share Page With…</source>
+        <target>සමඟ පිටුව බෙදාගන්න…</target>
         <note>Text for the share menu option when a user wants to share the current website they are on through another app.</note>
       </trans-unit>
       <trans-unit id="ShortcutView.RemoveFromShortcuts" xml:space="preserve">
         <source>Remove from Shortcuts</source>
+        <target>කෙටිමං වලින් ඉවතලන්න</target>
         <note>Text for the long press on a shortcut option in context menu.</note>
       </trans-unit>
       <trans-unit id="ShortcutView.Rename" xml:space="preserve">
         <source>Rename Shortcut</source>
+        <target>කෙටිමඟ නම් කරන්න</target>
         <note>Text for the long press on a shortcut rename option in context menu.</note>
       </trans-unit>
       <trans-unit id="ShortcutView.RenameShortcutAlertPlaceholder" xml:space="preserve">
@@ -818,18 +861,22 @@
       </trans-unit>
       <trans-unit id="ShortcutView.RenameShortcutAlertPrimaryAction" xml:space="preserve">
         <source>Save</source>
+        <target>සුරකින්න</target>
         <note>Text for the rename shortcut alert primary action.</note>
       </trans-unit>
       <trans-unit id="ShortcutView.RenameShortcutAlertSecondaryAction" xml:space="preserve">
         <source>Cancel</source>
+        <target>අවලංගු</target>
         <note>Text for the rename shortcut alert secondary action.</note>
       </trans-unit>
       <trans-unit id="Siri.add" xml:space="preserve">
         <source>Add</source>
+        <target>එකතු</target>
         <note>Button to add a favorite URL to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.addTo" xml:space="preserve">
         <source>Add to Siri</source>
+        <target>සිරි වෙත යොදන්න</target>
         <note>Button to add a specified shortcut option to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.editOpenUrl" xml:space="preserve">
@@ -846,6 +893,7 @@
       </trans-unit>
       <trans-unit id="Siri.favoriteUrl" xml:space="preserve">
         <source>Open Favorite Site</source>
+        <target>ප්‍රියතම අඩවිය අරින්න</target>
         <note>Title for screen to add a favorite URL to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.openURL" xml:space="preserve">
