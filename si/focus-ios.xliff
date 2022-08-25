@@ -1005,14 +1005,17 @@
       </trans-unit>
       <trans-unit id="Tip.RequestDesktop.Title" xml:space="preserve">
         <source>Want to see the full desktop version of a site?</source>
+        <target>අඩවියෙහි පූර්ණ වැඩතල අනුවාදය බැලීමට අවශ්‍යද?</target>
         <note>Text for a label that indicates the title for request desktop tip.</note>
       </trans-unit>
       <trans-unit id="Tip.ShareTrackers.Description" xml:space="preserve">
         <source>%@ trackers blocked so far</source>
+        <target>ලුහුබැඳීම් %@ ක් පමණ අවහිර කර ඇත</target>
         <note>Text for a label that indicates the description for share trackers tip. The placeholder is the number of trackers blocked. Only shown when there are more than 10 trackers blocked. For locales where we would need plural support, please feel free to translate this string as `Trackers blocked so far: %@` instead.</note>
       </trans-unit>
       <trans-unit id="Tip.ShareTrackers.Title" xml:space="preserve">
         <source>You browse. %@ blocks.</source>
+        <target>ඔබ පිරික්සයි. %@ වළක්වයි.</target>
         <note>Text for a label that indicates the title for share trackers tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.Shortcuts.Description" xml:space="preserve">
@@ -1021,6 +1024,7 @@
       </trans-unit>
       <trans-unit id="Tip.Shortcuts.Title" xml:space="preserve">
         <source>Create shortcuts to the sites you visit most:</source>
+        <target>නිතර ගොඩවදින අඩවි සඳහා කෙටිමං සාදන්න:</target>
         <note>Text for a label that indicates the title for shortcuts tip.</note>
       </trans-unit>
       <trans-unit id="Tip.SiriErase.Description" xml:space="preserve">
@@ -1054,18 +1058,22 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.ContextMenu" xml:space="preserve">
         <source>Go to Settings to manage specific privacy &amp; security options.</source>
+        <target>පෞද්ගලික හා ආරක්‍ෂණ විකල්ප කළමනාකරණයට සැකසුම් වෙත යන්න.</target>
         <note>This is the body text that is displayed for the Context Menu icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.Privacy" xml:space="preserve">
         <source>These default settings offer strong protection. But it’s easy to tweak the settings to meet your specific needs.</source>
+        <target>මෙම පෙරනිමි සැකසුම් ඉහළ ආරක්‍ෂාවක් සපයයි. නමුත් ඔබගේ අවශ්‍යතා වලට යෝග්‍ය ලෙස සැකසුම් හැඩගැසීමට පහසුය.</target>
         <note>This is the body text that is displayed for the Privacy tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.ShieldIcon" xml:space="preserve">
         <source>%@ stopped this site from spying on you. Tap the shield for info on what we blocked.</source>
+        <target>%@ මෙම අඩවිය ඔබ ගැන ඔත්තු බැලීම නැවැත්විය. අවහිර වූ දෑ පිළිබඳව තොරතුරු සඳහා පලිහ මත තට්ටු කරන්න.</target>
         <note>This is the body text that is displayed for the Shield icon tooltip. Where placeholder can be (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon" xml:space="preserve">
         <source>Tap the trash anytime to remove all traces of your current session.</source>
+        <target>ඔබගේ වත්මන් වාරයේ සියළුම ලැකීම් ඉවත් කිරීමට ඕනෑම විටෙක කුණු බඳුන මත තට්ටු කරන්න.</target>
         <note>This is the body text that is displayed for the Trash icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipTitleText.Privacy" xml:space="preserve">
