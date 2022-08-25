@@ -61,6 +61,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title" xml:space="preserve">
         <source>Your history is history</source>
+        <target>ඔබගේ අතීතය ඉතිහාසයයි</target>
         <note>Title for the third  panel 'History' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Next.Button" xml:space="preserve">
@@ -195,6 +196,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlError" xml:space="preserve">
         <source>Double-check the URL you entered.</source>
+        <target>ඇතුල් කළ ඒ.ස.නි. දෙවරක් පරීක්‍ෂා කරන්න.</target>
         <note>Label for error state when entering an invalid URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlExample" xml:space="preserve">
@@ -219,6 +221,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customDescriptoin" xml:space="preserve">
         <source>Add and manage custom autocomplete URLs.</source>
+        <target>අභිරුචි ස්වයං පිරවුම් ඒ.ස.නි. එක් කර කළමනාකරණය.</target>
         <note>Description for adding and managing custom autocomplete URLs</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customLabel" xml:space="preserve">
@@ -262,6 +265,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.emptyState" xml:space="preserve">
         <source>No Custom URLs to display</source>
+        <target>පෙන්වීමට අභිරුචි ඒ.ස.නි. නැත</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.enabled" xml:space="preserve">
@@ -281,6 +285,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.mySitesDesc" xml:space="preserve">
         <source>Enable to have %@ autocomplete your favorite URLs.</source>
+        <target>%@ ඔබගේ ප්‍රියතම ඒ.ස.නි. ස්වයං පිරවීම සබල කරන්න.</target>
         <note>Description for adding and managing custom autocomplete URLs. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.topSites" xml:space="preserve">
@@ -295,6 +300,7 @@
       </trans-unit>
       <trans-unit id="BiometricPrompt.reason" xml:space="preserve">
         <source>Unlock %@ when re-opening in order to prevent unauthorized access.</source>
+        <target>අනවසර ප්‍රවේශය වැලැක්වීමට නැවත විවෘත කරන විට %@ අගුළු හරින්න.</target>
         <note>%@ is app name. Explanation for why the app needs access to biometric information. Prompt is only shown once when the user first tries to enable Face ID to open the app.</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel" xml:space="preserve">
