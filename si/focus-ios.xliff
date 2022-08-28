@@ -1276,7 +1276,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.labelDescription" xml:space="preserve">
         <source>Turning this off may fix some site problems</source>
-        <target>මෙය අක්‍රිය කිරීමෙන් ඇතැම් අඩවිවල ගැටලු විසඳේ</target>
+        <target>මෙය අක්‍රිය කිරීමෙන් ඇතැම් අඩවිවල ගැටළු විසඳේ</target>
         <note>Description/subtitle for the tracking protection label.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.learnMore" xml:space="preserve">
