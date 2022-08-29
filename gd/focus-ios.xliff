@@ -221,21 +221,6 @@
         <target>+ Cuir URL gnàthaichte ris</target>
         <note>Label for button to add a custom URL with the + prefix</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.customDescriptoin" xml:space="preserve">
-        <source>Add and manage custom autocomplete URLs.</source>
-        <target>Cuir ris is stiùirich URLaichean gnàthaichte a thèid a fhèin-choileanadh.</target>
-        <note>Description for adding and managing custom autocomplete URLs</note>
-      </trans-unit>
-      <trans-unit id="Autocomplete.customLabel" xml:space="preserve">
-        <source>Custom URLs</source>
-        <target>URLaichean gnàthaichte</target>
-        <note>Label for button taking you to your custom Autocomplete URL list</note>
-      </trans-unit>
-      <trans-unit id="Autocomplete.customTitle" xml:space="preserve">
-        <source>CUSTOM URL LIST</source>
-        <target>LIOSTA NAN URL GNÀTHAICHTE</target>
-        <note>Title for the default URL list section</note>
-      </trans-unit>
       <trans-unit id="Autocomplete.customUrlAdded" xml:space="preserve">
         <source>New Custom URL added.</source>
         <target>Chaidh URL gnàthaichte ùr a chur ris.</target>
@@ -245,16 +230,6 @@
         <source>Enable to have %@ autocomplete over 450 popular URLs in the address bar.</source>
         <target>Cuir an comas airson ’s gum fèin-choilean %@ barrachd air 450 URL fèillmhor ann am bàr an t-seòlaidh.</target>
         <note>Description for enabling or disabling the default list. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
-      </trans-unit>
-      <trans-unit id="Autocomplete.defaultLabel" xml:space="preserve">
-        <source>Autocomplete</source>
-        <target>Fèin-choileanadh</target>
-        <note>Label for enabling or disabling autocomplete</note>
-      </trans-unit>
-      <trans-unit id="Autocomplete.defaultTitle" xml:space="preserve">
-        <source>DEFAULT URL LIST</source>
-        <target>LIOSTA NAN URL BUNAITEACH</target>
-        <note>Title for the default URL list section</note>
       </trans-unit>
       <trans-unit id="Autocomplete.disabled" xml:space="preserve">
         <source>Disabled</source>
@@ -301,30 +276,15 @@
         <target>Seisean ùr</target>
         <note>Create a new session after failing a biometric check</note>
       </trans-unit>
-      <trans-unit id="BiometricPrompt.reason" xml:space="preserve">
-        <source>Unlock %@ when re-opening in order to prevent unauthorized access.</source>
-        <target>Thoir a’ ghlas far %@ an cois ath-fhosglaidh gus bacadh a chur air inntrigeadh gun chead.</target>
-        <note>%@ is app name. Explanation for why the app needs access to biometric information. Prompt is only shown once when the user first tries to enable Face ID to open the app.</note>
-      </trans-unit>
       <trans-unit id="Browser.backLabel" xml:space="preserve">
         <source>Back</source>
         <target>Air ais</target>
         <note>Accessibility label for the back button</note>
       </trans-unit>
-      <trans-unit id="Browser.copyAddressLabel" xml:space="preserve">
-        <source>Copy Address</source>
-        <target>Dèan lethbhreac dhen t-seòladh</target>
-        <note>Copy URL button in URL long press menu</note>
-      </trans-unit>
       <trans-unit id="Browser.copyMenuLabel" xml:space="preserve">
         <source>Copy</source>
         <target>Lethbhreac</target>
         <note>Copy URL button in URL long press menu</note>
-      </trans-unit>
-      <trans-unit id="Browser.customURLMenuLabel" xml:space="preserve">
-        <source>Add Custom URL</source>
-        <target>Cuir URL gnàthaichte ris</target>
-        <note>Custom URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.forwardLabel" xml:space="preserve">
         <source>Forward</source>
@@ -341,20 +301,10 @@
         <target>Roghainnean</target>
         <note>Accessibility label for the settings button</note>
       </trans-unit>
-      <trans-unit id="Browser.shareLabel" xml:space="preserve">
-        <source>Share</source>
-        <target>Co-roinn</target>
-        <note>Accessibility label for the share button</note>
-      </trans-unit>
       <trans-unit id="Browser.stopLabel" xml:space="preserve">
         <source>Stop</source>
         <target>Sguir dheth</target>
         <note>Accessibility label for the stop button</note>
-      </trans-unit>
-      <trans-unit id="Cancel" xml:space="preserve">
-        <source>Cancel</source>
-        <target>Sguir dheth</target>
-        <note>Label on button to cancel edits</note>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
@@ -386,11 +336,6 @@
         <target>Fosgail</target>
         <note>Button label for opening another app from Focus</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.callButton" xml:space="preserve">
-        <source>Call</source>
-        <target>Cuir fòn</target>
-        <note>Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
-      </trans-unit>
       <trans-unit id="ExternalLink.cancelButton" xml:space="preserve">
         <source>Cancel</source>
         <target>Sguir dheth</target>
@@ -400,26 +345,6 @@
         <source>Email</source>
         <target>Post-d</target>
         <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
-      </trans-unit>
-      <trans-unit id="ExternalLink.messageTitleWithPlaceholder" xml:space="preserve">
-        <source>You are now leaving %@.</source>
-        <target>Tha thu a’ fàgail %@ a-nis.</target>
-        <note>Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
-      </trans-unit>
-      <trans-unit id="ExternalLink.openAppStoreButton" xml:space="preserve">
-        <source>Open App Store</source>
-        <target>Fosgail an App Store</target>
-        <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
-      </trans-unit>
-      <trans-unit id="ExternalLink.openAppStoreTitle" xml:space="preserve">
-        <source>%@ wants to open the App Store.</source>
-        <target>Bu mhath le %@ fhosgladh san App Store.</target>
-        <note>Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
-      </trans-unit>
-      <trans-unit id="ExternalLink.openMapsButton" xml:space="preserve">
-        <source>Open Maps</source>
-        <target>Fosgail Maps</target>
-        <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="FindInPage.Done" xml:space="preserve">
         <source>Find in page done</source>
@@ -441,30 +366,10 @@
         <target>Ceart, tha mi agaibh!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
-      <trans-unit id="FirstRun.messageLabelDescription" xml:space="preserve">
-        <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
-        <target>Bac tracaichean air loidhne gu fèin-obrachail nuair a nì thu brabhsadh. Thoir gnogag an uairsin airson na duilleagan air an do thadhail thu, na luirg a rinn thu, briosgaidean is faclan-faire a sguabadh às an uidheam agad.</target>
-        <note>Message label on the first run screen</note>
-      </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline" xml:space="preserve">
         <source>Browse like no one’s watching.</source>
         <target>Dèan brabhsadh mar nach eil duine am bith a’ cumail sùil ort.</target>
         <note>Message label on the first run screen</note>
-      </trans-unit>
-      <trans-unit id="Focus.handoffSyncing" xml:space="preserve">
-        <source>Apple Handoff is syncing</source>
-        <target>Tha Apple Handoff ri sioncronachadh</target>
-        <note>Title for the loading screen when the handoff of clipboard delays Focus launch. “Handoff” should not be localized, see https://support.apple.com/HT204681</note>
-      </trans-unit>
-      <trans-unit id="Home.descriptionLabel1" xml:space="preserve">
-        <source>Automatic private browsing.</source>
-        <target>Brabhsadh prìobhaideach fèin-obrachail.</target>
-        <note>First label for product description on the home screen</note>
-      </trans-unit>
-      <trans-unit id="Home.descriptionLabel2" xml:space="preserve">
-        <source>Browse. Erase. Repeat.</source>
-        <target>Dèan brabhsadh. Dèan suathadh às. Agus a‑rithist.</target>
-        <note>Second label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Menu.Close" xml:space="preserve">
         <source>Close</source>
@@ -515,41 +420,6 @@
         <source>Welcome to Firefox %@!</source>
         <target>Fàilte gu Firefox %@!</target>
         <note>Text for a label that indicates the title for onboarding screen. Placeholder can be (Focus or Klar).</note>
-      </trans-unit>
-      <trans-unit id="Open.Cancel" xml:space="preserve">
-        <source>Cancel</source>
-        <target>Sguir dheth</target>
-        <note>Label in share alert to cancel the alert</note>
-      </trans-unit>
-      <trans-unit id="Open.Firefox" xml:space="preserve">
-        <source>Firefox (Private Browsing)</source>
-        <target>Firefox (brabhsadh prìobhaideach)</target>
-        <note>Label in share alert to open the URL in Firefox</note>
-      </trans-unit>
-      <trans-unit id="Open.More" xml:space="preserve">
-        <source>More</source>
-        <target>Barrachd</target>
-        <note>Label in share alert to open the full system share menu</note>
-      </trans-unit>
-      <trans-unit id="Open.Safari" xml:space="preserve">
-        <source>Safari</source>
-        <target>Safari</target>
-        <note>Label in share alert to open the URL in Safari</note>
-      </trans-unit>
-      <trans-unit id="ProtectionStatus.NotSecure" xml:space="preserve">
-        <source>Connection is not secure</source>
-        <target>Chan eil an ceangal tèarainte</target>
-        <note>This is the value for a label that indicates if a user is on an unencrypted website.</note>
-      </trans-unit>
-      <trans-unit id="ProtectionStatus.Secure" xml:space="preserve">
-        <source>Connection is secure</source>
-        <target>Tha an ceangal tèarainte</target>
-        <note>This is the value for a label that indicates if a user is on a secure https connection.</note>
-      </trans-unit>
-      <trans-unit id="Request Desktop Site" xml:space="preserve">
-        <source>Request Desktop Site</source>
-        <target>Iarr an làrach desktop</target>
-        <note>Label for button that requests the desktop version of the currently loaded website.</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers" xml:space="preserve">
         <source>Tap Safari, then select Content Blockers</source>
@@ -605,11 +475,6 @@
         <source>Add Another Search Engine</source>
         <target>Cuir einnsean-luirg eile ris</target>
         <note>Text for button to add another search engine in settings</note>
-      </trans-unit>
-      <trans-unit id="Settings.Search.AddSearchEngineButtonWithPlus" xml:space="preserve">
-        <source>+ Add Another Search Engine</source>
-        <target>+ Cuir einnsean-luirg eile ris</target>
-        <note>Text for button to add another search engine in settings with the + prefix</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineTitle" xml:space="preserve">
         <source>Add Search Engine</source>
@@ -706,11 +571,6 @@
         <target>Soilleir</target>
         <note>Light theme option in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.manualTheme" xml:space="preserve">
-        <source>Manual</source>
-        <target>De làimh</target>
-        <note>Manual value for theme section in settings menu</note>
-      </trans-unit>
       <trans-unit id="Settings.rate" xml:space="preserve">
         <source>Rate %@</source>
         <target>Rangaich %@</target>
@@ -746,20 +606,10 @@
         <target>MOZILLA</target>
         <note>Section label for Mozilla toggles</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionPerformance" xml:space="preserve">
-        <source>PERFORMANCE</source>
-        <target>DÈANADAS</target>
-        <note>Section label for performance toggles</note>
-      </trans-unit>
       <trans-unit id="Settings.sectionPrivacy" xml:space="preserve">
         <source>PRIVACY</source>
         <target>PRÌOBHAIDEACHD</target>
         <note>Section label for privacy toggles</note>
-      </trans-unit>
-      <trans-unit id="Settings.sectionSecurity" xml:space="preserve">
-        <source>SECURITY</source>
-        <target>TÈARAINTEACHD</target>
-        <note>Header label for security toggles displayed in the settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.setAsDefaultBrowser" xml:space="preserve">
         <source>Set as Default Browser</source>
@@ -826,11 +676,6 @@
         <target>Seall na gliocasan air an sgrìn-dhachaidh</target>
         <note>Show home screen tips toggle label on settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleOtherSubtitle" xml:space="preserve">
-        <source>May break some videos and Web pages</source>
-        <target>Dh’fhaoidte nach obraich cuid a dhuilleagan-lìn is videothan tuilleadh</target>
-        <note>Label subtitle for toggle on main screen</note>
-      </trans-unit>
       <trans-unit id="Settings.toggleSafari" xml:space="preserve">
         <source>Safari</source>
         <target>Safari</target>
@@ -895,16 +740,6 @@
         <source>Find in Page</source>
         <target>Lorg san duilleag</target>
         <note>Text for the share menu option when a user wants to open the find in page menu</note>
-      </trans-unit>
-      <trans-unit id="ShareMenu.GetFirefox" xml:space="preserve">
-        <source>Get the Firefox App</source>
-        <target>Faigh aplacaid Firefox</target>
-        <note>Text for the share menu option when a user wants to open a page in Firefox but doesn’t have it installed. This string will not wrap in the interface. Instead, it will truncate. To prevent this, please keep the localized string to 18 or fewer characters. If your string runs longer than 18 characters, you can use 'Get Firefox' as the basis for your string. However, if at all possible, we’d like to signal to the user that they will be going to the App Store and installing the application from there. That is why we are using Get and App in the en-US string.</note>
-      </trans-unit>
-      <trans-unit id="ShareMenu.PageActions" xml:space="preserve">
-        <source>Page Actions</source>
-        <target>Gnìomhan na duilleige</target>
-        <note>Title for the share menu where users can take actions for the current website they are on.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RemoveFromShortcuts" xml:space="preserve">
         <source>Remove from Shortcuts</source>
@@ -1121,11 +956,6 @@
         <target>Cuir ceangal ris airson a choileanadh gu fèin-obrachail</target>
         <note>Label displayed for button used as a shortcut to add a link to the list of URLs to autocomplete.</note>
       </trans-unit>
-      <trans-unit id="URL.cancelLabel" xml:space="preserve">
-        <source>Cancel</source>
-        <target>Sguir dheth</target>
-        <note>Label for cancel button shown when entering a URL or search</note>
-      </trans-unit>
       <trans-unit id="URL.contextMenu" xml:space="preserve">
         <source>Paste &amp; Go</source>
         <target>Cuir ann ⁊ falbh</target>
@@ -1181,50 +1011,10 @@
         <target>Tagh bar an ionaid</target>
         <note>Label to display in the Discoverability overlay for keyboard shortcuts</note>
       </trans-unit>
-      <trans-unit id="contextMenu.copyImageTitle" xml:space="preserve">
-        <source>Copy Image</source>
-        <target>Dèan lethbhreac dhen dealbh</target>
-        <note>Text for the context menu when a user wants to copy an image after long pressing it.</note>
-      </trans-unit>
-      <trans-unit id="contextMenu.copyLink" xml:space="preserve">
-        <source>Copy Link</source>
-        <target>Dèan lethbhreac dhen cheangal</target>
-        <note>Text for the context menu when a user wants to copy a link after long pressing it.</note>
-      </trans-unit>
-      <trans-unit id="contextMenu.linkCopied" xml:space="preserve">
-        <source>Link you copied: </source>
-        <target>Rinn thu lethbhreac de:</target>
-        <note>Text for the context menu when a user has a link on their clipboard.</note>
-      </trans-unit>
-      <trans-unit id="contextMenu.saveImageTitle" xml:space="preserve">
-        <source>Save Image</source>
-        <target>Sàbhail an dealbh</target>
-        <note>Text for the context menu when a user wants to save an image after long pressing it.</note>
-      </trans-unit>
-      <trans-unit id="contextMenu.shareLinkTitle" xml:space="preserve">
-        <source>Share Link</source>
-        <target>Co-roinn an ceangal</target>
-        <note>Text for the context menu when a user wants to share a link after long pressing it.</note>
-      </trans-unit>
       <trans-unit id="externalAppLinkWithAppName.messageTitle" xml:space="preserve">
         <source>%1$@ wants to open %2$@</source>
         <target>Bu toigh le %1$@ %2$@ fhosgladh</target>
         <note>Dialog title used for opening an external app from Focus. First placeholder string is the app name of either Focus or Klar and the second placeholder string specifies the app it wants to open.</note>
-      </trans-unit>
-      <trans-unit id="photosPermission.description" xml:space="preserve">
-        <source>This lets you save images to your Camera Roll</source>
-        <target>Bheir seo comas dhut an dealbh a shàbhaladh ann an albam a’ chamara agad</target>
-        <note>Description for dialog used for requesting a user to enable access to Photos.</note>
-      </trans-unit>
-      <trans-unit id="photosPermission.openSettings" xml:space="preserve">
-        <source>Open Settings</source>
-        <target>Fosgail na roghainnean</target>
-        <note>Title for button that takes the user to system settings</note>
-      </trans-unit>
-      <trans-unit id="photosPermission.title" xml:space="preserve">
-        <source>“%@” Would Like to Access Your Photos</source>
-        <target>Bu mhath le “%@” cothrom air na dealbhan agad</target>
-        <note>Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="settings.Search.SearchTemplateExample" xml:space="preserve">
         <source>Example: searchengine.example.com/search/?q=%s</source>
@@ -1241,21 +1031,6 @@
         <target>Dèan lethbhreac dhen t-seòladh</target>
         <note>Text for the share menu when a user wants to copy a URL.</note>
       </trans-unit>
-      <trans-unit id="touchId.reason" xml:space="preserve">
-        <source>Use Touch ID to return to %@</source>
-        <target>Cleachd Touch ID a thilleadh a %@</target>
-        <note>%@ is app name. Prompt shown to ask the user to use Touch ID to continue browsing after returning to the app.</note>
-      </trans-unit>
-      <trans-unit id="trackingProtection.adTrackersLabel" xml:space="preserve">
-        <source>Ad trackers</source>
-        <target>Tracaichean sanasachd</target>
-        <note>Label for ad trackers.</note>
-      </trans-unit>
-      <trans-unit id="trackingProtection.analyticTrackerLabel" xml:space="preserve">
-        <source>Analytic trackers</source>
-        <target>Tracaichean anailiseach</target>
-        <note>label for analytic trackers.</note>
-      </trans-unit>
       <trans-unit id="trackingProtection.connectionNotSecureLabel" xml:space="preserve">
         <source>Connection is not secure</source>
         <target>Chan eil an ceangal tèarainte</target>
@@ -1266,45 +1041,10 @@
         <target>Tha an ceangal tèarainte</target>
         <note>Text for tracking protection screen showing the connection is secure</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.connectionVerifiedByLabel" xml:space="preserve">
-        <source>Verified by %@</source>
-        <target>Air a dhearbhadh le %@</target>
-        <note>String to let users know the site verifier, where the placeholder represents the SSL certificate signer.</note>
-      </trans-unit>
-      <trans-unit id="trackingProtection.contentTrackerLabel" xml:space="preserve">
-        <source>Content trackers</source>
-        <target>Tracaichean susbaint</target>
-        <note>label for content trackers.</note>
-      </trans-unit>
-      <trans-unit id="trackingProtection.disabledLabel" xml:space="preserve">
-        <source>Tracking Protection off</source>
-        <target>Tha an dìon o thracadh dheth</target>
-        <note>text showing the tracking protection is disabled.</note>
-      </trans-unit>
       <trans-unit id="trackingProtection.label" xml:space="preserve">
         <source>Tracking Protection</source>
         <target>Dìon o thracadh</target>
         <note>Title for the tracking settings page to change what trackers are blocked.</note>
-      </trans-unit>
-      <trans-unit id="trackingProtection.labelDescription" xml:space="preserve">
-        <source>Turning this off may fix some site problems</source>
-        <target>Ma chuireas tu seo dheth, dh’fhaoidte gun cuir sin ceart cuid a dhuilgheadasan le làraichean</target>
-        <note>Description/subtitle for the tracking protection label.</note>
-      </trans-unit>
-      <trans-unit id="trackingProtection.learnMore" xml:space="preserve">
-        <source>Learn More</source>
-        <target>Barrachd fiosrachaidh</target>
-        <note>Text for the button to learn more about Tracking Protection.</note>
-      </trans-unit>
-      <trans-unit id="trackingProtection.moreSettings" xml:space="preserve">
-        <source>More Settings</source>
-        <target>Barrachd roghainnean</target>
-        <note>Text for the button that closes the Shield Data and opens the regular Settings screen.</note>
-      </trans-unit>
-      <trans-unit id="trackingProtection.socialTrackerLabel" xml:space="preserve">
-        <source>Social trackers</source>
-        <target>Tracaichean sòisealta</target>
-        <note>label for social trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.statusOff" xml:space="preserve">
         <source>Protections are OFF for this session</source>
@@ -1316,20 +1056,10 @@
         <target>Tha an dìon AIR rè an t-seisein seo</target>
         <note>Text for the status on from Tracking Protection.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.toggleDescription1" xml:space="preserve">
-        <source>Disable until you close %@ or tap ERASE.</source>
-        <target>Cuir à comas gus an dùin thu %@ no gus an doir thu gnogag air “SUATH ÀS”.</target>
-        <note>Description for the tracking protection toggle. Placeholder is either Firefox Focus or Firefox Klar</note>
-      </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel2" xml:space="preserve">
         <source>Enhanced Tracking Protection</source>
         <target>Dìon adhartach o thracadh</target>
         <note>Text for the toggle that enables/disables tracking protection.</note>
-      </trans-unit>
-      <trans-unit id="trackingProtection.trackerDescriptionLabel2" xml:space="preserve">
-        <source>Keep your data to yourself. %@ protects you from many of the most common trackers that follow what you do online.</source>
-        <target>Cùm an dàta agad agad fhèin. Dìonaidh %@ thu o mhòran dhe na tracaichean as cumanta a leanas mun cuairt thu air an lìon.</target>
-        <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="trackingProtection.trackersBlockedLabel" xml:space="preserve">
         <source>Trackers blocked since %@</source>

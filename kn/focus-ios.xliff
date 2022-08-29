@@ -215,20 +215,6 @@
         <target>+ ಕಸ್ಟಮ್ URL ಅನ್ನು ಸೇರಿಸಿ</target>
         <note>Label for button to add a custom URL with the + prefix</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.customDescriptoin" xml:space="preserve">
-        <source>Add and manage custom autocomplete URLs.</source>
-        <note>Description for adding and managing custom autocomplete URLs</note>
-      </trans-unit>
-      <trans-unit id="Autocomplete.customLabel" xml:space="preserve">
-        <source>Custom URLs</source>
-        <target>ಕಸ್ಟಮ್ URL ಗಳು</target>
-        <note>Label for button taking you to your custom Autocomplete URL list</note>
-      </trans-unit>
-      <trans-unit id="Autocomplete.customTitle" xml:space="preserve">
-        <source>CUSTOM URL LIST</source>
-        <target>CUSTOM URL LIST</target>
-        <note>Title for the default URL list section</note>
-      </trans-unit>
       <trans-unit id="Autocomplete.customUrlAdded" xml:space="preserve">
         <source>New Custom URL added.</source>
         <target>ಹೊಸ ಕಸ್ಟಮ್ URL ಸೇರಿಸಲಾಗಿದೆ.</target>
@@ -237,16 +223,6 @@
       <trans-unit id="Autocomplete.defaultDescriptoin" xml:space="preserve">
         <source>Enable to have %@ autocomplete over 450 popular URLs in the address bar.</source>
         <note>Description for enabling or disabling the default list. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
-      </trans-unit>
-      <trans-unit id="Autocomplete.defaultLabel" xml:space="preserve">
-        <source>Autocomplete</source>
-        <target>ಸ್ವಯಂಪೂರ್ಣಗೊಳಿಸು</target>
-        <note>Label for enabling or disabling autocomplete</note>
-      </trans-unit>
-      <trans-unit id="Autocomplete.defaultTitle" xml:space="preserve">
-        <source>DEFAULT URL LIST</source>
-        <target>DEFAULT URL LIST</target>
-        <note>Title for the default URL list section</note>
       </trans-unit>
       <trans-unit id="Autocomplete.disabled" xml:space="preserve">
         <source>Disabled</source>
@@ -291,28 +267,15 @@
         <target>ಹೊಸ ಅಧಿವೇಶನ</target>
         <note>Create a new session after failing a biometric check</note>
       </trans-unit>
-      <trans-unit id="BiometricPrompt.reason" xml:space="preserve">
-        <source>Unlock %@ when re-opening in order to prevent unauthorized access.</source>
-        <note>%@ is app name. Explanation for why the app needs access to biometric information. Prompt is only shown once when the user first tries to enable Face ID to open the app.</note>
-      </trans-unit>
       <trans-unit id="Browser.backLabel" xml:space="preserve">
         <source>Back</source>
         <target>ಹಿಂದಕ್ಕೆ</target>
         <note>Accessibility label for the back button</note>
       </trans-unit>
-      <trans-unit id="Browser.copyAddressLabel" xml:space="preserve">
-        <source>Copy Address</source>
-        <target>ವಿಳಾಸವನ್ನು ನಕಲಿಸು</target>
-        <note>Copy URL button in URL long press menu</note>
-      </trans-unit>
       <trans-unit id="Browser.copyMenuLabel" xml:space="preserve">
         <source>Copy</source>
         <target>ನಕಲಿಸು</target>
         <note>Copy URL button in URL long press menu</note>
-      </trans-unit>
-      <trans-unit id="Browser.customURLMenuLabel" xml:space="preserve">
-        <source>Add Custom URL</source>
-        <note>Custom URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.forwardLabel" xml:space="preserve">
         <source>Forward</source>
@@ -329,20 +292,10 @@
         <target>ಸಿದ್ಧತೆಗಳು</target>
         <note>Accessibility label for the settings button</note>
       </trans-unit>
-      <trans-unit id="Browser.shareLabel" xml:space="preserve">
-        <source>Share</source>
-        <target>ಹಂಚು</target>
-        <note>Accessibility label for the share button</note>
-      </trans-unit>
       <trans-unit id="Browser.stopLabel" xml:space="preserve">
         <source>Stop</source>
         <target>ನಿಲ್ಲಿಸು</target>
         <note>Accessibility label for the stop button</note>
-      </trans-unit>
-      <trans-unit id="Cancel" xml:space="preserve">
-        <source>Cancel</source>
-        <target>ರದ್ದು ಮಾಡು</target>
-        <note>Label on button to cancel edits</note>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
@@ -374,11 +327,6 @@
         <target>ತೆರೆ</target>
         <note>Button label for opening another app from Focus</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.callButton" xml:space="preserve">
-        <source>Call</source>
-        <target>ಕರೆ</target>
-        <note>Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
-      </trans-unit>
       <trans-unit id="ExternalLink.cancelButton" xml:space="preserve">
         <source>Cancel</source>
         <target>ರದ್ದು ಮಾಡು</target>
@@ -388,26 +336,6 @@
         <source>Email</source>
         <target>ಇಮೇಲ್</target>
         <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
-      </trans-unit>
-      <trans-unit id="ExternalLink.messageTitleWithPlaceholder" xml:space="preserve">
-        <source>You are now leaving %@.</source>
-        <target>ನೀವೀಗ ಇದರಿಂದ ಹೊರನೆಡೆಯುತ್ತಿದ್ದೀರಿ %@.</target>
-        <note>Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
-      </trans-unit>
-      <trans-unit id="ExternalLink.openAppStoreButton" xml:space="preserve">
-        <source>Open App Store</source>
-        <target>ಆಫ್ ಸ್ಟೋರ್ ತೆರೆ</target>
-        <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
-      </trans-unit>
-      <trans-unit id="ExternalLink.openAppStoreTitle" xml:space="preserve">
-        <source>%@ wants to open the App Store.</source>
-        <target>%@ ಆಫ್ ಸ್ಟೋರ್ ತೆರೆಯಲಿಚ್ಛಿಸುತ್ತಿದೆ.</target>
-        <note>Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
-      </trans-unit>
-      <trans-unit id="ExternalLink.openMapsButton" xml:space="preserve">
-        <source>Open Maps</source>
-        <target>ನಕ್ಷೆಗಳನ್ನು ತೆರೆ</target>
-        <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="FindInPage.Done" xml:space="preserve">
         <source>Find in page done</source>
@@ -429,30 +357,10 @@
         <target>ಸರಿ, ಗೊತ್ತಾಯಿತು!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
-      <trans-unit id="FirstRun.messageLabelDescription" xml:space="preserve">
-        <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
-        <target>ನೀವು ಬ್ರೌಸ್ ಮಾಡುವಾಗ ಆನ್ಲೈನ್ ಜಾಡುಹಿಡಿಯುವವರನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ನಿರ್ಬಂಧಿಸಿ. ನಂತರ ನಿಮ್ಮ ಸಾಧನದಿಂದ ಭೇಟಿ ನೀಡಿದ ಪುಟಗಳು, ಹುಡುಕಾಟಗಳು, ಕುಕೀಗಳು ಮತ್ತು ಗುಪ್ತಪದಗಳನ್ನು ಅಳಿಸಲು ಮೆಲ್ಲ ತಟ್ಟಿ.</target>
-        <note>Message label on the first run screen</note>
-      </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline" xml:space="preserve">
         <source>Browse like no one’s watching.</source>
         <target>ಯಾರೂ ನೋಡದಿರುವಂತೆ ಜಾಲಾಡಿ.</target>
         <note>Message label on the first run screen</note>
-      </trans-unit>
-      <trans-unit id="Focus.handoffSyncing" xml:space="preserve">
-        <source>Apple Handoff is syncing</source>
-        <target>ಆಫಲ್ ಹ್ಯಾಂಡ್‍ಆಫ್ ಸಿಂಕ್ ಆಗುತ್ತಿದೆ</target>
-        <note>Title for the loading screen when the handoff of clipboard delays Focus launch. “Handoff” should not be localized, see https://support.apple.com/HT204681</note>
-      </trans-unit>
-      <trans-unit id="Home.descriptionLabel1" xml:space="preserve">
-        <source>Automatic private browsing.</source>
-        <target>ಸ್ವಯಂಚಾಲಿತ ಖಾಸಗಿ ಜಾಲಾಟ.</target>
-        <note>First label for product description on the home screen</note>
-      </trans-unit>
-      <trans-unit id="Home.descriptionLabel2" xml:space="preserve">
-        <source>Browse. Erase. Repeat.</source>
-        <target>ಜಾಲಾಡು. ಅಳಿಸು. ಮರುಕಳಿಸು.</target>
-        <note>Second label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Menu.Close" xml:space="preserve">
         <source>Close</source>
@@ -494,39 +402,6 @@
       <trans-unit id="Onboarding.Title" xml:space="preserve">
         <source>Welcome to Firefox %@!</source>
         <note>Text for a label that indicates the title for onboarding screen. Placeholder can be (Focus or Klar).</note>
-      </trans-unit>
-      <trans-unit id="Open.Cancel" xml:space="preserve">
-        <source>Cancel</source>
-        <target>ರದ್ದು ಮಾಡು‍</target>
-        <note>Label in share alert to cancel the alert</note>
-      </trans-unit>
-      <trans-unit id="Open.Firefox" xml:space="preserve">
-        <source>Firefox (Private Browsing)</source>
-        <target>Firefox (ಖಾಸಗಿ‍ ಜಾಲಾಟ)‍</target>
-        <note>Label in share alert to open the URL in Firefox</note>
-      </trans-unit>
-      <trans-unit id="Open.More" xml:space="preserve">
-        <source>More</source>
-        <target>ಮತ್ತಷ್ಟು</target>
-        <note>Label in share alert to open the full system share menu</note>
-      </trans-unit>
-      <trans-unit id="Open.Safari" xml:space="preserve">
-        <source>Safari</source>
-        <target>ಸಫಾರಿ‍</target>
-        <note>Label in share alert to open the URL in Safari</note>
-      </trans-unit>
-      <trans-unit id="ProtectionStatus.NotSecure" xml:space="preserve">
-        <source>Connection is not secure</source>
-        <note>This is the value for a label that indicates if a user is on an unencrypted website.</note>
-      </trans-unit>
-      <trans-unit id="ProtectionStatus.Secure" xml:space="preserve">
-        <source>Connection is secure</source>
-        <note>This is the value for a label that indicates if a user is on a secure https connection.</note>
-      </trans-unit>
-      <trans-unit id="Request Desktop Site" xml:space="preserve">
-        <source>Request Desktop Site</source>
-        <target>ಡೆಸ್ಕ್ಟಾಪ್ ತಾಣವನ್ನು ಕೇಳಿ</target>
-        <note>Label for button that requests the desktop version of the currently loaded website.</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers" xml:space="preserve">
         <source>Tap Safari, then select Content Blockers</source>
@@ -580,11 +455,6 @@
         <source>Add Another Search Engine</source>
         <target>ಮತ್ತೊಂದು ಹುಡುಕಾಟ ಇಂಜಿನ್ ಅನ್ನು ಸೇರಿಸಿ</target>
         <note>Text for button to add another search engine in settings</note>
-      </trans-unit>
-      <trans-unit id="Settings.Search.AddSearchEngineButtonWithPlus" xml:space="preserve">
-        <source>+ Add Another Search Engine</source>
-        <target>+ ಮತ್ತೊಂದು ಹುಡುಕಾಟ ಎಂಜಿನ್ ಸೇರಿಸಿ</target>
-        <note>Text for button to add another search engine in settings with the + prefix</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineTitle" xml:space="preserve">
         <source>Add Search Engine</source>
@@ -673,10 +543,6 @@
         <source>Light</source>
         <note>Light theme option in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.manualTheme" xml:space="preserve">
-        <source>Manual</source>
-        <note>Manual value for theme section in settings menu</note>
-      </trans-unit>
       <trans-unit id="Settings.rate" xml:space="preserve">
         <source>Rate %@</source>
         <target>ಬೆಲೆ %@</target>
@@ -711,20 +577,10 @@
         <target>MOZILLA‍</target>
         <note>Section label for Mozilla toggles</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionPerformance" xml:space="preserve">
-        <source>PERFORMANCE</source>
-        <target>PERFORMANCE</target>
-        <note>Section label for performance toggles</note>
-      </trans-unit>
       <trans-unit id="Settings.sectionPrivacy" xml:space="preserve">
         <source>PRIVACY</source>
         <target>ಗೌಪ್ಯತೆ</target>
         <note>Section label for privacy toggles</note>
-      </trans-unit>
-      <trans-unit id="Settings.sectionSecurity" xml:space="preserve">
-        <source>SECURITY</source>
-        <target>SECURITY</target>
-        <note>Header label for security toggles displayed in the settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.setAsDefaultBrowser" xml:space="preserve">
         <source>Set as Default Browser</source>
@@ -780,11 +636,6 @@
       <trans-unit id="Settings.toggleHomeScreenTips" xml:space="preserve">
         <source>Show home screen tips</source>
         <note>Show home screen tips toggle label on settings screen</note>
-      </trans-unit>
-      <trans-unit id="Settings.toggleOtherSubtitle" xml:space="preserve">
-        <source>May break some videos and Web pages</source>
-        <target>ಕೆಲವು ವಿಡಿಯೋ ಮತ್ತು ಜಾಲ ಪುಟಗಳನ್ನು ಹಾಳುಗೆಡುವಬಹುದು</target>
-        <note>Label subtitle for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSafari" xml:space="preserve">
         <source>Safari</source>
@@ -844,16 +695,6 @@
         <source>Find in Page</source>
         <target>ಪುಟದಲ್ಲಿ ಹುಡುಕು</target>
         <note>Text for the share menu option when a user wants to open the find in page menu</note>
-      </trans-unit>
-      <trans-unit id="ShareMenu.GetFirefox" xml:space="preserve">
-        <source>Get the Firefox App</source>
-        <target>Firefox ಅನ್ವಯ ಪಡೆಯಿರಿ</target>
-        <note>Text for the share menu option when a user wants to open a page in Firefox but doesn’t have it installed. This string will not wrap in the interface. Instead, it will truncate. To prevent this, please keep the localized string to 18 or fewer characters. If your string runs longer than 18 characters, you can use 'Get Firefox' as the basis for your string. However, if at all possible, we’d like to signal to the user that they will be going to the App Store and installing the application from there. That is why we are using Get and App in the en-US string.</note>
-      </trans-unit>
-      <trans-unit id="ShareMenu.PageActions" xml:space="preserve">
-        <source>Page Actions</source>
-        <target>ಪುಟದ ಕಾರ್ಯಗಳು</target>
-        <note>Title for the share menu where users can take actions for the current website they are on.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RemoveFromShortcuts" xml:space="preserve">
         <source>Remove from Shortcuts</source>
@@ -1041,11 +882,6 @@
         <target>ಸ್ವಯಂಪೂರ್ಣತೆಗೆ ಲಿಂಕ್ ಸೇರಿಸಿ</target>
         <note>Label displayed for button used as a shortcut to add a link to the list of URLs to autocomplete.</note>
       </trans-unit>
-      <trans-unit id="URL.cancelLabel" xml:space="preserve">
-        <source>Cancel</source>
-        <target>ರದ್ದು ಮಾಡು</target>
-        <note>Label for cancel button shown when entering a URL or search</note>
-      </trans-unit>
       <trans-unit id="URL.contextMenu" xml:space="preserve">
         <source>Paste &amp; Go</source>
         <target>ಅಂಟಿಸು ಹಾಗು ಮುಂದುವರೆ</target>
@@ -1100,50 +936,10 @@
         <target>ಸ್ಥಳ ಪಟ್ಟಿ ಆಯ್ಕೆಮಾಡು</target>
         <note>Label to display in the Discoverability overlay for keyboard shortcuts</note>
       </trans-unit>
-      <trans-unit id="contextMenu.copyImageTitle" xml:space="preserve">
-        <source>Copy Image</source>
-        <target>ಚಿತ್ರವನ್ನು ನಕಲಿಸು</target>
-        <note>Text for the context menu when a user wants to copy an image after long pressing it.</note>
-      </trans-unit>
-      <trans-unit id="contextMenu.copyLink" xml:space="preserve">
-        <source>Copy Link</source>
-        <target>ಕೊಂಡಿ ನಕಲಿಸು‍</target>
-        <note>Text for the context menu when a user wants to copy a link after long pressing it.</note>
-      </trans-unit>
-      <trans-unit id="contextMenu.linkCopied" xml:space="preserve">
-        <source>Link you copied: </source>
-        <target>ನೀವು ನಕಲಿಸಿದ ಕೊಂಡಿ:</target>
-        <note>Text for the context menu when a user has a link on their clipboard.</note>
-      </trans-unit>
-      <trans-unit id="contextMenu.saveImageTitle" xml:space="preserve">
-        <source>Save Image</source>
-        <target>ಚಿತ್ರವನ್ನು ಉಳಿಸು</target>
-        <note>Text for the context menu when a user wants to save an image after long pressing it.</note>
-      </trans-unit>
-      <trans-unit id="contextMenu.shareLinkTitle" xml:space="preserve">
-        <source>Share Link</source>
-        <target>ಕೊಂಡಿ ಹಂಚು</target>
-        <note>Text for the context menu when a user wants to share a link after long pressing it.</note>
-      </trans-unit>
       <trans-unit id="externalAppLinkWithAppName.messageTitle" xml:space="preserve">
         <source>%1$@ wants to open %2$@</source>
         <target>%1$@ %2$@ ಅನ್ನು ತೆರೆಯಲಿಚ್ಛಿಸುತ್ತಿದೆ</target>
         <note>Dialog title used for opening an external app from Focus. First placeholder string is the app name of either Focus or Klar and the second placeholder string specifies the app it wants to open.</note>
-      </trans-unit>
-      <trans-unit id="photosPermission.description" xml:space="preserve">
-        <source>This lets you save images to your Camera Roll</source>
-        <target>ಇದು ನಿಮಗೆ ಚಿತ್ರಗಳನ್ನು ಕ್ಯಾಮೆರಾ ಸುರಳಿಯಲ್ಲಿ ಉಳಿಸಲು ಬಿಡುತ್ತದೆ</target>
-        <note>Description for dialog used for requesting a user to enable access to Photos.</note>
-      </trans-unit>
-      <trans-unit id="photosPermission.openSettings" xml:space="preserve">
-        <source>Open Settings</source>
-        <target>ಸಿದ್ಧತೆಗಳನ್ನು ತೆರೆ</target>
-        <note>Title for button that takes the user to system settings</note>
-      </trans-unit>
-      <trans-unit id="photosPermission.title" xml:space="preserve">
-        <source>“%@” Would Like to Access Your Photos</source>
-        <target>“%@” ನಿಮ್ಮ ಚಿತ್ರಗಳನ್ನು ಪ್ರವೇಶಿಸಲು ಬಯಸುತ್ತಿದೆ</target>
-        <note>Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="settings.Search.SearchTemplateExample" xml:space="preserve">
         <source>Example: searchengine.example.com/search/?q=%s</source>
@@ -1159,21 +955,6 @@
         <target>ವಿಳಾಸವನ್ನು ನಕಲಿಸು</target>
         <note>Text for the share menu when a user wants to copy a URL.</note>
       </trans-unit>
-      <trans-unit id="touchId.reason" xml:space="preserve">
-        <source>Use Touch ID to return to %@</source>
-        <target>%@ ಗೆ ಹಿಂತಿರುಗಲು ಟಚ್ ID ಅನ್ನು ಬಳಸಿ</target>
-        <note>%@ is app name. Prompt shown to ask the user to use Touch ID to continue browsing after returning to the app.</note>
-      </trans-unit>
-      <trans-unit id="trackingProtection.adTrackersLabel" xml:space="preserve">
-        <source>Ad trackers</source>
-        <target>ಜಾಹಿರಾತುಗಳ ಜಾಡುಹಿಡಿಯುವವರು</target>
-        <note>Label for ad trackers.</note>
-      </trans-unit>
-      <trans-unit id="trackingProtection.analyticTrackerLabel" xml:space="preserve">
-        <source>Analytic trackers</source>
-        <target>ವಿಶ್ಲೇಷಣಾತ್ಮಕ ಅನ್ವೇಷಕಗಳು</target>
-        <note>label for analytic trackers.</note>
-      </trans-unit>
       <trans-unit id="trackingProtection.connectionNotSecureLabel" xml:space="preserve">
         <source>Connection is not secure</source>
         <note>Text for tracking protection screen showing the connection is not secure</note>
@@ -1182,43 +963,10 @@
         <source>Connection is secure</source>
         <note>Text for tracking protection screen showing the connection is secure</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.connectionVerifiedByLabel" xml:space="preserve">
-        <source>Verified by %@</source>
-        <note>String to let users know the site verifier, where the placeholder represents the SSL certificate signer.</note>
-      </trans-unit>
-      <trans-unit id="trackingProtection.contentTrackerLabel" xml:space="preserve">
-        <source>Content trackers</source>
-        <target>ವಿಷಯ ಅನ್ವೇಷಕಗಳು</target>
-        <note>label for content trackers.</note>
-      </trans-unit>
-      <trans-unit id="trackingProtection.disabledLabel" xml:space="preserve">
-        <source>Tracking Protection off</source>
-        <target>ಜಾಡು ಇರಿಸುವಿಕೆಗೆ ರಕ್ಷಣೆ ಸ್ಥಗಿತಗೊಳಿಸಲಾಗಿದೆ</target>
-        <note>text showing the tracking protection is disabled.</note>
-      </trans-unit>
       <trans-unit id="trackingProtection.label" xml:space="preserve">
         <source>Tracking Protection</source>
         <target>ಜಾಡು ಇರಿಸುವಿಕೆಗೆ ರಕ್ಷಣೆ</target>
         <note>Title for the tracking settings page to change what trackers are blocked.</note>
-      </trans-unit>
-      <trans-unit id="trackingProtection.labelDescription" xml:space="preserve">
-        <source>Turning this off may fix some site problems</source>
-        <target>ಇದನ್ನು ಆಫ್ ಮಾಡುವುದರಿಂದ ತಾಣದ ಕೆಲವು ಸಮಸ್ಯೆಗಳನ್ನು ಸರಿಪಡಿಸಬಹುದು</target>
-        <note>Description/subtitle for the tracking protection label.</note>
-      </trans-unit>
-      <trans-unit id="trackingProtection.learnMore" xml:space="preserve">
-        <source>Learn More</source>
-        <target>ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ</target>
-        <note>Text for the button to learn more about Tracking Protection.</note>
-      </trans-unit>
-      <trans-unit id="trackingProtection.moreSettings" xml:space="preserve">
-        <source>More Settings</source>
-        <note>Text for the button that closes the Shield Data and opens the regular Settings screen.</note>
-      </trans-unit>
-      <trans-unit id="trackingProtection.socialTrackerLabel" xml:space="preserve">
-        <source>Social trackers</source>
-        <target>ಸಾಮಾಜಿಕ ಜಾಡುಹಿಡಿಯುವವರು</target>
-        <note>label for social trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.statusOff" xml:space="preserve">
         <source>Protections are OFF for this session</source>
@@ -1228,18 +976,9 @@
         <source>Protections are ON for this session</source>
         <note>Text for the status on from Tracking Protection.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.toggleDescription1" xml:space="preserve">
-        <source>Disable until you close %@ or tap ERASE.</source>
-        <target>ನೀವು %@ ಅನ್ನು ಮುಚ್ಚಿ ಅಥವಾ ERASE ಅನ್ನು ಟ್ಯಾಪ್ ಮಾಡುವವರೆಗೆ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ.</target>
-        <note>Description for the tracking protection toggle. Placeholder is either Firefox Focus or Firefox Klar</note>
-      </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel2" xml:space="preserve">
         <source>Enhanced Tracking Protection</source>
         <note>Text for the toggle that enables/disables tracking protection.</note>
-      </trans-unit>
-      <trans-unit id="trackingProtection.trackerDescriptionLabel2" xml:space="preserve">
-        <source>Keep your data to yourself. %@ protects you from many of the most common trackers that follow what you do online.</source>
-        <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="trackingProtection.trackersBlockedLabel" xml:space="preserve">
         <source>Trackers blocked since %@</source>

@@ -221,21 +221,6 @@
         <target>+ Shtoni URL Vetjake</target>
         <note>Label for button to add a custom URL with the + prefix</note>
       </trans-unit>
-      <trans-unit id="Autocomplete.customDescriptoin" xml:space="preserve">
-        <source>Add and manage custom autocomplete URLs.</source>
-        <target>Shtoni dhe administroni URLra vetjake vetëplotësimesh.</target>
-        <note>Description for adding and managing custom autocomplete URLs</note>
-      </trans-unit>
-      <trans-unit id="Autocomplete.customLabel" xml:space="preserve">
-        <source>Custom URLs</source>
-        <target>URL Vetjake</target>
-        <note>Label for button taking you to your custom Autocomplete URL list</note>
-      </trans-unit>
-      <trans-unit id="Autocomplete.customTitle" xml:space="preserve">
-        <source>CUSTOM URL LIST</source>
-        <target>LISTË URLsh VETJAKE</target>
-        <note>Title for the default URL list section</note>
-      </trans-unit>
       <trans-unit id="Autocomplete.customUrlAdded" xml:space="preserve">
         <source>New Custom URL added.</source>
         <target>U shtua URL Vetjake e re.</target>
@@ -245,16 +230,6 @@
         <source>Enable to have %@ autocomplete over 450 popular URLs in the address bar.</source>
         <target>Aktivizojeni që %@ të vetëplotësojë te shtylla e adresave mbi 450 URL popullore.</target>
         <note>Description for enabling or disabling the default list. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
-      </trans-unit>
-      <trans-unit id="Autocomplete.defaultLabel" xml:space="preserve">
-        <source>Autocomplete</source>
-        <target>Vetëplotësim</target>
-        <note>Label for enabling or disabling autocomplete</note>
-      </trans-unit>
-      <trans-unit id="Autocomplete.defaultTitle" xml:space="preserve">
-        <source>DEFAULT URL LIST</source>
-        <target>LISTË URLsh PARAZGJEDHJE</target>
-        <note>Title for the default URL list section</note>
       </trans-unit>
       <trans-unit id="Autocomplete.disabled" xml:space="preserve">
         <source>Disabled</source>
@@ -301,30 +276,15 @@
         <target>Sesion i Ri</target>
         <note>Create a new session after failing a biometric check</note>
       </trans-unit>
-      <trans-unit id="BiometricPrompt.reason" xml:space="preserve">
-        <source>Unlock %@ when re-opening in order to prevent unauthorized access.</source>
-        <target>Shkyçeni %@ kur rihapet, që të parandalohen hyrje të pa-autorizuara.</target>
-        <note>%@ is app name. Explanation for why the app needs access to biometric information. Prompt is only shown once when the user first tries to enable Face ID to open the app.</note>
-      </trans-unit>
       <trans-unit id="Browser.backLabel" xml:space="preserve">
         <source>Back</source>
         <target>Mbrapsht</target>
         <note>Accessibility label for the back button</note>
       </trans-unit>
-      <trans-unit id="Browser.copyAddressLabel" xml:space="preserve">
-        <source>Copy Address</source>
-        <target>Kopjoje Adresën</target>
-        <note>Copy URL button in URL long press menu</note>
-      </trans-unit>
       <trans-unit id="Browser.copyMenuLabel" xml:space="preserve">
         <source>Copy</source>
         <target>Kopjoje</target>
         <note>Copy URL button in URL long press menu</note>
-      </trans-unit>
-      <trans-unit id="Browser.customURLMenuLabel" xml:space="preserve">
-        <source>Add Custom URL</source>
-        <target>Shtoni URL Vetjake</target>
-        <note>Custom URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.forwardLabel" xml:space="preserve">
         <source>Forward</source>
@@ -341,20 +301,10 @@
         <target>Rregullime</target>
         <note>Accessibility label for the settings button</note>
       </trans-unit>
-      <trans-unit id="Browser.shareLabel" xml:space="preserve">
-        <source>Share</source>
-        <target>Ndajeni me të tjerë</target>
-        <note>Accessibility label for the share button</note>
-      </trans-unit>
       <trans-unit id="Browser.stopLabel" xml:space="preserve">
         <source>Stop</source>
         <target>Ndale</target>
         <note>Accessibility label for the stop button</note>
-      </trans-unit>
-      <trans-unit id="Cancel" xml:space="preserve">
-        <source>Cancel</source>
-        <target>Anuloje</target>
-        <note>Label on button to cancel edits</note>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
@@ -386,11 +336,6 @@
         <target>Hape</target>
         <note>Button label for opening another app from Focus</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.callButton" xml:space="preserve">
-        <source>Call</source>
-        <target>Thirrje</target>
-        <note>Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
-      </trans-unit>
       <trans-unit id="ExternalLink.cancelButton" xml:space="preserve">
         <source>Cancel</source>
         <target>Anuloje</target>
@@ -400,26 +345,6 @@
         <source>Email</source>
         <target>Email</target>
         <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
-      </trans-unit>
-      <trans-unit id="ExternalLink.messageTitleWithPlaceholder" xml:space="preserve">
-        <source>You are now leaving %@.</source>
-        <target>Tani po dilni nga %@.</target>
-        <note>Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
-      </trans-unit>
-      <trans-unit id="ExternalLink.openAppStoreButton" xml:space="preserve">
-        <source>Open App Store</source>
-        <target>Hapni Shitoren e Aplikacioneve</target>
-        <note>Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
-      </trans-unit>
-      <trans-unit id="ExternalLink.openAppStoreTitle" xml:space="preserve">
-        <source>%@ wants to open the App Store.</source>
-        <target>%@ dëshiron të hapë App Store-in.</target>
-        <note>Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
-      </trans-unit>
-      <trans-unit id="ExternalLink.openMapsButton" xml:space="preserve">
-        <source>Open Maps</source>
-        <target>Hapni Harta</target>
-        <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="FindInPage.Done" xml:space="preserve">
         <source>Find in page done</source>
@@ -441,30 +366,10 @@
         <target>OK, e mora vesh!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
-      <trans-unit id="FirstRun.messageLabelDescription" xml:space="preserve">
-        <source>Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.</source>
-        <target>Bllokojini vetvetiu gjurmuesit në internet, teksa shfletoni. Mandej prekeni, që të fshihen nga pajisja juaj faqe të vizituara, kërkime, cookies dhe fjalëkalime.</target>
-        <note>Message label on the first run screen</note>
-      </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline" xml:space="preserve">
         <source>Browse like no one’s watching.</source>
         <target>Shfletoni sikur të mos ju vëzhgonte njeri.</target>
         <note>Message label on the first run screen</note>
-      </trans-unit>
-      <trans-unit id="Focus.handoffSyncing" xml:space="preserve">
-        <source>Apple Handoff is syncing</source>
-        <target>Apple Handoff po bën njëkohësimin</target>
-        <note>Title for the loading screen when the handoff of clipboard delays Focus launch. “Handoff” should not be localized, see https://support.apple.com/HT204681</note>
-      </trans-unit>
-      <trans-unit id="Home.descriptionLabel1" xml:space="preserve">
-        <source>Automatic private browsing.</source>
-        <target>Shfletim privat i vetvetishëm.</target>
-        <note>First label for product description on the home screen</note>
-      </trans-unit>
-      <trans-unit id="Home.descriptionLabel2" xml:space="preserve">
-        <source>Browse. Erase. Repeat.</source>
-        <target>Shfletoni. Fshini. Nga e para.</target>
-        <note>Second label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Menu.Close" xml:space="preserve">
         <source>Close</source>
@@ -506,41 +411,6 @@
       <trans-unit id="Onboarding.Title" xml:space="preserve">
         <source>Welcome to Firefox %@!</source>
         <note>Text for a label that indicates the title for onboarding screen. Placeholder can be (Focus or Klar).</note>
-      </trans-unit>
-      <trans-unit id="Open.Cancel" xml:space="preserve">
-        <source>Cancel</source>
-        <target>Anuloje</target>
-        <note>Label in share alert to cancel the alert</note>
-      </trans-unit>
-      <trans-unit id="Open.Firefox" xml:space="preserve">
-        <source>Firefox (Private Browsing)</source>
-        <target>Firefox (Shfletim Privat)</target>
-        <note>Label in share alert to open the URL in Firefox</note>
-      </trans-unit>
-      <trans-unit id="Open.More" xml:space="preserve">
-        <source>More</source>
-        <target>Më tepër</target>
-        <note>Label in share alert to open the full system share menu</note>
-      </trans-unit>
-      <trans-unit id="Open.Safari" xml:space="preserve">
-        <source>Safari</source>
-        <target>Safari</target>
-        <note>Label in share alert to open the URL in Safari</note>
-      </trans-unit>
-      <trans-unit id="ProtectionStatus.NotSecure" xml:space="preserve">
-        <source>Connection is not secure</source>
-        <target>Lidhja s’është e sigurt</target>
-        <note>This is the value for a label that indicates if a user is on an unencrypted website.</note>
-      </trans-unit>
-      <trans-unit id="ProtectionStatus.Secure" xml:space="preserve">
-        <source>Connection is secure</source>
-        <target>Lidhja është e sigurt</target>
-        <note>This is the value for a label that indicates if a user is on a secure https connection.</note>
-      </trans-unit>
-      <trans-unit id="Request Desktop Site" xml:space="preserve">
-        <source>Request Desktop Site</source>
-        <target>Kërko Sajtin për Desktop</target>
-        <note>Label for button that requests the desktop version of the currently loaded website.</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers" xml:space="preserve">
         <source>Tap Safari, then select Content Blockers</source>
@@ -596,11 +466,6 @@
         <source>Add Another Search Engine</source>
         <target>Shtoni Motor Tjetër Kërkimesh</target>
         <note>Text for button to add another search engine in settings</note>
-      </trans-unit>
-      <trans-unit id="Settings.Search.AddSearchEngineButtonWithPlus" xml:space="preserve">
-        <source>+ Add Another Search Engine</source>
-        <target>+ Shtoni Motor Tjetër Kërkimesh</target>
-        <note>Text for button to add another search engine in settings with the + prefix</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineTitle" xml:space="preserve">
         <source>Add Search Engine</source>
@@ -697,11 +562,6 @@
         <target>E çelët</target>
         <note>Light theme option in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.manualTheme" xml:space="preserve">
-        <source>Manual</source>
-        <target>Dorazi</target>
-        <note>Manual value for theme section in settings menu</note>
-      </trans-unit>
       <trans-unit id="Settings.rate" xml:space="preserve">
         <source>Rate %@</source>
         <target>Vlerësojeni %@</target>
@@ -737,20 +597,10 @@
         <target>MOZILLA</target>
         <note>Section label for Mozilla toggles</note>
       </trans-unit>
-      <trans-unit id="Settings.sectionPerformance" xml:space="preserve">
-        <source>PERFORMANCE</source>
-        <target>PUNIM</target>
-        <note>Section label for performance toggles</note>
-      </trans-unit>
       <trans-unit id="Settings.sectionPrivacy" xml:space="preserve">
         <source>PRIVACY</source>
         <target>PRIVATËSI</target>
         <note>Section label for privacy toggles</note>
-      </trans-unit>
-      <trans-unit id="Settings.sectionSecurity" xml:space="preserve">
-        <source>SECURITY</source>
-        <target>SIGURI</target>
-        <note>Header label for security toggles displayed in the settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.setAsDefaultBrowser" xml:space="preserve">
         <source>Set as Default Browser</source>
@@ -815,11 +665,6 @@
         <target>Shfaq ndihmëza skene kreu</target>
         <note>Show home screen tips toggle label on settings screen</note>
       </trans-unit>
-      <trans-unit id="Settings.toggleOtherSubtitle" xml:space="preserve">
-        <source>May break some videos and Web pages</source>
-        <target>Mund të pengojë funksionimin e disa videove dhe faqeve Web</target>
-        <note>Label subtitle for toggle on main screen</note>
-      </trans-unit>
       <trans-unit id="Settings.toggleSafari" xml:space="preserve">
         <source>Safari</source>
         <target>Safari</target>
@@ -883,16 +728,6 @@
         <source>Find in Page</source>
         <target>Gjej në Faqe</target>
         <note>Text for the share menu option when a user wants to open the find in page menu</note>
-      </trans-unit>
-      <trans-unit id="ShareMenu.GetFirefox" xml:space="preserve">
-        <source>Get the Firefox App</source>
-        <target>Merrni Aplikacionin Firefox</target>
-        <note>Text for the share menu option when a user wants to open a page in Firefox but doesn’t have it installed. This string will not wrap in the interface. Instead, it will truncate. To prevent this, please keep the localized string to 18 or fewer characters. If your string runs longer than 18 characters, you can use 'Get Firefox' as the basis for your string. However, if at all possible, we’d like to signal to the user that they will be going to the App Store and installing the application from there. That is why we are using Get and App in the en-US string.</note>
-      </trans-unit>
-      <trans-unit id="ShareMenu.PageActions" xml:space="preserve">
-        <source>Page Actions</source>
-        <target>Veprime Faqeje</target>
-        <note>Title for the share menu where users can take actions for the current website they are on.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RemoveFromShortcuts" xml:space="preserve">
         <source>Remove from Shortcuts</source>
@@ -1104,11 +939,6 @@
         <target>Shtoni lidhje për vetëplotësim</target>
         <note>Label displayed for button used as a shortcut to add a link to the list of URLs to autocomplete.</note>
       </trans-unit>
-      <trans-unit id="URL.cancelLabel" xml:space="preserve">
-        <source>Cancel</source>
-        <target>Anuloje</target>
-        <note>Label for cancel button shown when entering a URL or search</note>
-      </trans-unit>
       <trans-unit id="URL.contextMenu" xml:space="preserve">
         <source>Paste &amp; Go</source>
         <target>Ngjite &amp; Shko</target>
@@ -1164,50 +994,10 @@
         <target>Përzgjidhni Shtyllë Vendesh</target>
         <note>Label to display in the Discoverability overlay for keyboard shortcuts</note>
       </trans-unit>
-      <trans-unit id="contextMenu.copyImageTitle" xml:space="preserve">
-        <source>Copy Image</source>
-        <target>Kopjo Figurën</target>
-        <note>Text for the context menu when a user wants to copy an image after long pressing it.</note>
-      </trans-unit>
-      <trans-unit id="contextMenu.copyLink" xml:space="preserve">
-        <source>Copy Link</source>
-        <target>Kopjoji Lidhjen</target>
-        <note>Text for the context menu when a user wants to copy a link after long pressing it.</note>
-      </trans-unit>
-      <trans-unit id="contextMenu.linkCopied" xml:space="preserve">
-        <source>Link you copied: </source>
-        <target>Lidhja që kopjuat:</target>
-        <note>Text for the context menu when a user has a link on their clipboard.</note>
-      </trans-unit>
-      <trans-unit id="contextMenu.saveImageTitle" xml:space="preserve">
-        <source>Save Image</source>
-        <target>Ruajeni Figurën</target>
-        <note>Text for the context menu when a user wants to save an image after long pressing it.</note>
-      </trans-unit>
-      <trans-unit id="contextMenu.shareLinkTitle" xml:space="preserve">
-        <source>Share Link</source>
-        <target>Ndajeni Lidhjen Me të Tjerët</target>
-        <note>Text for the context menu when a user wants to share a link after long pressing it.</note>
-      </trans-unit>
       <trans-unit id="externalAppLinkWithAppName.messageTitle" xml:space="preserve">
         <source>%1$@ wants to open %2$@</source>
         <target>%1$@ dëshiron të hapë %2$@</target>
         <note>Dialog title used for opening an external app from Focus. First placeholder string is the app name of either Focus or Klar and the second placeholder string specifies the app it wants to open.</note>
-      </trans-unit>
-      <trans-unit id="photosPermission.description" xml:space="preserve">
-        <source>This lets you save images to your Camera Roll</source>
-        <target>Kjo ju lejon të ruani figura te Camera Roll-i juaj</target>
-        <note>Description for dialog used for requesting a user to enable access to Photos.</note>
-      </trans-unit>
-      <trans-unit id="photosPermission.openSettings" xml:space="preserve">
-        <source>Open Settings</source>
-        <target>Hap Rregullimet</target>
-        <note>Title for button that takes the user to system settings</note>
-      </trans-unit>
-      <trans-unit id="photosPermission.title" xml:space="preserve">
-        <source>“%@” Would Like to Access Your Photos</source>
-        <target>“%@” Do të Donte të Hynte te Fotot Tuaja</target>
-        <note>Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="settings.Search.SearchTemplateExample" xml:space="preserve">
         <source>Example: searchengine.example.com/search/?q=%s</source>
@@ -1224,21 +1014,6 @@
         <target>Kopjoje Adresën</target>
         <note>Text for the share menu when a user wants to copy a URL.</note>
       </trans-unit>
-      <trans-unit id="touchId.reason" xml:space="preserve">
-        <source>Use Touch ID to return to %@</source>
-        <target>Përdorni Touch ID që të ktheheni te %@</target>
-        <note>%@ is app name. Prompt shown to ask the user to use Touch ID to continue browsing after returning to the app.</note>
-      </trans-unit>
-      <trans-unit id="trackingProtection.adTrackersLabel" xml:space="preserve">
-        <source>Ad trackers</source>
-        <target>Gjurmues reklamash</target>
-        <note>Label for ad trackers.</note>
-      </trans-unit>
-      <trans-unit id="trackingProtection.analyticTrackerLabel" xml:space="preserve">
-        <source>Analytic trackers</source>
-        <target>Gjurmues analitikë</target>
-        <note>label for analytic trackers.</note>
-      </trans-unit>
       <trans-unit id="trackingProtection.connectionNotSecureLabel" xml:space="preserve">
         <source>Connection is not secure</source>
         <target>Lidhja s’është e sigurt</target>
@@ -1249,45 +1024,10 @@
         <target>Lidhja është e sigurt</target>
         <note>Text for tracking protection screen showing the connection is secure</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.connectionVerifiedByLabel" xml:space="preserve">
-        <source>Verified by %@</source>
-        <target>Verifikuar nga: %@</target>
-        <note>String to let users know the site verifier, where the placeholder represents the SSL certificate signer.</note>
-      </trans-unit>
-      <trans-unit id="trackingProtection.contentTrackerLabel" xml:space="preserve">
-        <source>Content trackers</source>
-        <target>Gjurmues lënde</target>
-        <note>label for content trackers.</note>
-      </trans-unit>
-      <trans-unit id="trackingProtection.disabledLabel" xml:space="preserve">
-        <source>Tracking Protection off</source>
-        <target>Pa Mbrojtje Nga Gjurmimet</target>
-        <note>text showing the tracking protection is disabled.</note>
-      </trans-unit>
       <trans-unit id="trackingProtection.label" xml:space="preserve">
         <source>Tracking Protection</source>
         <target>Mbrojtje Nga Gjurmimet</target>
         <note>Title for the tracking settings page to change what trackers are blocked.</note>
-      </trans-unit>
-      <trans-unit id="trackingProtection.labelDescription" xml:space="preserve">
-        <source>Turning this off may fix some site problems</source>
-        <target>Çaktivizimi i kësaj mund të ndreqë ca probleme sajti</target>
-        <note>Description/subtitle for the tracking protection label.</note>
-      </trans-unit>
-      <trans-unit id="trackingProtection.learnMore" xml:space="preserve">
-        <source>Learn More</source>
-        <target>Mësoni Më Tepër</target>
-        <note>Text for the button to learn more about Tracking Protection.</note>
-      </trans-unit>
-      <trans-unit id="trackingProtection.moreSettings" xml:space="preserve">
-        <source>More Settings</source>
-        <target>Më Tepër Rregullime</target>
-        <note>Text for the button that closes the Shield Data and opens the regular Settings screen.</note>
-      </trans-unit>
-      <trans-unit id="trackingProtection.socialTrackerLabel" xml:space="preserve">
-        <source>Social trackers</source>
-        <target>Gjurmues socialë</target>
-        <note>label for social trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.statusOff" xml:space="preserve">
         <source>Protections are OFF for this session</source>
@@ -1299,20 +1039,10 @@
         <target>Për këtë sesion, mbrojtjet janë ON</target>
         <note>Text for the status on from Tracking Protection.</note>
       </trans-unit>
-      <trans-unit id="trackingProtection.toggleDescription1" xml:space="preserve">
-        <source>Disable until you close %@ or tap ERASE.</source>
-        <target>Çaktivizoje derisa të mbyll %@ ose prekë FSHIJE.</target>
-        <note>Description for the tracking protection toggle. Placeholder is either Firefox Focus or Firefox Klar</note>
-      </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel2" xml:space="preserve">
         <source>Enhanced Tracking Protection</source>
         <target>Mbrojtje e Thelluar Nga Gjurmimi</target>
         <note>Text for the toggle that enables/disables tracking protection.</note>
-      </trans-unit>
-      <trans-unit id="trackingProtection.trackerDescriptionLabel2" xml:space="preserve">
-        <source>Keep your data to yourself. %@ protects you from many of the most common trackers that follow what you do online.</source>
-        <target>Mbajini për vete të dhënat tuaja. %@ ju mbron nga shumë prej gjurmuesve më të rëndomtë që ndjekin ç’bëni në internet.</target>
-        <note>General description of tracking protection settings, which is displayed underneath the trackers preferences in Settings. Placeholder is either Firefox Focus or Firefox Klar</note>
       </trans-unit>
       <trans-unit id="trackingProtection.trackersBlockedLabel" xml:space="preserve">
         <source>Trackers blocked since %@</source>
