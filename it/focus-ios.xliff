@@ -746,6 +746,10 @@
         <target>Rimuovi dalle scorciatoie</target>
         <note>Text for the share menu option when a user wants to remove the site from Shortcuts</note>
       </trans-unit>
+      <trans-unit id="ShareMenu.RemoveShortcut.Confirm" xml:space="preserve">
+        <source>Shortcut removed</source>
+        <note>Toast displayed to the user after removing the item from the Shortcuts.</note>
+      </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop" xml:space="preserve">
         <source>Request Desktop Site</source>
         <target>Versione desktop</target>
@@ -926,20 +930,18 @@
         <target>Nel sito mancano contenuti o si verificano comportamenti anomali?</target>
         <note>Text for a label that indicates the title for sites not working tip.</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.ContextMenu" xml:space="preserve">
-        <source>Go to Settings to manage specific privacy &amp; security options.</source>
-        <target>Vai alle impostazioni per gestire le opzioni specifiche di privacy e sicurezza.</target>
-        <note>This is the body text that is displayed for the Context Menu icon tooltip</note>
-      </trans-unit>
       <trans-unit id="TooltipBodyText.Privacy" xml:space="preserve">
         <source>These default settings offer strong protection. But it’s easy to tweak the settings to meet your specific needs.</source>
         <target>Queste impostazioni predefinite offrono una buona protezione. In ogni caso è facile modificare le impostazioni per soddisfare le tue esigenze specifiche.</target>
         <note>This is the body text that is displayed for the Privacy tooltip</note>
       </trans-unit>
-      <trans-unit id="TooltipBodyText.ShieldIcon" xml:space="preserve">
-        <source>%@ stopped this site from spying on you. Tap the shield for info on what we blocked.</source>
-        <target>%@ ha impedito a questo sito di spiarti. Tocca lo scudo per informazioni su cosa è stato bloccato.</target>
-        <note>This is the body text that is displayed for the Shield icon tooltip. Where placeholder can be (Focus or Klar).</note>
+      <trans-unit id="TooltipBodyText.SearchBar" xml:space="preserve">
+        <source>Start your private browsing session, and we’ll block trackers and other bad stuff as you go.</source>
+        <note>This is the body text that is displayed for the Search Bar tooltip</note>
+      </trans-unit>
+      <trans-unit id="TooltipBodyText.ShieldIconTrackerBlocked" xml:space="preserve">
+        <source>Got ‘em! We stopped this site from spying on you. Tap the shield any time to see what we’re blocking.</source>
+        <note>This is the body text that is displayed for the Shield icon tooltip when we block trackers for the first time on a website</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon" xml:space="preserve">
         <source>Tap the trash anytime to remove all traces of your current session.</source>
