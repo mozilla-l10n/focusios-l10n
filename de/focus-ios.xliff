@@ -748,6 +748,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.RemoveShortcut.Confirm" xml:space="preserve">
         <source>Shortcut removed</source>
+        <target>Verknüpfung entfernt</target>
         <note>Toast displayed to the user after removing the item from the Shortcuts.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop" xml:space="preserve">
@@ -937,10 +938,12 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.SearchBar" xml:space="preserve">
         <source>Start your private browsing session, and we’ll block trackers and other bad stuff as you go.</source>
+        <target>Starten Sie Ihre private Surf-Sitzung, und wir blockieren Tracker und bei der Gelegenheit auch noch andere schädliche Elemente.</target>
         <note>This is the body text that is displayed for the Search Bar tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.ShieldIconTrackerBlocked" xml:space="preserve">
         <source>Got ‘em! We stopped this site from spying on you. Tap the shield any time to see what we’re blocking.</source>
+        <target>Erwischt! Wir haben diese Seite daran gehindert, Sie auszuspionieren. Tippen Sie jederzeit auf den Schild, um Informationen darüber zu erhalten, was wir blockieren.</target>
         <note>This is the body text that is displayed for the Shield icon tooltip when we block trackers for the first time on a website</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon" xml:space="preserve">
