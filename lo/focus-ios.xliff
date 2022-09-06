@@ -12,6 +12,7 @@
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
         <source>This lets you unlock the app.</source>
+        <target>ນີ້ເຮັດໃຫ້ທ່ານປົດລັອກແອບໄດ້.</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
@@ -31,6 +32,7 @@
       </trans-unit>
       <trans-unit id="UIApplicationShortcutItemTitle.EraseAndOpen" xml:space="preserve">
         <source>Erase and Open</source>
+        <target>ລຶບ ແລະ ເປີດ</target>
         <note>This is the menu item that appears when you long press the Focus icon on the phone home screen.</note>
       </trans-unit>
     </body>
@@ -42,6 +44,7 @@
     <body>
       <trans-unit id="Intents.Erase.Title" xml:space="preserve">
         <source>Erase</source>
+        <target>ລຶບ</target>
         <note>Title of the Erase intent.</note>
       </trans-unit>
     </body>
@@ -170,18 +173,22 @@
       </trans-unit>
       <trans-unit id="AddPass.Error.Dismiss" xml:space="preserve">
         <source>Ok</source>
+        <target>ຕົກລົງ</target>
         <note>Button to dismiss the 'Add Pass Failed' alert.</note>
       </trans-unit>
       <trans-unit id="AddPass.Error.Message" xml:space="preserve">
         <source>An error occured while adding the pass to Wallet. Please try again later.</source>
+        <target>ເກີດມີຂໍ້ຜິດພາດໃນການເພີ່ມລະຫັດຜ່ານເຂົ້າໄປໃນກະເປົາເງິນ. ກະລຸນາລອງໃຫມ່ອີກຄັ້ງພາຍຫລັງ.</target>
         <note>Message of the 'Add Pass Failed' alert.</note>
       </trans-unit>
       <trans-unit id="AddPass.Error.Title" xml:space="preserve">
         <source>Failed to Add Pass</source>
+        <target>ຫລົ້ມເລວໃນການເພີ່ມລະຫັດຜ່ານ</target>
         <note>Title of the 'Add Pass Failed' alert.</note>
       </trans-unit>
       <trans-unit id="Authentication.reason" xml:space="preserve">
         <source>Authenticate to return to %@</source>
+        <target>ພິສູດຢືນຢັນເພື່ອກັບຄືນຫາ %@</target>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID, Face ID, or passcode to continue browsing after returning to the app.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrl" xml:space="preserve">
@@ -231,6 +238,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.duplicateUrl" xml:space="preserve">
         <source>URL already exists</source>
+        <target>URL ນີ້ມີຢູ່ແລ້ວ</target>
         <note>Label for toast alerting that the custom URL being added is a duplicate</note>
       </trans-unit>
       <trans-unit id="Autocomplete.emptyState" xml:space="preserve">
@@ -245,22 +253,27 @@
       </trans-unit>
       <trans-unit id="Autocomplete.manageSites" xml:space="preserve">
         <source>Manage Sites</source>
+        <target>ຈັດການເວັບໄຊ</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
       <trans-unit id="Autocomplete.mySites" xml:space="preserve">
         <source>My Sites</source>
+        <target>ເວັບໄຊຂອງຂ້ອຍ</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
       <trans-unit id="Autocomplete.mySitesDesc" xml:space="preserve">
         <source>Enable to have %@ autocomplete your favorite URLs.</source>
+        <target>ເປີດໃຊ້ %@ ຕື່ມຂໍ້ມູນ URL ທີ່ທ່ານມັກໂດຍອັດຕະໂນມັດ.</target>
         <note>Description for adding and managing custom autocomplete URLs. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.topSites" xml:space="preserve">
         <source>Top Sites</source>
+        <target>ເວັບໄຊທ໌ຍອດນິຍົມ</target>
         <note>Label for enabling or disabling top sites</note>
       </trans-unit>
       <trans-unit id="BiometricPrompt.newSession" xml:space="preserve">
         <source>New Session</source>
+        <target>ເຊດຊັນໃໝ່</target>
         <note>Create a new session after failing a biometric check</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel" xml:space="preserve">
@@ -270,6 +283,7 @@
       </trans-unit>
       <trans-unit id="Browser.copyMenuLabel" xml:space="preserve">
         <source>Copy</source>
+        <target>ສຳເນົາ</target>
         <note>Copy URL button in URL long press menu</note>
       </trans-unit>
       <trans-unit id="Browser.forwardLabel" xml:space="preserve">
@@ -334,14 +348,17 @@
       </trans-unit>
       <trans-unit id="FindInPage.Done" xml:space="preserve">
         <source>Find in page done</source>
+        <target>ຄົ້ນຫາໃນຫນ້ານີ້</target>
         <note>Accessibility label for done button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.NextResult" xml:space="preserve">
         <source>Find next in page</source>
+        <target>ຄົ້ນຫາຕໍ່ໄປໃນໜ້າ</target>
         <note>Accessibility label for next result button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.PreviousResult" xml:space="preserve">
         <source>Find previous in page</source>
+        <target>ຄົ້ນຫາກ່ອນໜ້າໃນໜ້າ</target>
         <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel" xml:space="preserve">
@@ -361,10 +378,12 @@
       </trans-unit>
       <trans-unit id="Onboarding.Button.Title" xml:space="preserve">
         <source>Start browsing</source>
+        <target>ເລີ່ມການທ່ອງເວັບ</target>
         <note>Text for a label that indicates the title of button from onboarding screen</note>
       </trans-unit>
       <trans-unit id="Onboarding.History.Description" xml:space="preserve">
         <source>Erase your browsing history, passwords, cookies, and prevent unwanted ads from following you in a simple click!</source>
+        <target>ລຶບປະຫວັດການທ່ອງເວັບ, ລະຫັດຜ່ານ, ຄຸກກີ້, ແລະປ້ອງກັນບໍ່ໃຫ້ໂຄສະນາທີ່ບໍ່ຕ້ອງການຕິດຕາມເຈົ້າດ້ວຍການຄລິກງ່າຍໆ!</target>
         <note>Text for a label that indicates the description of history section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.History.Title" xml:space="preserve">
@@ -426,10 +445,12 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptDisable" xml:space="preserve">
         <source>No</source>
+        <target>ບໍ່ຕ້ອງການ</target>
         <note>Label for disable option on search suggestions prompt</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptEnable" xml:space="preserve">
         <source>Yes</source>
+        <target>ແມ່ນ</target>
         <note>Label for enable option on search suggestions prompt</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptMessage" xml:space="preserve">
