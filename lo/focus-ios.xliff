@@ -396,6 +396,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.Incognito.Title" xml:space="preserve">
         <source>More than just incognito</source>
+        <target>ຫຼາຍກ່ວາການປິດບັງໂຕຕົນ</target>
         <note>Text for a label that indicates the title of incognito section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Description" xml:space="preserve">
@@ -552,6 +553,7 @@
       </trans-unit>
       <trans-unit id="Settings.lightTheme" xml:space="preserve">
         <source>Light</source>
+        <target>ແຈ້ງ</target>
         <note>Light theme option in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.rate" xml:space="preserve">
@@ -630,6 +632,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial2" xml:space="preserve">
         <source>Social</source>
+        <target>ສັງຄົມ</target>
         <note>Label for the checkbox to toggle Social trackers</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceID" xml:space="preserve">
