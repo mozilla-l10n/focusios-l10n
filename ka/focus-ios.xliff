@@ -938,10 +938,12 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.SearchBar" xml:space="preserve">
         <source>Start your private browsing session, and we’ll block trackers and other bad stuff as you go.</source>
+        <target>წამოიწყეთ პირადი თვალიერება და იმთავითვე შევზღუდავთ მეთვალყურეებსა და სხვა მავნებლებს.</target>
         <note>This is the body text that is displayed for the Search Bar tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.ShieldIconTrackerBlocked" xml:space="preserve">
         <source>Got ‘em! We stopped this site from spying on you. Tap the shield any time to see what we’re blocking.</source>
+        <target>გამოჭერილია! ამ საიტს არ მივეცით თქვენი თვალთვალის საშუალება. შეეხეთ ფარის ნიშანს ნებისმიერ დროს და იხილეთ, რა იზღუდება.</target>
         <note>This is the body text that is displayed for the Shield icon tooltip when we block trackers for the first time on a website</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon" xml:space="preserve">
