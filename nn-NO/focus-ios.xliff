@@ -943,6 +943,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.ShieldIconTrackerBlocked" xml:space="preserve">
         <source>Got ‘em! We stopped this site from spying on you. Tap the shield any time to see what we’re blocking.</source>
+        <target>Tatt på fersk gjerning! Vi hindra denne nettstaden i å spionere på deg. Trykk på skjoldet når som helst for at sjå, kva vi blokerer.</target>
         <note>This is the body text that is displayed for the Shield icon tooltip when we block trackers for the first time on a website</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon" xml:space="preserve">
