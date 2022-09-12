@@ -388,6 +388,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.History.Title" xml:space="preserve">
         <source>Your history doesn’t follow you</source>
+        <target>ປະຫວັດຂອງເຈົ້າບໍ່ຕິດຕາມເຈົ້າ</target>
         <note>Text for a label that indicates the title of history section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Incognito.Description" xml:space="preserve">
@@ -675,6 +676,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleTouchID" xml:space="preserve">
         <source>Use Touch ID to unlock app</source>
+        <target>ໃຊ້ Touch ID ເພື່ອປົດລັອກແອັບ</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleTouchIDDescription" xml:space="preserve">
