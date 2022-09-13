@@ -393,6 +393,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.Incognito.Description" xml:space="preserve">
         <source>%@ is a dedicated privacy browser with tracking protection and content blocking.</source>
+        <target>%@ ເປັນ​ຕົວ​ທ່ອງ​ເວັບ​ຄວາມ​ເປັນ​ສ່ວນ​ຕົວ​ສະ​ເພາະ​ທີ່​ມີ​ການ​ປົກ​ປັກ​ຮັກ​ສາ​ການ​ຕິດ​ຕາມ​ແລະ​ການ​ບລັອກ​ເນື້ອ​ໃນ​.</target>
         <note>Text for a label that indicates the description of incognito section from onboarding screen. Placeholder can be (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="Onboarding.Incognito.Title" xml:space="preserve">
@@ -402,6 +403,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Description" xml:space="preserve">
         <source>Configure settings so you can decide how much or how little you share.</source>
+        <target>ຕັ້ງຄ່າການຕັ້ງຄ່າເພື່ອໃຫ້ທ່ານສາມາດຕັດສິນໃຈວ່າທ່ານແບ່ງປັນຫຼາຍປານໃດຫຼືຫຼາຍປານໃດ.</target>
         <note>Text for a label that indicates the description of protection section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Title" xml:space="preserve">
@@ -415,6 +417,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.Title" xml:space="preserve">
         <source>Welcome to Firefox %@!</source>
+        <target>ຍິນດີຕ້ອນຮັບສູ່ Firefox %@!</target>
         <note>Text for a label that indicates the title for onboarding screen. Placeholder can be (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers" xml:space="preserve">
