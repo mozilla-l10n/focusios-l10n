@@ -607,6 +607,7 @@
       </trans-unit>
       <trans-unit id="Settings.setAsDefaultBrowser" xml:space="preserve">
         <source>Set as Default Browser</source>
+        <target>ຕັ້ງໃຫ້ເປັນບຣາວເຊີຫລັກ</target>
         <note>Label title for set as default browser row</note>
       </trans-unit>
       <trans-unit id="Settings.setAsDefaultBrowserDescription" xml:space="preserve">
@@ -665,6 +666,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleHomeScreenTips" xml:space="preserve">
         <source>Show home screen tips</source>
+        <target> ສະແດງເຄັດລັບໜ້າຈໍຫຼັກ</target>
         <note>Show home screen tips toggle label on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSafari" xml:space="preserve">
@@ -717,10 +719,12 @@
       </trans-unit>
       <trans-unit id="ShareMenu.AddToShortcuts" xml:space="preserve">
         <source>Add to Shortcuts</source>
+        <target>ເພີ່ມທາງລັດ</target>
         <note>Text for the share menu option when a user wants to add the site to Shortcuts</note>
       </trans-unit>
       <trans-unit id="ShareMenu.AddToShortcuts.Confirm" xml:space="preserve">
         <source>Added to Shortcuts</source>
+        <target>ເພີ່ມໄປໄວ້ໃນທາງລັດແລ້ວ</target>
         <note>Toast displayed to the user after adding the item to the Shortcuts.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.FindInPage" xml:space="preserve">
@@ -730,6 +734,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.RemoveFromShortcuts" xml:space="preserve">
         <source>Remove from Shortcuts</source>
+        <target>ລຶບອອກຈາກທາງລັດ</target>
         <note>Text for the share menu option when a user wants to remove the site from Shortcuts</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RemoveShortcut.Confirm" xml:space="preserve">
@@ -791,6 +796,7 @@
       </trans-unit>
       <trans-unit id="Siri.addTo" xml:space="preserve">
         <source>Add to Siri</source>
+        <target>ເພີ່ມໃສ່ Siri</target>
         <note>Button to add a specified shortcut option to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.editOpenUrl" xml:space="preserve">
@@ -906,6 +912,7 @@
       </trans-unit>
       <trans-unit id="TooltipTitleText.Privacy" xml:space="preserve">
         <source>You’re protected! </source>
+        <target>ເຈົ້າໄດ້ຮັບການປົກປ້ອງ!</target>
         <note>This is the title text that is displayed for the Privacy tooltip</note>
       </trans-unit>
       <trans-unit id="URL.addToAutocompleteLabel" xml:space="preserve">
@@ -932,6 +939,7 @@
       </trans-unit>
       <trans-unit id="URL.paste" xml:space="preserve">
         <source>Paste</source>
+        <target>ວາງ</target>
         <note>Text for a menu displayed from the bottom of the screen when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText" xml:space="preserve">
@@ -956,6 +964,7 @@
       </trans-unit>
       <trans-unit id="browser.copyAddressToast" xml:space="preserve">
         <source>URL Copied To Clipboard</source>
+        <target>URL ໄດ້ຖືກບັນທຶກໄປໄວ້ໃນ Clipboard ແລ້ວ</target>
         <note>Toast displayed after a URL has been copied to the clipboard</note>
       </trans-unit>
       <trans-unit id="browserShortcutDescription.selectLocationBar" xml:space="preserve">
@@ -979,6 +988,7 @@
       </trans-unit>
       <trans-unit id="shareMenu.copyAddress" xml:space="preserve">
         <source>Copy Address</source>
+        <target>ສຳເນົາທີ່ຢູ່</target>
         <note>Text for the share menu when a user wants to copy a URL.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.connectionNotSecureLabel" xml:space="preserve">
@@ -1023,6 +1033,7 @@
     <body>
       <trans-unit id="SettingsBundle.Licenses" xml:space="preserve">
         <source>Licenses</source>
+        <target>ໃບອະນຸຍາດ</target>
         <note>The title of the Licenses setting in the settings that Focus shows in the global iOS Settings app.</note>
       </trans-unit>
     </body>
