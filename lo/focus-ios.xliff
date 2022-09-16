@@ -567,6 +567,7 @@
       </trans-unit>
       <trans-unit id="Settings.rate" xml:space="preserve">
         <source>Rate %@</source>
+        <target>ໃຫ້ຄະແນນ %@</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, allows the user to leave a review for the app on the app store.</note>
       </trans-unit>
       <trans-unit id="Settings.safariTitle" xml:space="preserve">
@@ -586,6 +587,7 @@
       </trans-unit>
       <trans-unit id="Settings.searchSuggestions" xml:space="preserve">
         <source>Get Search Suggestions</source>
+        <target>ຮັບຂໍສະເໜີແນະນຳການຄົ້ນຫາ</target>
         <note>Label for the Search Suggestions toggle row</note>
       </trans-unit>
       <trans-unit id="Settings.searchTitle2" xml:space="preserve">
