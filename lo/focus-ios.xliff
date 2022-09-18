@@ -877,6 +877,7 @@
       </trans-unit>
       <trans-unit id="Tip.ShareTrackers.Title" xml:space="preserve">
         <source>You browse. %@ blocks.</source>
+        <target>ທ່ານຊອກຫາ. %@ ບລັອກ.</target>
         <note>Text for a label that indicates the title for share trackers tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.Shortcuts.Description" xml:space="preserve">
@@ -908,6 +909,7 @@
       </trans-unit>
       <trans-unit id="Tip.SitesNotWorking.Description" xml:space="preserve">
         <source>Try turning off Tracking Protection</source>
+        <target>ລອງປິດການປ້ອງກັນການຕິດຕາມ</target>
         <note>Text for a label that indicates the description for sites not working tip.</note>
       </trans-unit>
       <trans-unit id="Tip.SitesNotWorking.Title" xml:space="preserve">
@@ -937,6 +939,7 @@
       </trans-unit>
       <trans-unit id="URL.addToAutocompleteLabel" xml:space="preserve">
         <source>Add link to autocomplete</source>
+        <target>ເພີ່ມລິ້ງໃສ່ການຕື່ມຂໍ້ມູນອັດຕະໂນມັດ</target>
         <note>Label displayed for button used as a shortcut to add a link to the list of URLs to autocomplete.</note>
       </trans-unit>
       <trans-unit id="URL.contextMenu" xml:space="preserve">
@@ -951,6 +954,7 @@
       </trans-unit>
       <trans-unit id="URL.eraseMessageLabel2" xml:space="preserve">
         <source>Browsing history cleared</source>
+        <target>ລຶບລ້າງປະຫວັດການທ່ອງເວັບແລ້ວ</target>
         <note>Message shown after pressing the Erase button</note>
       </trans-unit>
       <trans-unit id="URL.findOnPageLabel" xml:space="preserve">
@@ -1034,6 +1038,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.statusOn" xml:space="preserve">
         <source>Protections are ON for this session</source>
+        <target>ການປົກປ້ອງເປີດຢູ່ສຳລັບເຊດຊັນນີ້</target>
         <note>Text for the status on from Tracking Protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel2" xml:space="preserve">
