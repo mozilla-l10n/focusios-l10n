@@ -1039,6 +1039,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.statusOff" xml:space="preserve">
         <source>Protections are OFF for this session</source>
+        <target>ການປົກປ້ອງຖືກປິດໄວ້ສໍາລັບເຊດຊັນນີ້</target>
         <note>Text for the status off from Tracking Protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.statusOn" xml:space="preserve">
