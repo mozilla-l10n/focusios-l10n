@@ -542,6 +542,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
         <source>%@ will send what you type in the address bar to your search engine.</source>
+        <target>%1$s ຈະສົ່ງສິ່ງທີ່ທ່ານພີມໃນແຖບທີ່ຢູ່ໄປຍັງເຄື່ອງມືຄົ້ນຫາຂອງທ່ານ</target>
         <note>Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData" xml:space="preserve">
@@ -551,6 +552,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextStudies" xml:space="preserve">
         <source>%@ may install and run studies from time to time.</source>
+        <target>%@ ອາດຈະຕິດຕັ້ງ ແລະດໍາເນີນການສຶກສາເປັນບາງໂອກາດ.</target>
         <note>Description associated to the Studies toggle on the settings screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.general" xml:space="preserve">
@@ -859,6 +861,7 @@
       </trans-unit>
       <trans-unit id="Tip.Release.Description" xml:space="preserve">
         <source>Read more about this and other updates to %@.</source>
+        <target>ອ່ານເພີ່ມເຕີມກ່ຽວກັບເລື່ອງນີ້ ແລະການປັບປຸງອື່ນໆຕໍ່ກັບ %@.</target>
         <note>Text for a label that indicates the description for release tip. The placeholder is replaced with the short product name (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.Release.Title" xml:space="preserve">
@@ -873,6 +876,7 @@
       </trans-unit>
       <trans-unit id="Tip.RequestDesktop.Title" xml:space="preserve">
         <source>Want to see the full desktop version of a site?</source>
+        <target>ຕ້ອງການເບິ່ງສະບັບເຕັມຂອງເດັສທັອບຂອງເວັບໄຊທ໌ບໍ?</target>
         <note>Text for a label that indicates the title for request desktop tip.</note>
       </trans-unit>
       <trans-unit id="Tip.ShareTrackers.Description" xml:space="preserve">
