@@ -891,6 +891,7 @@
       </trans-unit>
       <trans-unit id="Tip.Shortcuts.Description" xml:space="preserve">
         <source>Select Add to Shortcuts from the %@ menu</source>
+        <target>ເລືອກ Add to Shortcuts ຈາກເມນູ %@</target>
         <note>Text for a label that indicates the description for shortcuts tip. The placeholder is replaced with the short product name (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.Shortcuts.Title" xml:space="preserve">
@@ -937,10 +938,12 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.ShieldIconTrackerBlocked" xml:space="preserve">
         <source>Got ‘em! We stopped this site from spying on you. Tap the shield any time to see what we’re blocking.</source>
+        <target>ໄດ້​ແລ້ວ! ພວກ​ເຮົາ​ໄດ້​ຢຸດ​ເຊົາ​ເວັບ​ໄຊ​ນີ້​ຈາກ spying ກ່ຽວ​ກັບ​ທ່ານ. ແຕະໃສ່ໄສ້ໄດ້ທຸກເວລາເພື່ອເບິ່ງສິ່ງທີ່ພວກເຮົາຂັດຂວາງ.</target>
         <note>This is the body text that is displayed for the Shield icon tooltip when we block trackers for the first time on a website</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon" xml:space="preserve">
         <source>Tap the trash anytime to remove all traces of your current session.</source>
+        <target>ແຕະໃສ່ຖັງຂີ້ເຫຍື້ອໄດ້ທຸກເວລາເພື່ອລຶບຮ່ອງຮອຍທັງໝົດຂອງເຊດຊັນປັດຈຸບັນຂອງທ່ານ.</target>
         <note>This is the body text that is displayed for the Trash icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipTitleText.Privacy" xml:space="preserve">
