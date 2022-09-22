@@ -1103,6 +1103,7 @@
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.Subtitle" xml:space="preserve">
         <source>We’ll leave you to your private browsing, but get a quicker start next time with the %@ widget on your Home screen.</source>
+        <target>Ti lasciamo alla tua navigazione privata, ma la prossima volta ricorda che puoi iniziare più rapidamente utilizzando il widget di %@ nella schermata principale.</target>
         <note>Subtitle shown on card view explaining the app has a widget option. %@ is the name of the app (Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.Title" xml:space="preserve">
