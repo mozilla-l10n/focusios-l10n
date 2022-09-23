@@ -378,6 +378,7 @@
       </trans-unit>
       <trans-unit id="NewOnboarding.Button.Title.V2" xml:space="preserve">
         <source>Get Started</source>
+        <target>Comenzar</target>
         <note>Text for a label that indicates the title of button from onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="NewOnboarding.Subtitle.V2" xml:space="preserve">
@@ -391,6 +392,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.BottomButtonTitle.V2" xml:space="preserve">
         <source>Skip</source>
+        <target>Saltar</target>
         <note>Text for a label that indicates the title of the bottom button from the default browser onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.FirstSubtitle.V2" xml:space="preserve">
@@ -407,6 +409,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.TopButtonTitle.V2" xml:space="preserve">
         <source>Set as Default Browser</source>
+        <target>Establecer como navegador predeterminado</target>
         <note>Text for a label that indicates the title of the top button from the default browser onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="Onboarding.History.Description" xml:space="preserve">
@@ -836,6 +839,7 @@
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.ButtonText.V2" xml:space="preserve">
         <source>Done</source>
+        <target>Hecho</target>
         <note>This is the button text that is displayed in the Show Me How Onboarding Screen</note>
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepOne.V2" xml:space="preserve">
@@ -989,10 +993,12 @@
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionsGalleryTitle" xml:space="preserve">
         <source>Quick Actions</source>
+        <target>Acciones rápidas</target>
         <note>Quick Actions title when widget enters edit mode</note>
       </trans-unit>
       <trans-unit id="TodayWidget.SearchInApp" xml:space="preserve">
         <source>Search in %@</source>
+        <target>Buscar en %@</target>
         <note>Text shown on quick action widget inviting the user to browse in the app. %@ is the name of the app (Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.ContextMenu" xml:space="preserve">
@@ -1078,6 +1084,7 @@
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.ActionButton" xml:space="preserve">
         <source>Show Me How</source>
+        <target>Muéstrame cómo</target>
         <note>Title for the action button shown on card view that will take the user to a tutorial explaining the user how to add an widget</note>
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.Subtitle" xml:space="preserve">
@@ -1086,6 +1093,7 @@
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.Title" xml:space="preserve">
         <source>Browsing history cleared! 🎉</source>
+        <target>¡Historial de navegación borrado! 🎉</target>
         <note>Title shown on card view explaining the app has a widget option</note>
       </trans-unit>
       <trans-unit id="actionSheet.openIn" xml:space="preserve">
