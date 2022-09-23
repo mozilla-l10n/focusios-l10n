@@ -378,10 +378,12 @@
       </trans-unit>
       <trans-unit id="NewOnboarding.Button.Title.V2" xml:space="preserve">
         <source>Get Started</source>
+        <target>ເລີ່ມຕົ້ນໃຊ້ງານ</target>
         <note>Text for a label that indicates the title of button from onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="NewOnboarding.Subtitle.V2" xml:space="preserve">
         <source>Fast. Private. No Distractions.</source>
+        <target>ໄວ. ສ່ວນຕົວ. ບໍ່ມີສິ່ງລົບກວນ.</target>
         <note>Text for a label that indicates the subtitle for the onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Button.Title" xml:space="preserve">
@@ -391,6 +393,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.BottomButtonTitle.V2" xml:space="preserve">
         <source>Skip</source>
+        <target>ຂ້າມ</target>
         <note>Text for a label that indicates the title of the bottom button from the default browser onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.FirstSubtitle.V2" xml:space="preserve">
@@ -407,6 +410,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.TopButtonTitle.V2" xml:space="preserve">
         <source>Set as Default Browser</source>
+        <target>ຕັ້ງໃຫ້ເປັນບຣາວເຊີຫລັກ</target>
         <note>Text for a label that indicates the title of the top button from the default browser onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="Onboarding.History.Description" xml:space="preserve">
@@ -1073,6 +1077,7 @@
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.ActionButton" xml:space="preserve">
         <source>Show Me How</source>
+        <target>ບອກວິທີເຮັດໃຫ້ຂ້ອຍຮູ້</target>
         <note>Title for the action button shown on card view that will take the user to a tutorial explaining the user how to add an widget</note>
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.Subtitle" xml:space="preserve">
