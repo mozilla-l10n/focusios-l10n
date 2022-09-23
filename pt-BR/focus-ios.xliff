@@ -993,6 +993,7 @@
       </trans-unit>
       <trans-unit id="To show the old version of onboarding disable first the Nimbus experiment, then turn on the option." xml:space="preserve">
         <source>To show the old version of onboarding disable first the Nimbus experiment, then turn on the option.</source>
+        <target>Para mostrar a versão antiga da introdução, primeiro desative o experimento Nimbus, depois ative a opção.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionGalleryDescription" xml:space="preserve">
@@ -1102,6 +1103,7 @@
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.Subtitle" xml:space="preserve">
         <source>We’ll leave you to your private browsing, but get a quicker start next time with the %@ widget on your Home screen.</source>
+        <target>Deixamos você com sua navegação privativa, mas na próxima vez pode começar mais rápido usando o widget do %@ na tela inicial.</target>
         <note>Subtitle shown on card view explaining the app has a widget option. %@ is the name of the app (Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.Title" xml:space="preserve">
