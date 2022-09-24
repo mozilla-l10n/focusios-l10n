@@ -838,6 +838,7 @@
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.ButtonText.V2" xml:space="preserve">
         <source>Done</source>
+        <target>ສຳເລັດ</target>
         <note>This is the button text that is displayed in the Show Me How Onboarding Screen</note>
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepOne.V2" xml:space="preserve">
@@ -990,10 +991,12 @@
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionsGalleryTitle" xml:space="preserve">
         <source>Quick Actions</source>
+        <target>ການກະທຳດ່ວນ</target>
         <note>Quick Actions title when widget enters edit mode</note>
       </trans-unit>
       <trans-unit id="TodayWidget.SearchInApp" xml:space="preserve">
         <source>Search in %@</source>
+        <target>ຊອກຫາໃນ %@</target>
         <note>Text shown on quick action widget inviting the user to browse in the app. %@ is the name of the app (Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.ContextMenu" xml:space="preserve">
