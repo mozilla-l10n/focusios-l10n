@@ -992,6 +992,7 @@
       </trans-unit>
       <trans-unit id="To show the old version of onboarding disable first the Nimbus experiment, then turn on the option." xml:space="preserve">
         <source>To show the old version of onboarding disable first the Nimbus experiment, then turn on the option.</source>
+        <target>Tanıtımın eski sürümünü göstermek için önce Nimbus deneyini devre dışı bırakın, ardından seçeneği açın.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionGalleryDescription" xml:space="preserve">
