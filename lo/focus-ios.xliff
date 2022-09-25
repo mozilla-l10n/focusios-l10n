@@ -848,6 +848,7 @@
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepThree.V2" xml:space="preserve">
         <source>Search for %@. Then choose a widget.</source>
+        <target>ຊອກຫາ %@. ຈາກນັ້ນເລືອກ widget.</target>
         <note>This is the subtitle text for step three that is displayed in the Show Me How onboarding screen. %@ is the name of the app (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepTwo.V2" xml:space="preserve">
@@ -857,6 +858,7 @@
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.Title.V2" xml:space="preserve">
         <source>Add a %@ Widget</source>
+        <target>ເພີ່ມ %@ Widget</target>
         <note>This is the title text that is displayed in the Show Me How Onboarding Screen. %@ is the name of the app (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Siri.add" xml:space="preserve">
@@ -951,6 +953,7 @@
       </trans-unit>
       <trans-unit id="Tip.Shortcuts.Title" xml:space="preserve">
         <source>Create shortcuts to the sites you visit most:</source>
+        <target>ສ້າງທາງລັດໄປຫາເວັບໄຊທີ່ທ່ານເຂົ້າເບິ່ງຫຼາຍທີ່ສຸດ:</target>
         <note>Text for a label that indicates the title for shortcuts tip.</note>
       </trans-unit>
       <trans-unit id="Tip.SiriErase.Description" xml:space="preserve">
@@ -1003,6 +1006,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.ContextMenu" xml:space="preserve">
         <source>Go to Settings to manage specific privacy &amp; security options.</source>
+        <target>ໄປທີ່ການຕັ້ງຄ່າເພື່ອຈັດການຄວາມເປັນສ່ວນຕົວ ແລະ ຕົວເລືອກຄວາມປອດໄພສະເພາະ.</target>
         <note>This is the body text that is displayed for the Context Menu icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.Privacy" xml:space="preserve">
@@ -1011,10 +1015,12 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.SearchBar" xml:space="preserve">
         <source>Start your private browsing session, and we’ll block trackers and other bad stuff as you go.</source>
+        <target>ເລີ່ມເຊດຊັນການທ່ອງເວັບສ່ວນຕົວຂອງເຈົ້າ, ແລະພວກເຮົາຈະບລັອກຕົວຕິດຕາມ ແລະສິ່ງບໍ່ດີອື່ນໆຕາມທີ່ເຈົ້າໄປ.</target>
         <note>This is the body text that is displayed for the Search Bar tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.ShieldIcon" xml:space="preserve">
         <source>%@ stopped this site from spying on you. Tap the shield for info on what we blocked.</source>
+        <target>%@ ຢຸດເວັບໄຊນີ້ຈາກການສອດແນມເຈົ້າ. ແຕະທີ່ໄສ້ສໍາລັບຂໍ້ມູນກ່ຽວກັບສິ່ງທີ່ພວກເຮົາບລັອກ.</target>
         <note>This is the body text that is displayed for the Shield icon tooltip. Where placeholder can be (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.ShieldIconTrackerBlocked.V2" xml:space="preserve">
