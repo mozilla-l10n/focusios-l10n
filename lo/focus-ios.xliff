@@ -498,6 +498,7 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptMessage" xml:space="preserve">
         <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
+        <target>ເພື່ອໃຫ້ໄດ້ຮັບຄໍາແນະນໍາ, %@ ຕ້ອງການສົ່ງສິ່ງທີ່ທ່ານພິມໃນແຖບທີ່ຢູ່ໄປຫາເຄື່ອງມືຄົ້ນຫາ.</target>
         <note>%@ is the name of the app (Focus / Klar). Label for search suggestions prompt message</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptTitle" xml:space="preserve">
@@ -652,6 +653,7 @@
       </trans-unit>
       <trans-unit id="Settings.setAsDefaultBrowserDescription" xml:space="preserve">
         <source>Set links from websites, emails and messages to open automatically in %@.</source>
+        <target>ຕັ້ງລິ້ງຈາກເວັບໄຊທ໌, ອີເມວ ແລະຂໍ້ຄວາມໃຫ້ເປີດໂດຍອັດຕະໂນມັດໃນ %@.</target>
         <note>%@ is the name of the app. Description for set as default browser option</note>
       </trans-unit>
       <trans-unit id="Settings.systemTheme" xml:space="preserve">
@@ -846,6 +848,7 @@
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepOne.V2" xml:space="preserve">
         <source>Long press on the Home screen until the icons start to jiggle.</source>
+        <target>ກົດຄ້າງໄວ້ທີ່ໜ້າຈໍຫຼັກຈົນກວ່າໄອຄອນເລີ່ມເໜັ່ງ.</target>
         <note>This is the subtitle text for step one that is displayed in the Show Me How Onboarding Screen</note>
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepThree.V2" xml:space="preserve">
@@ -990,10 +993,12 @@
       </trans-unit>
       <trans-unit id="To show the old version of onboarding disable first the Nimbus experiment, then turn on the option." xml:space="preserve">
         <source>To show the old version of onboarding disable first the Nimbus experiment, then turn on the option.</source>
+        <target>ເພື່ອສະແດງເວີຊັນເກົ່າຂອງ onboarding ໃຫ້ປິດການທົດລອງ Nimbus ກ່ອນ, ຈາກນັ້ນເປີດຕົວເລືອກ.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionGalleryDescription" xml:space="preserve">
         <source>Add a %@ shortcut to your Home screen. After adding the widget, touch and hold to edit it and select a different shortcut.</source>
+        <target>ເພີ່ມທາງລັດ %@ ໃສ່ໜ້າຈໍຫຼັກຂອງທ່ານ. ຫຼັງຈາກເພີ່ມວິດເຈັດ, ແຕະຄ້າງໄວ້ເພື່ອແກ້ໄຂ ແລະເລືອກທາງລັດອື່ນ.</target>
         <note>Description for small size widget to add it to home screen. %@ is the name of the app(Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionsGalleryTitle" xml:space="preserve">
@@ -1013,6 +1018,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.Privacy" xml:space="preserve">
         <source>These default settings offer strong protection. But it’s easy to tweak the settings to meet your specific needs.</source>
+        <target>ການຕັ້ງຄ່າເລີ່ມຕົ້ນເຫຼົ່ານີ້ໃຫ້ການປົກປ້ອງທີ່ເຂັ້ມແຂງ. ແຕ່ມັນງ່າຍທີ່ຈະປັບການຕັ້ງຄ່າເພື່ອຕອບສະໜອງຄວາມຕ້ອງການສະເພາະຂອງເຈົ້າ.</target>
         <note>This is the body text that is displayed for the Privacy tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.SearchBar" xml:space="preserve">
@@ -1027,6 +1033,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.ShieldIconTrackerBlocked.V2" xml:space="preserve">
         <source>Got ‘em! We stopped this site from spying on you. Tap the shield any time to see what we’re blocking.</source>
+        <target>ໄດ້​ແລ້ວ! ພວກ​ເຮົາ​ໄດ້​ຢຸດ​ເຊົາ​ເວັບ​ໄຊ​ນີ້​ຈາກການລັກຕິດຕາມກ່ຽວ​ກັບ​ທ່ານ. ແຕະໃສ່ໄສ້ໄດ້ທຸກເວລາເພື່ອເບິ່ງສິ່ງທີ່ພວກເຮົາຂັດຂວາງ.</target>
         <note>This is the body text that is displayed for the Shield icon tooltip when we block trackers for the first time on a website</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon" xml:space="preserve">
@@ -1036,6 +1043,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon.V2" xml:space="preserve">
         <source>Tap here to trash it all — history, cookies, everything — and start fresh on a new tab.</source>
+        <target>ແຕະບ່ອນນີ້ເພື່ອຖິ້ມມັນທັງໝົດ — ປະຫວັດ, ຄຸກກີ້, ທຸກຢ່າງ — ແລະເລີ່ມໃໝ່ໃນແຖບໃໝ່.</target>
         <note>This is the body text that is displayed for the Trash icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipTitleText.Privacy" xml:space="preserve">
@@ -1095,6 +1103,7 @@
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.Subtitle" xml:space="preserve">
         <source>We’ll leave you to your private browsing, but get a quicker start next time with the %@ widget on your Home screen.</source>
+        <target>ພວກເຮົາຈະປ່ອຍໃຫ້ທ່ານຊອກຫາແບບສ່ວນຕົວຂອງທ່ານ, ແຕ່ເລີ່ມຕົ້ນໄວຂຶ້ນໃນຄັ້ງຕໍ່ໄປດ້ວຍວິດເຈັດ %@ ໃນໜ້າຈໍຫຼັກຂອງທ່ານ.</target>
         <note>Subtitle shown on card view explaining the app has a widget option. %@ is the name of the app (Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.Title" xml:space="preserve">
