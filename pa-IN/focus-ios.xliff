@@ -378,10 +378,12 @@
       </trans-unit>
       <trans-unit id="NewOnboarding.Button.Title.V2" xml:space="preserve">
         <source>Get Started</source>
+        <target>ਸ਼ੁਰੂ ਕਰੀਏ</target>
         <note>Text for a label that indicates the title of button from onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="NewOnboarding.Subtitle.V2" xml:space="preserve">
         <source>Fast. Private. No Distractions.</source>
+        <target>ਤੇਜ਼। ਨਿੱਜੀ। ਬਿਨਾਂ ਕਿਸੇ ਰੋਕ ਟੋਕ ਦੇ।</target>
         <note>Text for a label that indicates the subtitle for the onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Button.Title" xml:space="preserve">
@@ -391,22 +393,27 @@
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.BottomButtonTitle.V2" xml:space="preserve">
         <source>Skip</source>
+        <target>ਛੱਡੋ</target>
         <note>Text for a label that indicates the title of the bottom button from the default browser onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.FirstSubtitle.V2" xml:space="preserve">
         <source>We clear your history when you close the app for extra privacy.</source>
+        <target>ਵਧੇਰੇ ਪਰਦੇਦਾਰੀ ਵਾਸਤੇ ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਐਪ ਨੂੰ ਬੰਦ ਕਰਦੇ ਹੋ ਤਾਂ ਅਸੀਂ ਤੁਹਾਡੇ ਅਤੀਤ ਨੂੰ ਮਿਟਾ ਦਿੰਦੇ ਹਾਂ।</target>
         <note>Text for a label that indicates the first subtitle for the default browser onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.SecondSubtitle.V2" xml:space="preserve">
         <source>Make %@ your default to protect your data with every link you open.</source>
+        <target>ਤੁਹਾਡੇ ਵਲੋਂ ਹਰ ਲਿੰਕ ਨੂੰ ਖੋਲ੍ਹੇ ਡਾਟੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ %@ ਨੂੰ ਆਪਣਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ।</target>
         <note>Text for a label that indicates the second subtitle for the default browser onboarding screen version 2. %@ is the name of the app (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.Title.V2" xml:space="preserve">
         <source>%@ isn’t like other browsers</source>
+        <target>%@ ਹੋਰਨਾਂ ਬਰਾਊਜ਼ਰਾਂ ਵਰਗਾ ਨਹੀਂ ਹੈ</target>
         <note>Text for a label that indicates the title for the default browser onboarding screen version 2. %@ is the name of the app (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.TopButtonTitle.V2" xml:space="preserve">
         <source>Set as Default Browser</source>
+        <target>ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ</target>
         <note>Text for a label that indicates the title of the top button from the default browser onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="Onboarding.History.Description" xml:space="preserve">
@@ -836,22 +843,27 @@
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.ButtonText.V2" xml:space="preserve">
         <source>Done</source>
+        <target>ਮੁਕੰਮਲ</target>
         <note>This is the button text that is displayed in the Show Me How Onboarding Screen</note>
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepOne.V2" xml:space="preserve">
         <source>Long press on the Home screen until the icons start to jiggle.</source>
+        <target>ਆਈਕਾਨਾਂ ਦੇ ਹਿਲਣ-ਡੁੱਲਣ ਤੱਕ ਮੁ਼ੱਖ ਸਕਰੀਨ ਨੂੰ ਉਦੋਂ ਤੱਕ ਦਬਾ ਕੇ ਰੱਖੋ।</target>
         <note>This is the subtitle text for step one that is displayed in the Show Me How Onboarding Screen</note>
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepThree.V2" xml:space="preserve">
         <source>Search for %@. Then choose a widget.</source>
+        <target>%@ ਲੱਭੋ। ਤਦ ਵਿਜੈੱਟ (widget) ਚੁਣੋ।</target>
         <note>This is the subtitle text for step three that is displayed in the Show Me How onboarding screen. %@ is the name of the app (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepTwo.V2" xml:space="preserve">
         <source>Tap on the plus icon.</source>
+        <target>ਜੋੜ ਦੇ ਚਿੰਨ੍ਹ ਨੂੰ ਛੂਹੋ।</target>
         <note>This is the subtitle text for step two that is displayed in the Show Me How Onboarding Screen</note>
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.Title.V2" xml:space="preserve">
         <source>Add a %@ Widget</source>
+        <target>%@ ਵਿਜੈੱਟ ਜੋੜੋ</target>
         <note>This is the title text that is displayed in the Show Me How Onboarding Screen. %@ is the name of the app (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Siri.add" xml:space="preserve">
@@ -989,14 +1001,17 @@
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionsGalleryTitle" xml:space="preserve">
         <source>Quick Actions</source>
+        <target>ਫ਼ੌਰੀ ਕਾਰਵਾਈਆਂ</target>
         <note>Quick Actions title when widget enters edit mode</note>
       </trans-unit>
       <trans-unit id="TodayWidget.SearchInApp" xml:space="preserve">
         <source>Search in %@</source>
+        <target>%@ ਵਿੱਚ ਲੱਭੋ</target>
         <note>Text shown on quick action widget inviting the user to browse in the app. %@ is the name of the app (Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.ContextMenu" xml:space="preserve">
         <source>Go to Settings to manage specific privacy &amp; security options.</source>
+        <target>ਖਾਸ ਪਰਦੇਦਾਰੀ ਅਤੇ ਸੁਰੱਖਿਆ ਚੋਣਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰਨ ਲਈ ਸੈਟਿੰਗਾਂ ਉੱਤੇ ਜਾਓ।</target>
         <note>This is the body text that is displayed for the Context Menu icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.Privacy" xml:space="preserve">
@@ -1011,10 +1026,12 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.ShieldIcon" xml:space="preserve">
         <source>%@ stopped this site from spying on you. Tap the shield for info on what we blocked.</source>
+        <target>%@ ਨੇ ਇਸ ਸਾਈਟ ਨੂੰ ਤੁਹਾਡੀ ਜਾਸੂਸੀ ਕਰਨ ਤੋਂ ਰੋਕਿਆ ਹੈ। ਢਾਲ ਨੂੰ ਛੂਹ ਕੇ ਵੇਖੋ ਕਿ ਅਸੀਂ ਕਿਸ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ।</target>
         <note>This is the body text that is displayed for the Shield icon tooltip. Where placeholder can be (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.ShieldIconTrackerBlocked.V2" xml:space="preserve">
         <source>Got ‘em! We stopped this site from spying on you. Tap the shield any time to see what we’re blocking.</source>
+        <target>ਫੜੇ ਗਏ! ਅਸੀਂ ਇਹ ਸਾਈਟ ਨੂੰ ਤੁਹਾਡੀ ਜਾਸੂਸੀ ਕਰਨ ਤੋਂ ਰੋਕਿਆ ਹੈ। ਕਿਸੇ ਵੀ ਵੇੇਲੇ ਢਾਲ ਨੂੰ ਛੂਹ ਕੇ ਵੇਖੋ ਕਿ ਅਸੀਂ ਕਿਸੇ ਉੱਤੇ ਰੋਕ ਲਾਈ ਹੈ।</target>
         <note>This is the body text that is displayed for the Shield icon tooltip when we block trackers for the first time on a website</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon" xml:space="preserve">
@@ -1024,6 +1041,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon.V2" xml:space="preserve">
         <source>Tap here to trash it all — history, cookies, everything — and start fresh on a new tab.</source>
+        <target>ਸਾਰੇ — ਅਤੀਤ, ਕੂਕੀਜ਼, ਹਰ ਚੀਜ਼ — ਨੂੰ ਰੱਦੀ ਵਿੱਚ ਭੇਜ ਕੇ ਨਵੀਂ ਟੈਬ ਨਾਲ ਸੱਜਰੀ ਸ਼ੁਰੂਆਤ ਲਈ ਇੱਥੇ ਛੂਹੋ।</target>
         <note>This is the body text that is displayed for the Trash icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipTitleText.Privacy" xml:space="preserve">
@@ -1078,6 +1096,7 @@
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.ActionButton" xml:space="preserve">
         <source>Show Me How</source>
+        <target>ਮੈਨੂੰ ਦਿਖਾਓ ਕਿਵੇਂ</target>
         <note>Title for the action button shown on card view that will take the user to a tutorial explaining the user how to add an widget</note>
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.Subtitle" xml:space="preserve">
@@ -1086,6 +1105,7 @@
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.Title" xml:space="preserve">
         <source>Browsing history cleared! 🎉</source>
+        <target>ਬਰਾਊਜ਼ਿੰਗ ਅਤੀਤ ਮਿਟਾਇਆ ਗਿਆ! 🎉</target>
         <note>Title shown on card view explaining the app has a widget option</note>
       </trans-unit>
       <trans-unit id="actionSheet.openIn" xml:space="preserve">
