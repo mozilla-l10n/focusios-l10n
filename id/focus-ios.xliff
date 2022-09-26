@@ -378,10 +378,12 @@
       </trans-unit>
       <trans-unit id="NewOnboarding.Button.Title.V2" xml:space="preserve">
         <source>Get Started</source>
+        <target>Memulai</target>
         <note>Text for a label that indicates the title of button from onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="NewOnboarding.Subtitle.V2" xml:space="preserve">
         <source>Fast. Private. No Distractions.</source>
+        <target>Cepat. Pribadi. Tanpa Gangguan.</target>
         <note>Text for a label that indicates the subtitle for the onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Button.Title" xml:space="preserve">
@@ -391,10 +393,12 @@
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.BottomButtonTitle.V2" xml:space="preserve">
         <source>Skip</source>
+        <target>Lewati</target>
         <note>Text for a label that indicates the title of the bottom button from the default browser onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.FirstSubtitle.V2" xml:space="preserve">
         <source>We clear your history when you close the app for extra privacy.</source>
+        <target>Kami menghapus riwayat Anda saat menutup aplikasi untuk privasi tambahan.</target>
         <note>Text for a label that indicates the first subtitle for the default browser onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.SecondSubtitle.V2" xml:space="preserve">
