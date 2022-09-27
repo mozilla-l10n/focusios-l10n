@@ -991,11 +991,6 @@
         <target>Trang web thiếu nội dung hoặc hoạt động không đúng?</target>
         <note>Text for a label that indicates the title for sites not working tip.</note>
       </trans-unit>
-      <trans-unit id="To show the old version of onboarding disable first the Nimbus experiment, then turn on the option." xml:space="preserve">
-        <source>To show the old version of onboarding disable first the Nimbus experiment, then turn on the option.</source>
-        <target>Để hiển thị phiên bản ứng dụng cũ, trước tiên hãy tắt thử nghiệm Nimbus, sau đó bật tùy chọn.</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="TodayWidget.QuickActionGalleryDescription" xml:space="preserve">
         <source>Add a %@ shortcut to your Home screen. After adding the widget, touch and hold to edit it and select a different shortcut.</source>
         <target>Thêm lối tắt %@ vào màn hình chính của bạn. Sau khi thêm tiện ích, hãy nhấn và giữ để chỉnh sửa tiện ích và chọn một lối tắt khác.</target>

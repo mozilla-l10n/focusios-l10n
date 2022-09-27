@@ -979,10 +979,6 @@
         <target>Manglar nettstaden innhald eller oppfører han seg rart?</target>
         <note>Text for a label that indicates the title for sites not working tip.</note>
       </trans-unit>
-      <trans-unit id="To show the old version of onboarding disable first the Nimbus experiment, then turn on the option." xml:space="preserve">
-        <source>To show the old version of onboarding disable first the Nimbus experiment, then turn on the option.</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="TodayWidget.QuickActionGalleryDescription" xml:space="preserve">
         <source>Add a %@ shortcut to your Home screen. After adding the widget, touch and hold to edit it and select a different shortcut.</source>
         <note>Description for small size widget to add it to home screen. %@ is the name of the app(Focus/Klar).</note>

@@ -991,11 +991,6 @@
         <target>Saknar webbplatsen innehåll eller fungerar den konstigt?</target>
         <note>Text for a label that indicates the title for sites not working tip.</note>
       </trans-unit>
-      <trans-unit id="To show the old version of onboarding disable first the Nimbus experiment, then turn on the option." xml:space="preserve">
-        <source>To show the old version of onboarding disable first the Nimbus experiment, then turn on the option.</source>
-        <target>För att visa den gamla versionen av onboarding, inaktivera först Nimbus-experimentet och aktivera sedan alternativet.</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="TodayWidget.QuickActionGalleryDescription" xml:space="preserve">
         <source>Add a %@ shortcut to your Home screen. After adding the widget, touch and hold to edit it and select a different shortcut.</source>
         <target>Lägg till en %@-genväg på startskärmen. När du har lagt till widgeten, trycker du och håller ned för att redigera den och väljer en annan genväg.</target>

@@ -991,11 +991,6 @@
         <target>Mist een website inhoud of gedraagt deze zich vreemd?</target>
         <note>Text for a label that indicates the title for sites not working tip.</note>
       </trans-unit>
-      <trans-unit id="To show the old version of onboarding disable first the Nimbus experiment, then turn on the option." xml:space="preserve">
-        <source>To show the old version of onboarding disable first the Nimbus experiment, then turn on the option.</source>
-        <target>Om de oude versie van onboarding weer te geven, schakelt u eerst het Nimbus-experiment uit en schakelt u vervolgens de optie in.</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="TodayWidget.QuickActionGalleryDescription" xml:space="preserve">
         <source>Add a %@ shortcut to your Home screen. After adding the widget, touch and hold to edit it and select a different shortcut.</source>
         <target>Voeg een %@-snelkoppeling toe aan uw startscherm. Houd, nadat u deze hebt toegevoegd, de widget ingedrukt om deze te bewerken en een andere snelkoppeling te selecteren.</target>

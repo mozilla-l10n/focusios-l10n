@@ -991,11 +991,6 @@
         <target>網站的內容不見了，或功能變得怪怪的嗎？</target>
         <note>Text for a label that indicates the title for sites not working tip.</note>
       </trans-unit>
-      <trans-unit id="To show the old version of onboarding disable first the Nimbus experiment, then turn on the option." xml:space="preserve">
-        <source>To show the old version of onboarding disable first the Nimbus experiment, then turn on the option.</source>
-        <target>若要顯示舊版的 onboarding 訊息，請先關閉 Nimbus 實驗，再開啟選項。</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="TodayWidget.QuickActionGalleryDescription" xml:space="preserve">
         <source>Add a %@ shortcut to your Home screen. After adding the widget, touch and hold to edit it and select a different shortcut.</source>
         <target>把 %@ 捷徑加到主畫面。新增小工具之後，請長按小工具選擇不同的捷徑。</target>
