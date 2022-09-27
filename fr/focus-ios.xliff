@@ -987,10 +987,6 @@
         <target>Un site se comporte bizarrement ou du contenu manque ?</target>
         <note>Text for a label that indicates the title for sites not working tip.</note>
       </trans-unit>
-      <trans-unit id="To show the old version of onboarding disable first the Nimbus experiment, then turn on the option." xml:space="preserve">
-        <source>To show the old version of onboarding disable first the Nimbus experiment, then turn on the option.</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="TodayWidget.QuickActionGalleryDescription" xml:space="preserve">
         <source>Add a %@ shortcut to your Home screen. After adding the widget, touch and hold to edit it and select a different shortcut.</source>
         <target>Ajoutez un raccourci %@ à votre écran d’accueil. Après avoir ajouté le widget, appuyez de manière prolongée pour le modifier et sélectionnez un autre raccourci.</target>
