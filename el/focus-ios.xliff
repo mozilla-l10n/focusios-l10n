@@ -845,10 +845,12 @@
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepOne.V2" xml:space="preserve">
         <source>Long press on the Home screen until the icons start to jiggle.</source>
+        <target>Πατήστε παρατεταμένα στην αρχική οθόνη μέχρι τα εικονίδια να αρχίσουν να ανακινούνται.</target>
         <note>This is the subtitle text for step one that is displayed in the Show Me How Onboarding Screen</note>
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepThree.V2" xml:space="preserve">
         <source>Search for %@. Then choose a widget.</source>
+        <target>Αναζητήστε το %@ και επιλέξτε ένα widget.</target>
         <note>This is the subtitle text for step three that is displayed in the Show Me How onboarding screen. %@ is the name of the app (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepTwo.V2" xml:space="preserve">
@@ -991,6 +993,7 @@
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionsGalleryTitle" xml:space="preserve">
         <source>Quick Actions</source>
+        <target>Γρήγορες ενέργειες</target>
         <note>Quick Actions title when widget enters edit mode</note>
       </trans-unit>
       <trans-unit id="TodayWidget.SearchInApp" xml:space="preserve">
@@ -1014,6 +1017,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.ShieldIcon" xml:space="preserve">
         <source>%@ stopped this site from spying on you. Tap the shield for info on what we blocked.</source>
+        <target>Το %@ εμπόδισε την παρακολούθησή σας από αυτόν τον ιστότοπο. Πατήστε την ασπίδα για πληροφορίες σχετικά με το τι αποκλείσαμε.</target>
         <note>This is the body text that is displayed for the Shield icon tooltip. Where placeholder can be (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.ShieldIconTrackerBlocked.V2" xml:space="preserve">
