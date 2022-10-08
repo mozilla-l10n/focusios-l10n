@@ -993,6 +993,7 @@
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionGalleryDescription" xml:space="preserve">
         <source>Add a %@ shortcut to your Home screen. After adding the widget, touch and hold to edit it and select a different shortcut.</source>
+        <target>Aghjunghjite un accurtatoghju %@ à u vostru screnu d’accolta. Dopu l’aghjuntu di u widget, tuccatelu è mantenelu per mudificallu è selezziunate un altru accurtatoghju.</target>
         <note>Description for small size widget to add it to home screen. %@ is the name of the app(Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionsGalleryTitle" xml:space="preserve">
