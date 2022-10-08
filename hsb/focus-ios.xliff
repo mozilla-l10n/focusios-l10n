@@ -990,6 +990,7 @@
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionGalleryDescription" xml:space="preserve">
         <source>Add a %@ shortcut to your Home screen. After adding the widget, touch and hold to edit it and select a different shortcut.</source>
+        <target>Přidajće startowej wobrazowce zwjazanje %@. Po tym zo sće asistent přidał, podótkńće so asistenta a dźeržće jón, zo byšće wobdźěłował a wubjerće druhe zwjazanje.</target>
         <note>Description for small size widget to add it to home screen. %@ is the name of the app(Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionsGalleryTitle" xml:space="preserve">
