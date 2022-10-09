@@ -86,7 +86,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description" xml:space="preserve">
         <source>Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.</source>
-        <target>ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਅਗਲੇ ਪੱਧਰ ਤੇ ਲੈ ਜਾਓ। ਇਸ਼ਤਿਹਾਰ ਅਤੇ ਹੋਰ ਸਮੱਗਰੀ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਸਾਈਟਾਂ ਉੱਤੇ ਟਰੈਕ ਕਰ ਅਤੇ ਸਫ਼ਾ ਲੋਡ ਕਰਨ ਨੂੰ ਹੌਲੀ ਕਰ ਸਕਦੀ ਹੈ, ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਓ।</target>
+        <target>ਨਿੱਜੀ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਅਗਲੇ ਪੱਧਰ ਉੱਤੇ ਲੈ ਜਾਓ। ਇਸ਼ਤਿਹਾਰ ਅਤੇ ਹੋਰ ਸਮੱਗਰੀ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਸਾਈਟਾਂ ਉੱਤੇ ਟਰੈਕ ਕਰ ਅਤੇ ਸਫ਼ਾ ਲੋਡ ਕਰਨ ਨੂੰ ਹੌਲੀ ਕਰ ਸਕਦੀ ਹੈ, ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਓ।</target>
         <note>Description for the 'Welcome' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Title" xml:space="preserve">
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="About.privateBulletHeader" xml:space="preserve">
         <source>Use it as a private browser:</source>
-        <target>ਇਸ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਰ ਵਜੋਂ ਵਰਤੋਂ:</target>
+        <target>ਇਸ ਨੂੰ ਨਿੱਜੀ ਬਰਾਊਜ਼ਰ ਵਜੋਂ ਵਰਤੋਂ:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp" xml:space="preserve">
@@ -383,7 +383,7 @@
       </trans-unit>
       <trans-unit id="NewOnboarding.Subtitle.V2" xml:space="preserve">
         <source>Fast. Private. No Distractions.</source>
-        <target>ਤੇਜ਼। ਨਿੱਜੀ। ਬਿਨਾਂ ਕਿਸੇ ਰੋਕ ਟੋਕ ਦੇ।</target>
+        <target>ਤੇਜ਼। ਨਿੱਜੀ। ਬਿਨਾਂ ਰੁਕਵਾਟਾਂ ਦੇ।</target>
         <note>Text for a label that indicates the subtitle for the onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Button.Title" xml:space="preserve">
@@ -448,7 +448,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.Subtitle" xml:space="preserve">
         <source>Take your private browsing to the next level.</source>
-        <target>ਆਪਣੀ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਅਗਲੇ ਪੜਾਅ ਉੱਤੇ ਲੈ ਜਾਓ।</target>
+        <target>ਆਪਣੀ ਨਿੱਜੀ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਅਗਲੇ ਪੜਾਅ ਉੱਤੇ ਲੈ ਜਾਓ।</target>
         <note>Text for a label that indicates the subtitle for onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Title" xml:space="preserve">
@@ -1018,7 +1018,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.SearchBar" xml:space="preserve">
         <source>Start your private browsing session, and we’ll block trackers and other bad stuff as you go.</source>
-        <target>ਆਪਣਾ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਸ਼ੈਸ਼ਨ ਸ਼ੁਰੂ ਕਰੋ ਅਤੇ ਅਸੀਂ ਤੁਹਾਡੇ ਵਾਸਤੇ ਟਰੈਕਰਾਂ ਤੇ ਹੋਰ ਬੁਰੀਆਂ ਉੱਤੇ ਰੋਕ ਲਾਵਾਂਗੇ।</target>
+        <target>ਆਪਣਾ ਨਿੱਜੀ ਬਰਾਊਜ਼ਿੰਗ ਸ਼ੈਸ਼ਨ ਸ਼ੁਰੂ ਕਰੋ ਅਤੇ ਅਸੀਂ ਤੁਹਾਡੇ ਵਾਸਤੇ ਟਰੈਕਰਾਂ ਤੇ ਹੋਰ ਬੁਰੀਆਂ ਉੱਤੇ ਰੋਕ ਲਾਵਾਂਗੇ।</target>
         <note>This is the body text that is displayed for the Search Bar tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.ShieldIcon" xml:space="preserve">
@@ -1098,7 +1098,7 @@
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.Subtitle" xml:space="preserve">
         <source>We’ll leave you to your private browsing, but get a quicker start next time with the %@ widget on your Home screen.</source>
-        <target>ਹੁਣ ਤੁਸੀਂ ਆਪਣੀ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਕਰੋ, ਪਰ ਅਗਲੀ ਵਾਰ ਫ਼ੌਰਨ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਆਪਣੀ ਮੁੱਖ ਸਕਰੀਨ ਤੋਂ %@ ਵਿਜੈਟ ਵਰਤ ਸਕਦੇ ਹੋ।</target>
+        <target>ਹੁਣ ਤੁਸੀਂ ਆਪਣੀ ਨਿੱਜੀ ਬਰਾਊਜ਼ਿੰਗ ਕਰੋ, ਪਰ ਅਗਲੀ ਵਾਰ ਫ਼ੌਰਨ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਆਪਣੀ ਮੁੱਖ ਸਕਰੀਨ ਤੋਂ %@ ਵਿਜੈਟ ਵਰਤ ਸਕਦੇ ਹੋ।</target>
         <note>Subtitle shown on card view explaining the app has a widget option. %@ is the name of the app (Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.Title" xml:space="preserve">
