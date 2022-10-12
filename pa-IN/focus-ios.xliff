@@ -813,7 +813,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.SharePage" xml:space="preserve">
         <source>Share Page With…</source>
-        <target>…ਸਫ਼e ਨਾਲ ਸਾਂਝਾ ਕਰੋ</target>
+        <target>…ਨਾਲ ਸਫ਼ਾ ਸਾਂਝਾ ਕਰੋ</target>
         <note>Text for the share menu option when a user wants to share the current website they are on through another app.</note>
       </trans-unit>
       <trans-unit id="ShortcutView.RemoveFromShortcuts" xml:space="preserve">
