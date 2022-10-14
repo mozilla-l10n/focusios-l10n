@@ -987,6 +987,7 @@
       </trans-unit>
       <trans-unit id="TodayWidget.SearchInApp.Instruction" xml:space="preserve">
         <source>Search in %@</source>
+        <target>Išči v %@u</target>
         <note>Text shown on quick action widget inviting the user to browse in the app. %@ is the name of the app (Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.ContextMenu" xml:space="preserve">
@@ -1195,6 +1196,7 @@
     <body>
       <trans-unit id="TodayWidget.QuickActionGalleryDescription" xml:space="preserve">
         <source>Add a %@ shortcut to your Home screen. After adding the widget, touch and hold to edit it and select a different shortcut.</source>
+        <target>Dodajte bližnjico do %@a na domači zaslon. Po dodajanju pripomočka se ga dotaknite in pridržite, da ga uredite in izberete drugo bližnjico.</target>
         <note>Description for small size widget to add it to home screen. %@ is the name of the app(Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionGalleryDescriptionV2" xml:space="preserve">
