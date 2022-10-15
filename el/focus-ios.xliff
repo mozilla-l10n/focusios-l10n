@@ -1209,6 +1209,7 @@
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionGalleryDescriptionV2" xml:space="preserve">
         <source>Start a private search in %@ with your default search engine.</source>
+        <target>Ξεκινήστε μια ιδιωτική αναζήτηση στο %@ με την προεπιλεγμένη μηχανή αναζήτησής σας.</target>
         <note>Description for small size widget to add it to home screen. %@ is the name of the app(Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionsGalleryTitle" xml:space="preserve">
