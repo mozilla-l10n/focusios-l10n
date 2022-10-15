@@ -990,6 +990,7 @@
       </trans-unit>
       <trans-unit id="TodayWidget.SearchInApp.Instruction" xml:space="preserve">
         <source>Search in %@</source>
+        <target>חיפוש ב־%@</target>
         <note>Text shown on quick action widget inviting the user to browse in the app. %@ is the name of the app (Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.ContextMenu" xml:space="preserve">
@@ -1084,6 +1085,7 @@
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.Subtitle" xml:space="preserve">
         <source>We’ll leave you to your private browsing, but get a quicker start next time with the %@ widget on your Home screen.</source>
+        <target>ניתן לך להמשיך בגלישה הפרטית שלך, אבל אולי קודם כדאי להוסיף את היישומון של %@ למסך הבית שלך לצורך הפעלה מהירה יותר.</target>
         <note>Subtitle shown on card view explaining the app has a widget option. %@ is the name of the app (Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.Title" xml:space="preserve">
@@ -1187,6 +1189,7 @@
     <body>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
         <source>Copyright © 2022 Mozilla. All rights reserved.</source>
+        <target>זכויות יוצרים © 2022 Mozilla. כל הזכויות שמורות.</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
