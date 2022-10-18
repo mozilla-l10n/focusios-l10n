@@ -863,7 +863,7 @@
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.Title.V2" xml:space="preserve">
         <source>Add a %@ Widget</source>
-        <target>Ajoutez un widget %@</target>
+        <target>Ajouter un widget %@</target>
         <note>This is the title text that is displayed in the Show Me How Onboarding Screen. %@ is the name of the app (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Siri.add" xml:space="preserve">
