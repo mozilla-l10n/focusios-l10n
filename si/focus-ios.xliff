@@ -991,6 +991,7 @@
       </trans-unit>
       <trans-unit id="TodayWidget.SearchInApp.Instruction" xml:space="preserve">
         <source>Search in %@</source>
+        <target>%@ හි සොයන්න</target>
         <note>Text shown on quick action widget inviting the user to browse in the app. %@ is the name of the app (Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.ContextMenu" xml:space="preserve">
@@ -1188,6 +1189,7 @@
     <body>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
         <source>Copyright © 2022 Mozilla. All rights reserved.</source>
+        <target>ප්‍රකාශන හිමිකම © 2022 මොසිල්ලා. සියළුම හිමිකම් ඇවිරිණි.</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
@@ -1203,6 +1205,7 @@
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionGalleryDescriptionV2" xml:space="preserve">
         <source>Start a private search in %@ with your default search engine.</source>
+        <target>පෙරනිමි සෙවුම් යන්ත්‍රය සමඟින් %@ හි පෞද්ගලික සෙවුමක් අරඹන්න.</target>
         <note>Description for small size widget to add it to home screen. %@ is the name of the app(Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionsGalleryTitle" xml:space="preserve">
