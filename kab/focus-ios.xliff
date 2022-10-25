@@ -465,6 +465,10 @@
         <target>Rmed %@</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
+      <trans-unit id="Safari.instructionsExtentions" xml:space="preserve">
+        <source>Select Safari, then select Extensions</source>
+        <note>Label for instructions to enable extensions in Safari, shown when enabling Safari Integration in Settings</note>
+      </trans-unit>
       <trans-unit id="Safari.instructionsNotEnabled" xml:space="preserve">
         <source>%@ is not enabled.</source>
         <target>%@ ur yermid ara.</target>
@@ -474,6 +478,10 @@
         <source>Open Settings App</source>
         <target>Ldi asnas n iɣewwaṛen</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
+      </trans-unit>
+      <trans-unit id="Safari.openInstruction" xml:space="preserve">
+        <source>Open device settings</source>
+        <note>Label for instructions to enable extensions in Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
         <source>Save</source>
@@ -1178,18 +1186,6 @@
         <source>Licenses</source>
         <target>Turagin</target>
         <note>The title of the Licenses setting in the settings that Focus shows in the global iOS Settings app.</note>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="Widgets/en.lproj/InfoPlist.strings" source-language="en" target-language="kab" datatype="plaintext">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4.1" build-num="13F100"/>
-    </header>
-    <body>
-      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
-        <source>Copyright © 2022 Mozilla. All rights reserved.</source>
-        <target>Copyright © 2022 Mozilla. Akk izerfan ttwaḥerzen.</target>
-        <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
   </file>
