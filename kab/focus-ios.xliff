@@ -383,6 +383,7 @@
       </trans-unit>
       <trans-unit id="NewOnboarding.Subtitle.V2" xml:space="preserve">
         <source>Fast. Private. No Distractions.</source>
+        <target>D arurad. D uslig. Ulac yesruḥuyen ddehn. </target>
         <note>Text for a label that indicates the subtitle for the onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Button.Title" xml:space="preserve">
@@ -392,10 +393,12 @@
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.BottomButtonTitle.V2" xml:space="preserve">
         <source>Skip</source>
+        <target>Suref</target>
         <note>Text for a label that indicates the title of the bottom button from the default browser onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.FirstSubtitle.V2" xml:space="preserve">
         <source>We clear your history when you close the app for extra privacy.</source>
+        <target>Anseffeḍ azray-ik•im mi ara tmedleḍ asnas i wugar n lemqadra n tbaḍnit.</target>
         <note>Text for a label that indicates the first subtitle for the default browser onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.SecondSubtitle.V2" xml:space="preserve">
@@ -404,10 +407,12 @@
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.Title.V2" xml:space="preserve">
         <source>%@ isn’t like other browsers</source>
+        <target>%@ mačči am yiminigen-nniḍen</target>
         <note>Text for a label that indicates the title for the default browser onboarding screen version 2. %@ is the name of the app (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.TopButtonTitle.V2" xml:space="preserve">
         <source>Set as Default Browser</source>
+        <target>Sbadu-t d iminig amezwer</target>
         <note>Text for a label that indicates the title of the top button from the default browser onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="Onboarding.History.Description" xml:space="preserve">
@@ -846,6 +851,7 @@
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepThree.V2" xml:space="preserve">
         <source>Search for %@. Then choose a widget.</source>
+        <target>Nadi ɣef %@. Syen fren awiǧit.</target>
         <note>This is the subtitle text for step three that is displayed in the Show Me How onboarding screen. %@ is the name of the app (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepTwo.V2" xml:space="preserve">
@@ -1083,6 +1089,7 @@
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.Title" xml:space="preserve">
         <source>Browsing history cleared! 🎉</source>
+        <target>Azray n tunigin yettwasfaḍ! 🎉</target>
         <note>Title shown on card view explaining the app has a widget option</note>
       </trans-unit>
       <trans-unit id="actionSheet.openIn" xml:space="preserve">
@@ -1181,6 +1188,7 @@
     <body>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
         <source>Copyright © 2022 Mozilla. All rights reserved.</source>
+        <target>Copyright © 2022 Mozilla. Akk izerfan ttwaḥerzen.</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
@@ -1200,10 +1208,12 @@
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionsGalleryTitle" xml:space="preserve">
         <source>Quick Actions</source>
+        <target>Tigawin tiruradin</target>
         <note>Quick Actions title when widget enters edit mode</note>
       </trans-unit>
       <trans-unit id="TodayWidget.SearchInApp" xml:space="preserve">
         <source>Search in %@</source>
+        <target>Nadi deg %@</target>
         <note>Text shown on quick action widget inviting the user to browse in the app. %@ is the name of the app (Focus/Klar).</note>
       </trans-unit>
     </body>
