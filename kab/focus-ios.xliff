@@ -854,6 +854,7 @@
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.Title.V2" xml:space="preserve">
         <source>Add a %@ Widget</source>
+        <target>Rnu awiǧit %@</target>
         <note>This is the title text that is displayed in the Show Me How Onboarding Screen. %@ is the name of the app (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Siri.add" xml:space="preserve">
@@ -983,10 +984,12 @@
       </trans-unit>
       <trans-unit id="TodayWidget.SearchInApp.Instruction" xml:space="preserve">
         <source>Search in %@</source>
+        <target>Nadi deg %@</target>
         <note>Text shown on quick action widget inviting the user to browse in the app. %@ is the name of the app (Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.ContextMenu" xml:space="preserve">
         <source>Go to Settings to manage specific privacy &amp; security options.</source>
+        <target>Ddu ɣer yiɣewwaren i wakken ad tesferkeḍ tixtiṛiyin tufrinin n tbaḍnit &amp; tɣellist.</target>
         <note>This is the body text that is displayed for the Context Menu icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.Privacy" xml:space="preserve">
@@ -1001,10 +1004,12 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.ShieldIcon" xml:space="preserve">
         <source>%@ stopped this site from spying on you. Tap the shield for info on what we blocked.</source>
+        <target>%@ issewḥel asmel-a seg tεessast-ik·im. Sit ɣef ẓẓerb-nni i wugar n telɣut ɣef wayen i nessewḥel.</target>
         <note>This is the body text that is displayed for the Shield icon tooltip. Where placeholder can be (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.ShieldIconTrackerBlocked.V2" xml:space="preserve">
         <source>Got ‘em! We stopped this site from spying on you. Tap the shield any time to see what we’re blocking.</source>
+        <target>Ṭṭfeɣ-ten! Nesseḥbes asmel-a ɣef tɛessast-ik·im. Sit ɣef ẓẓerb-nni yal tikkelt i wakken ad twaliḍ acu i nessewḥel.</target>
         <note>This is the body text that is displayed for the Shield icon tooltip when we block trackers for the first time on a website</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon" xml:space="preserve">
@@ -1014,6 +1019,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon.V2" xml:space="preserve">
         <source>Tap here to trash it all — history, cookies, everything — and start fresh on a new tab.</source>
+        <target>Sit dagi i wakken ad tḍeggreḍ kullec — azray, inagan n tuqqna, kullec — syen bdu seg tazwara qef yiccer amaynut.</target>
         <note>This is the body text that is displayed for the Trash icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipTitleText.Privacy" xml:space="preserve">
@@ -1068,6 +1074,7 @@
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.ActionButton" xml:space="preserve">
         <source>Show Me How</source>
+        <target>Sken-iyi-d amek</target>
         <note>Title for the action button shown on card view that will take the user to a tutorial explaining the user how to add an widget</note>
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.Subtitle" xml:space="preserve">
