@@ -466,6 +466,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsExtentions" xml:space="preserve">
         <source>Select Safari, then select Extensions</source>
+        <target>Wubjerće Safari a potom „Rozšěrjenja“</target>
         <note>Label for instructions to enable extensions in Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsNotEnabled" xml:space="preserve">
@@ -480,6 +481,7 @@
       </trans-unit>
       <trans-unit id="Safari.openInstruction" xml:space="preserve">
         <source>Open device settings</source>
+        <target>Gratowe nastajenja wočinić</target>
         <note>Label for instructions to enable extensions in Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
@@ -1201,6 +1203,7 @@
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionGalleryDescriptionV2" xml:space="preserve">
         <source>Start a private search in %@ with your default search engine.</source>
+        <target>Započńće priwatne pytanje w %@ ze swojej standardnej pytawu.</target>
         <note>Description for small size widget to add it to home screen. %@ is the name of the app(Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionsGalleryTitle" xml:space="preserve">
