@@ -111,7 +111,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet1" xml:space="preserve">
         <source>Search and browse right in the app</source>
-        <target>Caută și navighează direct din aplicație</target>
+        <target>Caută și navighează direct în aplicație</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet2" xml:space="preserve">
