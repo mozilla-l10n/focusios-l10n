@@ -822,6 +822,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenLink" xml:space="preserve">
         <source>Open Link</source>
+        <target>פתיחת קישור</target>
         <note>Text for the share menu option when a user wants to open the current website inside the app.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.SharePage" xml:space="preserve">
@@ -1203,6 +1204,7 @@
     <body>
       <trans-unit id="NSHumanReadableDescription" xml:space="preserve">
         <source>Content blocking and tracking protection from Mozilla</source>
+        <target>חסימת תוכן והגנת מעקב מ־Mozilla</target>
         <note>Human readable description</note>
       </trans-unit>
     </body>
