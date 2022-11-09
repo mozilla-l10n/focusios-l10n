@@ -178,10 +178,12 @@
       </trans-unit>
       <trans-unit id="AddPass.Error.Message" xml:space="preserve">
         <source>An error occured while adding the pass to Wallet. Please try again later.</source>
+        <target>Tapahtui virhe lisättäessä korttia Lompakkoon. Yritä myöhemmin uudelleen.</target>
         <note>Message of the 'Add Pass Failed' alert.</note>
       </trans-unit>
       <trans-unit id="AddPass.Error.Title" xml:space="preserve">
         <source>Failed to Add Pass</source>
+        <target>Kortin lisäys epäonnistui</target>
         <note>Title of the 'Add Pass Failed' alert.</note>
       </trans-unit>
       <trans-unit id="Authentication.reason" xml:space="preserve">
