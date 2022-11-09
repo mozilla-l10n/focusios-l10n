@@ -241,6 +241,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.emptyState" xml:space="preserve">
         <source>No Custom URLs to display</source>
+        <target>Ei mukautettuja URL-osoitteita</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.enabled" xml:space="preserve">
@@ -260,6 +261,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.mySitesDesc" xml:space="preserve">
         <source>Enable to have %@ autocomplete your favorite URLs.</source>
+        <target>Ota käyttöön, jotta %@ voi täydentää automaattisesti suosikkiosoitteesi.</target>
         <note>Description for adding and managing custom autocomplete URLs. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.topSites" xml:space="preserve">
@@ -689,7 +691,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts" xml:space="preserve">
         <source>Block web fonts</source>
-        <target>Estä verkkosivujen kirjasinlajit</target>
+        <target>Estä verkkosivujen fontit</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther2" xml:space="preserve">
@@ -754,7 +756,7 @@
       </trans-unit>
       <trans-unit id="Settings.useSystemTheme" xml:space="preserve">
         <source>Use System Light/Dark Mode</source>
-        <target>Järjestelmän vaaleaa/tummaa tila</target>
+        <target>Käytä järjestelmän vaaleaa tai tummaa tilaa</target>
         <note>Value for theme toggle in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle" xml:space="preserve">
@@ -864,6 +866,7 @@
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepThree.V2" xml:space="preserve">
         <source>Search for %@. Then choose a widget.</source>
+        <target>Etsi %@. Valitse sitten widget.</target>
         <note>This is the subtitle text for step three that is displayed in the Show Me How onboarding screen. %@ is the name of the app (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepTwo.V2" xml:space="preserve">
@@ -873,6 +876,7 @@
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.Title.V2" xml:space="preserve">
         <source>Add a %@ Widget</source>
+        <target>Lisää %@ -widget</target>
         <note>This is the title text that is displayed in the Show Me How Onboarding Screen. %@ is the name of the app (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Siri.add" xml:space="preserve">
@@ -961,6 +965,7 @@
       </trans-unit>
       <trans-unit id="Tip.Shortcuts.Description" xml:space="preserve">
         <source>Select Add to Shortcuts from the %@ menu</source>
+        <target>Valitse Lisää oiketeihin %@ -vaikosta</target>
         <note>Text for a label that indicates the description for shortcuts tip. The placeholder is replaced with the short product name (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.Shortcuts.Title" xml:space="preserve">
@@ -1035,6 +1040,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon.V2" xml:space="preserve">
         <source>Tap here to trash it all — history, cookies, everything — and start fresh on a new tab.</source>
+        <target>Napauta tätä poistaaksesi kaiken – historian, evästeet, kaiken – ja aloita puhtaalta pöydältä uudella välilehdellä.</target>
         <note>This is the body text that is displayed for the Trash icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipTitleText.Privacy" xml:space="preserve">
@@ -1210,10 +1216,12 @@
     <body>
       <trans-unit id="TodayWidget.QuickActionGalleryDescription" xml:space="preserve">
         <source>Add a %@ shortcut to your Home screen. After adding the widget, touch and hold to edit it and select a different shortcut.</source>
+        <target>Lisää %@ -oikotie kotinäyttöön. Kun olet lisännyt widgetin, kosketa pitkään muokataksesi sitä ja valitse toinen oikotie.</target>
         <note>Description for small size widget to add it to home screen. %@ is the name of the app(Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionGalleryDescriptionV2" xml:space="preserve">
         <source>Start a private search in %@ with your default search engine.</source>
+        <target>Aloita yksityinen haku %@issa oletushakukoneesi avulla.</target>
         <note>Description for small size widget to add it to home screen. %@ is the name of the app(Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionsGalleryTitle" xml:space="preserve">
