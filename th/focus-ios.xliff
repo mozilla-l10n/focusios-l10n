@@ -1023,6 +1023,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.SearchBar" xml:space="preserve">
         <source>Start your private browsing session, and we’ll block trackers and other bad stuff as you go.</source>
+        <target>เริ่มวาระการท่องเว็บแบบส่วนตัว แล้วเราจะปิดกั้นตัวติดตามและสิ่งไม่พึงประสงค์ในขณะที่คุณใช้งาน</target>
         <note>This is the body text that is displayed for the Search Bar tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.ShieldIcon" xml:space="preserve">
@@ -1102,6 +1103,7 @@
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.Subtitle" xml:space="preserve">
         <source>We’ll leave you to your private browsing, but get a quicker start next time with the %@ widget on your Home screen.</source>
+        <target>เราจะปล่อยให้คุณท่องเว็บแบบส่วนตัว แต่เริ่มต้นในครั้งต่อไปเร็วขึ้นด้วยวิดเจ็ต %@ บนหน้าโฮมของคุณ</target>
         <note>Subtitle shown on card view explaining the app has a widget option. %@ is the name of the app (Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.Title" xml:space="preserve">
@@ -1217,6 +1219,7 @@
     <body>
       <trans-unit id="TodayWidget.QuickActionGalleryDescription" xml:space="preserve">
         <source>Add a %@ shortcut to your Home screen. After adding the widget, touch and hold to edit it and select a different shortcut.</source>
+        <target>เพิ่มทางลัด %@ ลงในหน้าจอโฮมของคุณ หลังจากเพิ่มวิดเจ็ตแล้ว ให้แตะค้างไว้เพื่อแก้ไขและเลือกทางลัดอื่น</target>
         <note>Description for small size widget to add it to home screen. %@ is the name of the app(Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionGalleryDescriptionV2" xml:space="preserve">
