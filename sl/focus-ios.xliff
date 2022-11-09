@@ -1207,6 +1207,7 @@
     <body>
       <trans-unit id="NSHumanReadableDescription" xml:space="preserve">
         <source>Content blocking and tracking protection from Mozilla</source>
+        <target>Mozillino zavračanje vsebine in zaščita pred sledenjem</target>
         <note>Human readable description</note>
       </trans-unit>
     </body>
