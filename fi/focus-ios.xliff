@@ -704,6 +704,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleFaceIDDescription" xml:space="preserve">
         <source>Face ID can unlock %@ if a URL is already open in the app</source>
+        <target>Face ID voi avata %@in lukituksen, jos URL-osoite on jo auki sovelluksessa</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.toggleHomeScreenTips" xml:space="preserve">
