@@ -17,12 +17,12 @@
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
         <source>Websites you visit may request your location.</source>
-        <target>Los sitios web que visitas pueden pedir tu ubicación.</target>
+        <target>Los sitios web que visitas pueden solicitar tu ubicación.</target>
         <note>Privacy - Location When In Use Usage Description</note>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
         <source>This lets you take and upload videos.</source>
-        <target>Esto te permite hacer y subir vídeos.</target>
+        <target>Esto te permite grabar y subir vídeos.</target>
         <note>Privacy - Microphone Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
@@ -493,7 +493,7 @@
       </trans-unit>
       <trans-unit id="SearchEngine.addEngineError" xml:space="preserve">
         <source>That didn’t work. Try replacing the search term with this: %s.</source>
-        <target>Eso no funcionó. Intente remplazar el término de búsqueda con esto: %s.</target>
+        <target>Eso no funcionó. Intenta reemplazar el término de búsqueda con esto: %s.</target>
         <note>Label for error state when entering an invalid search engine URL. %s is a search term in a URL.</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptDisable" xml:space="preserve">
@@ -823,6 +823,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenLink" xml:space="preserve">
         <source>Open Link</source>
+        <target>Abrir enlace</target>
         <note>Text for the share menu option when a user wants to open the current website inside the app.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.SharePage" xml:space="preserve">
@@ -1206,6 +1207,7 @@
     <body>
       <trans-unit id="NSHumanReadableDescription" xml:space="preserve">
         <source>Content blocking and tracking protection from Mozilla</source>
+        <target>Bloqueo de contenido y protección de Mozilla contra el rastreo</target>
         <note>Human readable description</note>
       </trans-unit>
     </body>
