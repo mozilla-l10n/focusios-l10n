@@ -63,7 +63,7 @@ def getGithubLocales(repo, path):
         "nn": "nn-NO",
         "sat-Olck": "sat",
         "sv": "sv-SE",
-        "tmz": "zgh",
+        "tzm": "zgh",
     }
 
     try:
