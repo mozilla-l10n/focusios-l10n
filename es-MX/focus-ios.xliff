@@ -56,7 +56,7 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description" xml:space="preserve">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
-        <target>Limpiar completamente tu historial de navegación para esta sesión, contraseñas y cookies en cualquier momento con presionando una vez.</target>
+        <target>Limpia todo el historial de tu sesión de navegación, contraseñas, cookies en cualquier momento con un solo toque.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title" xml:space="preserve">
@@ -878,6 +878,7 @@
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.Title.V2" xml:space="preserve">
         <source>Add a %@ Widget</source>
+        <target>Agrega un widget de %@</target>
         <note>This is the title text that is displayed in the Show Me How Onboarding Screen. %@ is the name of the app (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Siri.add" xml:space="preserve">
@@ -1012,6 +1013,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.ContextMenu" xml:space="preserve">
         <source>Go to Settings to manage specific privacy &amp; security options.</source>
+        <target>Ve a los ajustes para administrar opciones específicas de privacidad y seguridad.</target>
         <note>This is the body text that is displayed for the Context Menu icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.Privacy" xml:space="preserve">
@@ -1041,6 +1043,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon.V2" xml:space="preserve">
         <source>Tap here to trash it all — history, cookies, everything — and start fresh on a new tab.</source>
+        <target>Presiona aquí para eliminar todo — historial, cookies, y todo lo demás — e inicia en una nueva pestaña.</target>
         <note>This is the body text that is displayed for the Trash icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipTitleText.Privacy" xml:space="preserve">
@@ -1100,6 +1103,7 @@
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.Subtitle" xml:space="preserve">
         <source>We’ll leave you to your private browsing, but get a quicker start next time with the %@ widget on your Home screen.</source>
+        <target>Te dejaremos con tu navegación privada, pero comienza más rápido la próxima vez con el widget de %@ en tu pantalla de inicio.</target>
         <note>Subtitle shown on card view explaining the app has a widget option. %@ is the name of the app (Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.Title" xml:space="preserve">
@@ -1215,6 +1219,7 @@
     <body>
       <trans-unit id="TodayWidget.QuickActionGalleryDescription" xml:space="preserve">
         <source>Add a %@ shortcut to your Home screen. After adding the widget, touch and hold to edit it and select a different shortcut.</source>
+        <target>Agrega un atajo de %@ a tu pantalla de inicio. Después de agregar el widget, tócalo y mantenlo presionado para editarlo y seleccionar un acceso directo diferente.</target>
         <note>Description for small size widget to add it to home screen. %@ is the name of the app(Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionGalleryDescriptionV2" xml:space="preserve">
