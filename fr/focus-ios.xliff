@@ -343,7 +343,7 @@
       </trans-unit>
       <trans-unit id="ExternalLink.emailButton" xml:space="preserve">
         <source>Email</source>
-        <target>Envoyer un courriel</target>
+        <target>Envoyer un e-mail</target>
         <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="FindInPage.Done" xml:space="preserve">
