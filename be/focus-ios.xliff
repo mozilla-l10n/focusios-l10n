@@ -188,6 +188,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlLabel" xml:space="preserve">
         <source>URL to add</source>
+        <target>URL для дадавання</target>
         <note>Label for the input to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlPlaceholder" xml:space="preserve">
@@ -354,6 +355,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.Button.Title" xml:space="preserve">
         <source>Start browsing</source>
+        <target>Пачаць агляданне</target>
         <note>Text for a label that indicates the title of button from onboarding screen</note>
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.BottomButtonTitle.V2" xml:space="preserve">
@@ -415,6 +417,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsEnable" xml:space="preserve">
         <source>Enable %@</source>
+        <target>Уключыць %@</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsExtentions" xml:space="preserve">
@@ -431,10 +434,12 @@
       </trans-unit>
       <trans-unit id="Safari.openInstruction" xml:space="preserve">
         <source>Open device settings</source>
+        <target>Адкрыйце налады прылады</target>
         <note>Label for instructions to enable extensions in Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
         <source>Save</source>
+        <target>Захаваць</target>
         <note>Save button label</note>
       </trans-unit>
       <trans-unit id="SearchEngine.addEngineError" xml:space="preserve">
@@ -443,10 +448,12 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptDisable" xml:space="preserve">
         <source>No</source>
+        <target>Не</target>
         <note>Label for disable option on search suggestions prompt</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptEnable" xml:space="preserve">
         <source>Yes</source>
+        <target>Так</target>
         <note>Label for enable option on search suggestions prompt</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptMessage" xml:space="preserve">
@@ -580,26 +587,32 @@
       </trans-unit>
       <trans-unit id="Settings.systemTheme" xml:space="preserve">
         <source>System Theme</source>
+        <target>Сістэмная тэма</target>
         <note>System value for theme section in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.theme" xml:space="preserve">
         <source>Theme</source>
+        <target>Тэма</target>
         <note>Theme section in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.themePicker" xml:space="preserve">
         <source>Theme Picker</source>
+        <target>Выбар тэмы</target>
         <note>Header for manual theme section in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds2" xml:space="preserve">
         <source>Advertising</source>
+        <target>Рэклама</target>
         <note>Label for the checkbox to toggle Advertising trackers</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics2" xml:space="preserve">
         <source>Analytics</source>
+        <target>Аналітыка</target>
         <note>Label for the checkbox to toggle Analytics trackers</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts" xml:space="preserve">
         <source>Block web fonts</source>
+        <target>Блакіраваць вэб-шрыфты</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther2" xml:space="preserve">
