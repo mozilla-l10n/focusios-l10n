@@ -27,6 +27,7 @@
       </trans-unit>
       <trans-unit id="UIApplicationShortcutItemTitle.EraseAndOpen" xml:space="preserve">
         <source>Erase and Open</source>
+        <target>Сцерці і адкрыць</target>
         <note>This is the menu item that appears when you long press the Focus icon on the phone home screen.</note>
       </trans-unit>
     </body>
@@ -38,6 +39,7 @@
     <body>
       <trans-unit id="Intents.Erase.Title" xml:space="preserve">
         <source>Erase</source>
+        <target>Сцерці</target>
         <note>Title of the Erase intent.</note>
       </trans-unit>
     </body>
