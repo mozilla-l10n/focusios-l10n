@@ -880,6 +880,7 @@
       </trans-unit>
       <trans-unit id="Tip.ShareTrackers.Title" xml:space="preserve">
         <source>You browse. %@ blocks.</source>
+        <target>Вы аглядаеце. %@ блакіруе.</target>
         <note>Text for a label that indicates the title for share trackers tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.Shortcuts.Description" xml:space="preserve">
@@ -916,6 +917,7 @@
       </trans-unit>
       <trans-unit id="TodayWidget.SearchInApp.Instruction" xml:space="preserve">
         <source>Search in %@</source>
+        <target>Шукаць у %@</target>
         <note>Text shown on quick action widget inviting the user to browse in the app. %@ is the name of the app (Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.ContextMenu" xml:space="preserve">
@@ -956,10 +958,12 @@
       </trans-unit>
       <trans-unit id="URL.contextMenu" xml:space="preserve">
         <source>Paste &amp; Go</source>
+        <target>Уставіць і перайсці</target>
         <note>Text for the URL context menu when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
       <trans-unit id="URL.eraseButtonLabel" xml:space="preserve">
         <source>ERASE</source>
+        <target>СЦЕРЦІ</target>
         <note>Erase button in the URL bar</note>
       </trans-unit>
       <trans-unit id="URL.eraseMessageLabel2" xml:space="preserve">
@@ -972,22 +976,27 @@
       </trans-unit>
       <trans-unit id="URL.paste" xml:space="preserve">
         <source>Paste</source>
+        <target>Уставіць</target>
         <note>Text for a menu displayed from the bottom of the screen when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText" xml:space="preserve">
         <source>Search or enter address</source>
+        <target>Шукаць ці ўвесці адрас</target>
         <note>Placeholder text shown in the URL bar before the user navigates to a page</note>
       </trans-unit>
       <trans-unit id="URL.searchLabel" xml:space="preserve">
         <source>Search for %@</source>
+        <target>Шукаць %@</target>
         <note>Label displayed for search button when typing in the URL bar</note>
       </trans-unit>
       <trans-unit id="URL.trackersBlockedLabel" xml:space="preserve">
         <source>Trackers blocked</source>
+        <target>Трэкераў заблакіравана</target>
         <note>Text for the URL bar showing the number of trackers blocked on a webpage.</note>
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.ActionButton" xml:space="preserve">
         <source>Show Me How</source>
+        <target>Паказаць мне як</target>
         <note>Title for the action button shown on card view that will take the user to a tutorial explaining the user how to add an widget</note>
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.Subtitle" xml:space="preserve">
@@ -1020,22 +1029,27 @@
       </trans-unit>
       <trans-unit id="share" xml:space="preserve">
         <source>Share</source>
+        <target>Падзяліцца</target>
         <note>Text for a share button</note>
       </trans-unit>
       <trans-unit id="shareMenu.copyAddress" xml:space="preserve">
         <source>Copy Address</source>
+        <target>Капіраваць адрас</target>
         <note>Text for the share menu when a user wants to copy a URL.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.connectionNotSecureLabel" xml:space="preserve">
         <source>Connection is not secure</source>
+        <target>Небяспечнае злучэнне</target>
         <note>Text for tracking protection screen showing the connection is not secure</note>
       </trans-unit>
       <trans-unit id="trackingProtection.connectionSecureLabel" xml:space="preserve">
         <source>Connection is secure</source>
+        <target>Бяспечнае злучэнне</target>
         <note>Text for tracking protection screen showing the connection is secure</note>
       </trans-unit>
       <trans-unit id="trackingProtection.label" xml:space="preserve">
         <source>Tracking Protection</source>
+        <target>Ахова ад сачэння</target>
         <note>Title for the tracking settings page to change what trackers are blocked.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.statusOff" xml:space="preserve">
@@ -1052,6 +1066,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.trackersBlockedLabel" xml:space="preserve">
         <source>Trackers blocked since %@</source>
+        <target>Заблакіравана трэкераў з %@</target>
         <note>Text for tracking protection screen showing the number of trackers blocked since the app install. The placeholder is replaced with the install date of the application.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.trackersHeader" xml:space="preserve">
@@ -1103,6 +1118,7 @@
       </trans-unit>
       <trans-unit id="TodayWidget.SearchInApp" xml:space="preserve">
         <source>Search in %@</source>
+        <target>Шукаць у %@</target>
         <note>Text shown on quick action widget inviting the user to browse in the app. %@ is the name of the app (Focus/Klar).</note>
       </trans-unit>
     </body>
