@@ -248,6 +248,7 @@
       </trans-unit>
       <trans-unit id="BiometricPrompt.newSession" xml:space="preserve">
         <source>New Session</source>
+        <target>Новая сесія</target>
         <note>Create a new session after failing a biometric check</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel" xml:space="preserve">
@@ -302,6 +303,7 @@
       </trans-unit>
       <trans-unit id="ExternalAppLink.messageTitle" xml:space="preserve">
         <source>%@ wants to open another App</source>
+        <target>%@ хоча адкрыць іншую праграму</target>
         <note>Dialog title used for opening an external app from Focus. The placeholder string is the app name of either Focus or Klar.</note>
       </trans-unit>
       <trans-unit id="ExternalAppLink.openTitle" xml:space="preserve">
@@ -668,6 +670,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleSendUsageData" xml:space="preserve">
         <source>Send usage data</source>
+        <target>Адпраўляць даныя аб выкарыстанні</target>
         <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleStudies" xml:space="preserve">
@@ -677,6 +680,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleTouchID" xml:space="preserve">
         <source>Use Touch ID to unlock app</source>
+        <target>Выкарыстоўваць Touch ID для разблакіравання праграмы</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleTouchIDDescription" xml:space="preserve">
@@ -806,10 +810,12 @@
       </trans-unit>
       <trans-unit id="Siri.add" xml:space="preserve">
         <source>Add</source>
+        <target>Дадаць</target>
         <note>Button to add a favorite URL to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.addTo" xml:space="preserve">
         <source>Add to Siri</source>
+        <target>Дадаць у Siri</target>
         <note>Button to add a specified shortcut option to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.editOpenUrl" xml:space="preserve">
@@ -818,10 +824,12 @@
       </trans-unit>
       <trans-unit id="Siri.erase" xml:space="preserve">
         <source>Erase</source>
+        <target>Сцерці</target>
         <note>Title of option in settings to set up Siri to erase</note>
       </trans-unit>
       <trans-unit id="Siri.eraseAndOpen" xml:space="preserve">
         <source>Erase &amp; Open</source>
+        <target>Сцерці і адкрыць</target>
         <note>Title of option in settings to set up Siri to erase and then open the app.</note>
       </trans-unit>
       <trans-unit id="Siri.favoriteUrl" xml:space="preserve">
