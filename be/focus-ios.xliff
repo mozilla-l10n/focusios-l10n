@@ -181,6 +181,7 @@
       </trans-unit>
       <trans-unit id="Authentication.reason" xml:space="preserve">
         <source>Authenticate to return to %@</source>
+        <target>Прайдзіце аўтэнтыфікацыю, каб вярнуцца да %@</target>
         <note>%@ is app name. Prompt shown to ask the user to use Touch ID, Face ID, or passcode to continue browsing after returning to the app.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrl" xml:space="preserve">
@@ -190,6 +191,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlError" xml:space="preserve">
         <source>Double-check the URL you entered.</source>
+        <target>Уважліва праверце ўведзены URL-адрас.</target>
         <note>Label for error state when entering an invalid URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlExample" xml:space="preserve">
@@ -336,6 +338,7 @@
       </trans-unit>
       <trans-unit id="FindInPage.Done" xml:space="preserve">
         <source>Find in page done</source>
+        <target>Пошук на старонцы скончаны</target>
         <note>Accessibility label for done button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.NextResult" xml:space="preserve">
@@ -353,6 +356,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline" xml:space="preserve">
         <source>Browse like no one’s watching.</source>
+        <target>Аглядайце не баючыся сачэння.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="Menu.Close" xml:space="preserve">
@@ -367,6 +371,7 @@
       </trans-unit>
       <trans-unit id="NewOnboarding.Subtitle.V2" xml:space="preserve">
         <source>Fast. Private. No Distractions.</source>
+        <target>Хуткі. Прыватны. Засяроджаны.</target>
         <note>Text for a label that indicates the subtitle for the onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Button.Title" xml:space="preserve">
@@ -409,6 +414,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.Incognito.Title" xml:space="preserve">
         <source>More than just incognito</source>
+        <target>Больш, чым проста інкогніта</target>
         <note>Text for a label that indicates the title of incognito section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Description" xml:space="preserve">
@@ -442,6 +448,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsNotEnabled" xml:space="preserve">
         <source>%@ is not enabled.</source>
+        <target>%@ не ўключаны.</target>
         <note>Error label when the blocker is not enabled, shown in the intro and main app when disabled</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsOpen" xml:space="preserve">
@@ -582,6 +589,7 @@
       </trans-unit>
       <trans-unit id="Settings.safariTitle" xml:space="preserve">
         <source>SAFARI INTEGRATION</source>
+        <target>ІНТЭГРАЦЫЯ З SAFARI</target>
         <note>Label for Safari integration section</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle" xml:space="preserve">
@@ -722,14 +730,17 @@
       </trans-unit>
       <trans-unit id="Settinsg.siriShortcutsTitle" xml:space="preserve">
         <source>SIRI SHORTCUTS</source>
+        <target>ХУТКІЯ КАМАНДЫ SIRI</target>
         <note>Title for settings section to enable different Siri Shortcuts.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.AddToShortcuts" xml:space="preserve">
         <source>Add to Shortcuts</source>
+        <target>Дадаць у цэтлікі</target>
         <note>Text for the share menu option when a user wants to add the site to Shortcuts</note>
       </trans-unit>
       <trans-unit id="ShareMenu.AddToShortcuts.Confirm" xml:space="preserve">
         <source>Added to Shortcuts</source>
+        <target>Дададзена ў цэтлікі</target>
         <note>Toast displayed to the user after adding the item to the Shortcuts.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.FindInPage" xml:space="preserve">
@@ -744,14 +755,17 @@
       </trans-unit>
       <trans-unit id="ShareMenu.RemoveShortcut.Confirm" xml:space="preserve">
         <source>Shortcut removed</source>
+        <target>Цэтлік выдалены</target>
         <note>Toast displayed to the user after removing the item from the Shortcuts.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop" xml:space="preserve">
         <source>Request Desktop Site</source>
+        <target>Поўная версія сайта</target>
         <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RequestMobile" xml:space="preserve">
         <source>Request Mobile Site</source>
+        <target>Мабільная версія сайта</target>
         <note>Text for the share menu option when a user wants to reload the site as a mobile device</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenChrome" xml:space="preserve">
@@ -786,10 +800,12 @@
       </trans-unit>
       <trans-unit id="ShortcutView.Rename" xml:space="preserve">
         <source>Rename Shortcut</source>
+        <target>Перайменаваць цэтлік</target>
         <note>Text for the long press on a shortcut rename option in context menu.</note>
       </trans-unit>
       <trans-unit id="ShortcutView.RenameShortcutAlertPlaceholder" xml:space="preserve">
         <source>Shortcut name</source>
+        <target>Назва цэтліка</target>
         <note>Text for the placeholder textfield on rename shortcut alert.</note>
       </trans-unit>
       <trans-unit id="ShortcutView.RenameShortcutAlertPrimaryAction" xml:space="preserve">
