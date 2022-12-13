@@ -151,6 +151,7 @@
       </trans-unit>
       <trans-unit id="About.safariBulletHeader" xml:space="preserve">
         <source>Use it as a Safari extension:</source>
+        <target>Выкарыстоўвайце як пашырэнне Safari:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.title" xml:space="preserve">
@@ -160,6 +161,7 @@
       </trans-unit>
       <trans-unit id="About.topLabel" xml:space="preserve">
         <source>%@ puts you in control.</source>
+        <target>%@ перадае кантроль у вашыя рукі.</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="AddPass.Error.Dismiss" xml:space="preserve">
