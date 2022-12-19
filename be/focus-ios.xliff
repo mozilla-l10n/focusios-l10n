@@ -987,6 +987,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.SearchBar" xml:space="preserve">
         <source>Start your private browsing session, and we’ll block trackers and other bad stuff as you go.</source>
+        <target>Пачніце сеанс прыватнага аглядання і мы будзем блакіраваць трэкеры і іншыя непажаданыя элементы.</target>
         <note>This is the body text that is displayed for the Search Bar tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.ShieldIcon" xml:space="preserve">
@@ -999,6 +1000,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon" xml:space="preserve">
         <source>Tap the trash anytime to remove all traces of your current session.</source>
+        <target>Націсніце на сметніцу ў любы час, каб выдаліць усе сляды бягучага сеансу.</target>
         <note>This is the body text that is displayed for the Trash icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon.V2" xml:space="preserve">
