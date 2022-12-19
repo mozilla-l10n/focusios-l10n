@@ -419,6 +419,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.History.Title" xml:space="preserve">
         <source>Your history doesn’t follow you</source>
+        <target>Ваша гісторыя не ходзіць за вамі</target>
         <note>Text for a label that indicates the title of history section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Incognito.Description" xml:space="preserve">
@@ -436,10 +437,12 @@
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Title" xml:space="preserve">
         <source>Protection at your own discretion</source>
+        <target>Ахова на ваша меркаванне</target>
         <note>Text for a label that indicates the title of protection section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Subtitle" xml:space="preserve">
         <source>Take your private browsing to the next level.</source>
+        <target>Перанясіце прыватнае агляданне на новы ўзровень.</target>
         <note>Text for a label that indicates the subtitle for onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Title" xml:space="preserve">
@@ -870,6 +873,7 @@
       </trans-unit>
       <trans-unit id="Siri.editOpenUrl" xml:space="preserve">
         <source>Re-Record or Delete Shortcut</source>
+        <target>Перазапісаць або выдаліць хуткую каманду</target>
         <note>Label for button to edit the Siri phrase or delete the Siri functionality.</note>
       </trans-unit>
       <trans-unit id="Siri.erase" xml:space="preserve">
@@ -1032,6 +1036,7 @@
       </trans-unit>
       <trans-unit id="URL.eraseMessageLabel2" xml:space="preserve">
         <source>Browsing history cleared</source>
+        <target>Гісторыя аглядання выдалена</target>
         <note>Message shown after pressing the Erase button</note>
       </trans-unit>
       <trans-unit id="URL.findOnPageLabel" xml:space="preserve">
@@ -1184,6 +1189,7 @@
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionGalleryDescriptionV2" xml:space="preserve">
         <source>Start a private search in %@ with your default search engine.</source>
+        <target>Пачніце прыватны пошук у %@ з дапамогай прадвызначанай пошукавай сістэмы.</target>
         <note>Description for small size widget to add it to home screen. %@ is the name of the app(Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionsGalleryTitle" xml:space="preserve">
