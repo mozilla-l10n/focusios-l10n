@@ -546,6 +546,7 @@
       </trans-unit>
       <trans-unit id="Settings.autocompleteSection" xml:space="preserve">
         <source>URL Autocomplete</source>
+        <target>Аўтадапаўненне URL</target>
         <note>Title for the URL Autocomplete row</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage" xml:space="preserve">
@@ -695,6 +696,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleHomeScreenTips" xml:space="preserve">
         <source>Show home screen tips</source>
+        <target>Паказваць парады на галоўным экране</target>
         <note>Show home screen tips toggle label on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSafari" xml:space="preserve">
