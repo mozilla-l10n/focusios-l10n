@@ -437,6 +437,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Description" xml:space="preserve">
         <source>Configure settings so you can decide how much or how little you share.</source>
+        <target>Наладзьце параметры, каб вы маглі вырашыць, якімі данымі вы будзеце дзяліцца.</target>
         <note>Text for a label that indicates the description of protection section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Title" xml:space="preserve">
@@ -491,6 +492,7 @@
       </trans-unit>
       <trans-unit id="SearchEngine.addEngineError" xml:space="preserve">
         <source>That didn’t work. Try replacing the search term with this: %s.</source>
+        <target>Гэта не спрацавала. Паспрабуйце замяніць пошукавы запыт на: %s.</target>
         <note>Label for error state when entering an invalid search engine URL. %s is a search term in a URL.</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptDisable" xml:space="preserve">
@@ -1020,10 +1022,12 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.ShieldIcon" xml:space="preserve">
         <source>%@ stopped this site from spying on you. Tap the shield for info on what we blocked.</source>
+        <target>%@ забараніў гэтаму сайту шпіёніць за вамі. Націсніце на шчыт, каб даведацца, што мы заблакіравалі.</target>
         <note>This is the body text that is displayed for the Shield icon tooltip. Where placeholder can be (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.ShieldIconTrackerBlocked.V2" xml:space="preserve">
         <source>Got ‘em! We stopped this site from spying on you. Tap the shield any time to see what we’re blocking.</source>
+        <target>Папаўся! Мы не дазволілі гэтаму сайту шпіёніць за вамі. Націсніце на шчыт, каб даведацца, што мы блакіруем.</target>
         <note>This is the body text that is displayed for the Shield icon tooltip when we block trackers for the first time on a website</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon" xml:space="preserve">
