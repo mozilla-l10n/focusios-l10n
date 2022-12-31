@@ -708,7 +708,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleFaceID" xml:space="preserve">
         <source>Use Face ID to unlock app</source>
-        <target>Nota andlitsauðkenningu til að aflæsa smáforrit</target>
+        <target>Nota andlitsauðkenningu til að aflæsa smáforriti</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceIDDescription" xml:space="preserve">
@@ -738,7 +738,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleTouchID" xml:space="preserve">
         <source>Use Touch ID to unlock app</source>
-        <target>Nota fingrafara auðkenningu til að aflæsa smáforrit</target>
+        <target>Nota fingrafaraauðkenningu til að aflæsa smáforriti</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleTouchIDDescription" xml:space="preserve">
