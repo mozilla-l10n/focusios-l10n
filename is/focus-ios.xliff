@@ -538,7 +538,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.NewSearchEngineAdded" xml:space="preserve">
         <source>New Search Engine Added.</source>
-        <target>Ný leitarvél bætt við.</target>
+        <target>Nýrri leitarvél bætt við.</target>
         <note>Toast displayed after adding a search engine</note>
       </trans-unit>
       <trans-unit id="Settings.Search.RestoreEngine" xml:space="preserve">
