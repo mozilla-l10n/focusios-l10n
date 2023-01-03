@@ -76,7 +76,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Title" xml:space="preserve">
         <source>Your search, your way</source>
-        <target>Leitin þín á þinn hátt</target>
+        <target>Leitin þín, á þinn hátt</target>
         <note>Title for the second  panel 'Search' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Skip.Button" xml:space="preserve">
