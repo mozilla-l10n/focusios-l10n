@@ -1118,7 +1118,7 @@
       </trans-unit>
       <trans-unit id="browser.copyAddressToast" xml:space="preserve">
         <source>URL Copied To Clipboard</source>
-        <target>URL Afritað á klemmuspjald</target>
+        <target>Vefslóð afrituð á klippispjald</target>
         <note>Toast displayed after a URL has been copied to the clipboard</note>
       </trans-unit>
       <trans-unit id="browserShortcutDescription.selectLocationBar" xml:space="preserve">
