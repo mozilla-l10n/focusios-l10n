@@ -158,7 +158,7 @@
       </trans-unit>
       <trans-unit id="About.safariBulletHeader" xml:space="preserve">
         <source>Use it as a Safari extension:</source>
-        <target>用作 Safari 扩展，可以：</target>
+        <target>用作 Safari 浏览器扩展，可以：</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.title" xml:space="preserve">
@@ -458,7 +458,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers" xml:space="preserve">
         <source>Tap Safari, then select Content Blockers</source>
-        <target>点按 Safari，然后选择“内容拦截器”</target>
+        <target>点按 Safari 浏览器，然后选择“内容拦截器”</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsEnable" xml:space="preserve">
