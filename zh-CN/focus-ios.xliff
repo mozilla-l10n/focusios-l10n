@@ -468,7 +468,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsExtentions" xml:space="preserve">
         <source>Select Safari, then select Extensions</source>
-        <target>选择 Safari，然后选择“扩展”</target>
+        <target>选择 Safari 浏览器，然后选择“扩展”</target>
         <note>Label for instructions to enable extensions in Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsNotEnabled" xml:space="preserve">
@@ -623,7 +623,7 @@
       </trans-unit>
       <trans-unit id="Settings.safariTitle" xml:space="preserve">
         <source>SAFARI INTEGRATION</source>
-        <target>Safari 整合</target>
+        <target>Safari 浏览器整合</target>
         <note>Label for Safari integration section</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle" xml:space="preserve">
@@ -723,7 +723,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleSafari" xml:space="preserve">
         <source>Safari</source>
-        <target>Safari</target>
+        <target>Safari 浏览器</target>
         <note>Safari toggle label on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSendUsageData" xml:space="preserve">
