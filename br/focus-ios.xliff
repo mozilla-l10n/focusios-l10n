@@ -405,10 +405,12 @@
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.Title.V2" xml:space="preserve">
         <source>%@ isn’t like other browsers</source>
+        <target>%@ n'eo ket evel ar verdeerien all</target>
         <note>Text for a label that indicates the title for the default browser onboarding screen version 2. %@ is the name of the app (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.TopButtonTitle.V2" xml:space="preserve">
         <source>Set as Default Browser</source>
+        <target>Lakaat da verdeer dre ziouer</target>
         <note>Text for a label that indicates the title of the top button from the default browser onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="Onboarding.History.Description" xml:space="preserve">
@@ -463,6 +465,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsExtentions" xml:space="preserve">
         <source>Select Safari, then select Extensions</source>
+        <target>Dibabit Safari, ha dibabit Askouezhioù</target>
         <note>Label for instructions to enable extensions in Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsNotEnabled" xml:space="preserve">
@@ -477,6 +480,7 @@
       </trans-unit>
       <trans-unit id="Safari.openInstruction" xml:space="preserve">
         <source>Open device settings</source>
+        <target>Digorit arventennoù an trevnad</target>
         <note>Label for instructions to enable extensions in Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
@@ -786,6 +790,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.RemoveShortcut.Confirm" xml:space="preserve">
         <source>Shortcut removed</source>
+        <target>Berradenn dilamet</target>
         <note>Toast displayed to the user after removing the item from the Shortcuts.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop" xml:space="preserve">
@@ -867,6 +872,7 @@
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.Title.V2" xml:space="preserve">
         <source>Add a %@ Widget</source>
+        <target>Ouzhpenn ur widjet %@</target>
         <note>This is the title text that is displayed in the Show Me How Onboarding Screen. %@ is the name of the app (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Siri.add" xml:space="preserve">
@@ -996,10 +1002,12 @@
       </trans-unit>
       <trans-unit id="TodayWidget.SearchInApp.Instruction" xml:space="preserve">
         <source>Search in %@</source>
+        <target>Klask e %@</target>
         <note>Text shown on quick action widget inviting the user to browse in the app. %@ is the name of the app (Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.ContextMenu" xml:space="preserve">
         <source>Go to Settings to manage specific privacy &amp; security options.</source>
+        <target>Mont d'an arventennoù evit merañ arventennoù araokaet ar prevezded &amp; surentez.</target>
         <note>This is the body text that is displayed for the Context Menu icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.Privacy" xml:space="preserve">
