@@ -1,8 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Blockzilla/Base.lproj/Intents.intentdefinition" source-language="en" target-language="te" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0.1" build-num="14A400"/>
+    </header>
+    <body>
+      <trans-unit id="Intents.Erase.Title" xml:space="preserve">
+        <source>Erase</source>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
   <file original="Blockzilla/en.lproj/InfoPlist.strings" source-language="en" target-language="te" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A309"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0.1" build-num="14A400"/>
     </header>
     <body>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
@@ -35,20 +46,9 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Blockzilla/en.lproj/Intents.strings" source-language="en" target-language="te" datatype="plaintext">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A309"/>
-    </header>
-    <body>
-      <trans-unit id="Intents.Erase.Title" xml:space="preserve">
-        <source>Erase</source>
-        <note>Title of the Erase intent.</note>
-      </trans-unit>
-    </body>
-  </file>
   <file original="Blockzilla/en.lproj/Intro.strings" source-language="en" target-language="te" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A309"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0.1" build-num="14A400"/>
     </header>
     <body>
       <trans-unit id="Intro.Slides.History.Description" xml:space="preserve">
@@ -95,7 +95,7 @@
   </file>
   <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" target-language="te" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A309"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0.1" build-num="14A400"/>
     </header>
     <body>
       <trans-unit id="About.learnMoreButton" xml:space="preserve">
@@ -1058,7 +1058,7 @@
   </file>
   <file original="Blockzilla/Settings.bundle/en.lproj/Root.strings" source-language="en" target-language="te" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A309"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0.1" build-num="14A400"/>
     </header>
     <body>
       <trans-unit id="SettingsBundle.Licenses" xml:space="preserve">
@@ -1069,7 +1069,7 @@
   </file>
   <file original="ContentBlocker/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="te">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A309"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0.1" build-num="14A400"/>
     </header>
     <body>
       <trans-unit id="NSHumanReadableDescription" xml:space="preserve">
@@ -1080,7 +1080,7 @@
   </file>
   <file original="Widgets/en.lproj/Localizable.strings" source-language="en" target-language="te" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A309"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0.1" build-num="14A400"/>
     </header>
     <body>
       <trans-unit id="TodayWidget.QuickActionGalleryDescription" xml:space="preserve">
