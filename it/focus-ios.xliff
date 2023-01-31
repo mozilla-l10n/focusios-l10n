@@ -5,6 +5,10 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0.1" build-num="14A400"/>
     </header>
     <body>
+      <trans-unit id="Intents.Erase.Description" xml:space="preserve">
+        <source>Erase browsing session</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Intents.Erase.Title" xml:space="preserve">
         <source>Erase</source>
         <target>Elimina dati</target>
@@ -270,6 +274,10 @@
         <source>Top Sites</source>
         <target>Siti principali</target>
         <note>Label for enabling or disabling top sites</note>
+      </trans-unit>
+      <trans-unit id="BiometricAuthentication.UnlockButton.Title" xml:space="preserve">
+        <source>Unlock</source>
+        <note>Title for the action button shown on the Splash Screen which gives the user the ability to log in with biometrics.</note>
       </trans-unit>
       <trans-unit id="BiometricPrompt.newSession" xml:space="preserve">
         <source>New Session</source>
