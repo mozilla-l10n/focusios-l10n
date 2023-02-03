@@ -277,6 +277,7 @@
       </trans-unit>
       <trans-unit id="BiometricAuthentication.UnlockButton.Title" xml:space="preserve">
         <source>Unlock</source>
+        <target>Odemknout</target>
         <note>Title for the action button shown on the Splash Screen which gives the user the ability to log in with biometrics.</note>
       </trans-unit>
       <trans-unit id="BiometricPrompt.newSession" xml:space="preserve">
@@ -1032,6 +1033,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.ShieldIconTrackerBlocked.V2" xml:space="preserve">
         <source>Got ‘em! We stopped this site from spying on you. Tap the shield any time to see what we’re blocking.</source>
+        <target>Máme je! Tomuto serveru jsme zabránili ve vašem sledování. Klepnutím na ikonu štítu se dozvíte, co bylo zablokováno.</target>
         <note>This is the body text that is displayed for the Shield icon tooltip when we block trackers for the first time on a website</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon" xml:space="preserve">
