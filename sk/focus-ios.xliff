@@ -143,7 +143,7 @@
       </trans-unit>
       <trans-unit id="About.rowPrivacy" xml:space="preserve">
         <source>Privacy Notice</source>
-        <target>Zásady ochrany súkromia</target>
+        <target>Vyhlásenie o ochrane osobných údajov</target>
         <note>Link to Privacy Notice in the About screen</note>
       </trans-unit>
       <trans-unit id="About.rowRights" xml:space="preserve">
