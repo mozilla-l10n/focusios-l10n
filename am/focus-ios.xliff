@@ -24,22 +24,27 @@
     <body>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
         <source>This lets you take and upload photos.</source>
+        <target>ይህ ፎቶዎችን እንዲያነሱ እና ለመጫን ያስችልዎታል።</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
         <source>This lets you unlock the app.</source>
+        <target>ይሄ መተግበሪያውን እንዲከፍቱ ያስችልዎታል።</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
         <source>Websites you visit may request your location.</source>
+        <target>የሚጎበኟቸው ድረ-ገፆች መገኛ ቦታዎን ሊጠይቁ ይችላሉ።</target>
         <note>Privacy - Location When In Use Usage Description</note>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
         <source>This lets you take and upload videos.</source>
+        <target>ይህ ተንቀሳቃሽ-ምሥሎችን እንዲያነሱ እና እንዲጭኑ ያስችልዎታል።</target>
         <note>Privacy - Microphone Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
         <source>This lets you save and upload photos.</source>
+        <target>ይሄ ፎቶዎችን እንዲያስቀምጡ እና እንዲጭኑ ያስችልዎታል።</target>
         <note>Privacy - Photo Library Additions Usage Description</note>
       </trans-unit>
       <trans-unit id="UIApplicationShortcutItemTitle.EraseAndOpen" xml:space="preserve">
