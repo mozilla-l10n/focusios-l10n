@@ -76,22 +76,27 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description" xml:space="preserve">
         <source>Searching for something different? Choose a different search engine.</source>
+        <target>የሆነ የተለየ ነገር በመፈለግ ላይ ነዎት? ሌላ የፍለጋ-ፍርግም ይምረጡ።</target>
         <note>Description for the 'Favorite Search Engine' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Title" xml:space="preserve">
         <source>Your search, your way</source>
+        <target>የእርስዎ ፍለጋ ፣ የእርስዎ መንገድ</target>
         <note>Title for the second  panel 'Search' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Skip.Button" xml:space="preserve">
         <source>Skip</source>
+        <target>ዝለል</target>
         <note>Button to skip onboarding in Focus</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description" xml:space="preserve">
         <source>Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.</source>
+        <target>የግል ፍለጋን ወደ ቀጣዩ ደረጃ ያሳድጉ:: በድረ-ገፆች ውስጥ እርስዎን ሊከታተል የሚችል እና የገፅ ጭነት ጊዜዎችን የሚያደነዝዙ ማስታወቂያዎችን እና ሌላ ይዘትን አግድ።</target>
         <note>Description for the 'Welcome' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Title" xml:space="preserve">
         <source>Power up your privacy</source>
+        <target>ግላዊነትዎን ያስፉ</target>
         <note>Title for the first panel 'Welcome' in the First Run tour.</note>
       </trans-unit>
     </body>
@@ -103,6 +108,7 @@
     <body>
       <trans-unit id="About.learnMoreButton" xml:space="preserve">
         <source>Learn more</source>
+        <target>ተጨማሪ ይወቁ</target>
         <note>Button on About screen</note>
       </trans-unit>
       <trans-unit id="About.missionLabel" xml:space="preserve">
