@@ -358,58 +358,72 @@
       </trans-unit>
       <trans-unit id="FindInPage.Done" xml:space="preserve">
         <source>Find in page done</source>
+        <target>የገፅ ውስጥ ፍለጋው ተጠናቋል</target>
         <note>Accessibility label for done button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.NextResult" xml:space="preserve">
         <source>Find next in page</source>
+        <target>በገፅ ውስጥ ቀጣዩን ይፈልጉ</target>
         <note>Accessibility label for next result button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.PreviousResult" xml:space="preserve">
         <source>Find previous in page</source>
+        <target>በገፅ ውስጥ የቀደመውን ይፈልጉ</target>
         <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel" xml:space="preserve">
         <source>OK, Got It!</source>
+        <target>እሺ፣ ገባኝ!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline" xml:space="preserve">
         <source>Browse like no one’s watching.</source>
+        <target>ማንም እንደማይመለከት አስስ።</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="Menu.Close" xml:space="preserve">
         <source>Close</source>
+        <target>ዝጋ</target>
         <note>Button label used to close a menu that displays as a popup.</note>
       </trans-unit>
       <trans-unit id="NewOnboarding.Button.Title.V2" xml:space="preserve">
         <source>Get Started</source>
+        <target>ይጀምሩ</target>
         <note>Text for a label that indicates the title of button from onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="NewOnboarding.Subtitle.V2" xml:space="preserve">
         <source>Fast. Private. No Distractions.</source>
+        <target>ፈጣን። የግል። ትኩረትን የሚከፋፍሉ ነገሮች የሌለው።</target>
         <note>Text for a label that indicates the subtitle for the onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Button.Title" xml:space="preserve">
         <source>Start browsing</source>
+        <target>ማሰስ ይጀምሩ</target>
         <note>Text for a label that indicates the title of button from onboarding screen</note>
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.BottomButtonTitle.V2" xml:space="preserve">
         <source>Skip</source>
+        <target>ዝለል</target>
         <note>Text for a label that indicates the title of the bottom button from the default browser onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.FirstSubtitle.V2" xml:space="preserve">
         <source>We clear your history when you close the app for extra privacy.</source>
+        <target>ለተጨማሪ ግላዊነት መተግበሪያውን ሲዘጉ ታሪክዎን እናጸዳለን።</target>
         <note>Text for a label that indicates the first subtitle for the default browser onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.SecondSubtitle.V2" xml:space="preserve">
         <source>Make %@ your default to protect your data with every link you open.</source>
+        <target>በሚከፍቱት እያንዳንዱ አገናኝ ውሂብዎን ለመጠበቅ %@ ነባሪ ያድርጉ።</target>
         <note>Text for a label that indicates the second subtitle for the default browser onboarding screen version 2. %@ is the name of the app (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.Title.V2" xml:space="preserve">
         <source>%@ isn’t like other browsers</source>
+        <target>%@ እንደ ሌሎች አሳሾች አይደለም</target>
         <note>Text for a label that indicates the title for the default browser onboarding screen version 2. %@ is the name of the app (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.TopButtonTitle.V2" xml:space="preserve">
         <source>Set as Default Browser</source>
+        <target>ነባሪ አሳሽ አድርገህ አስቀምጥ</target>
         <note>Text for a label that indicates the title of the top button from the default browser onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="Onboarding.History.Description" xml:space="preserve">
