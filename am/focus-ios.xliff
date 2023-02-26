@@ -113,62 +113,77 @@
       </trans-unit>
       <trans-unit id="About.missionLabel" xml:space="preserve">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
+        <target>%@ በሞዚላ የለማ ነው። የእኛ ተልዕኮ ጤናማ እና ክፍት በይነመረብን ማሳደግ ነው።</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet1" xml:space="preserve">
         <source>Search and browse right in the app</source>
+        <target>በመተግበሪያው ውስጥ ይፈልጉ እና ያስሱ</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet2" xml:space="preserve">
         <source>Block trackers (or update settings to allow trackers)</source>
+        <target>መከታተያዎችን ያግዱ (ወይም መከታተያዎችን ለመፍቀድ ቅንብሮችን ያዘምኑ)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3" xml:space="preserve">
         <source>Erase to delete cookies as well as search and browsing history</source>
+        <target>ኩኪዎችን ለመሰረዝ እንዲሁም የፍለጋ እና የአሰሳ ታሪክን ያጥፉ</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader" xml:space="preserve">
         <source>Use it as a private browser:</source>
+        <target>እንደ የግል አሳሽ ይጠቀሙበት፡-</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp" xml:space="preserve">
         <source>Help</source>
+        <target>እገዛ</target>
         <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.rowPrivacy" xml:space="preserve">
         <source>Privacy Notice</source>
+        <target>የግላዊነት ማሳወቂያ</target>
         <note>Link to Privacy Notice in the About screen</note>
       </trans-unit>
       <trans-unit id="About.rowRights" xml:space="preserve">
         <source>Your Rights</source>
+        <target>የእርስዎ መብቶች</target>
         <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet1" xml:space="preserve">
         <source>Block trackers for improved privacy</source>
+        <target>ለተሻሻለ ግላዊነት መከታተያዎችን አግድ</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2" xml:space="preserve">
         <source>Block web fonts to reduce page size</source>
+        <target>የገጽ መጠንን ለመቀነስ የድር ቅርጸ ቁምፊዎችን አግድ</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader" xml:space="preserve">
         <source>Use it as a Safari extension:</source>
+        <target>እንደ ሳፋሪ ቅጥያ ይጠቀሙበት፡-</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.title" xml:space="preserve">
         <source>About %@</source>
+        <target>ስለ %@</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, takes the user to a page with information about the product. Also displayed as a header for the About page.</note>
       </trans-unit>
       <trans-unit id="About.topLabel" xml:space="preserve">
         <source>%@ puts you in control.</source>
+        <target>%@ እርስዎን ውሣኔ ሰጪ ያደርግዎታል።</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="AddPass.Error.Dismiss" xml:space="preserve">
         <source>Ok</source>
+        <target>እሺ</target>
         <note>Button to dismiss the 'Add Pass Failed' alert.</note>
       </trans-unit>
       <trans-unit id="AddPass.Error.Message" xml:space="preserve">
         <source>An error occured while adding the pass to Wallet. Please try again later.</source>
+        <target>ማለፊያውን ወደ ዋሌት በማከል ላይ ስህተት ተፈጥሯል። እባክዎ ቆየት ብለው ይሞክሩ።</target>
         <note>Message of the 'Add Pass Failed' alert.</note>
       </trans-unit>
       <trans-unit id="AddPass.Error.Title" xml:space="preserve">
