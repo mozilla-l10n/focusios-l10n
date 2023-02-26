@@ -61,14 +61,17 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description" xml:space="preserve">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
+        <target>በአንድ ጊዜ መታ በማድረግ ሁሉንም የአሰሳ ክፍለ ጊዜ ታሪክዎን ፣ የይለፍ ቃሎችን ፣ ኩኪዎችን በማንኛውም ጊዜ ያጽዱ።</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title" xml:space="preserve">
         <source>Your history is history</source>
+        <target>ታሪክዎ ታሪክ ነው</target>
         <note>Title for the third  panel 'History' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Next.Button" xml:space="preserve">
         <source>Next</source>
+        <target>ቀጣይ</target>
         <note>Button to go to the next card in Focus onboarding.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description" xml:space="preserve">
