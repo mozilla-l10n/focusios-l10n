@@ -605,46 +605,57 @@
       </trans-unit>
       <trans-unit id="Settings.general" xml:space="preserve">
         <source>General</source>
+        <target>አጠቃላይ</target>
         <note>Title for section in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.learnMore" xml:space="preserve">
         <source>Learn more.</source>
+        <target>ተጨማሪ ይወቁ።</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.lightTheme" xml:space="preserve">
         <source>Light</source>
+        <target>ፈካ ያለ</target>
         <note>Light theme option in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.rate" xml:space="preserve">
         <source>Rate %@</source>
+        <target>%@ን ደረጃ ስጥ</target>
         <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, allows the user to leave a review for the app on the app store.</note>
       </trans-unit>
       <trans-unit id="Settings.safariTitle" xml:space="preserve">
         <source>SAFARI INTEGRATION</source>
+        <target>SAFARI ውህደት</target>
         <note>Label for Safari integration section</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle" xml:space="preserve">
         <source>Settings</source>
+        <target>ቅንብሮች</target>
         <note>Title for settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.searchLabel" xml:space="preserve">
         <source>Search Engine</source>
+        <target>የፍለጋ ፍርግም</target>
         <note>Label for the search engine in the search screen</note>
       </trans-unit>
       <trans-unit id="Settings.searchSuggestions" xml:space="preserve">
         <source>Get Search Suggestions</source>
+        <target>የፍለጋ ጥቆማዎችን ያግኙ</target>
         <note>Label for the Search Suggestions toggle row</note>
       </trans-unit>
       <trans-unit id="Settings.searchTitle2" xml:space="preserve">
         <source>SEARCH</source>
+        <target>ፈልግ</target>
         <note>Title for the search selection screen</note>
       </trans-unit>
       <trans-unit id="Settings.sectionMozilla" xml:space="preserve">
         <source>MOZILLA</source>
+        <target>ሞዚላ</target>
         <note>Section label for Mozilla toggles</note>
       </trans-unit>
       <trans-unit id="Settings.sectionPrivacy" xml:space="preserve">
         <source>PRIVACY</source>
+        <target>ግላዊነት</target>
         <note>Section label for privacy toggles</note>
       </trans-unit>
       <trans-unit id="Settings.setAsDefaultBrowser" xml:space="preserve">
