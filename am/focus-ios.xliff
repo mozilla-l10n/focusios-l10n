@@ -567,14 +567,17 @@
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplatePlaceholder" xml:space="preserve">
         <source>Paste or enter search string. If necessary, replace search term with: %s.</source>
+        <target>የፍለጋ ሕብረቁምፊ ለጥፍ ወይም አስገባ። አስፈላጊ ከሆነ የፍለጋ ቃልን በ:- %s ይተኩ።</target>
         <note>Placeholder text for input of new search engine template</note>
       </trans-unit>
       <trans-unit id="Settings.autocompleteSection" xml:space="preserve">
         <source>URL Autocomplete</source>
+        <target>URL ራስ-አጠናቅቅ</target>
         <note>Title for the URL Autocomplete row</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage" xml:space="preserve">
         <source>Blocking other content trackers may break some videos and web pages.</source>
+        <target>ሌሎች የይዘት መከታተያዎችን ማገድ አንዳንድ ቪዲዮዎችን እና ድረ-ገጾችን ሊያስተጓጉል ይችላል።</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo2" xml:space="preserve">
