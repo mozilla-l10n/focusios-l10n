@@ -790,18 +790,22 @@
       </trans-unit>
       <trans-unit id="ShareMenu.FindInPage" xml:space="preserve">
         <source>Find in Page</source>
+        <target>በገጽ ውስጥ ያግኙ</target>
         <note>Text for the share menu option when a user wants to open the find in page menu</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RemoveFromShortcuts" xml:space="preserve">
         <source>Remove from Shortcuts</source>
+        <target>ከአቋራጮች አስወግድ</target>
         <note>Text for the share menu option when a user wants to remove the site from Shortcuts</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RemoveShortcut.Confirm" xml:space="preserve">
         <source>Shortcut removed</source>
+        <target>አቋራጭ ተወግዷል</target>
         <note>Toast displayed to the user after removing the item from the Shortcuts.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop" xml:space="preserve">
         <source>Request Desktop Site</source>
+        <target>የዴስክቶፕ ድረ-ገፅን ይጠይቁ</target>
         <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RequestMobile" xml:space="preserve">
