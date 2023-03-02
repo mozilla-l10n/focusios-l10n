@@ -960,6 +960,7 @@
       </trans-unit>
       <trans-unit id="Tip.RequestDesktop.Title" xml:space="preserve">
         <source>Want to see the full desktop version of a site?</source>
+        <target>የድረ-ገፁን ሙሉ የዴስክቶፕ ስሪት ማየት ይፈልጋሉ?</target>
         <note>Text for a label that indicates the title for request desktop tip.</note>
       </trans-unit>
       <trans-unit id="Tip.ShareTrackers.Description" xml:space="preserve">
