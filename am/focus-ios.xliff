@@ -875,46 +875,57 @@
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepThree.V2" xml:space="preserve">
         <source>Search for %@. Then choose a widget.</source>
+        <target>%@ን ይፈልጉ። ከዚያ መግብር ይምረጡ።</target>
         <note>This is the subtitle text for step three that is displayed in the Show Me How onboarding screen. %@ is the name of the app (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepTwo.V2" xml:space="preserve">
         <source>Tap on the plus icon.</source>
+        <target>የመደመር አዶውን ይንኩ።</target>
         <note>This is the subtitle text for step two that is displayed in the Show Me How Onboarding Screen</note>
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.Title.V2" xml:space="preserve">
         <source>Add a %@ Widget</source>
+        <target>%@ መግብር አክል</target>
         <note>This is the title text that is displayed in the Show Me How Onboarding Screen. %@ is the name of the app (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Siri.add" xml:space="preserve">
         <source>Add</source>
+        <target>ጨምር</target>
         <note>Button to add a favorite URL to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.addTo" xml:space="preserve">
         <source>Add to Siri</source>
+        <target>ወደ Siri ያክሉ</target>
         <note>Button to add a specified shortcut option to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.editOpenUrl" xml:space="preserve">
         <source>Re-Record or Delete Shortcut</source>
+        <target>አቋራጭን እንደገና ይቅረጹ ወይም ይሰርዙ</target>
         <note>Label for button to edit the Siri phrase or delete the Siri functionality.</note>
       </trans-unit>
       <trans-unit id="Siri.erase" xml:space="preserve">
         <source>Erase</source>
+        <target>ደምስስ</target>
         <note>Title of option in settings to set up Siri to erase</note>
       </trans-unit>
       <trans-unit id="Siri.eraseAndOpen" xml:space="preserve">
         <source>Erase &amp; Open</source>
+        <target>ደምስስ እና ክፈት</target>
         <note>Title of option in settings to set up Siri to erase and then open the app.</note>
       </trans-unit>
       <trans-unit id="Siri.favoriteUrl" xml:space="preserve">
         <source>Open Favorite Site</source>
+        <target>ተወዳጅ ድረ-ገፅ ክፈት</target>
         <note>Title for screen to add a favorite URL to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.openURL" xml:space="preserve">
         <source>Open Favorite Site</source>
+        <target>ተወዳጅ ድረ-ገፅ ክፈት</target>
         <note>Title of option in settings to set up Siri to open a specified URL in Focus/Klar.</note>
       </trans-unit>
       <trans-unit id="Siri.urlToOpen" xml:space="preserve">
         <source>URL to open</source>
+        <target>የሚከፈተው URL</target>
         <note>Label for input to set a favorite URL to be opened by Siri.</note>
       </trans-unit>
       <trans-unit id="Tip.Biometric.Title" xml:space="preserve">
