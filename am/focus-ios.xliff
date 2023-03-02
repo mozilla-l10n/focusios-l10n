@@ -453,6 +453,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Title" xml:space="preserve">
         <source>Protection at your own discretion</source>
+        <target>ጥበቃ፤ በራስዎ ውሳኔ</target>
         <note>Text for a label that indicates the title of protection section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Subtitle" xml:space="preserve">
