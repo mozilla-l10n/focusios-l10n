@@ -930,26 +930,32 @@
       </trans-unit>
       <trans-unit id="Tip.Biometric.Title" xml:space="preserve">
         <source>Lock %@ when a site is open:</source>
+        <target>ድረ-ገፅ ሲከፈት %@ን ይቆልፉ፡-</target>
         <note>Text for a label that indicates the title for biometric tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.BiometricFaceId.Description" xml:space="preserve">
         <source>Turn on Face ID</source>
+        <target>የፊት መታወቂያን ያብሩ</target>
         <note>Text for a label that indicates the description for biometric Face ID tip.</note>
       </trans-unit>
       <trans-unit id="Tip.BiometricTouchId.Description" xml:space="preserve">
         <source>Turn on Touch ID</source>
+        <target>የንክኪ መታወቂያን ያብሩ</target>
         <note>Text for a label that indicates the description for biometric Touch ID tip.</note>
       </trans-unit>
       <trans-unit id="Tip.Release.Description" xml:space="preserve">
         <source>Read more about this and other updates to %@.</source>
+        <target>ስለዚህ እና ሌሎች የ%@ ዝማኔዎች የበለጠ ያንብቡ።</target>
         <note>Text for a label that indicates the description for release tip. The placeholder is replaced with the short product name (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.Release.Title" xml:space="preserve">
         <source>Why yes, we do have a fresh new look!</source>
+        <target>ለምን አዎ፣ አዲስ መልክ አለን!</target>
         <note>Text for a label that indicates the title for release tip.</note>
       </trans-unit>
       <trans-unit id="Tip.RequestDesktop.Description" xml:space="preserve">
         <source>Page Actions &gt; Request Desktop Site</source>
+        <target>ገጽ ድርጊቶች &gt; የዴስክቶፕ ድረ-ገፅ ጠይቅ</target>
         <note>Text for a label that indicates the description for request desktop tip.</note>
       </trans-unit>
       <trans-unit id="Tip.RequestDesktop.Title" xml:space="preserve">
