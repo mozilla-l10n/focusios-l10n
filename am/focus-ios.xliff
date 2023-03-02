@@ -602,6 +602,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData" xml:space="preserve">
         <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
+        <target>ሞዚላ %@ን ለሁሉም ሰው ለማቅረብ እና ለማሻሻል የሚያስፈልገንን ብቻ ለመሰብሰብ ይጥራል።</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextStudies" xml:space="preserve">
@@ -1050,6 +1051,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon.V2" xml:space="preserve">
         <source>Tap here to trash it all — history, cookies, everything — and start fresh on a new tab.</source>
+        <target>ሁሉንም - ታሪክን፣ ኩኪዎችን፣ ሁሉንም ነገር ለማጥፋት እዚህ ነካ ያድርጉ እና በአዲስ ትር ላይ ከእንደገና ይጀምሩ።</target>
         <note>This is the body text that is displayed for the Trash icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipTitleText.Privacy" xml:space="preserve">
@@ -1235,6 +1237,7 @@
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionsGalleryTitle" xml:space="preserve">
         <source>Quick Actions</source>
+        <target>ፈጣን እርምጃዎች</target>
         <note>Quick Actions title when widget enters edit mode</note>
       </trans-unit>
       <trans-unit id="TodayWidget.SearchInApp" xml:space="preserve">
