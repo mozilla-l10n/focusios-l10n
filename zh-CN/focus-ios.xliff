@@ -468,7 +468,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers" xml:space="preserve">
         <source>Tap Safari, then select Content Blockers</source>
-        <target>点按“Safari 浏览器”，然后选择“内容拦截器”</target>
+        <target>轻点“Safari 浏览器”，然后选择“内容拦截器”</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsEnable" xml:space="preserve">
@@ -883,7 +883,7 @@
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepTwo.V2" xml:space="preserve">
         <source>Tap on the plus icon.</source>
-        <target>点按加号（+）图标。</target>
+        <target>轻点加号（+）图标。</target>
         <note>This is the subtitle text for step two that is displayed in the Show Me How Onboarding Screen</note>
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.Title.V2" xml:space="preserve">
@@ -1038,22 +1038,22 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.ShieldIcon" xml:space="preserve">
         <source>%@ stopped this site from spying on you. Tap the shield for info on what we blocked.</source>
-        <target>%@ 已阻止此网站跟踪您，点按盾牌可了解已拦截的内容。</target>
+        <target>%@ 已阻止此网站跟踪您，轻点盾牌可了解已拦截的内容。</target>
         <note>This is the body text that is displayed for the Shield icon tooltip. Where placeholder can be (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.ShieldIconTrackerBlocked.V2" xml:space="preserve">
         <source>Got ‘em! We stopped this site from spying on you. Tap the shield any time to see what we’re blocking.</source>
-        <target>抓到了！我们已阻止此网站的跟踪，您可随时点按盾牌了解已拦截哪些内容。</target>
+        <target>抓到了！我们已阻止此网站的跟踪，您可随时轻点盾牌了解已拦截哪些内容。</target>
         <note>This is the body text that is displayed for the Shield icon tooltip when we block trackers for the first time on a website</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon" xml:space="preserve">
         <source>Tap the trash anytime to remove all traces of your current session.</source>
-        <target>随时点按垃圾桶，清除当前会话的全部痕迹。</target>
+        <target>随时轻点垃圾桶，清除当前会话的全部痕迹。</target>
         <note>This is the body text that is displayed for the Trash icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon.V2" xml:space="preserve">
         <source>Tap here to trash it all — history, cookies, everything — and start fresh on a new tab.</source>
-        <target>点按此处即可删除浏览记录、Cookie 等所有数据，并新建一个全新标签页。</target>
+        <target>轻点此处即可删除浏览记录、Cookie 等所有数据，并新建一个全新标签页。</target>
         <note>This is the body text that is displayed for the Trash icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipTitleText.Privacy" xml:space="preserve">
