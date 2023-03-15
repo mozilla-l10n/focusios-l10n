@@ -878,14 +878,17 @@
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepThree.V2" xml:space="preserve">
         <source>Search for %@. Then choose a widget.</source>
+        <target>%@ дип эзләү. Аннан соң виджетны сайлагыз.</target>
         <note>This is the subtitle text for step three that is displayed in the Show Me How onboarding screen. %@ is the name of the app (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepTwo.V2" xml:space="preserve">
         <source>Tap on the plus icon.</source>
+        <target>Плюс тамгасына басыгыз.</target>
         <note>This is the subtitle text for step two that is displayed in the Show Me How Onboarding Screen</note>
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.Title.V2" xml:space="preserve">
         <source>Add a %@ Widget</source>
+        <target>%@ виджетын өстәү</target>
         <note>This is the title text that is displayed in the Show Me How Onboarding Screen. %@ is the name of the app (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Siri.add" xml:space="preserve">
@@ -1015,14 +1018,17 @@
       </trans-unit>
       <trans-unit id="TodayWidget.SearchInApp.Instruction" xml:space="preserve">
         <source>Search in %@</source>
+        <target>%@ белән эзләү</target>
         <note>Text shown on quick action widget inviting the user to browse in the app. %@ is the name of the app (Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.ContextMenu" xml:space="preserve">
         <source>Go to Settings to manage specific privacy &amp; security options.</source>
+        <target>Аерым хосусыйлык һәм хәвефсезлек параметрлары белән идарә итү өчен көйләүләргә күчегез.</target>
         <note>This is the body text that is displayed for the Context Menu icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.Privacy" xml:space="preserve">
         <source>These default settings offer strong protection. But it’s easy to tweak the settings to meet your specific needs.</source>
+        <target>Бу стандарт көйләүләр көчле саклану тәэмин итә, ләкин ихтыяҗларыгызга күрә аларны үзгәртү җиңел.</target>
         <note>This is the body text that is displayed for the Privacy tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.SearchBar" xml:space="preserve">
