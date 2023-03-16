@@ -24,12 +24,12 @@
     <body>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
         <source>This lets you take and upload photos.</source>
-        <target>สิ่งนี้ช่วยให้คุณถ่ายและอัปโหลดรูปภาพ</target>
+        <target>สิ่งนี้ช่วยให้คุณถ่ายและอัปโหลดรูปถ่ายได้</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
         <source>This lets you unlock the app.</source>
-        <target>สิ่งนี้ช่วยให้คุณปลดล็อคแอป</target>
+        <target>สิ่งนี้ช่วยให้คุณปลดล็อกแอปได้</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
@@ -39,12 +39,12 @@
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
         <source>This lets you take and upload videos.</source>
-        <target>สิ่งนี้ช่วยให้คุณถ่ายและอัปโหลดวิดีโอ</target>
+        <target>สิ่งนี้ช่วยให้คุณถ่ายและอัปโหลดวิดีโอได้</target>
         <note>Privacy - Microphone Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
         <source>This lets you save and upload photos.</source>
-        <target>สิ่งนี้ช่วยให้คุณบันทึกและอัปโหลดรูปภาพ</target>
+        <target>สิ่งนี้ช่วยให้คุณบันทึกและอัปโหลดรูปถ่ายได้</target>
         <note>Privacy - Photo Library Additions Usage Description</note>
       </trans-unit>
       <trans-unit id="UIApplicationShortcutItemTitle.EraseAndOpen" xml:space="preserve">
@@ -61,7 +61,7 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description" xml:space="preserve">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
-        <target>ล้างประวัติ, รหัสผ่าน และคุกกี้ในวาระการท่องเว็บทั้งหมดของคุณได้ทุกเวลาด้วยการแตะครั้งเดียว</target>
+        <target>ล้างประวัติ รหัสผ่าน และคุกกี้ในวาระการเรียกดูเว็บทั้งหมดของคุณได้ทุกเวลาด้วยเพียงแตะเดียว</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title" xml:space="preserve">
@@ -1183,7 +1183,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel2" xml:space="preserve">
         <source>Enhanced Tracking Protection</source>
-        <target>การป้องกันการติดตามที่มากขึ้น</target>
+        <target>การป้องกันการติดตามแบบพิเศษ</target>
         <note>Text for the toggle that enables/disables tracking protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.trackersBlockedLabel" xml:space="preserve">
