@@ -423,7 +423,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.TopButtonTitle.V2" xml:space="preserve">
         <source>Set as Default Browser</source>
-        <target>Sett som standard nettleser</target>
+        <target>Bruk som standard nettleser</target>
         <note>Text for a label that indicates the title of the top button from the default browser onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="Onboarding.History.Description" xml:space="preserve">
@@ -668,7 +668,7 @@
       </trans-unit>
       <trans-unit id="Settings.setAsDefaultBrowser" xml:space="preserve">
         <source>Set as Default Browser</source>
-        <target>Sett som standard nettleser</target>
+        <target>Bruk som standard nettleser</target>
         <note>Label title for set as default browser row</note>
       </trans-unit>
       <trans-unit id="Settings.setAsDefaultBrowserDescription" xml:space="preserve">
