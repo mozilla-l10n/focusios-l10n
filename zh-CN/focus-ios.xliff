@@ -803,7 +803,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.RemoveShortcut.Confirm" xml:space="preserve">
         <source>Shortcut removed</source>
-        <target>快捷方式已移除</target>
+        <target>移除快捷方式</target>
         <note>Toast displayed to the user after removing the item from the Shortcuts.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop" xml:space="preserve">
