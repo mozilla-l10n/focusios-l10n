@@ -46,6 +46,7 @@ jobs:
 
           # Copy strings to other locales
           cp code_repo/focusios-l10n/en-US/*.xliff l10n_repo/en-US/
+          python l10n_repo/.github/scripts/translate_reference.py" --path l10n_repo/en-US
           python l10n_repo/.github/scripts/update_other_locales.py --reference en-US --path l10n_repo --type "${{ github.event.inputs.type }}"
       - name: Get the current date for PR title
         run: echo "current_date=$(date +"%Y-%m-%d")" >> $GITHUB_ENV
