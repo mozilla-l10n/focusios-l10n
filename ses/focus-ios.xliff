@@ -532,6 +532,10 @@
         <source>Learn more.</source>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
+      <trans-unit id="Settings.licenses" xml:space="preserve">
+        <source>Licenses</source>
+        <note>Lincese option in settings menu. Tapping the cell will take the user to a list of licences for the 3rd parties used in the app.</note>
+      </trans-unit>
       <trans-unit id="Settings.lightTheme" xml:space="preserve">
         <source>Light</source>
         <note>Light theme option in settings menu</note>
@@ -656,10 +660,6 @@
       <trans-unit id="Settings.useSystemTheme" xml:space="preserve">
         <source>Use System Light/Dark Mode</source>
         <note>Value for theme toggle in settings menu</note>
-      </trans-unit>
-      <trans-unit id="Settings.whatsNewTitle" xml:space="preserve">
-        <source>What’s New</source>
-        <note>Title for What's new screen</note>
       </trans-unit>
       <trans-unit id="Settinsg.siriShortcutsTitle" xml:space="preserve">
         <source>SIRI SHORTCUTS</source>
@@ -796,14 +796,6 @@
       <trans-unit id="Tip.BiometricTouchId.Description" xml:space="preserve">
         <source>Turn on Touch ID</source>
         <note>Text for a label that indicates the description for biometric Touch ID tip.</note>
-      </trans-unit>
-      <trans-unit id="Tip.Release.Description" xml:space="preserve">
-        <source>Read more about this and other updates to %@.</source>
-        <note>Text for a label that indicates the description for release tip. The placeholder is replaced with the short product name (Focus or Klar).</note>
-      </trans-unit>
-      <trans-unit id="Tip.Release.Title" xml:space="preserve">
-        <source>Why yes, we do have a fresh new look!</source>
-        <note>Text for a label that indicates the title for release tip.</note>
       </trans-unit>
       <trans-unit id="Tip.RequestDesktop.Description" xml:space="preserve">
         <source>Page Actions &gt; Request Desktop Site</source>
@@ -999,17 +991,6 @@
       <trans-unit id="trackingProtection.trackersHeader" xml:space="preserve">
         <source>Trackers and scripts to block</source>
         <note>Text for the header of trackers section from Tracking Protection.</note>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="Blockzilla/Settings.bundle/en.lproj/Root.strings" source-language="en" target-language="ses" datatype="plaintext">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0.1" build-num="14A400"/>
-    </header>
-    <body>
-      <trans-unit id="SettingsBundle.Licenses" xml:space="preserve">
-        <source>Licenses</source>
-        <note>The title of the Licenses setting in the settings that Focus shows in the global iOS Settings app.</note>
       </trans-unit>
     </body>
   </file>
