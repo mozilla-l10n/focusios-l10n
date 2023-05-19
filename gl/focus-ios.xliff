@@ -29,22 +29,27 @@
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
         <source>This lets you unlock the app.</source>
+        <target>Isto permítelle desbloquear a aplicación.</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
         <source>Websites you visit may request your location.</source>
+        <target>Os sitios web que visita poden solicitar a súa localización.</target>
         <note>Privacy - Location When In Use Usage Description</note>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
         <source>This lets you take and upload videos.</source>
+        <target>Isto permítelle facer vídeos e subilos.</target>
         <note>Privacy - Microphone Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
         <source>This lets you save and upload photos.</source>
+        <target>Isto permítelle gardar fotos e subilas.</target>
         <note>Privacy - Photo Library Additions Usage Description</note>
       </trans-unit>
       <trans-unit id="UIApplicationShortcutItemTitle.EraseAndOpen" xml:space="preserve">
         <source>Erase and Open</source>
+        <target>Borrar e abrir</target>
         <note>This is the menu item that appears when you long press the Focus icon on the phone home screen.</note>
       </trans-unit>
     </body>
@@ -56,26 +61,32 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description" xml:space="preserve">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
+        <target>Borre todo o seu historial de sesións de navegación, contrasinais e cookies en calquera momento cun só toque.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title" xml:space="preserve">
         <source>Your history is history</source>
+        <target>A súa historia é historia</target>
         <note>Title for the third  panel 'History' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Next.Button" xml:space="preserve">
         <source>Next</source>
+        <target>Seguinte</target>
         <note>Button to go to the next card in Focus onboarding.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description" xml:space="preserve">
         <source>Searching for something different? Choose a different search engine.</source>
+        <target>Busca algo diferente? Escolla un motor de busca diferente.</target>
         <note>Description for the 'Favorite Search Engine' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Title" xml:space="preserve">
         <source>Your search, your way</source>
+        <target>As súas buscas, ao seu modo</target>
         <note>Title for the second  panel 'Search' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Skip.Button" xml:space="preserve">
         <source>Skip</source>
+        <target>Saltar</target>
         <note>Button to skip onboarding in Focus</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description" xml:space="preserve">
