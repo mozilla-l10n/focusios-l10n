@@ -106,6 +106,7 @@
     <body>
       <trans-unit id="About.learnMoreButton" xml:space="preserve">
         <source>Learn more</source>
+        <target>Máis información</target>
         <note>Button on About screen</note>
       </trans-unit>
       <trans-unit id="About.missionLabel" xml:space="preserve">
@@ -130,14 +131,17 @@
       </trans-unit>
       <trans-unit id="About.rowHelp" xml:space="preserve">
         <source>Help</source>
+        <target>Axuda</target>
         <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.rowPrivacy" xml:space="preserve">
         <source>Privacy Notice</source>
+        <target>Política de privacidade</target>
         <note>Link to Privacy Notice in the About screen</note>
       </trans-unit>
       <trans-unit id="About.rowRights" xml:space="preserve">
         <source>Your Rights</source>
+        <target>Os seus dereitos</target>
         <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet1" xml:space="preserve">
