@@ -437,6 +437,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.Incognito.Title" xml:space="preserve">
         <source>More than just incognito</source>
+        <target>Máis que de incógnito</target>
         <note>Text for a label that indicates the title of incognito section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Description" xml:space="preserve">
@@ -445,6 +446,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Title" xml:space="preserve">
         <source>Protection at your own discretion</source>
+        <target>Protección á súa propia discreción</target>
         <note>Text for a label that indicates the title of protection section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Subtitle" xml:space="preserve">
@@ -453,18 +455,22 @@
       </trans-unit>
       <trans-unit id="Onboarding.Title" xml:space="preserve">
         <source>Welcome to Firefox %@!</source>
+        <target>Benvida ao Firefox %@!</target>
         <note>Text for a label that indicates the title for onboarding screen. Placeholder can be (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers" xml:space="preserve">
         <source>Tap Safari, then select Content Blockers</source>
+        <target>Toque Safari e seleccione Bloqueadores de contido</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsEnable" xml:space="preserve">
         <source>Enable %@</source>
+        <target>Activar %@</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsExtentions" xml:space="preserve">
         <source>Select Safari, then select Extensions</source>
+        <target>Seleccione Safari e, a continuación, seleccione Extensións</target>
         <note>Label for instructions to enable extensions in Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsNotEnabled" xml:space="preserve">
