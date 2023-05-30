@@ -1133,7 +1133,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="ContentBlocker/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="hi-IN">
+  <file original="ContentBlocker/en.lproj/InfoPlist.strings" source-language="en" target-language="hi-IN" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0.1" build-num="14A400"/>
     </header>
