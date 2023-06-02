@@ -12,7 +12,8 @@
         "brand_names": [
             "Firefox",
             "Focus",
-            "Klar"
+            "Klar",
+            "Pocket"
         ],
         "exclusions": [
             "focus-ios.xliff:Onboarding.Title",
