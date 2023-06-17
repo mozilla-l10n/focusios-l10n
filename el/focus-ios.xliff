@@ -913,7 +913,7 @@
       </trans-unit>
       <trans-unit id="Siri.eraseAndOpen" xml:space="preserve">
         <source>Erase &amp; Open</source>
-        <target>Διαγραφή &amp; άνοιγμα</target>
+        <target>Διαγραφή και άνοιγμα</target>
         <note>Title of option in settings to set up Siri to erase and then open the app.</note>
       </trans-unit>
       <trans-unit id="Siri.favoriteUrl" xml:space="preserve">
@@ -1058,7 +1058,7 @@
       </trans-unit>
       <trans-unit id="URL.contextMenu" xml:space="preserve">
         <source>Paste &amp; Go</source>
-        <target>Επικόλληση &amp; μετάβαση</target>
+        <target>Επικόλληση και μετάβαση</target>
         <note>Text for the URL context menu when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
       <trans-unit id="URL.eraseButtonLabel" xml:space="preserve">
