@@ -328,7 +328,7 @@
       </trans-unit>
       <trans-unit id="Error.tryAgainButton" xml:space="preserve">
         <source>Try again</source>
-        <target>යළි උත්සාහය</target>
+        <target>නැවත</target>
         <note>Button label to reload the error page</note>
       </trans-unit>
       <trans-unit id="ExternalAppLink.cancelTitle" xml:space="preserve">
