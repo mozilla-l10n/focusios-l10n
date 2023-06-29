@@ -723,12 +723,12 @@
       </trans-unit>
       <trans-unit id="Settings.toggleFaceID" xml:space="preserve">
         <source>Use Face ID to unlock app</source>
-        <target>යෙදුම අගුළු ඇරීමට මුහුණු හැඳු.</target>
+        <target>යෙදුම අගුළු ඇරීමට මුහුණේ හැඳු.</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceIDDescription" xml:space="preserve">
         <source>Face ID can unlock %@ if a URL is already open in the app</source>
-        <target>ඒ.ස.නි. දැනටමත් යෙදුම තුළ විවෘත නම් මුහුණු හැඳු. මගින් %@ අගුළු හැරීමට හැකිය</target>
+        <target>ඒ.ස.නි. දැනටමත් යෙදුම තුළ විවෘත නම් මුහුණේ හැඳු. මගින් %@ අගුළු හැරීමට හැකිය</target>
         <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.toggleHomeScreenTips" xml:space="preserve">
@@ -936,7 +936,7 @@
       </trans-unit>
       <trans-unit id="Tip.BiometricFaceId.Description" xml:space="preserve">
         <source>Turn on Face ID</source>
-        <target>මුහුණු හැඳු. සක්‍රිය කරන්න</target>
+        <target>මුහුණක හැඳු. සක්‍රිය කරන්න</target>
         <note>Text for a label that indicates the description for biometric Face ID tip.</note>
       </trans-unit>
       <trans-unit id="Tip.BiometricTouchId.Description" xml:space="preserve">
