@@ -1043,6 +1043,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon.V2" xml:space="preserve">
         <source>Tap here to trash it all — history, cookies, everything — and start fresh on a new tab.</source>
+        <target>Stokañ amañ da zilemel pep tra — roll istor, toupinoù, pep tra — ha loc'hañ en-dro en un ivinell nevez.</target>
         <note>This is the body text that is displayed for the Trash icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipTitleText.Privacy" xml:space="preserve">
@@ -1193,6 +1194,7 @@
     <body>
       <trans-unit id="NSHumanReadableDescription" xml:space="preserve">
         <source>Content blocking and tracking protection from Mozilla</source>
+        <target>Stankadur endalc'had ha gwarez heuliañ gant Mozilla.</target>
         <note>Human readable description</note>
       </trans-unit>
     </body>
@@ -1204,6 +1206,7 @@
     <body>
       <trans-unit id="TodayWidget.QuickActionGalleryDescription" xml:space="preserve">
         <source>Add a %@ shortcut to your Home screen. After adding the widget, touch and hold to edit it and select a different shortcut.</source>
+        <target>Ouzhpennit ur verradenn %@ d’ho skramm degemer. Goude bezañ ouzhpennet ar widjed, stokit ha dalc’hit evit kemmañ ha diuzit ur verradenn all.</target>
         <note>Description for small size widget to add it to home screen. %@ is the name of the app(Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionGalleryDescriptionV2" xml:space="preserve">
