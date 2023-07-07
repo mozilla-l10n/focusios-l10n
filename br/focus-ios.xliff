@@ -1195,7 +1195,7 @@
     <body>
       <trans-unit id="NSHumanReadableDescription" xml:space="preserve">
         <source>Content blocking and tracking protection from Mozilla</source>
-        <target>Stankadur endalc'had ha gwarez heuliañ gant Mozilla.</target>
+        <target>Stankadur endalc’had ha gwarez heuliañ gant Mozilla</target>
         <note>Human readable description</note>
       </trans-unit>
     </body>
