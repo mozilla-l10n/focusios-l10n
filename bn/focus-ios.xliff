@@ -39,17 +39,17 @@
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
         <source>This lets you take and upload videos.</source>
-        <target>এটা আপনাকে ভিডিও নেওয়া এবং আপোলড করার সুযোগ দেবে।</target>
+        <target>এটি আপনাকে ভিডিও রেকর্ডিং এবং সেটি আপলোড করতে দেয়।</target>
         <note>Privacy - Microphone Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
         <source>This lets you save and upload photos.</source>
-        <target>এটা আপনাকে ছবি সংরক্ষণ এবং আপলোড করার সুযোগ দেবে।</target>
+        <target>এটি আপনাকে ছবি সংরক্ষণ এবং আপলোড করতে দেয়।</target>
         <note>Privacy - Photo Library Additions Usage Description</note>
       </trans-unit>
       <trans-unit id="UIApplicationShortcutItemTitle.EraseAndOpen" xml:space="preserve">
         <source>Erase and Open</source>
-        <target>মুছুন এবং খুলুন</target>
+        <target>মুছে ফেলুন এবং খুলুন</target>
         <note>This is the menu item that appears when you long press the Focus icon on the phone home screen.</note>
       </trans-unit>
     </body>
