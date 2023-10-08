@@ -7,6 +7,7 @@
     <body>
       <trans-unit id="Intents.Erase.Description" xml:space="preserve">
         <source>Erase browsing session</source>
+        <target>ব্রাউজ করা সেশন মুছে ফেলুন</target>
         <note/>
       </trans-unit>
       <trans-unit id="Intents.Erase.Title" xml:space="preserve">
@@ -23,12 +24,12 @@
     <body>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
         <source>This lets you take and upload photos.</source>
-        <target>এটা আপনাকে ছবি তোলা এবং আপলোড করার সুযোগ দেবে।</target>
+        <target>এটি আপনাকে ছবি তুলতে এবং আপলোড করতে দেয়।</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
         <source>This lets you unlock the app.</source>
-        <target>এইটা আপনাকে অ্যাপলিকেশন আনলক করতে দেয়।</target>
+        <target>এটি আপনাকে অ্যাপ এর লক খুলতে দেয়।</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
