@@ -34,7 +34,7 @@
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
         <source>Websites you visit may request your location.</source>
-        <target>যেসকল ওয়েবসাইটগুলি আপনি দেখছেন, সেগুলো আপনার অবস্থান জানতে চাইতে পারে।</target>
+        <target>যেসব ওয়েবসাইট আপনি দেখছেন সেসব আপনার অবস্থান জানতে চাইতে পারে।</target>
         <note>Privacy - Location When In Use Usage Description</note>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
