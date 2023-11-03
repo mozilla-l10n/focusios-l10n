@@ -39,12 +39,12 @@
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
         <source>This lets you take and upload videos.</source>
-        <target>Επιτρέπει τη λήψη και μεταφόρτωση βίντεο.</target>
+        <target>Επιτρέπει τη λήψη και τη μεταφόρτωση βίντεο.</target>
         <note>Privacy - Microphone Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
         <source>This lets you save and upload photos.</source>
-        <target>Επιτρέπει την αποθήκευση και μεταφόρτωση φωτογραφιών.</target>
+        <target>Επιτρέπει την αποθήκευση και τη μεταφόρτωση φωτογραφιών.</target>
         <note>Privacy - Photo Library Additions Usage Description</note>
       </trans-unit>
       <trans-unit id="UIApplicationShortcutItemTitle.EraseAndOpen" xml:space="preserve">
