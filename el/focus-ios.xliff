@@ -24,7 +24,7 @@
     <body>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
         <source>This lets you take and upload photos.</source>
-        <target>Επιτρέπει τη λήψη και μεταφόρτωση φωτογραφιών.</target>
+        <target>Επιτρέπει τη λήψη και τη μεταφόρτωση φωτογραφιών.</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
@@ -34,7 +34,7 @@
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
         <source>Websites you visit may request your location.</source>
-        <target>Οι ιστότοποι ενδέχεται να ζητήσουν την τοποθεσία σας.</target>
+        <target>Οι ιστότοποι που επισκέπτεστε ενδέχεται να ζητήσουν την τοποθεσία σας.</target>
         <note>Privacy - Location When In Use Usage Description</note>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
