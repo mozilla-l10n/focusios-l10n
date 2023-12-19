@@ -61,7 +61,7 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description" xml:space="preserve">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
-        <target>Απαλοιφή ιστορικού περιήγησης, κωδικών πρόσβασης, cookies ανά πάσα στιγμή, με ένα πάτημα.</target>
+        <target>Απαλοιφή ιστορικού περιήγησης, κωδικών πρόσβασης, cookie ανά πάσα στιγμή, με ένα πάτημα.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title" xml:space="preserve">
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet3" xml:space="preserve">
         <source>Erase to delete cookies as well as search and browsing history</source>
-        <target>Διαγραφή των cookies και του ιστορικού αναζητήσεων και περιήγησης</target>
+        <target>Διαγραφή των cookie και του ιστορικού αναζητήσεων και περιήγησης</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader" xml:space="preserve">
@@ -428,7 +428,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.History.Description" xml:space="preserve">
         <source>Erase your browsing history, passwords, cookies, and prevent unwanted ads from following you in a simple click!</source>
-        <target>Διαγράψτε το ιστορικό περιήγησης, τους κωδικούς πρόσβασης, τα cookies σας και αποτρέψτε την καταγραφή από ανεπιθύμητες διαφημίσεις με ένα μόνο πάτημα!</target>
+        <target>Διαγράψτε το ιστορικό περιήγησης, τους κωδικούς πρόσβασης, τα cookie σας και αποτρέψτε την καταγραφή από ανεπιθύμητες διαφημίσεις με ένα μόνο πάτημα!</target>
         <note>Text for a label that indicates the description of history section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.History.Title" xml:space="preserve">
@@ -1043,7 +1043,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon.V2" xml:space="preserve">
         <source>Tap here to trash it all — history, cookies, everything — and start fresh on a new tab.</source>
-        <target>Πατήστε εδώ για να τα διαγράψετε όλα — ιστορικό, cookies, τα πάντα — και ξεκινήστε από την αρχή σε μια νέα καρτέλα.</target>
+        <target>Πατήστε εδώ για να τα διαγράψετε όλα — ιστορικό, cookie, τα πάντα — και ξεκινήστε από την αρχή σε μια νέα καρτέλα.</target>
         <note>This is the body text that is displayed for the Trash icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipTitleText.Privacy" xml:space="preserve">
