@@ -44,7 +44,7 @@
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
         <source>This lets you save and upload photos.</source>
-        <target>让您可以保存和上传照片。</target>
+        <target>让您可以存储和上传照片。</target>
         <note>Privacy - Photo Library Additions Usage Description</note>
       </trans-unit>
       <trans-unit id="UIApplicationShortcutItemTitle.EraseAndOpen" xml:space="preserve">
@@ -498,7 +498,7 @@
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
         <source>Save</source>
-        <target>保存</target>
+        <target>存储</target>
         <note>Save button label</note>
       </trans-unit>
       <trans-unit id="SearchEngine.addEngineError" xml:space="preserve">
@@ -858,7 +858,7 @@
       </trans-unit>
       <trans-unit id="ShortcutView.RenameShortcutAlertPrimaryAction" xml:space="preserve">
         <source>Save</source>
-        <target>保存</target>
+        <target>存储</target>
         <note>Text for the rename shortcut alert primary action.</note>
       </trans-unit>
       <trans-unit id="ShortcutView.RenameShortcutAlertSecondaryAction" xml:space="preserve">
