@@ -353,7 +353,7 @@
       </trans-unit>
       <trans-unit id="ExternalLink.emailButton" xml:space="preserve">
         <source>Email</source>
-        <target>Poslať e-mail</target>
+        <target>Poslať e‑mail</target>
         <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="FindInPage.Done" xml:space="preserve">
@@ -678,7 +678,7 @@
       </trans-unit>
       <trans-unit id="Settings.setAsDefaultBrowserDescription" xml:space="preserve">
         <source>Set links from websites, emails and messages to open automatically in %@.</source>
-        <target>Nastavte si automatické otváranie webových stránok, e-mailov a správ vo %@e.</target>
+        <target>Nastavte si automatické otváranie webových stránok, e‑mailov a správ vo %@e.</target>
         <note>%@ is the name of the app. Description for set as default browser option</note>
       </trans-unit>
       <trans-unit id="Settings.systemTheme" xml:space="preserve">
