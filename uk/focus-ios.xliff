@@ -61,7 +61,7 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description" xml:space="preserve">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
-        <target>Будь-коли стирайте всю історію перегляду, паролі та куки одним дотиком.</target>
+        <target>Будь-коли стирайте всю історію перегляду, паролі та файли cookie одним дотиком.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title" xml:space="preserve">
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet3" xml:space="preserve">
         <source>Erase to delete cookies as well as search and browsing history</source>
-        <target>Стирайте для видалення куків, а також історії пошуку й перегляду</target>
+        <target>Видаліть файли cookie, а також історію пошуку й перегляду</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader" xml:space="preserve">
@@ -428,7 +428,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.History.Description" xml:space="preserve">
         <source>Erase your browsing history, passwords, cookies, and prevent unwanted ads from following you in a simple click!</source>
-        <target>Зітріть історію перегляду, паролі, куки, щоб запобігти стеженню за вами небажаною рекламою, одним натиском!</target>
+        <target>Зітріть історію перегляду, паролі, файли cookie, щоб запобігти стеженню за вами небажаною рекламою, одним дотиком!</target>
         <note>Text for a label that indicates the description of history section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.History.Title" xml:space="preserve">
@@ -1043,7 +1043,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon.V2" xml:space="preserve">
         <source>Tap here to trash it all — history, cookies, everything — and start fresh on a new tab.</source>
-        <target>Торкніться тут, щоб стерти все — історію, куки й інші дані — та розпочніть начисто у новій вкладці.</target>
+        <target>Торкніться тут, щоб стерти все – історію, файли cookie й інші дані – та розпочніть начисто у новій вкладці.</target>
         <note>This is the body text that is displayed for the Trash icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipTitleText.Privacy" xml:space="preserve">
