@@ -408,7 +408,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.FirstSubtitle.V2" xml:space="preserve">
         <source>We clear your history when you close the app for extra privacy.</source>
-        <target>隐私保护考量，我们会在您关闭应用程序时，自动清除浏览记录。</target>
+        <target>我们会在您关闭应用时自动清除浏览历史，以增强隐私保护。</target>
         <note>Text for a label that indicates the first subtitle for the default browser onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.SecondSubtitle.V2" xml:space="preserve">
@@ -1043,7 +1043,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon.V2" xml:space="preserve">
         <source>Tap here to trash it all — history, cookies, everything — and start fresh on a new tab.</source>
-        <target>轻点此处即可删除浏览记录、Cookie 等所有数据，并新建一个全新标签页。</target>
+        <target>轻点此处即可删除历史记录、Cookie 等所有数据，并新建一个全新标签页。</target>
         <note>This is the body text that is displayed for the Trash icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipTitleText.Privacy" xml:space="preserve">
