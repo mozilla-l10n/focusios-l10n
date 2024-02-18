@@ -86,7 +86,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Skip.Button" xml:space="preserve">
         <source>Skip</source>
-        <target>Saltar</target>
+        <target>Ignorar</target>
         <note>Button to skip onboarding in Focus</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description" xml:space="preserve">
@@ -318,7 +318,7 @@
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
-        <target>Feito</target>
+        <target>Concluído</target>
         <note>Label on button to complete edits</note>
       </trans-unit>
       <trans-unit id="Edit" xml:space="preserve">
@@ -358,7 +358,7 @@
       </trans-unit>
       <trans-unit id="FindInPage.Done" xml:space="preserve">
         <source>Find in page done</source>
-        <target>Localizar na página feito</target>
+        <target>Localizar na página concluído</target>
         <note>Accessibility label for done button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.NextResult" xml:space="preserve">
