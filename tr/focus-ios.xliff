@@ -1048,7 +1048,7 @@
       </trans-unit>
       <trans-unit id="TooltipTitleText.Privacy" xml:space="preserve">
         <source>You’re protected! </source>
-        <target>Koruma altındasınız!</target>
+        <target>Koruma altındasınız! </target>
         <note>This is the title text that is displayed for the Privacy tooltip</note>
       </trans-unit>
       <trans-unit id="URL.addToAutocompleteLabel" xml:space="preserve">
