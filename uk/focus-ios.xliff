@@ -76,7 +76,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description" xml:space="preserve">
         <source>Searching for something different? Choose a different search engine.</source>
-        <target>Шукаєте щось інше? Оберіть інший пошуковий засіб.</target>
+        <target>Шукаєте щось інше? Оберіть іншу пошукову систему.</target>
         <note>Description for the 'Favorite Search Engine' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Title" xml:space="preserve">
@@ -503,7 +503,7 @@
       </trans-unit>
       <trans-unit id="SearchEngine.addEngineError" xml:space="preserve">
         <source>That didn’t work. Try replacing the search term with this: %s.</source>
-        <target>Це не спрацювало. Спробуйте замінити пошуковий запит цим: %s.</target>
+        <target>Це не спрацювало. Спробуйте змінити пошуковий запит цим: %s.</target>
         <note>Label for error state when entering an invalid search engine URL. %s is a search term in a URL.</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptDisable" xml:space="preserve">
@@ -518,7 +518,7 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptMessage" xml:space="preserve">
         <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
-        <target>Для отримання пропозицій %@ повинен відправляти введений в адресному рядку текст провайдеру пошуку.</target>
+        <target>Для отримання пропозицій %@ повинен відправляти пошуковій системі введений в адресному рядку текст.</target>
         <note>%@ is the name of the app (Focus / Klar). Label for search suggestions prompt message</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptTitle" xml:space="preserve">
@@ -528,17 +528,17 @@
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton" xml:space="preserve">
         <source>Add Another Search Engine</source>
-        <target>Додати інший засіб пошуку</target>
+        <target>Додати іншу пошукову систему</target>
         <note>Text for button to add another search engine in settings</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineTitle" xml:space="preserve">
         <source>Add Search Engine</source>
-        <target>Додати засіб пошуку</target>
+        <target>Додати пошукову систему</target>
         <note>Title on add search engine settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.Search.InstalledSearchEngines" xml:space="preserve">
         <source>INSTALLED SEARCH ENGINES</source>
-        <target>ВСТАНОВЛЕНІ ЗАСОБИ ПОШУКУ</target>
+        <target>ВСТАНОВЛЕНІ ПОШУКОВІ СИСТЕМИ</target>
         <note>Header for rows of installed search engines</note>
       </trans-unit>
       <trans-unit id="Settings.Search.NameToDisplay" xml:space="preserve">
@@ -548,17 +548,17 @@
       </trans-unit>
       <trans-unit id="Settings.Search.NewSearchEngineAdded" xml:space="preserve">
         <source>New Search Engine Added.</source>
-        <target>Новий засіб пошуку додано.</target>
+        <target>Нову пошукову систему додано.</target>
         <note>Toast displayed after adding a search engine</note>
       </trans-unit>
       <trans-unit id="Settings.Search.RestoreEngine" xml:space="preserve">
         <source>Restore Default Search Engines</source>
-        <target>Відновити типові засоби пошуку</target>
+        <target>Відновити типові пошукові системи</target>
         <note>Label for button to bring deleted default engines back</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchEngineName" xml:space="preserve">
         <source>Search engine name</source>
-        <target>Назва засобу пошуку</target>
+        <target>Назва пошукової системи</target>
         <note>Placeholder text for input of new search engine name</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplate" xml:space="preserve">
@@ -598,7 +598,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
         <source>%@ will send what you type in the address bar to your search engine.</source>
-        <target>%@ відправлятиме провайдеру пошуку текст, введений в адресному рядку.</target>
+        <target>%@ відправлятиме пошуковій системі текст, введений в адресному рядку.</target>
         <note>Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData" xml:space="preserve">
@@ -648,7 +648,7 @@
       </trans-unit>
       <trans-unit id="Settings.searchLabel" xml:space="preserve">
         <source>Search Engine</source>
-        <target>Засіб пошуку</target>
+        <target>Пошукова система</target>
         <note>Label for the search engine in the search screen</note>
       </trans-unit>
       <trans-unit id="Settings.searchSuggestions" xml:space="preserve">
@@ -1212,7 +1212,7 @@
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionGalleryDescriptionV2" xml:space="preserve">
         <source>Start a private search in %@ with your default search engine.</source>
-        <target>Почніть приватний пошук у %@ за допомогою типового пошукового засобу.</target>
+        <target>Почніть приватний пошук у %@ за допомогою типової пошукової системи.</target>
         <note>Description for small size widget to add it to home screen. %@ is the name of the app(Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionsGalleryTitle" xml:space="preserve">
