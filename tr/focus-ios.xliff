@@ -123,7 +123,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet2" xml:space="preserve">
         <source>Block trackers (or update settings to allow trackers)</source>
-        <target>Takipçileri engelleyebilirsiniz (veya belli takipçilere izin verebilirsiniz)</target>
+        <target>Takip kodlarını engelleyebilirsiniz (veya belli takip kodlarına izin verebilirsiniz)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3" xml:space="preserve">
@@ -153,7 +153,7 @@
       </trans-unit>
       <trans-unit id="About.safariBullet1" xml:space="preserve">
         <source>Block trackers for improved privacy</source>
-        <target>Gizliliğinizi artırmak için takipçileri engelleyebilirsiniz</target>
+        <target>Gizliliğinizi artırmak için takip kodlarını engelleyebilirsiniz</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2" xml:space="preserve">
@@ -578,7 +578,7 @@
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage" xml:space="preserve">
         <source>Blocking other content trackers may break some videos and web pages.</source>
-        <target>Diğer içerik takipçilerini engellemek bazı videoları ve web sayfalarını bozabilir.</target>
+        <target>Diğer içerik takip kodlarını engellemek bazı videoları ve web sayfalarını bozabilir.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo2" xml:space="preserve">
@@ -588,7 +588,7 @@
       </trans-unit>
       <trans-unit id="Settings.blockOtherYes2" xml:space="preserve">
         <source>Block Content Trackers</source>
-        <target>İçerik takipçilerini engelle</target>
+        <target>İçerik takip kodlarını engelle</target>
         <note>Button label for accepting Content blocker alert</note>
       </trans-unit>
       <trans-unit id="Settings.darkTheme" xml:space="preserve">
@@ -958,7 +958,7 @@
       </trans-unit>
       <trans-unit id="Tip.ShareTrackers.Description" xml:space="preserve">
         <source>%@ trackers blocked so far</source>
-        <target>Şimdiye kadar %@ takipçi engellendi</target>
+        <target>Şimdiye kadar %@ takip kodu engellendi</target>
         <note>Text for a label that indicates the description for share trackers tip. The placeholder is the number of trackers blocked. Only shown when there are more than 10 trackers blocked. For locales where we would need plural support, please feel free to translate this string as `Trackers blocked so far: %@` instead.</note>
       </trans-unit>
       <trans-unit id="Tip.ShareTrackers.Title" xml:space="preserve">
@@ -1093,7 +1093,7 @@
       </trans-unit>
       <trans-unit id="URL.trackersBlockedLabel" xml:space="preserve">
         <source>Trackers blocked</source>
-        <target>Engellenen takipçi</target>
+        <target>Engellenen takip kodu</target>
         <note>Text for the URL bar showing the number of trackers blocked on a webpage.</note>
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.ActionButton" xml:space="preserve">
@@ -1178,12 +1178,12 @@
       </trans-unit>
       <trans-unit id="trackingProtection.trackersBlockedLabel" xml:space="preserve">
         <source>Trackers blocked since %@</source>
-        <target>%@ tarihinden beri engellenen takipçi</target>
+        <target>%@ tarihinden beri engellenen takip kodu</target>
         <note>Text for tracking protection screen showing the number of trackers blocked since the app install. The placeholder is replaced with the install date of the application.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.trackersHeader" xml:space="preserve">
         <source>Trackers and scripts to block</source>
-        <target>ENGELLENECEK TAKİPÇİLER VE BETİKLER</target>
+        <target>ENGELLENECEK TAKİP KODLARI VE BETİKLER</target>
         <note>Text for the header of trackers section from Tracking Protection.</note>
       </trans-unit>
     </body>
