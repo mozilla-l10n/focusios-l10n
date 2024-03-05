@@ -25,7 +25,7 @@ jobs:
       - name: Clone main code repository
         uses: actions/checkout@v4
         with:
-          repository: "mozilla-mobile/focus-ios"
+          repository: "mozilla-mobile/firefox-ios"
           path: "code_repo"
       - name: Select Xcode ${{ matrix.xcode }}
         run: |

@@ -107,7 +107,7 @@ def main():
         },
         "focus": {
             "name": "Focus for iOS",
-            "github_repo": "mozilla-mobile/focus-ios",
+            "github_repo": "mozilla-mobile/firefox-ios",
             "github_path": "focus-ios/Blockzilla",
             "pontoon_slug": "focus-for-ios",
         },
