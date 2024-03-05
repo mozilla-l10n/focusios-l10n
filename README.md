@@ -2,7 +2,7 @@
 
 This repository hosts the localization for the Focus by Firefox project for iOS.
 
-The application code with build instructions can be found at https://github.com/mozilla-mobile/focus-ios
+The application code with build instructions can be found at https://github.com/mozilla-mobile/firefox-ios
 
 Localization only happens via [Pontoon](https://pontoon.mozilla.org/projects/focus-for-ios/).
 
