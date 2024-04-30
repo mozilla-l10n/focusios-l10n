@@ -808,7 +808,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop" xml:space="preserve">
         <source>Request Desktop Site</source>
-        <target>Yêu cầu trang web trên máy tính</target>
+        <target>Yêu cầu trang web cho máy tính</target>
         <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RequestMobile" xml:space="preserve">
@@ -948,12 +948,12 @@
       </trans-unit>
       <trans-unit id="Tip.RequestDesktop.Description" xml:space="preserve">
         <source>Page Actions &gt; Request Desktop Site</source>
-        <target>Hành động trang&gt; Yêu cầu trang web trên máy tính</target>
+        <target>Hành động trang &gt; Yêu cầu trang web cho máy tính</target>
         <note>Text for a label that indicates the description for request desktop tip.</note>
       </trans-unit>
       <trans-unit id="Tip.RequestDesktop.Title" xml:space="preserve">
         <source>Want to see the full desktop version of a site?</source>
-        <target>Bạn muốn xem phiên bản máy tính để bàn đầy đủ của một trang web?</target>
+        <target>Bạn muốn xem phiên bản cho máy tính của một trang web?</target>
         <note>Text for a label that indicates the title for request desktop tip.</note>
       </trans-unit>
       <trans-unit id="Tip.ShareTrackers.Description" xml:space="preserve">
