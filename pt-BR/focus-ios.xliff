@@ -1058,7 +1058,7 @@
       </trans-unit>
       <trans-unit id="URL.contextMenu" xml:space="preserve">
         <source>Paste &amp; Go</source>
-        <target>Colar e ir</target>
+        <target>Colar e abrir</target>
         <note>Text for the URL context menu when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
       <trans-unit id="URL.eraseButtonLabel" xml:space="preserve">
