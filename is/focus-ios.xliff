@@ -1083,7 +1083,7 @@
       </trans-unit>
       <trans-unit id="URL.placeholderText" xml:space="preserve">
         <source>Search or enter address</source>
-        <target>Leitaðu eða sláðu inn vistfang</target>
+        <target>Leitaðu eða settu inn vistfang</target>
         <note>Placeholder text shown in the URL bar before the user navigates to a page</note>
       </trans-unit>
       <trans-unit id="URL.searchLabel" xml:space="preserve">
