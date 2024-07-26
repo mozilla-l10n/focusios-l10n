@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customUrlAdded" xml:space="preserve">
         <source>New Custom URL added.</source>
-        <target>Novu indirizzu persunalizatu aghjuntu.</target>
+        <target>L’indirizzu web persunalizatu novu hè aghjuntu.</target>
         <note>Label for toast alerting a custom URL has been added</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin" xml:space="preserve">
@@ -283,7 +283,7 @@
       </trans-unit>
       <trans-unit id="BiometricPrompt.newSession" xml:space="preserve">
         <source>New Session</source>
-        <target>Nova sessione</target>
+        <target>Sessione nova</target>
         <note>Create a new session after failing a biometric check</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel" xml:space="preserve">
@@ -548,7 +548,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.NewSearchEngineAdded" xml:space="preserve">
         <source>New Search Engine Added.</source>
-        <target>Novu mutore di ricerca aghjuntu.</target>
+        <target>U mutore di ricerca novu hè aghjuntu.</target>
         <note>Toast displayed after adding a search engine</note>
       </trans-unit>
       <trans-unit id="Settings.Search.RestoreEngine" xml:space="preserve">
