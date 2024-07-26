@@ -123,7 +123,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet2" xml:space="preserve">
         <source>Block trackers (or update settings to allow trackers)</source>
-        <target>Bluccate i perseguitatori (o mudificate e preferenze per auturizalli)</target>
+        <target>Bluccate i perseguitatori (o mudificate i parametri per auturizalli)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3" xml:space="preserve">
@@ -308,7 +308,7 @@
       </trans-unit>
       <trans-unit id="Browser.settingsLabel" xml:space="preserve">
         <source>Settings</source>
-        <target>Preferenze</target>
+        <target>Parametri</target>
         <note>Accessibility label for the settings button</note>
       </trans-unit>
       <trans-unit id="Browser.stopLabel" xml:space="preserve">
@@ -448,7 +448,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Description" xml:space="preserve">
         <source>Configure settings so you can decide how much or how little you share.</source>
-        <target>Cunfigureghja e preferenze per sceglie s’è vò scumpartite assai o pocu.</target>
+        <target>Cunfigureghja i parametri per sceglie s’è vò scumpartite assai o pocu.</target>
         <note>Text for a label that indicates the description of protection section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Title" xml:space="preserve">
@@ -488,12 +488,12 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsOpen" xml:space="preserve">
         <source>Open Settings App</source>
-        <target>Aprite e preferenze</target>
+        <target>Aprite i parametri</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.openInstruction" xml:space="preserve">
         <source>Open device settings</source>
-        <target>Aprite e preferenze di l’apparechju</target>
+        <target>Aprite i parametri di l’apparechju</target>
         <note>Label for instructions to enable extensions in Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
@@ -643,7 +643,7 @@
       </trans-unit>
       <trans-unit id="Settings.screenTitle" xml:space="preserve">
         <source>Settings</source>
-        <target>Preferenze</target>
+        <target>Parametri</target>
         <note>Title for settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.searchLabel" xml:space="preserve">
@@ -1013,12 +1013,12 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.ContextMenu" xml:space="preserve">
         <source>Go to Settings to manage specific privacy &amp; security options.</source>
-        <target>Andà à e preferenze per urganizà l’ozzioni specifiche di cunfidenzialità è di sicurità.</target>
+        <target>Andà à i parametri per urganizà l’ozzioni specifiche di cunfidenzialità è di sicurità.</target>
         <note>This is the body text that is displayed for the Context Menu icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.Privacy" xml:space="preserve">
         <source>These default settings offer strong protection. But it’s easy to tweak the settings to meet your specific needs.</source>
-        <target>Ste preferenze predefinite furniscenu una prutezzione forte. Ma hè faciule di mudificalle per suddisfà i vostri bisogni specifichi.</target>
+        <target>Sti parametri predefiniti furniscenu una prutezzione forte. Ma hè faciule di mudificalli per suddisfà i vostri bisogni specifichi.</target>
         <note>This is the body text that is displayed for the Privacy tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.SearchBar" xml:space="preserve">
@@ -1043,7 +1043,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon.V2" xml:space="preserve">
         <source>Tap here to trash it all — history, cookies, everything — and start fresh on a new tab.</source>
-        <target>Picchicciate quì per squassà tuttu - cronolugia, canistrelli, ecc. - è principiate à zeru in un’unghjetta nova.</target>
+        <target>Picchichjate quì per squassà tuttu - cronolugia, canistrelli, ecc. - è principiate à zeru in un’unghjetta nova.</target>
         <note>This is the body text that is displayed for the Trash icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipTitleText.Privacy" xml:space="preserve">
