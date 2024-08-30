@@ -223,7 +223,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlWithPlus" xml:space="preserve">
         <source>+ Add Custom URL</source>
-        <target>+ Egyéni URL hozzáadása</target>
+        <target>+ Egyéni webcím hozzáadása</target>
         <note>Label for button to add a custom URL with the + prefix</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customUrlAdded" xml:space="preserve">
