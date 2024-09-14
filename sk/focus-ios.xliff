@@ -873,7 +873,7 @@
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepOne.V2" xml:space="preserve">
         <source>Long press on the Home screen until the icons start to jiggle.</source>
-        <target>Ťuknite a dlho držte na domovskej obrazovke, kým sa ikony nezačnú chvieť.</target>
+        <target>Ťuknite a dlho držte na ploche, kým sa ikony nezačnú chvieť.</target>
         <note>This is the subtitle text for step one that is displayed in the Show Me How Onboarding Screen</note>
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepThree.V2" xml:space="preserve">
@@ -1103,7 +1103,7 @@
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.Subtitle" xml:space="preserve">
         <source>We’ll leave you to your private browsing, but get a quicker start next time with the %@ widget on your Home screen.</source>
-        <target>Necháme vás v súkromnom prehliadaní, ale nabudúce môžete začať rýchlejšie s miniaplikáciou %@ na domovskej obrazovke.</target>
+        <target>Necháme vás v súkromnom prehliadaní, ale nabudúce môžete začať rýchlejšie s miniaplikáciou %@ na ploche.</target>
         <note>Subtitle shown on card view explaining the app has a widget option. %@ is the name of the app (Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.Title" xml:space="preserve">
