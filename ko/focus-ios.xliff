@@ -143,7 +143,7 @@
       </trans-unit>
       <trans-unit id="About.rowPrivacy" xml:space="preserve">
         <source>Privacy Notice</source>
-        <target>개인 정보 보호 정책</target>
+        <target>개인정보 보호정책</target>
         <note>Link to Privacy Notice in the About screen</note>
       </trans-unit>
       <trans-unit id="About.rowRights" xml:space="preserve">
