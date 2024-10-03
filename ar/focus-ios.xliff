@@ -428,6 +428,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.History.Description" xml:space="preserve">
         <source>Erase your browsing history, passwords, cookies, and prevent unwanted ads from following you in a simple click!</source>
+        <target>امسح سجل تصفحك وكلمات مرورك وملفات تعريف ارتباطك، وامنع الإعلانات غير المرغوب فيها من متابعتك بنقرة بسيطة!</target>
         <note>Text for a label that indicates the description of history section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.History.Title" xml:space="preserve">
@@ -442,22 +443,27 @@
       </trans-unit>
       <trans-unit id="Onboarding.Incognito.Title" xml:space="preserve">
         <source>More than just incognito</source>
+        <target>أكثر من مجرد وضع متخفِّي</target>
         <note>Text for a label that indicates the title of incognito section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Description" xml:space="preserve">
         <source>Configure settings so you can decide how much or how little you share.</source>
+        <target>قم بتهيأة الإعدادات لتتمكن من تحديد مقدار ما تشارك.</target>
         <note>Text for a label that indicates the description of protection section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Title" xml:space="preserve">
         <source>Protection at your own discretion</source>
+        <target>حمايةٌ حسب تقديرك الخاص</target>
         <note>Text for a label that indicates the title of protection section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Subtitle" xml:space="preserve">
         <source>Take your private browsing to the next level.</source>
+        <target>خذ تصفحك الخاص إلى المستوى التالي.</target>
         <note>Text for a label that indicates the subtitle for onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Title" xml:space="preserve">
         <source>Welcome to Firefox %@!</source>
+        <target>أهلا بك على Firefox %@!</target>
         <note>Text for a label that indicates the title for onboarding screen. Placeholder can be (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers" xml:space="preserve">
@@ -472,6 +478,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsExtentions" xml:space="preserve">
         <source>Select Safari, then select Extensions</source>
+        <target>اختر Safari، ثم اختر الامتدادات</target>
         <note>Label for instructions to enable extensions in Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsNotEnabled" xml:space="preserve">
@@ -486,6 +493,7 @@
       </trans-unit>
       <trans-unit id="Safari.openInstruction" xml:space="preserve">
         <source>Open device settings</source>
+        <target>افتح إعدادات الجهاز</target>
         <note>Label for instructions to enable extensions in Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
@@ -600,10 +608,12 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextStudies" xml:space="preserve">
         <source>%@ may install and run studies from time to time.</source>
+        <target>قد يثبّت %@ بعض الدراسات ويشغّلها من وقت لآخر.</target>
         <note>Description associated to the Studies toggle on the settings screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.general" xml:space="preserve">
         <source>General</source>
+        <target>عام</target>
         <note>Title for section in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.learnMore" xml:space="preserve">
@@ -613,6 +623,7 @@
       </trans-unit>
       <trans-unit id="Settings.licenses" xml:space="preserve">
         <source>Licenses</source>
+        <target>الرُّخص</target>
         <note>Lincese option in settings menu. Tapping the cell will take the user to a list of licences for the 3rd parties used in the app.</note>
       </trans-unit>
       <trans-unit id="Settings.lightTheme" xml:space="preserve">
@@ -662,10 +673,12 @@
       </trans-unit>
       <trans-unit id="Settings.setAsDefaultBrowser" xml:space="preserve">
         <source>Set as Default Browser</source>
+        <target>اضبطه ليكون المتصفّح المبدئي</target>
         <note>Label title for set as default browser row</note>
       </trans-unit>
       <trans-unit id="Settings.setAsDefaultBrowserDescription" xml:space="preserve">
         <source>Set links from websites, emails and messages to open automatically in %@.</source>
+        <target>اضبط روابط المواقع والبريد الإلكتروني والرسائل لتفتح تلقائيًا في %@.</target>
         <note>%@ is the name of the app. Description for set as default browser option</note>
       </trans-unit>
       <trans-unit id="Settings.systemTheme" xml:space="preserve">
@@ -735,6 +748,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleStudies" xml:space="preserve">
         <source>Studies</source>
+        <target>الدراسات</target>
         <note>Label for Studies toggle on the settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleTouchID" xml:space="preserve">
@@ -774,6 +788,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.AddToShortcuts.Confirm" xml:space="preserve">
         <source>Added to Shortcuts</source>
+        <target>أُضيف إلى الاختصارات</target>
         <note>Toast displayed to the user after adding the item to the Shortcuts.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.FindInPage" xml:space="preserve">
@@ -788,6 +803,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.RemoveShortcut.Confirm" xml:space="preserve">
         <source>Shortcut removed</source>
+        <target>أُزيل الاختصار</target>
         <note>Toast displayed to the user after removing the item from the Shortcuts.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop" xml:space="preserve">
@@ -807,6 +823,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenDefaultBrowser" xml:space="preserve">
         <source>Open in Default Browser</source>
+        <target>افتح في المتصفح الافتراضي</target>
         <note>Text for the share menu option when a user wants to open the current website in the default browser.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenFirefox" xml:space="preserve">
@@ -816,6 +833,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenLink" xml:space="preserve">
         <source>Open Link</source>
+        <target>افتح الرابط</target>
         <note>Text for the share menu option when a user wants to open the current website inside the app.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.SharePage" xml:space="preserve">
@@ -830,38 +848,47 @@
       </trans-unit>
       <trans-unit id="ShortcutView.Rename" xml:space="preserve">
         <source>Rename Shortcut</source>
+        <target>أعِد تسمية الاختصار</target>
         <note>Text for the long press on a shortcut rename option in context menu.</note>
       </trans-unit>
       <trans-unit id="ShortcutView.RenameShortcutAlertPlaceholder" xml:space="preserve">
         <source>Shortcut name</source>
+        <target>اسم الاختصار</target>
         <note>Text for the placeholder textfield on rename shortcut alert.</note>
       </trans-unit>
       <trans-unit id="ShortcutView.RenameShortcutAlertPrimaryAction" xml:space="preserve">
         <source>Save</source>
+        <target>احفظ</target>
         <note>Text for the rename shortcut alert primary action.</note>
       </trans-unit>
       <trans-unit id="ShortcutView.RenameShortcutAlertSecondaryAction" xml:space="preserve">
         <source>Cancel</source>
+        <target>ألغِ</target>
         <note>Text for the rename shortcut alert secondary action.</note>
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.ButtonText.V2" xml:space="preserve">
         <source>Done</source>
+        <target>تمّ</target>
         <note>This is the button text that is displayed in the Show Me How Onboarding Screen</note>
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepOne.V2" xml:space="preserve">
         <source>Long press on the Home screen until the icons start to jiggle.</source>
+        <target>اضغط لفترة طويلة على الشاشة الرئيسة حتى تبدأ الأيقونات في الاهتزاز.</target>
         <note>This is the subtitle text for step one that is displayed in the Show Me How Onboarding Screen</note>
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepThree.V2" xml:space="preserve">
         <source>Search for %@. Then choose a widget.</source>
+        <target>ابحث عن %@. ثم اختر ودجت.</target>
         <note>This is the subtitle text for step three that is displayed in the Show Me How onboarding screen. %@ is the name of the app (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepTwo.V2" xml:space="preserve">
         <source>Tap on the plus icon.</source>
+        <target>اضغط على علامة الزائد.</target>
         <note>This is the subtitle text for step two that is displayed in the Show Me How Onboarding Screen</note>
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.Title.V2" xml:space="preserve">
         <source>Add a %@ Widget</source>
+        <target>أضف ودجت %@</target>
         <note>This is the title text that is displayed in the Show Me How Onboarding Screen. %@ is the name of the app (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Siri.add" xml:space="preserve">
@@ -906,82 +933,102 @@
       </trans-unit>
       <trans-unit id="Tip.Biometric.Title" xml:space="preserve">
         <source>Lock %@ when a site is open:</source>
+        <target>أقفل %@ عندما يكون موقعٌ مفتوحًا:</target>
         <note>Text for a label that indicates the title for biometric tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.BiometricFaceId.Description" xml:space="preserve">
         <source>Turn on Face ID</source>
+        <target>فعّل معرّف الوجه</target>
         <note>Text for a label that indicates the description for biometric Face ID tip.</note>
       </trans-unit>
       <trans-unit id="Tip.BiometricTouchId.Description" xml:space="preserve">
         <source>Turn on Touch ID</source>
+        <target>فعّل معرّف اللمس</target>
         <note>Text for a label that indicates the description for biometric Touch ID tip.</note>
       </trans-unit>
       <trans-unit id="Tip.RequestDesktop.Description" xml:space="preserve">
         <source>Page Actions &gt; Request Desktop Site</source>
+        <target>إجراءات الصفحة &gt; طلب موقع سطح المكتب</target>
         <note>Text for a label that indicates the description for request desktop tip.</note>
       </trans-unit>
       <trans-unit id="Tip.RequestDesktop.Title" xml:space="preserve">
         <source>Want to see the full desktop version of a site?</source>
+        <target>هل تريد أن ترى نسخة سطح المكتب الكاملة لموقع ما؟</target>
         <note>Text for a label that indicates the title for request desktop tip.</note>
       </trans-unit>
       <trans-unit id="Tip.ShareTrackers.Description" xml:space="preserve">
         <source>%@ trackers blocked so far</source>
+        <target>تم حظر %@ متتبعًا حتى الآن</target>
         <note>Text for a label that indicates the description for share trackers tip. The placeholder is the number of trackers blocked. Only shown when there are more than 10 trackers blocked. For locales where we would need plural support, please feel free to translate this string as `Trackers blocked so far: %@` instead.</note>
       </trans-unit>
       <trans-unit id="Tip.ShareTrackers.Title" xml:space="preserve">
         <source>You browse. %@ blocks.</source>
+        <target>أنت تتصفح، %@ يحظر.</target>
         <note>Text for a label that indicates the title for share trackers tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.Shortcuts.Description" xml:space="preserve">
         <source>Select Add to Shortcuts from the %@ menu</source>
+        <target>اختر "إضافة إلى الاختصارات" من قائمة %@</target>
         <note>Text for a label that indicates the description for shortcuts tip. The placeholder is replaced with the short product name (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.Shortcuts.Title" xml:space="preserve">
         <source>Create shortcuts to the sites you visit most:</source>
+        <target>أنشئ اختصارات للمواقع التي تزورها كثيرًا:</target>
         <note>Text for a label that indicates the title for shortcuts tip.</note>
       </trans-unit>
       <trans-unit id="Tip.SiriErase.Description" xml:space="preserve">
         <source>Add Siri shortcut</source>
+        <target>أضِف اختصارًا لسيري</target>
         <note>Text for a label that indicates the description for siri erase tip. The shortcut in this context is the iOS Siri Shortcut, not a Focus website shortcut.</note>
       </trans-unit>
       <trans-unit id="Tip.SiriErase.Title" xml:space="preserve">
         <source>“Siri, erase my %@ session.”</source>
+        <target>”سيري، امسحي جلسة %@.“</target>
         <note>Text for a label that indicates the title for siri erase tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.SiriFavorite.Description" xml:space="preserve">
         <source>Add Siri shortcut</source>
+        <target>أضِف اختصارًا لسيري</target>
         <note>Text for a label that indicates the description for siri favorite tip. The shortcut in this context is the iOS Siri Shortcut, not a Focus website shortcut.</note>
       </trans-unit>
       <trans-unit id="Tip.SiriFavorite.Title" xml:space="preserve">
         <source>“Siri, open my favorite site.”</source>
+        <target>”سيري، افتحي موقعي المفضل.“</target>
         <note>Text for a label that indicates the title for siri favorite tip.</note>
       </trans-unit>
       <trans-unit id="Tip.SitesNotWorking.Description" xml:space="preserve">
         <source>Try turning off Tracking Protection</source>
+        <target>حاول إيقاف تشغيل الحماية من التعقب</target>
         <note>Text for a label that indicates the description for sites not working tip.</note>
       </trans-unit>
       <trans-unit id="Tip.SitesNotWorking.Title" xml:space="preserve">
         <source>Site missing content or acting strange?</source>
+        <target>أيفقد الموقع محتوًى أو يتصرف بشكل غريب؟</target>
         <note>Text for a label that indicates the title for sites not working tip.</note>
       </trans-unit>
       <trans-unit id="TodayWidget.SearchInApp.Instruction" xml:space="preserve">
         <source>Search in %@</source>
+        <target>ابحث في %@</target>
         <note>Text shown on quick action widget inviting the user to browse in the app. %@ is the name of the app (Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.ContextMenu" xml:space="preserve">
         <source>Go to Settings to manage specific privacy &amp; security options.</source>
+        <target>اذهب إلى الإعدادات لإدارة خيارات معينة للخصوصية والأمان.</target>
         <note>This is the body text that is displayed for the Context Menu icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.Privacy" xml:space="preserve">
         <source>These default settings offer strong protection. But it’s easy to tweak the settings to meet your specific needs.</source>
+        <target>توفر هذه الإعدادات الافتراضية حماية قوية. لكن من السهل تعديل الإعدادات لتلبية احتياجاتك الخاصة.</target>
         <note>This is the body text that is displayed for the Privacy tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.SearchBar" xml:space="preserve">
         <source>Start your private browsing session, and we’ll block trackers and other bad stuff as you go.</source>
+        <target>ابدأ جلسة التصفح الخاصة، وسنقوم بحظر أدوات التتبع والأشياء السيئة الأخرى أثناء تصفحك.</target>
         <note>This is the body text that is displayed for the Search Bar tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.ShieldIcon" xml:space="preserve">
         <source>%@ stopped this site from spying on you. Tap the shield for info on what we blocked.</source>
+        <target>منع %@ هذا الموقع من التجسس عليك. انقر على الدرع لمعلومات عمّا حجبناه.</target>
         <note>This is the body text that is displayed for the Shield icon tooltip. Where placeholder can be (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.ShieldIconTrackerBlocked.V2" xml:space="preserve">
