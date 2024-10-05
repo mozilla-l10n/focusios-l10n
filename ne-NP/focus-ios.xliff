@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="Intents.Erase.Description" xml:space="preserve">
         <source>Erase browsing session</source>
-        <target>ब्राउजिङ्ग सत्र मेटाउनुहोस्</target>
+        <target>ब्राउजिङ्ग इतिहास खाली गर्नुहोस्</target>
         <note/>
       </trans-unit>
       <trans-unit id="Intents.Erase.Title" xml:space="preserve">
@@ -393,7 +393,7 @@
       </trans-unit>
       <trans-unit id="NewOnboarding.Subtitle.V2" xml:space="preserve">
         <source>Fast. Private. No Distractions.</source>
-        <target>छिटो। निजी। कुनै व्याकुलताहरू छैन।</target>
+        <target>छिटो। गोप्य। ध्यान बिथोल्ने कुराहरू छैनन्।</target>
         <note>Text for a label that indicates the subtitle for the onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Button.Title" xml:space="preserve">
