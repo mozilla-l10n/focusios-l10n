@@ -1183,6 +1183,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.trackersHeader" xml:space="preserve">
         <source>Trackers and scripts to block</source>
+        <target>المتعقّبات والنصوص البرمجية التي تريد حجبها</target>
         <note>Text for the header of trackers section from Tracking Protection.</note>
       </trans-unit>
     </body>
