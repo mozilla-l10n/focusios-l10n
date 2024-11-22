@@ -783,12 +783,12 @@
       </trans-unit>
       <trans-unit id="ShareMenu.AddToShortcuts" xml:space="preserve">
         <source>Add to Shortcuts</source>
-        <target>කෙටිමං වෙත යොදන්න</target>
+        <target>කෙටිමං වෙත දමන්න</target>
         <note>Text for the share menu option when a user wants to add the site to Shortcuts</note>
       </trans-unit>
       <trans-unit id="ShareMenu.AddToShortcuts.Confirm" xml:space="preserve">
         <source>Added to Shortcuts</source>
-        <target>කෙටිමං වෙත යෙදිණි</target>
+        <target>කෙටිමං වෙත එක් කෙරිණි</target>
         <note>Toast displayed to the user after adding the item to the Shortcuts.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.FindInPage" xml:space="preserve">
@@ -966,7 +966,7 @@
       </trans-unit>
       <trans-unit id="Tip.Shortcuts.Description" xml:space="preserve">
         <source>Select Add to Shortcuts from the %@ menu</source>
-        <target>%@ වට්ටෝරුවෙන් කෙටිමං වෙත එක් කරන්න තෝරන්න</target>
+        <target>%@ වට්ටෝරුවෙන් කෙටිමං වෙත දමන්න තෝරන්න</target>
         <note>Text for a label that indicates the description for shortcuts tip. The placeholder is replaced with the short product name (Focus or Klar).</note>
       </trans-unit>
       <trans-unit id="Tip.Shortcuts.Title" xml:space="preserve">
