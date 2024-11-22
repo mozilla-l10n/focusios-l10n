@@ -1145,12 +1145,12 @@
       </trans-unit>
       <trans-unit id="trackingProtection.connectionNotSecureLabel" xml:space="preserve">
         <source>Connection is not secure</source>
-        <target>සම්බන්ධතාවය අනාරක්‍ෂිතයි</target>
+        <target>සම්බන්‍ධතාව අනාරක්‍ෂිතයි</target>
         <note>Text for tracking protection screen showing the connection is not secure</note>
       </trans-unit>
       <trans-unit id="trackingProtection.connectionSecureLabel" xml:space="preserve">
         <source>Connection is secure</source>
-        <target>සම්බන්ධතාවය ආරක්‍ෂිතයි</target>
+        <target>සම්බන්‍ධතාව ආරක්‍ෂිතයි</target>
         <note>Text for tracking protection screen showing the connection is secure</note>
       </trans-unit>
       <trans-unit id="trackingProtection.label" xml:space="preserve">
