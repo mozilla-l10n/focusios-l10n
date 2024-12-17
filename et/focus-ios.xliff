@@ -585,6 +585,14 @@
         <target>Tume</target>
         <note>Dark theme option in settings menu</note>
       </trans-unit>
+      <trans-unit id="Settings.detailTextCrashReports" xml:space="preserve">
+        <source>Automatically send crash reports to Mozilla to diagnose and fix issues with the browser. Reports may include personal or sensitive data.</source>
+        <note>Description associated with the Crash Reports toggle on settings screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.detailTextDailyUsagePing" xml:space="preserve">
+        <source>This helps Mozilla to estimate active users.</source>
+        <note>Description associated with the Daily Usage Ping toggle on settings screen</note>
+      </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
         <source>%@ will send what you type in the address bar to your search engine.</source>
         <target>%@ saadab aadressiribale sisestatu sinu otsingumootorile.</target>
@@ -599,6 +607,10 @@
         <source>%@ may install and run studies from time to time.</source>
         <target>%@ võib aegajalt paigaldada ja käivitada uuringuid.</target>
         <note>Description associated to the Studies toggle on the settings screen. %@ is the app name (Focus/Klar)</note>
+      </trans-unit>
+      <trans-unit id="Settings.detailTextTechnicalInteractionData" xml:space="preserve">
+        <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
+        <note>Description associated with the Technical and Interaction Data toggle on settings screen. %@ is the app name (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="Settings.general" xml:space="preserve">
         <source>General</source>
@@ -707,6 +719,14 @@
         <target>Sotsiaalmeedia</target>
         <note>Label for the checkbox to toggle Social trackers</note>
       </trans-unit>
+      <trans-unit id="Settings.toggleCrashReports" xml:space="preserve">
+        <source>Crash Reports</source>
+        <note>Label for Crash Reports toggle on settings screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleDailyUsagePing" xml:space="preserve">
+        <source>Daily Usage Ping</source>
+        <note>Label for Daily Usage Ping toggle on settings screen</note>
+      </trans-unit>
       <trans-unit id="Settings.toggleFaceID" xml:space="preserve">
         <source>Use Face ID to unlock app</source>
         <target>Rakenduse lahti lukustamiseks kasutatakse Face ID'd</target>
@@ -736,6 +756,10 @@
         <source>Studies</source>
         <target>Uuringud</target>
         <note>Label for Studies toggle on the settings screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleTechnicalInteractionData" xml:space="preserve">
+        <source>Technical and Interaction Data</source>
+        <note>Label for Technical and Interaction Data toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleTouchID" xml:space="preserve">
         <source>Use Touch ID to unlock app</source>
