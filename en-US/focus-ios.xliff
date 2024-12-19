@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Blockzilla/Base.lproj/Intents.intentdefinition" source-language="en" target-language="en-US" datatype="plaintext">
     <header>
@@ -596,6 +596,11 @@
         <target>Dark</target>
         <note>Dark theme option in settings menu</note>
       </trans-unit>
+      <trans-unit id="Settings.detailTextCrashReports" xml:space="preserve">
+        <source>Crash reports allow us diagnose and fix issues with the browser.</source>
+        <target>Crash reports allow us diagnose and fix issues with the browser.</target>
+        <note>Description associated with the Crash Reports toggle on settings screen</note>
+      </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
         <source>%@ will send what you type in the address bar to your search engine.</source>
         <target>%@ will send what you type in the address bar to your search engine.</target>
@@ -720,6 +725,11 @@
         <source>Social</source>
         <target>Social</target>
         <note>Label for the checkbox to toggle Social trackers</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleCrashReports" xml:space="preserve">
+        <source>Automatically Send Crash Reports</source>
+        <target>Automatically Send Crash Reports</target>
+        <note>Label for Crash Reports toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceID" xml:space="preserve">
         <source>Use Face ID to unlock app</source>

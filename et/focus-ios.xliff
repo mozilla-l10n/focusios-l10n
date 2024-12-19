@@ -585,6 +585,10 @@
         <target>Tume</target>
         <note>Dark theme option in settings menu</note>
       </trans-unit>
+      <trans-unit id="Settings.detailTextCrashReports" xml:space="preserve">
+        <source>Crash reports allow us diagnose and fix issues with the browser.</source>
+        <note>Description associated with the Crash Reports toggle on settings screen</note>
+      </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
         <source>%@ will send what you type in the address bar to your search engine.</source>
         <target>%@ saadab aadressiribale sisestatu sinu otsingumootorile.</target>
@@ -706,6 +710,10 @@
         <source>Social</source>
         <target>Sotsiaalmeedia</target>
         <note>Label for the checkbox to toggle Social trackers</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleCrashReports" xml:space="preserve">
+        <source>Automatically Send Crash Reports</source>
+        <note>Label for Crash Reports toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceID" xml:space="preserve">
         <source>Use Face ID to unlock app</source>
