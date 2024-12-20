@@ -598,6 +598,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextCrashReports" xml:space="preserve">
         <source>Crash reports allow us diagnose and fix issues with the browser.</source>
+        <target>Les rapports de plantage nous permettent de diagnostiquer et de corriger des problèmes avec le navigateur.</target>
         <note>Description associated with the Crash Reports toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
@@ -727,6 +728,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleCrashReports" xml:space="preserve">
         <source>Automatically Send Crash Reports</source>
+        <target>Envoyer automatiquement les rapports de plantage</target>
         <note>Label for Crash Reports toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceID" xml:space="preserve">
