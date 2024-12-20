@@ -598,6 +598,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextCrashReports" xml:space="preserve">
         <source>Crash reports allow us diagnose and fix issues with the browser.</source>
+        <target>क्र्यास प्रतिवेदनहरूले हामीलाई ब्राउजरसँग निदान गर्न र समस्याहरू समाधान गर्न अनुमति दिन्छ।</target>
         <note>Description associated with the Crash Reports toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
@@ -727,6 +728,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleCrashReports" xml:space="preserve">
         <source>Automatically Send Crash Reports</source>
+        <target>स्वचालित रूपमा क्र्यास प्रतिवेदनहरू पठाउनुहोस्</target>
         <note>Label for Crash Reports toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceID" xml:space="preserve">
