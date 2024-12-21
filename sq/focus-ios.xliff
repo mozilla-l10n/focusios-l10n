@@ -598,6 +598,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextCrashReports" xml:space="preserve">
         <source>Crash reports allow us diagnose and fix issues with the browser.</source>
+        <target>Njoftimet e vithisjeve na lejojnë të diagnostikojmë dhe ndreqim probleme me shfletuesin.</target>
         <note>Description associated with the Crash Reports toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
@@ -727,6 +728,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleCrashReports" xml:space="preserve">
         <source>Automatically Send Crash Reports</source>
+        <target>Dërgo Vetvetiu Njoftime Vithisjesh</target>
         <note>Label for Crash Reports toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceID" xml:space="preserve">
