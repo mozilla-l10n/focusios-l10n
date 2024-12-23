@@ -598,6 +598,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextCrashReports" xml:space="preserve">
         <source>Crash reports allow us diagnose and fix issues with the browser.</source>
+        <target>I rapporti d’accidente ci permettenu d’identificà è currege i prublemi cù u navigatore.</target>
         <note>Description associated with the Crash Reports toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
