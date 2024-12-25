@@ -501,6 +501,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.InstalledSearchEngines" xml:space="preserve">
         <source>INSTALLED SEARCH ENGINES</source>
+        <target>స్థాపితమైన వెతుకుడు యంత్రాలు</target>
         <note>Header for rows of installed search engines</note>
       </trans-unit>
       <trans-unit id="Settings.Search.NameToDisplay" xml:space="preserve">
@@ -518,10 +519,12 @@
       </trans-unit>
       <trans-unit id="Settings.Search.SearchEngineName" xml:space="preserve">
         <source>Search engine name</source>
+        <target>వెతుకుడు యంత్రం పేరు</target>
         <note>Placeholder text for input of new search engine name</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplate" xml:space="preserve">
         <source>Search string to use</source>
+        <target>వెతకాల్సిన పదబంధం</target>
         <note>Label for input of search engine template</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplatePlaceholder" xml:space="preserve">
