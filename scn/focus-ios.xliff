@@ -1188,7 +1188,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.trackersBlockedLabel" xml:space="preserve">
         <source>Trackers blocked since %@</source>
-        <target>Trazzatura bluccati di %s</target>
+        <target>Trazzatura bluccati di %@</target>
         <note>Text for tracking protection screen showing the number of trackers blocked since the app install. The placeholder is replaced with the install date of the application.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.trackersHeader" xml:space="preserve">
