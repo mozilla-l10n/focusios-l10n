@@ -728,6 +728,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleCrashReports" xml:space="preserve">
         <source>Automatically Send Crash Reports</source>
+        <target>Automatycznie wysyłaj zgłoszenia awarii</target>
         <note>Label for Crash Reports toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceID" xml:space="preserve">
