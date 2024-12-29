@@ -888,7 +888,7 @@
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepThree.V2" xml:space="preserve">
         <source>Search for %@. Then choose a widget.</source>
-        <target>მონახეთ %@. შემდეგ აირჩიეთ ვიჯეტი.</target>
+        <target>მონახეთ %@. შემდეგ აირჩიეთ ჩანამატი.</target>
         <note>This is the subtitle text for step three that is displayed in the Show Me How onboarding screen. %@ is the name of the app (Focus/Klar)</note>
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepTwo.V2" xml:space="preserve">
