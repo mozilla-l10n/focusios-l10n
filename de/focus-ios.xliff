@@ -528,10 +528,12 @@
       </trans-unit>
       <trans-unit id="Settings.DailyUsagePing.Message" xml:space="preserve">
         <source>This helps Mozilla to estimate active users.</source>
+        <target>Dies hilft Mozilla, aktive Benutzer zu schätzen.</target>
         <note>On the Settings screen, this is the subtitle text for a toggle which controls sending daily usage ping. Placeholder will be replaced the company name of Mozilla.</note>
       </trans-unit>
       <trans-unit id="Settings.DailyUsagePing.Title" xml:space="preserve">
         <source>Daily Usage Ping</source>
+        <target>Ping zur täglichen Nutzung</target>
         <note>On the Settings screen, this is the title text for a toggle which controls automatically sending daily usage ping.</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton" xml:space="preserve">
