@@ -526,6 +526,14 @@
         <target>සෙවුම් යෝජනා පෙන්වන්නද?</target>
         <note>Title for search suggestions prompt</note>
       </trans-unit>
+      <trans-unit id="Settings.DailyUsagePing.Message" xml:space="preserve">
+        <source>This helps Mozilla to estimate active users.</source>
+        <note>On the Settings screen, this is the subtitle text for a toggle which controls sending daily usage ping. Placeholder will be replaced the company name of Mozilla.</note>
+      </trans-unit>
+      <trans-unit id="Settings.DailyUsagePing.Title" xml:space="preserve">
+        <source>Daily Usage Ping</source>
+        <note>On the Settings screen, this is the title text for a toggle which controls automatically sending daily usage ping.</note>
+      </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton" xml:space="preserve">
         <source>Add Another Search Engine</source>
         <target>අන් සෙවුම් යන්ත්‍රයක් එක් කරන්න</target>
@@ -596,8 +604,8 @@
         <target>අඳුරු</target>
         <note>Dark theme option in settings menu</note>
       </trans-unit>
-      <trans-unit id="Settings.detailTextCrashReports" xml:space="preserve">
-        <source>Crash reports allow us diagnose and fix issues with the browser.</source>
+      <trans-unit id="Settings.detailTextCrashReports.V2" xml:space="preserve">
+        <source>This helps us diagnose and fix issues with the browser.</source>
         <note>Description associated with the Crash Reports toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
