@@ -529,7 +529,7 @@
       <trans-unit id="Settings.DailyUsagePing.Message" xml:space="preserve">
         <source>This helps Mozilla to estimate active users.</source>
         <target>Điều này giúp Mozilla ước tính số người dùng đang hoạt động.</target>
-        <note>On the Settings screen, this is the subtitle text for a toggle which controls sending daily usage ping. Placeholder will be replaced the company name of Mozilla.</note>
+        <note>On the Settings screen, this is the subtitle text for a toggle which controls sending daily usage ping.</note>
       </trans-unit>
       <trans-unit id="Settings.DailyUsagePing.Title" xml:space="preserve">
         <source>Daily Usage Ping</source>
