@@ -793,7 +793,7 @@
       </trans-unit>
       <trans-unit id="Settings.useSystemTheme" xml:space="preserve">
         <source>Use System Light/Dark Mode</source>
-        <target>Använd systemets ljust/mörkt läge</target>
+        <target>Använd systemets ljusa/mörka läge</target>
         <note>Value for theme toggle in settings menu</note>
       </trans-unit>
       <trans-unit id="Settinsg.siriShortcutsTitle" xml:space="preserve">
