@@ -148,6 +148,10 @@
         <target>သင့်လုပ်ပိုင်ခွင့်များ</target>
         <note>Label for row in About screen</note>
       </trans-unit>
+      <trans-unit id="About.rowTerms" xml:space="preserve">
+        <source>Terms of Use</source>
+        <note>Label for row in About screen</note>
+      </trans-unit>
       <trans-unit id="About.safariBullet1" xml:space="preserve">
         <source>Block trackers for improved privacy</source>
         <target>ကိုယ်ရေးလုံခြုံမှု ပိုမိုကောင်းမွန်စေရန် နောက်ယောင်ခံကိရိယာများကို ပိတ်ပါ</target>

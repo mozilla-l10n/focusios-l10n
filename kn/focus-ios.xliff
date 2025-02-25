@@ -147,6 +147,10 @@
         <target>‍ನಿಮ್ಮ ಹಕ್ಕುಗಳು</target>
         <note>Label for row in About screen</note>
       </trans-unit>
+      <trans-unit id="About.rowTerms" xml:space="preserve">
+        <source>Terms of Use</source>
+        <note>Label for row in About screen</note>
+      </trans-unit>
       <trans-unit id="About.safariBullet1" xml:space="preserve">
         <source>Block trackers for improved privacy</source>
         <target>ಉತ್ತಮಗೊಳಿಸಿದ ಗೌಪ್ಯತೆಗಾಗಿ ಜಾಡುಹಿಡಿಯುವವರನ್ನು ನಿರ್ಬಂಧಿಸಿ</target>
