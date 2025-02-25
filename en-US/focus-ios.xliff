@@ -151,6 +151,11 @@
         <target>Your Rights</target>
         <note>Label for row in About screen</note>
       </trans-unit>
+      <trans-unit id="About.rowTerms" xml:space="preserve">
+        <source>Terms of Use</source>
+        <target>Terms of Use</target>
+        <note>Label for row in About screen</note>
+      </trans-unit>
       <trans-unit id="About.safariBullet1" xml:space="preserve">
         <source>Block trackers for improved privacy</source>
         <target>Block trackers for improved privacy</target>

@@ -151,6 +151,10 @@
         <target>আপনার অধিকার</target>
         <note>Label for row in About screen</note>
       </trans-unit>
+      <trans-unit id="About.rowTerms" xml:space="preserve">
+        <source>Terms of Use</source>
+        <note>Label for row in About screen</note>
+      </trans-unit>
       <trans-unit id="About.safariBullet1" xml:space="preserve">
         <source>Block trackers for improved privacy</source>
         <target>গোপনীয়তাকে আরো উন্নত করতে ট্রাকারদেরকে অবরুদ্ধ করুন</target>
