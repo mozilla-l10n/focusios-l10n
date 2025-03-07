@@ -613,7 +613,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextCrashReports.V2" xml:space="preserve">
         <source>This helps us diagnose and fix issues with the browser.</source>
-        <target>我们可借助此信息来诊断和修复浏览器的问题。</target>
+        <target>此信息可帮助我们诊断和修复浏览器的问题。</target>
         <note>Description associated with the Crash Reports toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
