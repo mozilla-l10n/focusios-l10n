@@ -3,6 +3,10 @@
         "enabled": true,
         "exclusions": []
     },
+    "placeables": {
+        "enabled": true,
+        "exclusions": []
+    },
     "quotes": {
         "enabled": true,
         "exclusions": []
