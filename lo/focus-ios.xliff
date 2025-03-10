@@ -114,7 +114,7 @@
       <trans-unit id="About.missionLabel" xml:space="preserve">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
         <target>%@ ໄດ້ຖືກສ້າງຂື້ນມາໂດຍ Mozilla. ພາລະກິດຂອງພວກເຮົາແມ່ນເພື່ອສົ່ງເສີມການນຳໃຊ້ອິນເເຕີເນັດແບບເປີດ ແລະ ສົມບູນ.</target>
-        <note>Label on About screen</note>
+        <note>Label on About screen. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="About.privateBullet1" xml:space="preserve">
         <source>Search and browse right in the app</source>
@@ -174,12 +174,12 @@
       <trans-unit id="About.title" xml:space="preserve">
         <source>About %@</source>
         <target>ກ່ຽວກັບ %@</target>
-        <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, takes the user to a page with information about the product. Also displayed as a header for the About page.</note>
+        <note>%@ is the app name (for example “Firefox Focus” or ”Firefox Klar”). Title displayed in the settings screen that, when tapped, takes the user to a page with information about the product. Also displayed as a header for the About page.</note>
       </trans-unit>
       <trans-unit id="About.topLabel" xml:space="preserve">
         <source>%@ puts you in control.</source>
         <target>%@ ເຮັດໃຫ້ທ່ານສາມາດຄວບຄຸມໄດ້ດັ່ງລຸ່ມນີ້:</target>
-        <note>Label on About screen</note>
+        <note>Label on About screen. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="AddPass.Error.Dismiss" xml:space="preserve">
         <source>Ok</source>
@@ -199,7 +199,7 @@
       <trans-unit id="Authentication.reason" xml:space="preserve">
         <source>Authenticate to return to %@</source>
         <target>ພິສູດຢືນຢັນເພື່ອກັບຄືນຫາ %@</target>
-        <note>%@ is app name. Prompt shown to ask the user to use Touch ID, Face ID, or passcode to continue browsing after returning to the app.</note>
+        <note>%@ is the app name (for example “Firefox Focus” or ”Firefox Klar”). Prompt shown to ask the user to use Touch ID, Face ID, or passcode to continue browsing after returning to the app.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrl" xml:space="preserve">
         <source>Add Custom URL</source>
@@ -239,7 +239,7 @@
       <trans-unit id="Autocomplete.defaultDescriptoin" xml:space="preserve">
         <source>Enable to have %@ autocomplete over 450 popular URLs in the address bar.</source>
         <target>ເປີດໃຊ້ງານເພື່ອໃຫ້ມີການເຕິມອັດຕະໂນມັດຂອງ %@ ຜ່ານ 450 URLs ຍອດນິຍົມໃນແຖບທີ່ຢູ່</target>
-        <note>Description for enabling or disabling the default list. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
+        <note>Description for enabling or disabling the default list. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Autocomplete.disabled" xml:space="preserve">
         <source>Disabled</source>
@@ -274,7 +274,7 @@
       <trans-unit id="Autocomplete.mySitesDesc" xml:space="preserve">
         <source>Enable to have %@ autocomplete your favorite URLs.</source>
         <target>ເປີດໃຊ້ %@ ຕື່ມຂໍ້ມູນ URL ທີ່ທ່ານມັກໂດຍອັດຕະໂນມັດ.</target>
-        <note>Description for adding and managing custom autocomplete URLs. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar.</note>
+        <note>Description for adding and managing custom autocomplete URLs. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Autocomplete.topSites" xml:space="preserve">
         <source>Top Sites</source>
@@ -344,7 +344,7 @@
       <trans-unit id="ExternalAppLink.messageTitle" xml:space="preserve">
         <source>%@ wants to open another App</source>
         <target>%@ ຕ້ອງການເປີດໃນແອັບອື່ນ</target>
-        <note>Dialog title used for opening an external app from Focus. The placeholder string is the app name of either Focus or Klar.</note>
+        <note>Dialog title used for opening an external app from Focus. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="ExternalAppLink.openTitle" xml:space="preserve">
         <source>Open</source>
@@ -419,12 +419,12 @@
       <trans-unit id="Onboarding.DefaultBrowser.SecondSubtitle.V2" xml:space="preserve">
         <source>Make %@ your default to protect your data with every link you open.</source>
         <target>ເຮັດໃຫ້ %@ ເປັນຄ່າເລີ່ມຕົ້ນຂອງທ່ານເພື່ອປົກປ້ອງຂໍ້ມູນຂອງທ່ານດ້ວຍທຸກລິ້ງທີ່ທ່ານເປີດ.</target>
-        <note>Text for a label that indicates the second subtitle for the default browser onboarding screen version 2. %@ is the name of the app (Focus/Klar)</note>
+        <note>Text for a label that indicates the second subtitle for the default browser onboarding screen version 2. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.Title.V2" xml:space="preserve">
         <source>%@ isn’t like other browsers</source>
         <target>%@ ບໍ່ຄືກັບຕົວທ່ອງເວັບອື່ນໆ</target>
-        <note>Text for a label that indicates the title for the default browser onboarding screen version 2. %@ is the name of the app (Focus/Klar)</note>
+        <note>Text for a label that indicates the title for the default browser onboarding screen version 2. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.TopButtonTitle.V2" xml:space="preserve">
         <source>Set as Default Browser</source>
@@ -444,7 +444,7 @@
       <trans-unit id="Onboarding.Incognito.Description" xml:space="preserve">
         <source>%@ is a dedicated privacy browser with tracking protection and content blocking.</source>
         <target>%@ ເປັນ​ຕົວ​ທ່ອງ​ເວັບ​ຄວາມ​ເປັນ​ສ່ວນ​ຕົວ​ສະ​ເພາະ​ທີ່​ມີ​ການ​ປົກ​ປັກ​ຮັກ​ສາ​ການ​ຕິດ​ຕາມ​ແລະ​ການ​ບລັອກ​ເນື້ອ​ໃນ​.</target>
-        <note>Text for a label that indicates the description of incognito section from onboarding screen. Placeholder can be (Focus or Klar).</note>
+        <note>Text for a label that indicates the description of incognito section from onboarding screen. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Onboarding.Incognito.Title" xml:space="preserve">
         <source>More than just incognito</source>
@@ -469,7 +469,7 @@
       <trans-unit id="Onboarding.Title" xml:space="preserve">
         <source>Welcome to Firefox %@!</source>
         <target>ຍິນດີຕ້ອນຮັບສູ່ Firefox %@!</target>
-        <note>Text for a label that indicates the title for onboarding screen. Placeholder can be (Focus or Klar).</note>
+        <note>Text for a label that indicates the title for onboarding screen. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers" xml:space="preserve">
         <source>Tap Safari, then select Content Blockers</source>
@@ -479,7 +479,7 @@
       <trans-unit id="Safari.instructionsEnable" xml:space="preserve">
         <source>Enable %@</source>
         <target>ເປີດໃຊ້ງານ %@</target>
-        <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
+        <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsExtentions" xml:space="preserve">
         <source>Select Safari, then select Extensions</source>
@@ -489,7 +489,7 @@
       <trans-unit id="Safari.instructionsNotEnabled" xml:space="preserve">
         <source>%@ is not enabled.</source>
         <target>%@ ຍັງບໍ່ທັນໄດ້ເປີດໃຊ້ງານ.</target>
-        <note>Error label when the blocker is not enabled, shown in the intro and main app when disabled</note>
+        <note>Error label when the blocker is not enabled, shown in the intro and main app when disabled. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsOpen" xml:space="preserve">
         <source>Open Settings App</source>
@@ -524,7 +524,7 @@
       <trans-unit id="SearchSuggestions.promptMessage" xml:space="preserve">
         <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
         <target>ເພື່ອໃຫ້ໄດ້ຮັບຄໍາແນະນໍາ, %@ ຕ້ອງການສົ່ງສິ່ງທີ່ທ່ານພິມໃນແຖບທີ່ຢູ່ໄປຫາເຄື່ອງມືຄົ້ນຫາ.</target>
-        <note>%@ is the name of the app (Focus / Klar). Label for search suggestions prompt message</note>
+        <note>%@ is the app name (for example “Firefox Focus” or ”Firefox Klar”). Label for search suggestions prompt message</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptTitle" xml:space="preserve">
         <source>Show Search Suggestions?</source>
@@ -619,17 +619,17 @@
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
         <source>%@ will send what you type in the address bar to your search engine.</source>
         <target>%@ ຈະສົ່ງສິ່ງທີ່ທ່ານພີມໃນແຖບທີ່ຢູ່ໄປຍັງເຄື່ອງມືຄົ້ນຫາຂອງທ່ານ</target>
-        <note>Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar)</note>
+        <note>Description associated to the Search Suggestions toggle on main screen. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData" xml:space="preserve">
         <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
         <target>Mozilla ພະຍາຍາມທີ່ຈະເກັບຮວບຮ່ວມສະເພາະສິ່ງທີ່ຈຳເປັນຕໍ່ການປັບປູງ %@ ສຳລັບທຸກໆຄົນ.</target>
-        <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)</note>
+        <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextStudies" xml:space="preserve">
         <source>%@ may install and run studies from time to time.</source>
         <target>%@ ອາດຈະຕິດຕັ້ງ ແລະດໍາເນີນການສຶກສາເປັນບາງໂອກາດ.</target>
-        <note>Description associated to the Studies toggle on the settings screen. %@ is the app name (Focus/Klar)</note>
+        <note>Description associated to the Studies toggle on the settings screen. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Settings.general" xml:space="preserve">
         <source>General</source>
@@ -654,7 +654,7 @@
       <trans-unit id="Settings.rate" xml:space="preserve">
         <source>Rate %@</source>
         <target>ໃຫ້ຄະແນນ %@</target>
-        <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, allows the user to leave a review for the app on the app store.</note>
+        <note>%@ is the app name (for example “Firefox Focus” or ”Firefox Klar”). Title displayed in the settings screen that, when tapped, allows the user to leave a review for the app on the app store.</note>
       </trans-unit>
       <trans-unit id="Settings.safariTitle" xml:space="preserve">
         <source>SAFARI INTEGRATION</source>
@@ -699,7 +699,7 @@
       <trans-unit id="Settings.setAsDefaultBrowserDescription" xml:space="preserve">
         <source>Set links from websites, emails and messages to open automatically in %@.</source>
         <target>ຕັ້ງລິ້ງຈາກເວັບໄຊທ໌, ອີເມວ ແລະຂໍ້ຄວາມໃຫ້ເປີດໂດຍອັດຕະໂນມັດໃນ %@.</target>
-        <note>%@ is the name of the app. Description for set as default browser option</note>
+        <note>%@ is the app name (for example “Firefox Focus” or ”Firefox Klar”). Description for set as default browser option.</note>
       </trans-unit>
       <trans-unit id="Settings.systemTheme" xml:space="preserve">
         <source>System Theme</source>
@@ -754,7 +754,7 @@
       <trans-unit id="Settings.toggleFaceIDDescription" xml:space="preserve">
         <source>Face ID can unlock %@ if a URL is already open in the app</source>
         <target>Face ID ສາມາດປົດລັອກ %@ ຖ້າ URL ເປີດຢູ່ແລ້ວໃນແອັບ</target>
-        <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
+        <note>%@ is the app name (for example “Firefox Focus” or ”Firefox Klar”). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.toggleHomeScreenTips" xml:space="preserve">
         <source>Show home screen tips</source>
@@ -784,7 +784,7 @@
       <trans-unit id="Settings.toggleTouchIDDescription" xml:space="preserve">
         <source>Touch ID can unlock %@ if a URL is already open in the app</source>
         <target>Touch ID ສາມາດປົດລັອກ %@ ຖ້າ URL ເປີດຢູ່ໃນແອັບແລ້ວ</target>
-        <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
+        <note>%@ is the app name (for example “Firefox Focus” or ”Firefox Klar”). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.trackingProtectionOff" xml:space="preserve">
         <source>Off</source>
@@ -904,7 +904,7 @@
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepThree.V2" xml:space="preserve">
         <source>Search for %@. Then choose a widget.</source>
         <target>ຊອກຫາ %@. ຈາກນັ້ນເລືອກ widget.</target>
-        <note>This is the subtitle text for step three that is displayed in the Show Me How onboarding screen. %@ is the name of the app (Focus/Klar)</note>
+        <note>This is the subtitle text for step three that is displayed in the Show Me How onboarding screen. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepTwo.V2" xml:space="preserve">
         <source>Tap on the plus icon.</source>
@@ -914,7 +914,7 @@
       <trans-unit id="ShowMeHowOnboarding.Title.V2" xml:space="preserve">
         <source>Add a %@ Widget</source>
         <target>ເພີ່ມ %@ Widget</target>
-        <note>This is the title text that is displayed in the Show Me How Onboarding Screen. %@ is the name of the app (Focus/Klar)</note>
+        <note>This is the title text that is displayed in the Show Me How Onboarding Screen. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Siri.add" xml:space="preserve">
         <source>Add</source>
@@ -959,7 +959,7 @@
       <trans-unit id="Tip.Biometric.Title" xml:space="preserve">
         <source>Lock %@ when a site is open:</source>
         <target>ລັອກ %@ ເມື່ອເວັບໄຊເປີດ:</target>
-        <note>Text for a label that indicates the title for biometric tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
+        <note>Text for a label that indicates the title for biometric tip. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Tip.BiometricFaceId.Description" xml:space="preserve">
         <source>Turn on Face ID</source>
@@ -984,17 +984,17 @@
       <trans-unit id="Tip.ShareTrackers.Description" xml:space="preserve">
         <source>%@ trackers blocked so far</source>
         <target>%@ ຕົວຕິດຕາມຖືກປິດກັ້ນມາເຖິງຕອນນັ້ນ</target>
-        <note>Text for a label that indicates the description for share trackers tip. The placeholder is the number of trackers blocked. Only shown when there are more than 10 trackers blocked. For locales where we would need plural support, please feel free to translate this string as `Trackers blocked so far: %@` instead.</note>
+        <note>Text for a label that indicates the description for share trackers tip. %@ is the number of trackers blocked. Only shown when there are more than 10 trackers blocked. For locales where we would need plural support, please feel free to translate this string as `Trackers blocked so far: %@` instead.</note>
       </trans-unit>
       <trans-unit id="Tip.ShareTrackers.Title" xml:space="preserve">
         <source>You browse. %@ blocks.</source>
         <target>ທ່ານຊອກຫາ. %@ ບລັອກ.</target>
-        <note>Text for a label that indicates the title for share trackers tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
+        <note>Text for a label that indicates the title for share trackers tip. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Tip.Shortcuts.Description" xml:space="preserve">
         <source>Select Add to Shortcuts from the %@ menu</source>
         <target>ເລືອກ Add to Shortcuts ຈາກເມນູ %@</target>
-        <note>Text for a label that indicates the description for shortcuts tip. The placeholder is replaced with the short product name (Focus or Klar).</note>
+        <note>Text for a label that indicates the description for shortcuts tip. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Tip.Shortcuts.Title" xml:space="preserve">
         <source>Create shortcuts to the sites you visit most:</source>
@@ -1009,7 +1009,7 @@
       <trans-unit id="Tip.SiriErase.Title" xml:space="preserve">
         <source>“Siri, erase my %@ session.”</source>
         <target>“Siri, ລຶບ %@ session ຂອງຂ້ອຍ.”</target>
-        <note>Text for a label that indicates the title for siri erase tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar).</note>
+        <note>Text for a label that indicates the title for siri erase tip. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Tip.SiriFavorite.Description" xml:space="preserve">
         <source>Add Siri shortcut</source>
@@ -1034,7 +1034,7 @@
       <trans-unit id="TodayWidget.SearchInApp.Instruction" xml:space="preserve">
         <source>Search in %@</source>
         <target>ຊອກຫາໃນ %@</target>
-        <note>Text shown on quick action widget inviting the user to browse in the app. %@ is the name of the app (Focus/Klar).</note>
+        <note>Text shown on quick action widget inviting the user to browse in the app. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.ContextMenu" xml:space="preserve">
         <source>Go to Settings to manage specific privacy &amp; security options.</source>
@@ -1054,7 +1054,7 @@
       <trans-unit id="TooltipBodyText.ShieldIcon" xml:space="preserve">
         <source>%@ stopped this site from spying on you. Tap the shield for info on what we blocked.</source>
         <target>%@ ຢຸດເວັບໄຊນີ້ຈາກການສອດແນມເຈົ້າ. ແຕະທີ່ໄສ້ສໍາລັບຂໍ້ມູນກ່ຽວກັບສິ່ງທີ່ພວກເຮົາບລັອກ.</target>
-        <note>This is the body text that is displayed for the Shield icon tooltip. Where placeholder can be (Focus or Klar).</note>
+        <note>This is the body text that is displayed for the Shield icon tooltip. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.ShieldIconTrackerBlocked.V2" xml:space="preserve">
         <source>Got ‘em! We stopped this site from spying on you. Tap the shield any time to see what we’re blocking.</source>
@@ -1114,7 +1114,7 @@
       <trans-unit id="URL.searchLabel" xml:space="preserve">
         <source>Search for %@</source>
         <target>ຄົ້ນຫາສຳລັບ %@</target>
-        <note>Label displayed for search button when typing in the URL bar</note>
+        <note>Label displayed for search button when typing in the URL bar. %@ is the text type by the user.</note>
       </trans-unit>
       <trans-unit id="URL.trackersBlockedLabel" xml:space="preserve">
         <source>Trackers blocked</source>
@@ -1129,7 +1129,7 @@
       <trans-unit id="WidgetOnboardingCard.Subtitle" xml:space="preserve">
         <source>We’ll leave you to your private browsing, but get a quicker start next time with the %@ widget on your Home screen.</source>
         <target>ພວກເຮົາຈະປ່ອຍໃຫ້ທ່ານຊອກຫາແບບສ່ວນຕົວຂອງທ່ານ, ແຕ່ເລີ່ມຕົ້ນໄວຂຶ້ນໃນຄັ້ງຕໍ່ໄປດ້ວຍວິດເຈັດ %@ ໃນໜ້າຈໍຫຼັກຂອງທ່ານ.</target>
-        <note>Subtitle shown on card view explaining the app has a widget option. %@ is the name of the app (Focus/Klar).</note>
+        <note>Subtitle shown on card view explaining the app has a widget option. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.Title" xml:space="preserve">
         <source>Browsing history cleared! 🎉</source>
@@ -1139,7 +1139,7 @@
       <trans-unit id="actionSheet.openIn" xml:space="preserve">
         <source>Open in %@</source>
         <target>ເປີດໃນ %@</target>
-        <note>Title for action sheet item to open the current page in another application. Placeholder is the name of the application to open the current page.</note>
+        <note>Title for action sheet item to open the current page in another application. %@ is the name of the application to open the current page.</note>
       </trans-unit>
       <trans-unit id="browser.copyAddressToast" xml:space="preserve">
         <source>URL Copied To Clipboard</source>
@@ -1154,7 +1154,7 @@
       <trans-unit id="externalAppLinkWithAppName.messageTitle" xml:space="preserve">
         <source>%1$@ wants to open %2$@</source>
         <target>%1$@ ຕ້ອງການເປີດໃນ %2$@</target>
-        <note>Dialog title used for opening an external app from Focus. First placeholder string is the app name of either Focus or Klar and the second placeholder string specifies the app it wants to open.</note>
+        <note>Dialog title used for opening an external app from Focus. %1$@ is the app name (for example “Firefox Focus” or ”Firefox Klar”), %2$@ is the app it wants to open.</note>
       </trans-unit>
       <trans-unit id="settings.Search.SearchTemplateExample" xml:space="preserve">
         <source>Example: searchengine.example.com/search/?q=%s</source>
@@ -1204,7 +1204,7 @@
       <trans-unit id="trackingProtection.trackersBlockedLabel" xml:space="preserve">
         <source>Trackers blocked since %@</source>
         <target>ບລັອກຕົວຕິດຕາມຕັ້ງແຕ່ %@</target>
-        <note>Text for tracking protection screen showing the number of trackers blocked since the app install. The placeholder is replaced with the install date of the application.</note>
+        <note>Text for tracking protection screen showing the number of trackers blocked since the app install. %@ is replaced with the install date of the application.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.trackersHeader" xml:space="preserve">
         <source>Trackers and scripts to block</source>
