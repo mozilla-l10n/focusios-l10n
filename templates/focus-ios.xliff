@@ -366,6 +366,14 @@
         <source>More than just incognito</source>
         <note>Text for a label that indicates the title of incognito section from onboarding screen.</note>
       </trans-unit>
+      <trans-unit id="Onboarding.PrivacyNotice.LinkText" xml:space="preserve">
+        <source>Privacy Notice</source>
+        <note>Used as a text for the link in Onboarding.PrivacyNotice.Text.</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.PrivacyNotice.Text" xml:space="preserve">
+        <source>Firefox cares about your privacy. Read more in %@.</source>
+        <note>Text that describes Firefox's commitment to privacy. %@ is a link using Onboarding.PrivacyNotice.LinkText as text.</note>
+      </trans-unit>
       <trans-unit id="Onboarding.Protection.Description" xml:space="preserve">
         <source>Configure settings so you can decide how much or how little you share.</source>
         <note>Text for a label that indicates the description of protection section from onboarding screen.</note>
@@ -377,6 +385,30 @@
       <trans-unit id="Onboarding.Subtitle" xml:space="preserve">
         <source>Take your private browsing to the next level.</source>
         <note>Text for a label that indicates the subtitle for onboarding screen.</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.TermsOfUse.ButtonText" xml:space="preserve">
+        <source>Agree and Continue</source>
+        <note>Label for the agreement button in the Terms of Use screen.</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.TermsOfUse.Done.ButtonText" xml:space="preserve">
+        <source>Done</source>
+        <note>Button label to dismiss the Privacy Policy and Terms of Use screen.</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.TermsOfUse.LinkText" xml:space="preserve">
+        <source>Firefox Terms of Use</source>
+        <note>Used as a text for the link in Onboarding.TermsOfUse.Text.</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.TermsOfUse.Subtitle" xml:space="preserve">
+        <source>Fast. Private. No distractions.</source>
+        <note>Subtitle for the Terms of Use screen during onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.TermsOfUse.Text" xml:space="preserve">
+        <source>By continuing, you agree to %@.</source>
+        <note>Text that describes the agreement to the Firefox Terms of Use. %@ is a link using Onboarding.TermsOfUse.LinkText as text.</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.TermsOfUse.Title" xml:space="preserve">
+        <source>Welcome to %@</source>
+        <note>Title for the Terms of Use screen during onboarding. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Onboarding.Title" xml:space="preserve">
         <source>Welcome to Firefox %@!</source>
