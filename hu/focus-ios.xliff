@@ -453,10 +453,12 @@
       </trans-unit>
       <trans-unit id="Onboarding.PrivacyNotice.LinkText" xml:space="preserve">
         <source>Privacy Notice</source>
+        <target>Adatvédelmi nyilatkozat</target>
         <note>Used as a text for the link in Onboarding.PrivacyNotice.Text.</note>
       </trans-unit>
       <trans-unit id="Onboarding.PrivacyNotice.Text" xml:space="preserve">
         <source>Firefox cares about your privacy. Read more in %@.</source>
+        <target>A Firefox vigyáz az Ön adatvédelmére. További információk az %@unkban.</target>
         <note>Text that describes Firefox's commitment to privacy. %@ is a link using Onboarding.PrivacyNotice.LinkText as text.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Description" xml:space="preserve">
@@ -476,14 +478,17 @@
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.ButtonText" xml:space="preserve">
         <source>Agree and Continue</source>
+        <target>Elfogadás és folytatás</target>
         <note>Label for the agreement button in the Terms of Use screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.Done.ButtonText" xml:space="preserve">
         <source>Done</source>
+        <target>Kész</target>
         <note>Button label to dismiss the Privacy Policy and Terms of Use screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.LinkText" xml:space="preserve">
         <source>Firefox Terms of Use</source>
+        <target>Firefox felhasználási feltételeit</target>
         <note>Used as a text for the link in Onboarding.TermsOfUse.Text.</note>
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.Subtitle" xml:space="preserve">
