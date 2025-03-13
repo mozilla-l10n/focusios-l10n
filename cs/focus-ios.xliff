@@ -476,10 +476,12 @@
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.ButtonText" xml:space="preserve">
         <source>Agree and Continue</source>
+        <target>Souhlasím a pokračovat</target>
         <note>Label for the agreement button in the Terms of Use screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.Done.ButtonText" xml:space="preserve">
         <source>Done</source>
+        <target>Hotovo</target>
         <note>Button label to dismiss the Privacy Policy and Terms of Use screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.LinkText" xml:space="preserve">
