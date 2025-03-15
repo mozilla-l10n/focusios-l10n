@@ -453,10 +453,12 @@
       </trans-unit>
       <trans-unit id="Onboarding.PrivacyNotice.LinkText" xml:space="preserve">
         <source>Privacy Notice</source>
+        <target>Thông báo về quyền riêng tư</target>
         <note>Used as a text for the link in Onboarding.PrivacyNotice.Text.</note>
       </trans-unit>
       <trans-unit id="Onboarding.PrivacyNotice.Text" xml:space="preserve">
         <source>Firefox cares about your privacy. Read more in %@.</source>
+        <target>Firefox quan tâm đến quyền riêng tư của bạn. Đọc thêm trong %@.</target>
         <note>Text that describes Firefox's commitment to privacy. %@ is a link using Onboarding.PrivacyNotice.LinkText as text.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Description" xml:space="preserve">
@@ -476,26 +478,32 @@
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.ButtonText" xml:space="preserve">
         <source>Agree and Continue</source>
+        <target>Đồng ý và tiếp tục</target>
         <note>Label for the agreement button in the Terms of Use screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.Done.ButtonText" xml:space="preserve">
         <source>Done</source>
+        <target>Xong</target>
         <note>Button label to dismiss the Privacy Policy and Terms of Use screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.LinkText" xml:space="preserve">
         <source>Firefox Terms of Use</source>
+        <target>Điều khoản sử dụng Firefox</target>
         <note>Used as a text for the link in Onboarding.TermsOfUse.Text.</note>
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.Subtitle" xml:space="preserve">
         <source>Fast. Private. No distractions.</source>
+        <target>Nhanh. Riêng tư. Không có phiền nhiễu.</target>
         <note>Subtitle for the Terms of Use screen during onboarding.</note>
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.Text" xml:space="preserve">
         <source>By continuing, you agree to %@.</source>
+        <target>Bằng cách tiếp tục, bạn đồng ý với %@.</target>
         <note>Text that describes the agreement to the Firefox Terms of Use. %@ is a link using Onboarding.TermsOfUse.LinkText as text.</note>
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.Title" xml:space="preserve">
         <source>Welcome to %@</source>
+        <target>Chào mừng đến với %@</target>
         <note>Title for the Terms of Use screen during onboarding. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Onboarding.Title" xml:space="preserve">
