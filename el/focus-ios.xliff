@@ -188,12 +188,12 @@
       </trans-unit>
       <trans-unit id="AddPass.Error.Message" xml:space="preserve">
         <source>An error occured while adding the pass to Wallet. Please try again later.</source>
-        <target>Προέκυψε σφάλμα κατά την προσθήκη του πάσο στο Πορτοφόλι. Παρακαλώ δοκιμάστε ξανά αργότερα.</target>
+        <target>Προέκυψε σφάλμα κατά την προσθήκη του πάσου στο Πορτοφόλι. Δοκιμάστε ξανά αργότερα.</target>
         <note>Message of the 'Add Pass Failed' alert.</note>
       </trans-unit>
       <trans-unit id="AddPass.Error.Title" xml:space="preserve">
         <source>Failed to Add Pass</source>
-        <target>Αποτυχία προσθήκης πάσο</target>
+        <target>Αποτυχία προσθήκης πάσου</target>
         <note>Title of the 'Add Pass Failed' alert.</note>
       </trans-unit>
       <trans-unit id="Authentication.reason" xml:space="preserve">
