@@ -153,6 +153,7 @@
       </trans-unit>
       <trans-unit id="About.rowTerms" xml:space="preserve">
         <source>Terms of Use</source>
+        <target>Teirmichean a’ chleachdaidh</target>
         <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet1" xml:space="preserve">
@@ -452,6 +453,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.PrivacyNotice.LinkText" xml:space="preserve">
         <source>Privacy Notice</source>
+        <target>Aithris na prìobhaideachd</target>
         <note>Used as a text for the link in Onboarding.PrivacyNotice.Text.</note>
       </trans-unit>
       <trans-unit id="Onboarding.PrivacyNotice.Text" xml:space="preserve">
