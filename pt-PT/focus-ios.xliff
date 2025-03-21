@@ -458,6 +458,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.PrivacyNotice.Text" xml:space="preserve">
         <source>Firefox cares about your privacy. Read more in %@.</source>
+        <target>O Firefox preocupa-se com a sua privacidade. Saiba mais em %@.</target>
         <note>Text that describes Firefox's commitment to privacy. %@ is a link using Onboarding.PrivacyNotice.LinkText as text.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Description" xml:space="preserve">
@@ -492,10 +493,12 @@
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.Subtitle" xml:space="preserve">
         <source>Fast. Private. No distractions.</source>
+        <target>Rápido. Privado. Sem distrações.</target>
         <note>Subtitle for the Terms of Use screen during onboarding.</note>
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.Text" xml:space="preserve">
         <source>By continuing, you agree to %@.</source>
+        <target>Ao continuar, concorda com os %@.</target>
         <note>Text that describes the agreement to the Firefox Terms of Use. %@ is a link using Onboarding.TermsOfUse.LinkText as text.</note>
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.Title" xml:space="preserve">
