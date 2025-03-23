@@ -458,7 +458,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.PrivacyNotice.Text" xml:space="preserve">
         <source>Firefox cares about your privacy. Read more in %@.</source>
-        <target>Firefox dba o Twoją prywatność. Dowiedz się więcej w naszych %@.</target>
+        <target>Firefox dba o Twoją prywatność. Dowiedz się więcej w %@.</target>
         <note>Text that describes Firefox's commitment to privacy. %@ is a link using Onboarding.PrivacyNotice.LinkText as text.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Description" xml:space="preserve">
