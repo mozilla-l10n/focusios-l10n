@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="About.missionLabel" xml:space="preserve">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
-        <target>u200f%@ פותח על־ידי Mozilla. המשימה שלנו היא לטפח רשת אינטרנט פתוחה ובריאה.</target>
+        <target>‏%@ פותח על־ידי Mozilla. המשימה שלנו היא לטפח רשת אינטרנט פתוחה ובריאה.</target>
         <note>Label on About screen. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="About.privateBullet1" xml:space="preserve">
@@ -178,7 +178,7 @@
       </trans-unit>
       <trans-unit id="About.topLabel" xml:space="preserve">
         <source>%@ puts you in control.</source>
-        <target>u200f%@ שם אותך בשליטה.</target>
+        <target>‏%@ שם אותך בשליטה.</target>
         <note>Label on About screen. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="AddPass.Error.Dismiss" xml:space="preserve">
@@ -528,7 +528,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsNotEnabled" xml:space="preserve">
         <source>%@ is not enabled.</source>
-        <target>u200f%@ לא מופעל.</target>
+        <target>‏%@ לא מופעל.</target>
         <note>Error label when the blocker is not enabled, shown in the intro and main app when disabled. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsOpen" xml:space="preserve">
@@ -623,7 +623,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplatePlaceholder" xml:space="preserve">
         <source>Paste or enter search string. If necessary, replace search term with: %s.</source>
-        <target>יש להדביק או להקליד מחרוזת לחיפוש. במידת הצורך, יש להחליף את הביטוי לחיפוש ב־: %s.</target>
+        <target>יש להדביק או להקליד מחרוזת לחיפוש. במידת הצורך, יש להחליף את הביטוי לחיפוש ב: %s.</target>
         <note>Placeholder text for input of new search engine template</note>
       </trans-unit>
       <trans-unit id="Settings.autocompleteSection" xml:space="preserve">
@@ -793,7 +793,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleFaceIDDescription" xml:space="preserve">
         <source>Face ID can unlock %@ if a URL is already open in the app</source>
-        <target>u200fFace ID יכול לשחרר את הנעילה של %@ אם כתובת אתר כבר פתוחה ביישומון</target>
+        <target>‏Face ID יכול לשחרר את הנעילה של %@ אם כתובת אתר כבר פתוחה ביישומון</target>
         <note>%@ is the app name (for example “Firefox Focus” or ”Firefox Klar”). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.toggleHomeScreenTips" xml:space="preserve">
@@ -823,7 +823,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleTouchIDDescription" xml:space="preserve">
         <source>Touch ID can unlock %@ if a URL is already open in the app</source>
-        <target>u200fTouch ID יכול לשחרר את הנעילה של %@ אם כתובת אתר כבר פתוחה ביישומון</target>
+        <target>‏Touch ID יכול לשחרר את הנעילה של %@ אם כתובת אתר כבר פתוחה ביישומון</target>
         <note>%@ is the app name (for example “Firefox Focus” or ”Firefox Klar”). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.trackingProtectionOff" xml:space="preserve">
