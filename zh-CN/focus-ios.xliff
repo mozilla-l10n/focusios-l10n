@@ -163,7 +163,7 @@
       </trans-unit>
       <trans-unit id="About.safariBullet2" xml:space="preserve">
         <source>Block web fonts to reduce page size</source>
-        <target>拦截网络字体，减少网页大小</target>
+        <target>拦截网络字体，缩减网页大小</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader" xml:space="preserve">
