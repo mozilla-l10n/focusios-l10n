@@ -848,7 +848,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.AddToShortcuts" xml:space="preserve">
         <source>Add to Shortcuts</source>
-        <target>Προσθήκη στις συντομεύσεις</target>
+        <target>Προσθήκη συντόμευσης</target>
         <note>Text for the share menu option when a user wants to add the site to Shortcuts</note>
       </trans-unit>
       <trans-unit id="ShareMenu.AddToShortcuts.Confirm" xml:space="preserve">
@@ -863,7 +863,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.RemoveFromShortcuts" xml:space="preserve">
         <source>Remove from Shortcuts</source>
-        <target>Αφαίρεση από συντομεύσεις</target>
+        <target>Αφαίρεση συντόμευσης</target>
         <note>Text for the share menu option when a user wants to remove the site from Shortcuts</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RemoveShortcut.Confirm" xml:space="preserve">
@@ -883,17 +883,17 @@
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenChrome" xml:space="preserve">
         <source>Open in Chrome</source>
-        <target>Άνοιγμα σε Chrome</target>
+        <target>Άνοιγμα στο Chrome</target>
         <note>Text for the share menu option when a user wants to open the current website in the Chrome app.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenDefaultBrowser" xml:space="preserve">
         <source>Open in Default Browser</source>
-        <target>Άνοιγμα σε προεπιλεγμένο φυλλομετρητή</target>
+        <target>Άνοιγμα στο προεπιλεγμένο πρόγραμμα περιήγησης</target>
         <note>Text for the share menu option when a user wants to open the current website in the default browser.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenFirefox" xml:space="preserve">
         <source>Open in Firefox</source>
-        <target>Άνοιγμα σε Firefox</target>
+        <target>Άνοιγμα στο Firefox</target>
         <note>Text for the share menu option when a user wants to open the current website in the Firefox app.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenLink" xml:space="preserve">
@@ -908,7 +908,7 @@
       </trans-unit>
       <trans-unit id="ShortcutView.RemoveFromShortcuts" xml:space="preserve">
         <source>Remove from Shortcuts</source>
-        <target>Αφαίρεση από συντομεύσεις</target>
+        <target>Αφαίρεση συντόμευσης</target>
         <note>Text for the long press on a shortcut option in context menu.</note>
       </trans-unit>
       <trans-unit id="ShortcutView.Rename" xml:space="preserve">
@@ -1178,7 +1178,7 @@
       </trans-unit>
       <trans-unit id="actionSheet.openIn" xml:space="preserve">
         <source>Open in %@</source>
-        <target>Άνοιγμα σε %@</target>
+        <target>Άνοιγμα στο «%@»</target>
         <note>Title for action sheet item to open the current page in another application. %@ is the name of the application to open the current page.</note>
       </trans-unit>
       <trans-unit id="browser.copyAddressToast" xml:space="preserve">
