@@ -198,7 +198,7 @@
       </trans-unit>
       <trans-unit id="Authentication.reason" xml:space="preserve">
         <source>Authenticate to return to %@</source>
-        <target>Ταυτοποίηση για επιστροφή στο %@</target>
+        <target>Κάντε ταυτοποίηση για επιστροφή στο %@</target>
         <note>%@ is the app name (for example “Firefox Focus” or ”Firefox Klar”). Prompt shown to ask the user to use Touch ID, Face ID, or passcode to continue browsing after returning to the app.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrl" xml:space="preserve">
@@ -563,7 +563,7 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptMessage" xml:space="preserve">
         <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
-        <target>Για να λάβετε προτάσεις, το %@ πρέπει να στείλει ό,τι πληκτρολογείτε στη γραμμή διευθύνσεων στη μηχανή αναζήτησης.</target>
+        <target>Για να λαμβάνετε προτάσεις, το %@ πρέπει να στέλνει στη μηχανή αναζήτησης ό,τι πληκτρολογείτε στη γραμμή διευθύνσεων.</target>
         <note>%@ is the app name (for example “Firefox Focus” or ”Firefox Klar”). Label for search suggestions prompt message</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptTitle" xml:space="preserve">
@@ -778,7 +778,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial2" xml:space="preserve">
         <source>Social</source>
-        <target>Κοινωνικά δίκτυα</target>
+        <target>Μέσα κοινωνικής δικτύωσης</target>
         <note>Label for the checkbox to toggle Social trackers</note>
       </trans-unit>
       <trans-unit id="Settings.toggleCrashReports" xml:space="preserve">
@@ -1083,7 +1083,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.Privacy" xml:space="preserve">
         <source>These default settings offer strong protection. But it’s easy to tweak the settings to meet your specific needs.</source>
-        <target>Αυτές οι προεπιλεγμένες ρυθμίσεις προσφέρουν ισχυρή προστασία. Αλλά μπορείτε εύκολα να τις προσαρμόσετε για να ταιριάξουν με τις δικές σας ανάγκες.</target>
+        <target>Οι προεπιλεγμένες ρυθμίσεις παρέχουν ισχυρή προστασία, αλλά μπορείτε εύκολα να τις προσαρμόσετε με βάση τις ανάγκες σας.</target>
         <note>This is the body text that is displayed for the Privacy tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.SearchBar" xml:space="preserve">
@@ -1113,7 +1113,7 @@
       </trans-unit>
       <trans-unit id="TooltipTitleText.Privacy" xml:space="preserve">
         <source>You’re protected! </source>
-        <target>Προστατεύεστε!</target>
+        <target>Προστατεύεστε! </target>
         <note>This is the title text that is displayed for the Privacy tooltip</note>
       </trans-unit>
       <trans-unit id="URL.addToAutocompleteLabel" xml:space="preserve">
@@ -1168,7 +1168,7 @@
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.Subtitle" xml:space="preserve">
         <source>We’ll leave you to your private browsing, but get a quicker start next time with the %@ widget on your Home screen.</source>
-        <target>Θα σας αφήσουμε στην ιδιωτική σας περιήγηση, αλλά ξεκινήστε πιο γρήγορα την επόμενη φορά με το widget %@ στην αρχική σας οθόνη.</target>
+        <target>Συνεχίστε την ιδιωτική σας περιήγηση, αλλά ξεκινήστε ταχύτερα την επόμενη φορά με το widget του %@ στην οθόνη Αφετηρίας.</target>
         <note>Subtitle shown on card view explaining the app has a widget option. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.Title" xml:space="preserve">
