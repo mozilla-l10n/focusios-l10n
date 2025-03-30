@@ -203,7 +203,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrl" xml:space="preserve">
         <source>Add Custom URL</source>
-        <target>Pridať vlastnú URL</target>
+        <target>Pridať vlastnú webovú adresu</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlError" xml:space="preserve">
@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlWithPlus" xml:space="preserve">
         <source>+ Add Custom URL</source>
-        <target>+ Pridať vlastnú URL</target>
+        <target>+ Pridať vlastnú webovú adresu</target>
         <note>Label for button to add a custom URL with the + prefix</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customUrlAdded" xml:space="preserve">
@@ -623,12 +623,12 @@
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplatePlaceholder" xml:space="preserve">
         <source>Paste or enter search string. If necessary, replace search term with: %s.</source>
-        <target>Prilepte alebo zadajte výraz vyhľadávania. Ak je to nutné, nahraďte výraz s: %s.</target>
+        <target>Prilepte alebo zadajte hľadaný reťazec. V prípade potreby nahraďte hľadaný výraz výrazom: %s.</target>
         <note>Placeholder text for input of new search engine template</note>
       </trans-unit>
       <trans-unit id="Settings.autocompleteSection" xml:space="preserve">
         <source>URL Autocomplete</source>
-        <target>Automatické dokončovanie URL adries</target>
+        <target>Automatické dopĺňanie adresy URL</target>
         <note>Title for the URL Autocomplete row</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage" xml:space="preserve">
@@ -713,7 +713,7 @@
       </trans-unit>
       <trans-unit id="Settings.searchSuggestions" xml:space="preserve">
         <source>Get Search Suggestions</source>
-        <target>Získať návrhy vyhľadávania</target>
+        <target>Získavať návrhy vyhľadávania</target>
         <note>Label for the Search Suggestions toggle row</note>
       </trans-unit>
       <trans-unit id="Settings.searchTitle2" xml:space="preserve">
@@ -738,7 +738,7 @@
       </trans-unit>
       <trans-unit id="Settings.setAsDefaultBrowserDescription" xml:space="preserve">
         <source>Set links from websites, emails and messages to open automatically in %@.</source>
-        <target>Nastavte si automatické otváranie webových stránok, e‑mailov a správ vo %@e.</target>
+        <target>Nastavte si automatické otváranie webových stránok, e‑mailov a správ v prehliadači %@.</target>
         <note>%@ is the app name (for example “Firefox Focus” or ”Firefox Klar”). Description for set as default browser option.</note>
       </trans-unit>
       <trans-unit id="Settings.systemTheme" xml:space="preserve">
@@ -788,7 +788,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleFaceID" xml:space="preserve">
         <source>Use Face ID to unlock app</source>
-        <target>Na odomknutie aplikácie použiť Face ID</target>
+        <target>Na odomknutie aplikácie používať Face ID</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceIDDescription" xml:space="preserve">
@@ -818,7 +818,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleTouchID" xml:space="preserve">
         <source>Use Touch ID to unlock app</source>
-        <target>Na odomknutie aplikácie použiť Touch ID</target>
+        <target>Na odomknutie aplikácie používať Touch ID</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleTouchIDDescription" xml:space="preserve">
@@ -1248,7 +1248,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.trackersHeader" xml:space="preserve">
         <source>Trackers and scripts to block</source>
-        <target>Sledovacie prvky a skripty na zablokovanie</target>
+        <target>Sledovacie prvky a skripty, ktoré je možné blokovať</target>
         <note>Text for the header of trackers section from Tracking Protection.</note>
       </trans-unit>
     </body>
