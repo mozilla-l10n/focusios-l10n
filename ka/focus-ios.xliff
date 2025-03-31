@@ -658,7 +658,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
         <source>%@ will send what you type in the address bar to your search engine.</source>
-        <target>%@ გაუგზავნის საძიებო სისტემას, მისამართების ველში აკრეფილ ტექსტს</target>
+        <target>%@ გაუგზავნის საძიებო სისტემას მისამართების ველში აკრეფილ ტექსტს.</target>
         <note>Description associated to the Search Suggestions toggle on main screen. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData" xml:space="preserve">
@@ -788,12 +788,12 @@
       </trans-unit>
       <trans-unit id="Settings.toggleFaceID" xml:space="preserve">
         <source>Use Face ID to unlock app</source>
-        <target>გამოიყენეთ სახის ამომცნობი, პროგრამის გასახსნელად</target>
+        <target>სახის ამოცნობით ჩაკეტილი პროგრამის გახსნა</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceIDDescription" xml:space="preserve">
         <source>Face ID can unlock %@ if a URL is already open in the app</source>
-        <target>სახის ამომცნობით შესაძლებელია გაიხსნას %@ თუ URL-ბმული უკვე გახსნილია პროგრამაში</target>
+        <target>სახის ამომცნობით განიბლოკება %@ თუ URL-ბმული უკვე გახსნილია პროგრამაში</target>
         <note>%@ is the app name (for example “Firefox Focus” or ”Firefox Klar”). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.toggleHomeScreenTips" xml:space="preserve">
@@ -1023,7 +1023,7 @@
       </trans-unit>
       <trans-unit id="Tip.ShareTrackers.Description" xml:space="preserve">
         <source>%@ trackers blocked so far</source>
-        <target>%@ შეიზრუდა ამ დრომდე.</target>
+        <target>%@ შეიზღუდა ამ დრომდე.</target>
         <note>Text for a label that indicates the description for share trackers tip. %@ is the number of trackers blocked. Only shown when there are more than 10 trackers blocked. For locales where we would need plural support, please feel free to translate this string as `Trackers blocked so far: %@` instead.</note>
       </trans-unit>
       <trans-unit id="Tip.ShareTrackers.Title" xml:space="preserve">
@@ -1243,7 +1243,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.trackersBlockedLabel" xml:space="preserve">
         <source>Trackers blocked since %@</source>
-        <target>სულ შეზღუდული, თარიღიდან %@</target>
+        <target>სულ შეზღუდული თარიღიდან %@</target>
         <note>Text for tracking protection screen showing the number of trackers blocked since the app install. %@ is replaced with the install date of the application.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.trackersHeader" xml:space="preserve">
