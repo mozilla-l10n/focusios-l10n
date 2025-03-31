@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet3" xml:space="preserve">
         <source>Erase to delete cookies as well as search and browsing history</source>
-        <target>გაასუფთავეთ, ფუნთუშების, ძიებისა და საიტების ისტორიის წასაშლელად</target>
+        <target>გაასუფთავეთ ფუნთუშების, ძიებისა და საიტების ისტორიის წასაშლელად</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader" xml:space="preserve">
@@ -158,17 +158,17 @@
       </trans-unit>
       <trans-unit id="About.safariBullet1" xml:space="preserve">
         <source>Block trackers for improved privacy</source>
-        <target>შეზღუდეთ თვალთვალი, მეტი პირადულობისთვის</target>
+        <target>შეზღუდეთ თვალთვალი მეტი პირადულობისთვის</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2" xml:space="preserve">
         <source>Block web fonts to reduce page size</source>
-        <target>შეზღუდეთ ვებშრიფტები, გვერდის მოცულობის შესამცირებლად</target>
+        <target>შეზღუდეთ ვებშრიფტები გვერდის მოცულობის შესამცირებლად</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader" xml:space="preserve">
         <source>Use it as a Safari extension:</source>
-        <target>გამოიყენეთ, Safari-ს დამატებად:</target>
+        <target>გამოიყენეთ Safari-ს დამატებად:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.title" xml:space="preserve">
@@ -888,7 +888,7 @@
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenDefaultBrowser" xml:space="preserve">
         <source>Open in Default Browser</source>
-        <target>ნაგულისხმევი ბრაუზერით</target>
+        <target>ნაგულისხმევი ბრაუზერით გახსნა</target>
         <note>Text for the share menu option when a user wants to open the current website in the default browser.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenFirefox" xml:space="preserve">
