@@ -788,12 +788,12 @@
       </trans-unit>
       <trans-unit id="Settings.toggleFaceID" xml:space="preserve">
         <source>Use Face ID to unlock app</source>
-        <target>სახის ამოცნობით ჩაკეტილი პროგრამის გახსნა</target>
+        <target>სახის ამოცნობით ჩაკეტილი პროგრამის გაღება</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceIDDescription" xml:space="preserve">
         <source>Face ID can unlock %@ if a URL is already open in the app</source>
-        <target>სახის ამომცნობით განიბლოკება %@ თუ URL-ბმული უკვე გახსნილია პროგრამაში</target>
+        <target>სახის ამომცნობით გაიღება %@ თუ URL-ბმული უკვე გახსნილია პროგრამაში</target>
         <note>%@ is the app name (for example “Firefox Focus” or ”Firefox Klar”). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.toggleHomeScreenTips" xml:space="preserve">
