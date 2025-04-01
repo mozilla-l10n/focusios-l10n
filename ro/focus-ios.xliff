@@ -331,7 +331,7 @@
       </trans-unit>
       <trans-unit id="ExternalAppLink.cancelTitle" xml:space="preserve">
         <source>Cancel</source>
-        <target>Renunță</target>
+        <target>Anulează</target>
         <note>Button label used for cancelling to open another app from Focus</note>
       </trans-unit>
       <trans-unit id="ExternalAppLink.messageTitle" xml:space="preserve">
@@ -346,7 +346,7 @@
       </trans-unit>
       <trans-unit id="ExternalLink.cancelButton" xml:space="preserve">
         <source>Cancel</source>
-        <target>Renunță</target>
+        <target>Anulează</target>
         <note>Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.emailButton" xml:space="preserve">
@@ -603,6 +603,7 @@
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo2" xml:space="preserve">
         <source>Cancel</source>
+        <target>Anulează</target>
         <note>Button label for declining Content blocker alert</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherYes2" xml:space="preserve">
@@ -861,6 +862,7 @@
       </trans-unit>
       <trans-unit id="ShortcutView.RenameShortcutAlertSecondaryAction" xml:space="preserve">
         <source>Cancel</source>
+        <target>Anulează</target>
         <note>Text for the rename shortcut alert secondary action.</note>
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.ButtonText.V2" xml:space="preserve">
