@@ -1272,7 +1272,7 @@
     <body>
       <trans-unit id="TodayWidget.QuickActionGalleryDescription" xml:space="preserve">
         <source>Add a %@ shortcut to your Home screen. After adding the widget, touch and hold to edit it and select a different shortcut.</source>
-        <target>დაამატეთ %@-მალსახმობი მთავარ ეკრანზე. დამატების შემდგომ დიდხანს შეეხეთ ჩასასწორებლად ან სხვა მალსახმობის შესარჩევად.</target>
+        <target>დაამატეთ %@ მალსახმობად მთავარ ეკრანზე. ჩადგმის შემდგომ დიდხანს შეეხეთ ჩასასწორებლად ან სხვა მალსახმობის შესარჩევად.</target>
         <note>Description for small size widget to add it to home screen. %@ is the name of the app(Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionGalleryDescriptionV2" xml:space="preserve">
