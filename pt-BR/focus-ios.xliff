@@ -738,7 +738,7 @@
       </trans-unit>
       <trans-unit id="Settings.setAsDefaultBrowserDescription" xml:space="preserve">
         <source>Set links from websites, emails and messages to open automatically in %@.</source>
-        <target>Abra links de sites, emails e mensagens automaticamente no %@.</target>
+        <target>Abrir links de sites, emails e mensagens automaticamente no %@.</target>
         <note>%@ is the app name (for example “Firefox Focus” or ”Firefox Klar”). Description for set as default browser option.</note>
       </trans-unit>
       <trans-unit id="Settings.systemTheme" xml:space="preserve">
