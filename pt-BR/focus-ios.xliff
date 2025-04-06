@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="About.missionLabel" xml:space="preserve">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
-        <target>O %@ é produzido pela Mozilla. Nossa missão é promover uma Internet saudável e aberta.</target>
+        <target>O %@ é produzido pela Mozilla. Nossa missão é promover uma internet saudável e aberta.</target>
         <note>Label on About screen. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="About.privateBullet1" xml:space="preserve">
@@ -788,7 +788,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleFaceID" xml:space="preserve">
         <source>Use Face ID to unlock app</source>
-        <target>Utilizar Face ID para desbloquear o aplicativo</target>
+        <target>Usar Face ID para desbloquear o aplicativo</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceIDDescription" xml:space="preserve">
@@ -818,7 +818,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleTouchID" xml:space="preserve">
         <source>Use Touch ID to unlock app</source>
-        <target>Utilizar Touch ID para desbloquear o aplicativo</target>
+        <target>Usar Touch ID para desbloquear o aplicativo</target>
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleTouchIDDescription" xml:space="preserve">
