@@ -391,6 +391,14 @@
         <target>Clauder</target>
         <note>Button label used to close a menu that displays as a popup.</note>
       </trans-unit>
+      <trans-unit id="Network.Offline.ErrorMessage" xml:space="preserve">
+        <source>The Internet connection appears to be offline.</source>
+        <note>Error message shown when no internet connection is available</note>
+      </trans-unit>
+      <trans-unit id="Network.Offline.RetryButton" xml:space="preserve">
+        <source>Try Again</source>
+        <note>Button text for retrying network connection</note>
+      </trans-unit>
       <trans-unit id="NewOnboarding.Button.Title.V2" xml:space="preserve">
         <source>Get Started</source>
         <target>Comenciar</target>
