@@ -238,7 +238,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin" xml:space="preserve">
         <source>Enable to have %@ autocomplete over 450 popular URLs in the address bar.</source>
-        <target>Aktiver for at få %@ til at autofuldføre over 450 populære URL'er i adresselinjen.</target>
+        <target>Aktiver for at få %@ til at autofuldføre over 450 populære URL'er i adressefeltet.</target>
         <note>Description for enabling or disabling the default list. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Autocomplete.disabled" xml:space="preserve">
@@ -563,7 +563,7 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptMessage" xml:space="preserve">
         <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
-        <target>For at kunne vise søgeforslag sender %@ dine indtastninger i søgefeltet til søgetjenesten.</target>
+        <target>For at kunne vise søgeforslag sender %@ dine indtastninger i adressefeltet til søgetjenesten.</target>
         <note>%@ is the app name (for example “Firefox Focus” or ”Firefox Klar”). Label for search suggestions prompt message</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptTitle" xml:space="preserve">
@@ -658,7 +658,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
         <source>%@ will send what you type in the address bar to your search engine.</source>
-        <target>%@ sender det indtastede i adresselinjen til den valgte søgetjeneste.</target>
+        <target>%@ sender det indtastede i adressefeltet til den valgte søgetjeneste.</target>
         <note>Description associated to the Search Suggestions toggle on main screen. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData" xml:space="preserve">
