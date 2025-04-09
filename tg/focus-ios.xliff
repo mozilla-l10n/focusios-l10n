@@ -7,6 +7,7 @@
     <body>
       <trans-unit id="Intents.Erase.Description" xml:space="preserve">
         <source>Erase browsing session</source>
+        <target>Пок кардани ҷаласаи тамошобинӣ</target>
         <note/>
       </trans-unit>
       <trans-unit id="Intents.Erase.Title" xml:space="preserve">
@@ -340,6 +341,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.lastSlide.buttonLabel" xml:space="preserve">
         <source>OK, Got It!</source>
+        <target>Хуб, фаҳмидам!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline" xml:space="preserve">
@@ -367,6 +369,7 @@
       </trans-unit>
       <trans-unit id="NewOnboarding.Subtitle.V2" xml:space="preserve">
         <source>Fast. Private. No Distractions.</source>
+        <target>Тезкор. Хусусӣ. Бе саргармии бегона.</target>
         <note>Text for a label that indicates the subtitle for the onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Button.Title" xml:space="preserve">
@@ -391,6 +394,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.Title.V2" xml:space="preserve">
         <source>%@ isn’t like other browsers</source>
+        <target>Дар ҷаҳон мисли «%@» ягон браузери дигар нест</target>
         <note>Text for a label that indicates the title for the default browser onboarding screen version 2. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.TopButtonTitle.V2" xml:space="preserve">
@@ -467,6 +471,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.Title" xml:space="preserve">
         <source>Welcome to Firefox %@!</source>
+        <target>Хуш омадед ба «Firefox %@»</target>
         <note>Text for a label that indicates the title for onboarding screen. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers" xml:space="preserve">
@@ -475,6 +480,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsEnable" xml:space="preserve">
         <source>Enable %@</source>
+        <target>Фаъол кардани «%@»</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsExtentions" xml:space="preserve">
@@ -483,6 +489,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsNotEnabled" xml:space="preserve">
         <source>%@ is not enabled.</source>
+        <target>«%@» фаъол намебошад.</target>
         <note>Error label when the blocker is not enabled, shown in the intro and main app when disabled. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsOpen" xml:space="preserve">
@@ -756,18 +763,22 @@
       </trans-unit>
       <trans-unit id="ShareMenu.AddToShortcuts" xml:space="preserve">
         <source>Add to Shortcuts</source>
+        <target>Илова кардан ба миёнбурҳо</target>
         <note>Text for the share menu option when a user wants to add the site to Shortcuts</note>
       </trans-unit>
       <trans-unit id="ShareMenu.AddToShortcuts.Confirm" xml:space="preserve">
         <source>Added to Shortcuts</source>
+        <target>Ба миёнбурҳо илова карда шуд</target>
         <note>Toast displayed to the user after adding the item to the Shortcuts.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.FindInPage" xml:space="preserve">
         <source>Find in Page</source>
+        <target>Ҷустуҷӯ дар саҳифа</target>
         <note>Text for the share menu option when a user wants to open the find in page menu</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RemoveFromShortcuts" xml:space="preserve">
         <source>Remove from Shortcuts</source>
+        <target>Тоза кардан аз «Миёнбурҳо»</target>
         <note>Text for the share menu option when a user wants to remove the site from Shortcuts</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RemoveShortcut.Confirm" xml:space="preserve">
@@ -776,10 +787,12 @@
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop" xml:space="preserve">
         <source>Request Desktop Site</source>
+        <target>Дархост кардани версияи мизи кории сомона</target>
         <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RequestMobile" xml:space="preserve">
         <source>Request Mobile Site</source>
+        <target>Дархост кардани версияи мобилии сомона</target>
         <note>Text for the share menu option when a user wants to reload the site as a mobile device</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenChrome" xml:space="preserve">
@@ -998,10 +1011,12 @@
       </trans-unit>
       <trans-unit id="URL.paste" xml:space="preserve">
         <source>Paste</source>
+        <target>Гузоштан</target>
         <note>Text for a menu displayed from the bottom of the screen when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText" xml:space="preserve">
         <source>Search or enter address</source>
+        <target>Нишониеро ҷустуҷӯ кунед ё ворид намоед</target>
         <note>Placeholder text shown in the URL bar before the user navigates to a page</note>
       </trans-unit>
       <trans-unit id="URL.searchLabel" xml:space="preserve">
@@ -1010,6 +1025,7 @@
       </trans-unit>
       <trans-unit id="URL.trackersBlockedLabel" xml:space="preserve">
         <source>Trackers blocked</source>
+        <target>Васоити пайгирии манъшуда</target>
         <note>Text for the URL bar showing the number of trackers blocked on a webpage.</note>
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.ActionButton" xml:space="preserve">
@@ -1046,34 +1062,42 @@
       </trans-unit>
       <trans-unit id="share" xml:space="preserve">
         <source>Share</source>
+        <target>Мубодила кардан</target>
         <note>Text for a share button</note>
       </trans-unit>
       <trans-unit id="shareMenu.copyAddress" xml:space="preserve">
         <source>Copy Address</source>
+        <target>Нусха бардоштани нишонӣ</target>
         <note>Text for the share menu when a user wants to copy a URL.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.connectionNotSecureLabel" xml:space="preserve">
         <source>Connection is not secure</source>
+        <target>Пайвастшавӣ бехатар нест</target>
         <note>Text for tracking protection screen showing the connection is not secure</note>
       </trans-unit>
       <trans-unit id="trackingProtection.connectionSecureLabel" xml:space="preserve">
         <source>Connection is secure</source>
+        <target>Пайвастшавӣ бехатар аст</target>
         <note>Text for tracking protection screen showing the connection is secure</note>
       </trans-unit>
       <trans-unit id="trackingProtection.label" xml:space="preserve">
         <source>Tracking Protection</source>
+        <target>Муҳофизат аз пайгирӣ</target>
         <note>Title for the tracking settings page to change what trackers are blocked.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.statusOff" xml:space="preserve">
         <source>Protections are OFF for this session</source>
+        <target>Муҳофизат барои ин ҷаласа ғайрифаъол аст</target>
         <note>Text for the status off from Tracking Protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.statusOn" xml:space="preserve">
         <source>Protections are ON for this session</source>
+        <target>Муҳофизат барои ин ҷаласа фаъол аст</target>
         <note>Text for the status on from Tracking Protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel2" xml:space="preserve">
         <source>Enhanced Tracking Protection</source>
+        <target>Муҳофизати такмилёфта аз пайгирӣ</target>
         <note>Text for the toggle that enables/disables tracking protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.trackersBlockedLabel" xml:space="preserve">
@@ -1112,10 +1136,12 @@
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionsGalleryTitle" xml:space="preserve">
         <source>Quick Actions</source>
+        <target>Амалҳои зуд</target>
         <note>Quick Actions title when widget enters edit mode</note>
       </trans-unit>
       <trans-unit id="TodayWidget.SearchInApp" xml:space="preserve">
         <source>Search in %@</source>
+        <target>Ҷустуҷӯ дар %@</target>
         <note>Text shown on quick action widget inviting the user to browse in the app. %@ is the name of the app (Focus/Klar).</note>
       </trans-unit>
     </body>
