@@ -63,6 +63,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Next.Button" xml:space="preserve">
         <source>Next</source>
+        <target>Навбатӣ</target>
         <note>Button to go to the next card in Focus onboarding.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description" xml:space="preserve">
@@ -75,14 +76,17 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Skip.Button" xml:space="preserve">
         <source>Skip</source>
+        <target>Нодида гузарондан</target>
         <note>Button to skip onboarding in Focus</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Description" xml:space="preserve">
         <source>Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.</source>
+        <target>Тамошобинии хусусиро ба сатҳи нав баланд бардоред. Таблиғоту реклама ва муҳтавои дигареро, ки метавонад шуморо байни сомонаҳо пайгирӣ кунад ва вақти кушодани саҳифаҳоро хеле суст намоянд, манъ кунед.</target>
         <note>Description for the 'Welcome' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Welcome.Title" xml:space="preserve">
         <source>Power up your privacy</source>
+        <target>Махфияти худро тақвият диҳед</target>
         <note>Title for the first panel 'Welcome' in the First Run tour.</note>
       </trans-unit>
     </body>
@@ -94,6 +98,7 @@
     <body>
       <trans-unit id="About.learnMoreButton" xml:space="preserve">
         <source>Learn more</source>
+        <target>Маълумоти бештар</target>
         <note>Button on About screen</note>
       </trans-unit>
       <trans-unit id="About.missionLabel" xml:space="preserve">
@@ -118,18 +123,22 @@
       </trans-unit>
       <trans-unit id="About.rowHelp" xml:space="preserve">
         <source>Help</source>
+        <target>Кумак</target>
         <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.rowPrivacy" xml:space="preserve">
         <source>Privacy Notice</source>
+        <target>Огоҳномаи махфият</target>
         <note>Link to Privacy Notice in the About screen</note>
       </trans-unit>
       <trans-unit id="About.rowRights" xml:space="preserve">
         <source>Your Rights</source>
+        <target>Ҳуқуқҳои шумо</target>
         <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.rowTerms" xml:space="preserve">
         <source>Terms of Use</source>
+        <target>Шартҳои истифода</target>
         <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet1" xml:space="preserve">
@@ -146,6 +155,7 @@
       </trans-unit>
       <trans-unit id="About.title" xml:space="preserve">
         <source>About %@</source>
+        <target>Дар бораи «%@»</target>
         <note>%@ is the app name (for example “Firefox Focus” or ”Firefox Klar”). Title displayed in the settings screen that, when tapped, takes the user to a page with information about the product. Also displayed as a header for the About page.</note>
       </trans-unit>
       <trans-unit id="About.topLabel" xml:space="preserve">
@@ -154,14 +164,17 @@
       </trans-unit>
       <trans-unit id="AddPass.Error.Dismiss" xml:space="preserve">
         <source>Ok</source>
+        <target>Хуб</target>
         <note>Button to dismiss the 'Add Pass Failed' alert.</note>
       </trans-unit>
       <trans-unit id="AddPass.Error.Message" xml:space="preserve">
         <source>An error occured while adding the pass to Wallet. Please try again later.</source>
+        <target>Ҳангоми илова кардани ниҳонвожа ба Ҳамён хато ба миён омад. Лутфан, баъдтар аз нав кӯшиш кунед.</target>
         <note>Message of the 'Add Pass Failed' alert.</note>
       </trans-unit>
       <trans-unit id="AddPass.Error.Title" xml:space="preserve">
         <source>Failed to Add Pass</source>
+        <target>Ниҳонвожа илова карда нашуд</target>
         <note>Title of the 'Add Pass Failed' alert.</note>
       </trans-unit>
       <trans-unit id="Authentication.reason" xml:space="preserve">
@@ -170,42 +183,52 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrl" xml:space="preserve">
         <source>Add Custom URL</source>
+        <target>Илова кардани нишонии URL-и фармоишӣ</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlError" xml:space="preserve">
         <source>Double-check the URL you entered.</source>
+        <target>Нишонии URL-ро, ки шумо ворид кардед, такроран санҷед.</target>
         <note>Label for error state when entering an invalid URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlExample" xml:space="preserve">
         <source>Example: example.com</source>
+        <target>Мисол: example.com</target>
         <note>A label displaying an example URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlLabel" xml:space="preserve">
         <source>URL to add</source>
+        <target>Нишонии URL, ки илова мешавад</target>
         <note>Label for the input to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlPlaceholder" xml:space="preserve">
         <source>Paste or enter URL</source>
+        <target>Нишонии URL-ро гузоред ё ворид намоед</target>
         <note>Placeholder for the input field to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlWithPlus" xml:space="preserve">
         <source>+ Add Custom URL</source>
+        <target>+ Илова кардани нишонии URL-и фармоишӣ</target>
         <note>Label for button to add a custom URL with the + prefix</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customUrlAdded" xml:space="preserve">
         <source>New Custom URL added.</source>
+        <target>Нишонии URL-и фармоишии нав илова карда шуд.</target>
         <note>Label for toast alerting a custom URL has been added</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin" xml:space="preserve">
         <source>Enable to have %@ autocomplete over 450 popular URLs in the address bar.</source>
+        <target>Фаъол созед, то ки «%@» тавонад зиёда аз 450 нишонии URL-и роиҷро дар навори нишонӣ ба таври худкор пур кунад.</target>
         <note>Description for enabling or disabling the default list. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Autocomplete.disabled" xml:space="preserve">
         <source>Disabled</source>
+        <target>Ғайрифаъол аст</target>
         <note>label describing URL Autocomplete as disabled</note>
       </trans-unit>
       <trans-unit id="Autocomplete.duplicateUrl" xml:space="preserve">
         <source>URL already exists</source>
+        <target>Нишонии URL аллакай вуҷуд дорад</target>
         <note>Label for toast alerting that the custom URL being added is a duplicate</note>
       </trans-unit>
       <trans-unit id="Autocomplete.emptyState" xml:space="preserve">
@@ -214,18 +237,22 @@
       </trans-unit>
       <trans-unit id="Autocomplete.enabled" xml:space="preserve">
         <source>Enabled</source>
+        <target>Фаъол аст</target>
         <note>label describing URL Autocomplete as enabled</note>
       </trans-unit>
       <trans-unit id="Autocomplete.manageSites" xml:space="preserve">
         <source>Manage Sites</source>
+        <target>Идоракунии сомонаҳо</target>
         <note>Label for button taking you to your custom Autocomplete URL list</note>
       </trans-unit>
       <trans-unit id="Autocomplete.mySites" xml:space="preserve">
         <source>My Sites</source>
+        <target>Сомонаҳои ман</target>
         <note>Label for enabling or disabling autocomplete</note>
       </trans-unit>
       <trans-unit id="Autocomplete.mySitesDesc" xml:space="preserve">
         <source>Enable to have %@ autocomplete your favorite URLs.</source>
+        <target>Фаъол созед, то ки «%@» тавонад нишониҳои URL-и дилхоҳи шуморо ба таври худкор пур кунад.</target>
         <note>Description for adding and managing custom autocomplete URLs. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Autocomplete.topSites" xml:space="preserve">
@@ -286,14 +313,17 @@
       </trans-unit>
       <trans-unit id="ExternalAppLink.openTitle" xml:space="preserve">
         <source>Open</source>
+        <target>Кушодан</target>
         <note>Button label for opening another app from Focus</note>
       </trans-unit>
       <trans-unit id="ExternalLink.cancelButton" xml:space="preserve">
         <source>Cancel</source>
+        <target>Бекор кардан</target>
         <note>Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="ExternalLink.emailButton" xml:space="preserve">
         <source>Email</source>
+        <target>Почтаи электронӣ</target>
         <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
       <trans-unit id="FindInPage.Done" xml:space="preserve">
@@ -318,6 +348,7 @@
       </trans-unit>
       <trans-unit id="Menu.Close" xml:space="preserve">
         <source>Close</source>
+        <target>Пӯшидан</target>
         <note>Button label used to close a menu that displays as a popup.</note>
       </trans-unit>
       <trans-unit id="Network.Offline.ErrorMessage" xml:space="preserve">
@@ -326,10 +357,12 @@
       </trans-unit>
       <trans-unit id="Network.Offline.RetryButton" xml:space="preserve">
         <source>Try Again</source>
+        <target>Аз нав кӯшиш кардан</target>
         <note>Button text for retrying network connection</note>
       </trans-unit>
       <trans-unit id="NewOnboarding.Button.Title.V2" xml:space="preserve">
         <source>Get Started</source>
+        <target>Оғози кор</target>
         <note>Text for a label that indicates the title of button from onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="NewOnboarding.Subtitle.V2" xml:space="preserve">
@@ -338,18 +371,22 @@
       </trans-unit>
       <trans-unit id="Onboarding.Button.Title" xml:space="preserve">
         <source>Start browsing</source>
+        <target>Оғоз кардани тамошо</target>
         <note>Text for a label that indicates the title of button from onboarding screen</note>
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.BottomButtonTitle.V2" xml:space="preserve">
         <source>Skip</source>
+        <target>Нодида гузарондан</target>
         <note>Text for a label that indicates the title of the bottom button from the default browser onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.FirstSubtitle.V2" xml:space="preserve">
         <source>We clear your history when you close the app for extra privacy.</source>
+        <target>Барои баланд бардоштани сатҳи махфият, вақте ки шумо барномаро мепӯшед, мо таърихи тамошои шуморо тоза мекунем.</target>
         <note>Text for a label that indicates the first subtitle for the default browser onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.SecondSubtitle.V2" xml:space="preserve">
         <source>Make %@ your default to protect your data with every link you open.</source>
+        <target>Барои муҳофизат кардани маълумоти худ, ҳангоми кушодани ҳар як пайванд, аз браузери «%@» ба сурати пешфарз истифода баред.</target>
         <note>Text for a label that indicates the second subtitle for the default browser onboarding screen version 2. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.Title.V2" xml:space="preserve">
@@ -358,6 +395,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.DefaultBrowser.TopButtonTitle.V2" xml:space="preserve">
         <source>Set as Default Browser</source>
+        <target>Гузоштан ҳамчун браузери пешфарз</target>
         <note>Text for a label that indicates the title of the top button from the default browser onboarding screen version 2.</note>
       </trans-unit>
       <trans-unit id="Onboarding.History.Description" xml:space="preserve">
@@ -378,6 +416,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.PrivacyNotice.LinkText" xml:space="preserve">
         <source>Privacy Notice</source>
+        <target>Огоҳномаи махфият</target>
         <note>Used as a text for the link in Onboarding.PrivacyNotice.Text.</note>
       </trans-unit>
       <trans-unit id="Onboarding.PrivacyNotice.Text" xml:space="preserve">
@@ -398,26 +437,32 @@
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.ButtonText" xml:space="preserve">
         <source>Agree and Continue</source>
+        <target>Розӣ шавед ва идома диҳед</target>
         <note>Label for the agreement button in the Terms of Use screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.Done.ButtonText" xml:space="preserve">
         <source>Done</source>
+        <target>Тайёр</target>
         <note>Button label to dismiss the Privacy Policy and Terms of Use screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.LinkText" xml:space="preserve">
         <source>Firefox Terms of Use</source>
+        <target>Шартҳои истифодаи «Firefox»</target>
         <note>Used as a text for the link in Onboarding.TermsOfUse.Text.</note>
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.Subtitle" xml:space="preserve">
         <source>Fast. Private. No distractions.</source>
+        <target>Тезкор. Хусусӣ. Бе саргармии бегона.</target>
         <note>Subtitle for the Terms of Use screen during onboarding.</note>
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.Text" xml:space="preserve">
         <source>By continuing, you agree to %@.</source>
+        <target>Бо идома додан, шумо бо %@ розӣ мешавед.</target>
         <note>Text that describes the agreement to the Firefox Terms of Use. %@ is a link using Onboarding.TermsOfUse.LinkText as text.</note>
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.Title" xml:space="preserve">
         <source>Welcome to %@</source>
+        <target>Хуш омадед ба «%@»</target>
         <note>Title for the Terms of Use screen during onboarding. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Onboarding.Title" xml:space="preserve">
@@ -442,14 +487,17 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsOpen" xml:space="preserve">
         <source>Open Settings App</source>
+        <target>Кушодани танзимоти барнома</target>
         <note>Label for instructions to enable Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.openInstruction" xml:space="preserve">
         <source>Open device settings</source>
+        <target>Кушодани танзимоти дастгоҳ</target>
         <note>Label for instructions to enable extensions in Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
         <source>Save</source>
+        <target>Нигоҳ доштан</target>
         <note>Save button label</note>
       </trans-unit>
       <trans-unit id="SearchEngine.addEngineError" xml:space="preserve">
@@ -458,10 +506,12 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptDisable" xml:space="preserve">
         <source>No</source>
+        <target>Не</target>
         <note>Label for disable option on search suggestions prompt</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptEnable" xml:space="preserve">
         <source>Yes</source>
+        <target>Ҳа</target>
         <note>Label for enable option on search suggestions prompt</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptMessage" xml:space="preserve">
@@ -622,26 +672,32 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds2" xml:space="preserve">
         <source>Advertising</source>
+        <target>Реклама</target>
         <note>Label for the checkbox to toggle Advertising trackers</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAnalytics2" xml:space="preserve">
         <source>Analytics</source>
+        <target>Таҳлил</target>
         <note>Label for the checkbox to toggle Analytics trackers</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts" xml:space="preserve">
         <source>Block web fonts</source>
+        <target>Манъ кардани ҳуруфи интернетӣ</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther2" xml:space="preserve">
         <source>Content</source>
+        <target>Муҳтаво</target>
         <note>Label for the checkbox to toggle Other trackers</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockSocial2" xml:space="preserve">
         <source>Social</source>
+        <target>Иҷтимоӣ</target>
         <note>Label for the checkbox to toggle Social trackers</note>
       </trans-unit>
       <trans-unit id="Settings.toggleCrashReports" xml:space="preserve">
         <source>Automatically Send Crash Reports</source>
+        <target>Ба таври худкор фиристодани гузоришҳо дар бораи вайронӣ</target>
         <note>Label for Crash Reports toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceID" xml:space="preserve">
@@ -658,14 +714,17 @@
       </trans-unit>
       <trans-unit id="Settings.toggleSafari" xml:space="preserve">
         <source>Safari</source>
+        <target>Safari</target>
         <note>Safari toggle label on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSendUsageData" xml:space="preserve">
         <source>Send usage data</source>
+        <target>Фиристодани маълумоти истифодабарӣ</target>
         <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleStudies" xml:space="preserve">
         <source>Studies</source>
+        <target>Омӯзишҳо</target>
         <note>Label for Studies toggle on the settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleTouchID" xml:space="preserve">
@@ -678,14 +737,17 @@
       </trans-unit>
       <trans-unit id="Settings.trackingProtectionOff" xml:space="preserve">
         <source>Off</source>
+        <target>Ғайрифаъол</target>
         <note>Status off for tracking protection in settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.trackingProtectionOn" xml:space="preserve">
         <source>On</source>
+        <target>Фаъол</target>
         <note>Status on for tracking protection in settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.useSystemTheme" xml:space="preserve">
         <source>Use System Light/Dark Mode</source>
+        <target>Истифодаи реҷаи низомии торик/равшан</target>
         <note>Value for theme toggle in settings menu</note>
       </trans-unit>
       <trans-unit id="Settinsg.siriShortcutsTitle" xml:space="preserve">
@@ -754,14 +816,17 @@
       </trans-unit>
       <trans-unit id="ShortcutView.RenameShortcutAlertPrimaryAction" xml:space="preserve">
         <source>Save</source>
+        <target>Нигоҳ доштан</target>
         <note>Text for the rename shortcut alert primary action.</note>
       </trans-unit>
       <trans-unit id="ShortcutView.RenameShortcutAlertSecondaryAction" xml:space="preserve">
         <source>Cancel</source>
+        <target>Бекор кардан</target>
         <note>Text for the rename shortcut alert secondary action.</note>
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.ButtonText.V2" xml:space="preserve">
         <source>Done</source>
+        <target>Тайёр</target>
         <note>This is the button text that is displayed in the Show Me How Onboarding Screen</note>
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepOne.V2" xml:space="preserve">
@@ -782,6 +847,7 @@
       </trans-unit>
       <trans-unit id="Siri.add" xml:space="preserve">
         <source>Add</source>
+        <target>Илова кардан</target>
         <note>Button to add a favorite URL to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.addTo" xml:space="preserve">
@@ -794,10 +860,12 @@
       </trans-unit>
       <trans-unit id="Siri.erase" xml:space="preserve">
         <source>Erase</source>
+        <target>Пок кардан</target>
         <note>Title of option in settings to set up Siri to erase</note>
       </trans-unit>
       <trans-unit id="Siri.eraseAndOpen" xml:space="preserve">
         <source>Erase &amp; Open</source>
+        <target>Пок кардан ва кушодан</target>
         <note>Title of option in settings to set up Siri to erase and then open the app.</note>
       </trans-unit>
       <trans-unit id="Siri.favoriteUrl" xml:space="preserve">
