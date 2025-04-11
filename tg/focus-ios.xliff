@@ -32,6 +32,7 @@
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
         <source>Websites you visit may request your location.</source>
+        <target>Сомонаҳое, ки шумо тамошо мекунед, метавонанд ҷойгиршавии шуморо талаб кунанд.</target>
         <note>Privacy - Location When In Use Usage Description</note>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
@@ -73,6 +74,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Title" xml:space="preserve">
         <source>Your search, your way</source>
+        <target>Ҷустуҷӯи шумо, Интернети шумо</target>
         <note>Title for the second  panel 'Search' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Skip.Button" xml:space="preserve">
@@ -543,34 +545,42 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptTitle" xml:space="preserve">
         <source>Show Search Suggestions?</source>
+        <target>Пешниҳодҳои ҷустуҷӯ нишон дода шаванд?</target>
         <note>Title for search suggestions prompt</note>
       </trans-unit>
       <trans-unit id="Settings.DailyUsagePing.Message" xml:space="preserve">
         <source>This helps Mozilla to estimate active users.</source>
+        <target>Ин ба «Mozilla» кумак мекунад, ки корбарони фаъолро ҳисоб кунад.</target>
         <note>On the Settings screen, this is the subtitle text for a toggle which controls sending daily usage ping.</note>
       </trans-unit>
       <trans-unit id="Settings.DailyUsagePing.Title" xml:space="preserve">
         <source>Daily Usage Ping</source>
+        <target>Пинги истифодабарии ҳаррӯза</target>
         <note>On the Settings screen, this is the title text for a toggle which controls automatically sending daily usage ping.</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton" xml:space="preserve">
         <source>Add Another Search Engine</source>
+        <target>Илова кардани низоми ҷустуҷӯии дигар</target>
         <note>Text for button to add another search engine in settings</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineTitle" xml:space="preserve">
         <source>Add Search Engine</source>
+        <target>Илова кардани низоми ҷустуҷӯӣ</target>
         <note>Title on add search engine settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.Search.InstalledSearchEngines" xml:space="preserve">
         <source>INSTALLED SEARCH ENGINES</source>
+        <target>НИЗОМҲОИ ҶУСТУҶӮИИ НАСБШУДА</target>
         <note>Header for rows of installed search engines</note>
       </trans-unit>
       <trans-unit id="Settings.Search.NameToDisplay" xml:space="preserve">
         <source>Name to display</source>
+        <target>Номи намоишӣ</target>
         <note>Label for input field for the name of the search engine to be added</note>
       </trans-unit>
       <trans-unit id="Settings.Search.NewSearchEngineAdded" xml:space="preserve">
         <source>New Search Engine Added.</source>
+        <target>Низоми ҷустуҷӯии нав илова шуд.</target>
         <note>Toast displayed after adding a search engine</note>
       </trans-unit>
       <trans-unit id="Settings.Search.RestoreEngine" xml:space="preserve">
