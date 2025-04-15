@@ -393,10 +393,12 @@
       </trans-unit>
       <trans-unit id="Network.Offline.ErrorMessage" xml:space="preserve">
         <source>The Internet connection appears to be offline.</source>
+        <target>La conexión a Internet parece estar desconectada.</target>
         <note>Error message shown when no internet connection is available</note>
       </trans-unit>
       <trans-unit id="Network.Offline.RetryButton" xml:space="preserve">
         <source>Try Again</source>
+        <target>Reintentar</target>
         <note>Button text for retrying network connection</note>
       </trans-unit>
       <trans-unit id="NewOnboarding.Button.Title.V2" xml:space="preserve">
