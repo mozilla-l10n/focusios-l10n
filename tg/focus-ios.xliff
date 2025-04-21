@@ -158,10 +158,12 @@
       </trans-unit>
       <trans-unit id="About.safariBullet1" xml:space="preserve">
         <source>Block trackers for improved privacy</source>
+        <target>Барои тақвияти махфияти худ, васоити пайгириро манъ кунед</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2" xml:space="preserve">
         <source>Block web fonts to reduce page size</source>
+        <target>Барои кам кардани андозаи саҳифа ҳарфҳои интернетиро манъ кунед</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader" xml:space="preserve">
@@ -196,6 +198,7 @@
       </trans-unit>
       <trans-unit id="Authentication.reason" xml:space="preserve">
         <source>Authenticate to return to %@</source>
+        <target>Барои бозгашт ба «%@», лутфан, ҳаққонияти худро тасдиқ кунед</target>
         <note>%@ is the app name (for example “Firefox Focus” or ”Firefox Klar”). Prompt shown to ask the user to use Touch ID, Face ID, or passcode to continue browsing after returning to the app.</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrl" xml:space="preserve">
