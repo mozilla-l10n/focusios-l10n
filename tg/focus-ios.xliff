@@ -61,6 +61,7 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description" xml:space="preserve">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
+        <target>Тамоми таърихи ҷаласаи тамошобинии худ, ниҳонвожаҳо ва кукиҳоро бо зер кардани танҳо як тугма дар вақти дилхоҳ тоза намоед.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title" xml:space="preserve">
@@ -75,6 +76,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description" xml:space="preserve">
         <source>Searching for something different? Choose a different search engine.</source>
+        <target>Дар ҷустуҷӯи чизи дигар қарор доред? Низоми ҷустуҷӯии дигареро интихоб намоед.</target>
         <note>Description for the 'Favorite Search Engine' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Title" xml:space="preserve">
@@ -957,14 +959,17 @@
       </trans-unit>
       <trans-unit id="Siri.favoriteUrl" xml:space="preserve">
         <source>Open Favorite Site</source>
+        <target>Кушодани сомонаи дилхоҳ</target>
         <note>Title for screen to add a favorite URL to Siri.</note>
       </trans-unit>
       <trans-unit id="Siri.openURL" xml:space="preserve">
         <source>Open Favorite Site</source>
+        <target>Кушодани сомонаи дилхоҳ</target>
         <note>Title of option in settings to set up Siri to open a specified URL in Focus/Klar.</note>
       </trans-unit>
       <trans-unit id="Siri.urlToOpen" xml:space="preserve">
         <source>URL to open</source>
+        <target>Нишонии «URL» барои кушодани сомона</target>
         <note>Label for input to set a favorite URL to be opened by Siri.</note>
       </trans-unit>
       <trans-unit id="Tip.Biometric.Title" xml:space="preserve">
