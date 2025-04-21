@@ -113,18 +113,22 @@
       </trans-unit>
       <trans-unit id="About.missionLabel" xml:space="preserve">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
+        <target>Браузери «%@» аз ҷониби «Mozilla» таҳия шудааст. Мо барои рушди Интернети солим, шаффоф ва дастрас саҳм мегузорем.</target>
         <note>Label on About screen. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="About.privateBullet1" xml:space="preserve">
         <source>Search and browse right in the app</source>
+        <target>Ба воситаи барнома дар Интернет ҷустуҷӯ кунед ва тамошо намоед</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet2" xml:space="preserve">
         <source>Block trackers (or update settings to allow trackers)</source>
+        <target>Васоити пайгириро манъ кунед (ё барои бозсозии васоити пайгирӣ дар Танзимот иҷозат диҳед)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3" xml:space="preserve">
         <source>Erase to delete cookies as well as search and browsing history</source>
+        <target>Барои нест кардани кукиҳо, аз он ҷумла таърихи ҷустуҷӯ ва тамошобинӣ, аз тугмаи «Пок кардан» истифода баред</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBulletHeader" xml:space="preserve">
