@@ -468,18 +468,22 @@
       </trans-unit>
       <trans-unit id="Onboarding.PrivacyNotice.Text" xml:space="preserve">
         <source>Firefox cares about your privacy. Read more in %@.</source>
+        <target>Браузери «Firefox» ба махфияти шумо ғамхорӣ мекунад. Маълумоти бештар дар «%@» хонед.</target>
         <note>Text that describes Firefox's commitment to privacy. %@ is a link using Onboarding.PrivacyNotice.LinkText as text.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Description" xml:space="preserve">
         <source>Configure settings so you can decide how much or how little you share.</source>
+        <target>Танзимотро интихоб кунед ва худатон муайян намоед, ки чӣ қадар зиёд ё кам маълумот бояд мубодила шавад.</target>
         <note>Text for a label that indicates the description of protection section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Title" xml:space="preserve">
         <source>Protection at your own discretion</source>
+        <target>Муҳофизат, ки ба ниёзҳои шумо мувофиқ мебошад</target>
         <note>Text for a label that indicates the title of protection section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Subtitle" xml:space="preserve">
         <source>Take your private browsing to the next level.</source>
+        <target>Реҷаи тамошобинии хусусии худро ба сатҳи дигар баланд бардоред.</target>
         <note>Text for a label that indicates the subtitle for onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.ButtonText" xml:space="preserve">
