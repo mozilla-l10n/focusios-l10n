@@ -443,10 +443,12 @@
       </trans-unit>
       <trans-unit id="Onboarding.History.Description" xml:space="preserve">
         <source>Erase your browsing history, passwords, cookies, and prevent unwanted ads from following you in a simple click!</source>
+        <target>Бо зер кардани танҳо як тугма таърихи тамошобинӣ, ниҳонвожаҳо ва кукиҳоро пок созед ва имкон надиҳед, ки рекламаи номутлуб шуморо пайгирӣ кунад!</target>
         <note>Text for a label that indicates the description of history section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.History.Title" xml:space="preserve">
         <source>Your history doesn’t follow you</source>
+        <target>Таърихи шумо шуморо пайгирӣ намекунад</target>
         <note>Text for a label that indicates the title of history section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Incognito.Description" xml:space="preserve">
