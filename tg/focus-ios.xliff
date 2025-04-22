@@ -1113,6 +1113,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon" xml:space="preserve">
         <source>Tap the trash anytime to remove all traces of your current session.</source>
+        <target>Барои нест кардани ҳамаи пайгириҳо аз ҷаласаи ҳозираи шумо, нишонаи «Сабад»-ро пахш кунед.</target>
         <note>This is the body text that is displayed for the Trash icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon.V2" xml:space="preserve">
@@ -1162,6 +1163,7 @@
       </trans-unit>
       <trans-unit id="URL.searchLabel" xml:space="preserve">
         <source>Search for %@</source>
+        <target>Ҷустуҷӯи «%@»</target>
         <note>Label displayed for search button when typing in the URL bar. %@ is the text type by the user.</note>
       </trans-unit>
       <trans-unit id="URL.trackersBlockedLabel" xml:space="preserve">
@@ -1201,10 +1203,12 @@
       </trans-unit>
       <trans-unit id="externalAppLinkWithAppName.messageTitle" xml:space="preserve">
         <source>%1$@ wants to open %2$@</source>
+        <target>«%1$@» мехоҳад, ки «%2$@»-ро кушояд</target>
         <note>Dialog title used for opening an external app from Focus. %1$@ is the app name (for example “Firefox Focus” or ”Firefox Klar”), %2$@ is the app it wants to open.</note>
       </trans-unit>
       <trans-unit id="settings.Search.SearchTemplateExample" xml:space="preserve">
         <source>Example: searchengine.example.com/search/?q=%s</source>
+        <target>Масалан: searchengine.example.com/search/?q=%s</target>
         <note>Text displayed as an example of the template to add a search engine.</note>
       </trans-unit>
       <trans-unit id="share" xml:space="preserve">
@@ -1249,6 +1253,7 @@
       </trans-unit>
       <trans-unit id="trackingProtection.trackersBlockedLabel" xml:space="preserve">
         <source>Trackers blocked since %@</source>
+        <target>Шумораи васоити пайгирии манъшуда аз санаи %@</target>
         <note>Text for tracking protection screen showing the number of trackers blocked since the app install. %@ is replaced with the install date of the application.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.trackersHeader" xml:space="preserve">
@@ -1265,6 +1270,7 @@
     <body>
       <trans-unit id="NSHumanReadableDescription" xml:space="preserve">
         <source>Content blocking and tracking protection from Mozilla</source>
+        <target>Манъкунии муҳтаво ва муҳофизат аз пайгирӣ бо дастгирии «Mozilla»</target>
         <note>Human readable description</note>
       </trans-unit>
     </body>
@@ -1281,6 +1287,7 @@
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionGalleryDescriptionV2" xml:space="preserve">
         <source>Start a private search in %@ with your default search engine.</source>
+        <target>Ҷустуҷӯи хусусиро дар «%@» тавассути низоми ҷустуҷӯии пешфарз оғоз намоед.</target>
         <note>Description for small size widget to add it to home screen. %@ is the name of the app(Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionsGalleryTitle" xml:space="preserve">
