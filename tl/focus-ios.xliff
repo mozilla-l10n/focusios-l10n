@@ -267,6 +267,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.mySitesDesc" xml:space="preserve">
         <source>Enable to have %@ autocomplete your favorite URLs.</source>
+        <target>I-enable para i-autocomplete ng %@ ang iyong mga paboritong URL.</target>
         <note>Description for adding and managing custom autocomplete URLs. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Autocomplete.topSites" xml:space="preserve">
