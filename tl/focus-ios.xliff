@@ -330,7 +330,7 @@
       </trans-unit>
       <trans-unit id="ExternalAppLink.cancelTitle" xml:space="preserve">
         <source>Cancel</source>
-        <target>Kanselahin</target>
+        <target>Ikansela</target>
         <note>Button label used for cancelling to open another app from Focus</note>
       </trans-unit>
       <trans-unit id="ExternalAppLink.messageTitle" xml:space="preserve">
