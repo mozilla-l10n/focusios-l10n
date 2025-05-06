@@ -491,6 +491,10 @@
         <target>እስማማለሁ እና ቀጥል</target>
         <note>Label for the agreement button in the Terms of Use screen.</note>
       </trans-unit>
+      <trans-unit id="Onboarding.TermsOfUse.ButtonTextV2" xml:space="preserve">
+        <source>Continue</source>
+        <note>Label for the agreement button in the Terms of Use screen.</note>
+      </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.Done.ButtonText" xml:space="preserve">
         <source>Done</source>
         <target>ተጠናቋል</target>
