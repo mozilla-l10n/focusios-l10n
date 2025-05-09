@@ -492,6 +492,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.ButtonTextV2" xml:space="preserve">
         <source>Continue</source>
+        <target>Kemmel</target>
         <note>Label for the agreement button in the Terms of Use screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.Done.ButtonText" xml:space="preserve">
@@ -793,6 +794,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleCrashReports" xml:space="preserve">
         <source>Automatically Send Crash Reports</source>
+        <target>Azen s wudem awurman ineqqisen n truẓi</target>
         <note>Label for Crash Reports toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceID" xml:space="preserve">
