@@ -468,6 +468,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.PrivacyNotice.Text" xml:space="preserve">
         <source>Firefox cares about your privacy. Read more in %@.</source>
+        <target>Firefox terḥa-t tudert-ik tabaḍnit. Ɣeṛ ugar deg %@.</target>
         <note>Text that describes Firefox's commitment to privacy. %@ is a link using Onboarding.PrivacyNotice.LinkText as text.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Description" xml:space="preserve">
@@ -587,10 +588,12 @@
       </trans-unit>
       <trans-unit id="Settings.DailyUsagePing.Message" xml:space="preserve">
         <source>This helps Mozilla to estimate active users.</source>
+        <target>Aya yettallel Mozilla ad tessekyed amḍan n yiseqdacen urmiden.</target>
         <note>On the Settings screen, this is the subtitle text for a toggle which controls sending daily usage ping.</note>
       </trans-unit>
       <trans-unit id="Settings.DailyUsagePing.Title" xml:space="preserve">
         <source>Daily Usage Ping</source>
+        <target>Ping n Useqdec n Yal ass</target>
         <note>On the Settings screen, this is the title text for a toggle which controls automatically sending daily usage ping.</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton" xml:space="preserve">
