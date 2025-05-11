@@ -668,6 +668,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextCrashReports.V2" xml:space="preserve">
         <source>This helps us diagnose and fix issues with the browser.</source>
+        <target>Aya yettall-aneɣ ad neg tawassna, ad nṣeggem  uguren akked yiminig.</target>
         <note>Description associated with the Crash Reports toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
