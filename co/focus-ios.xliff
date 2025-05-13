@@ -1163,7 +1163,7 @@
       </trans-unit>
       <trans-unit id="URL.placeholderText" xml:space="preserve">
         <source>Search or enter address</source>
-        <target>Ricerca o indirizzu</target>
+        <target>Circà o stampittà un indirizzu</target>
         <note>Placeholder text shown in the URL bar before the user navigates to a page</note>
       </trans-unit>
       <trans-unit id="URL.searchLabel" xml:space="preserve">
