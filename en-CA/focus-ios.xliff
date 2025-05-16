@@ -397,6 +397,7 @@
       </trans-unit>
       <trans-unit id="Network.Offline.RetryButton" xml:space="preserve">
         <source>Try Again</source>
+        <target>Try Again</target>
         <note>Button text for retrying network connection</note>
       </trans-unit>
       <trans-unit id="NewOnboarding.Button.Title.V2" xml:space="preserve">
@@ -491,6 +492,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.ButtonTextV2" xml:space="preserve">
         <source>Continue</source>
+        <target>Continue</target>
         <note>Label for the agreement button in the Terms of Use screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.Done.ButtonText" xml:space="preserve">
