@@ -888,12 +888,12 @@
       </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop" xml:space="preserve">
         <source>Request Desktop Site</source>
-        <target>Έκδοση υπολογιστή</target>
+        <target>Απαίτηση έκδοσης υπολογιστή</target>
         <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
       </trans-unit>
       <trans-unit id="ShareMenu.RequestMobile" xml:space="preserve">
         <source>Request Mobile Site</source>
-        <target>Έκδοση για κινητά</target>
+        <target>Έκδοση κινητής συσκευής</target>
         <note>Text for the share menu option when a user wants to reload the site as a mobile device</note>
       </trans-unit>
       <trans-unit id="ShareMenu.ShareOpenChrome" xml:space="preserve">
@@ -1028,7 +1028,7 @@
       </trans-unit>
       <trans-unit id="Tip.RequestDesktop.Description" xml:space="preserve">
         <source>Page Actions &gt; Request Desktop Site</source>
-        <target>Ενέργειες σελίδας &gt; Έκδοση υπολογιστή</target>
+        <target>Ενέργειες σελίδας &gt; Απαίτηση έκδοσης υπολογιστή</target>
         <note>Text for a label that indicates the description for request desktop tip.</note>
       </trans-unit>
       <trans-unit id="Tip.RequestDesktop.Title" xml:space="preserve">
