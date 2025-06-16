@@ -153,6 +153,7 @@
       </trans-unit>
       <trans-unit id="About.rowTerms" xml:space="preserve">
         <source>Terms of Use</source>
+        <target>Куллану шартлары</target>
         <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet1" xml:space="preserve">
@@ -396,6 +397,7 @@
       </trans-unit>
       <trans-unit id="Network.Offline.RetryButton" xml:space="preserve">
         <source>Try Again</source>
+        <target>Янәдән тырышып карау</target>
         <note>Button text for retrying network connection</note>
       </trans-unit>
       <trans-unit id="NewOnboarding.Button.Title.V2" xml:space="preserve">
@@ -460,6 +462,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.PrivacyNotice.LinkText" xml:space="preserve">
         <source>Privacy Notice</source>
+        <target>Хосусыйлык сәясәте</target>
         <note>Used as a text for the link in Onboarding.PrivacyNotice.Text.</note>
       </trans-unit>
       <trans-unit id="Onboarding.PrivacyNotice.Text" xml:space="preserve">
@@ -483,22 +486,27 @@
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.ButtonText" xml:space="preserve">
         <source>Agree and Continue</source>
+        <target>Кабул итү һәм дәвам итү</target>
         <note>Label for the agreement button in the Terms of Use screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.ButtonTextV2" xml:space="preserve">
         <source>Continue</source>
+        <target>Дәвам итү</target>
         <note>Label for the agreement button in the Terms of Use screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.Done.ButtonText" xml:space="preserve">
         <source>Done</source>
+        <target>Әзер</target>
         <note>Button label to dismiss the Privacy Policy and Terms of Use screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.LinkText" xml:space="preserve">
         <source>Firefox Terms of Use</source>
+        <target>Firefox куллану шартлары</target>
         <note>Used as a text for the link in Onboarding.TermsOfUse.Text.</note>
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.Subtitle" xml:space="preserve">
         <source>Fast. Private. No distractions.</source>
+        <target>Тиз. Хосусый. Бүлдерүләрсез.</target>
         <note>Subtitle for the Terms of Use screen during onboarding.</note>
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.Text" xml:space="preserve">
@@ -507,6 +515,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.Title" xml:space="preserve">
         <source>Welcome to %@</source>
+        <target>%@ кушымтасына рәхим итегез</target>
         <note>Title for the Terms of Use screen during onboarding. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Onboarding.Title" xml:space="preserve">
@@ -576,10 +585,12 @@
       </trans-unit>
       <trans-unit id="Settings.DailyUsagePing.Message" xml:space="preserve">
         <source>This helps Mozilla to estimate active users.</source>
+        <target>Бу Mozilla-га актив кулланучылар санын бәяләргә ярдәм итә.</target>
         <note>On the Settings screen, this is the subtitle text for a toggle which controls sending daily usage ping.</note>
       </trans-unit>
       <trans-unit id="Settings.DailyUsagePing.Title" xml:space="preserve">
         <source>Daily Usage Ping</source>
+        <target>Көндәлек куллану пингы</target>
         <note>On the Settings screen, this is the title text for a toggle which controls automatically sending daily usage ping.</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton" xml:space="preserve">
@@ -654,6 +665,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextCrashReports.V2" xml:space="preserve">
         <source>This helps us diagnose and fix issues with the browser.</source>
+        <target>Бу безгә браузердагы хаталарны ачыкларга һәм төзәтергә ярдәм итә.</target>
         <note>Description associated with the Crash Reports toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
