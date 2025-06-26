@@ -383,7 +383,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelTagline" xml:space="preserve">
         <source>Browse like no one’s watching.</source>
-        <target>Περιηγηθείτε σαν να μη σας βλέπει κανείς.</target>
+        <target>Περιηγηθείτε σαν να μην σας βλέπει κανείς.</target>
         <note>Message label on the first run screen</note>
       </trans-unit>
       <trans-unit id="Menu.Close" xml:space="preserve">
