@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="About.missionLabel" xml:space="preserve">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
-        <target>%@ er produsert av Mozilla. Vår misjon er å fremme et sunt, åpent Internett.</target>
+        <target>%@ er produsert av Mozilla. Vår oppdrag er å fremme et sunt, åpent Internett.</target>
         <note>Label on About screen. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="About.privateBullet1" xml:space="preserve">
