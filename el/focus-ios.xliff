@@ -61,7 +61,7 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description" xml:space="preserve">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
-        <target>Απαλοιφή ιστορικού περιήγησης, κωδικών πρόσβασης, cookie ανά πάσα στιγμή, με ένα πάτημα.</target>
+        <target>Απαλοιφή ιστορικού περιήγησης, συνθηματικών, cookie ανά πάσα στιγμή, με ένα πάτημα.</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title" xml:space="preserve">
@@ -443,7 +443,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.History.Description" xml:space="preserve">
         <source>Erase your browsing history, passwords, cookies, and prevent unwanted ads from following you in a simple click!</source>
-        <target>Διαγράψτε το ιστορικό περιήγησης, τους κωδικούς πρόσβασης, τα cookie σας και αποτρέψτε την καταγραφή από ανεπιθύμητες διαφημίσεις με ένα μόνο πάτημα!</target>
+        <target>Διαγράψτε το ιστορικό περιήγησης, τα συνθηματικά, τα cookie σας και αποτρέψτε την καταγραφή από ανεπιθύμητες διαφημίσεις με ένα μόνο πάτημα!</target>
         <note>Text for a label that indicates the description of history section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.History.Title" xml:space="preserve">
