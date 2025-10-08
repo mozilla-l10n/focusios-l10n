@@ -133,7 +133,7 @@
       </trans-unit>
       <trans-unit id="About.privateBulletHeader" xml:space="preserve">
         <source>Use it as a private browser:</source>
-        <target>可當作私密瀏覽器使用：</target>
+        <target>可當作隱私瀏覽器使用：</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp" xml:space="preserve">
