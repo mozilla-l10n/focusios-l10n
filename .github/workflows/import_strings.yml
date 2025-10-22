@@ -41,6 +41,8 @@ jobs:
         run: |
           (cd code_repo && ./bootstrap.sh focus)
       - name: Extract strings
+        env:
+          TYPE: ${{ github.event.inputs.type }}
         run: |
           (cd code_repo && ./focus-ios/focus-ios-tests/tools/export-strings.sh)
 
@@ -50,7 +52,7 @@ jobs:
           # Copy strings to other locales
           cp code_repo/focus-ios/focusios-l10n/en-US/*.xliff l10n_repo/en-US/
           python l10n_repo/.github/scripts/translate_reference.py --path l10n_repo/en-US
-          python l10n_repo/.github/scripts/update_other_locales.py --reference en-US --path l10n_repo --type "${{ github.event.inputs.type }}"
+          python l10n_repo/.github/scripts/update_other_locales.py --reference en-US --path l10n_repo --type "$TYPE"
       - name: Import linter config
         run: |
           # Import linter exceptions from code repository
