@@ -283,7 +283,7 @@
       </trans-unit>
       <trans-unit id="BiometricAuthentication.UnlockButton.Title" xml:space="preserve">
         <source>Unlock</source>
-        <target>Sbluccà</target>
+        <target>Spalancà</target>
         <note>Title for the action button shown on the Splash Screen which gives the user the ability to log in with biometrics.</note>
       </trans-unit>
       <trans-unit id="BiometricPrompt.newSession" xml:space="preserve">
