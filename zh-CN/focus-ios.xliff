@@ -588,7 +588,7 @@
       </trans-unit>
       <trans-unit id="Settings.DailyUsagePing.Message" xml:space="preserve">
         <source>This helps Mozilla to estimate active users.</source>
-        <target>此数据可帮助 Mozilla 估算活跃用户数量。</target>
+        <target>此信息可帮助 Mozilla 估算活跃用户数量。</target>
         <note>On the Settings screen, this is the subtitle text for a toggle which controls sending daily usage ping.</note>
       </trans-unit>
       <trans-unit id="Settings.DailyUsagePing.Title" xml:space="preserve">
