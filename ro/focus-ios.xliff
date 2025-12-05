@@ -703,7 +703,7 @@
       </trans-unit>
       <trans-unit id="Settings.lightTheme" xml:space="preserve">
         <source>Light</source>
-        <target>Deschisă</target>
+        <target>Luminoasă</target>
         <note>Light theme option in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.rate" xml:space="preserve">
@@ -853,7 +853,7 @@
       </trans-unit>
       <trans-unit id="Settings.useSystemTheme" xml:space="preserve">
         <source>Use System Light/Dark Mode</source>
-        <target>Folosește modul deschis/întunecat al sistemului</target>
+        <target>Folosește modul luminos/întunecat al sistemului</target>
         <note>Value for theme toggle in settings menu</note>
       </trans-unit>
       <trans-unit id="Settinsg.siriShortcutsTitle" xml:space="preserve">
