@@ -671,6 +671,10 @@
         <target>ਇਹ ਸਾਨੂੰ ਬਰਾਊਜ਼ਰ ਬਾਰੇ ਪੜਤਾਲ ਕਰਨ ਅਤੇ ਮਸਲੇ ਠੀਕ ਕਰਨ ਲਈ ਮਦਦ ਕਰਦੀਆਂ ਹਨ।</target>
         <note>Description associated with the Crash Reports toggle on settings screen</note>
       </trans-unit>
+      <trans-unit id="Settings.detailTextRollouts" xml:space="preserve">
+        <source>%@ will improve features, performance, and stability between updates. Changes applied remotely.</source>
+        <note>Description associated to the Rollouts toggle on the settings screen. %@ is the app name (for example "Firefox Focus" or "Firefox Klar").</note>
+      </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
         <source>%@ will send what you type in the address bar to your search engine.</source>
         <target>ਤੁਹਾਡੇ ਵਲੋਂ ਐਡਰੈਸ ਪੱਟੀ ਵਿੱਚ ਲਿਖੀ ਲਿਖਤ %@ ਤੁਹਾਡੇ ਖੋਜ ਇੰਜਣ ਨੂੰ ਭੇਜੇਗਾ।</target>
@@ -679,12 +683,20 @@
       <trans-unit id="Settings.detailTextSendUsageData" xml:space="preserve">
         <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
         <target>Mozilla ਸਿਰਫ਼ ਉਹੀ ਇਕੱਠਾ ਕਰਦਾ ਹੈ, ਜੋ ਕਿ ਸਾਨੂੰ ਹਰੇਕ ਲਈ %@ ਨੂੰ ਸੁਧਾਰ ਕਰਨ ਲਈ ਚਾਹੀਦਾ ਹੈ।</target>
-        <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
+        <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (for example "Firefox Focus" or "Firefox Klar").</note>
+      </trans-unit>
+      <trans-unit id="Settings.detailTextSendUsageData.v2" xml:space="preserve">
+        <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
+        <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (for example "Firefox Focus" or "Firefox Klar").</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextStudies" xml:space="preserve">
         <source>%@ may install and run studies from time to time.</source>
         <target>%@ ਸਮੇਂ ਸਮੇਂ ਉੱਤੇ ਅਧਿਐਨ ਇੰਸਟਾਲ ਕਰ ਤੇ ਚਲਾ ਸਕਦਾ ਹੈ।</target>
-        <note>Description associated to the Studies toggle on the settings screen. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
+        <note>Description associated to the Studies toggle on the settings screen. %@ is the app name (for example "Firefox Focus" or "Firefox Klar").</note>
+      </trans-unit>
+      <trans-unit id="Settings.detailTextStudies.v2" xml:space="preserve">
+        <source>%@ randomly selects users to test features, which improves quality for everyone.</source>
+        <note>Description associated to the Studies toggle on the settings screen. %@ is the app name (for example "Firefox Focus" or "Firefox Klar").</note>
       </trans-unit>
       <trans-unit id="Settings.general" xml:space="preserve">
         <source>General</source>
@@ -816,6 +828,10 @@
         <target>ਮੁੱਖ ਸਕਰੀਨ ਦੇ ਗੁਰ ਵੇਖਾਓ</target>
         <note>Show home screen tips toggle label on settings screen</note>
       </trans-unit>
+      <trans-unit id="Settings.toggleRollouts" xml:space="preserve">
+        <source>Allow Remote Improvements</source>
+        <note>Label for Rollouts toggle on the settings screen</note>
+      </trans-unit>
       <trans-unit id="Settings.toggleSafari" xml:space="preserve">
         <source>Safari</source>
         <target>Safari</target>
@@ -829,6 +845,10 @@
       <trans-unit id="Settings.toggleStudies" xml:space="preserve">
         <source>Studies</source>
         <target>ਅਧਿਐਨ</target>
+        <note>Label for Studies toggle on the settings screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleStudies.v2" xml:space="preserve">
+        <source>Allow Feature Studies</source>
         <note>Label for Studies toggle on the settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleTouchID" xml:space="preserve">

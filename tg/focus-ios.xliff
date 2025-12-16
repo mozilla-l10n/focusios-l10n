@@ -671,6 +671,10 @@
         <target>Ин ба мо кумак мерасонад, то тавонем мушкилотро дар браузер ташхис ва ислоҳ намоем.</target>
         <note>Description associated with the Crash Reports toggle on settings screen</note>
       </trans-unit>
+      <trans-unit id="Settings.detailTextRollouts" xml:space="preserve">
+        <source>%@ will improve features, performance, and stability between updates. Changes applied remotely.</source>
+        <note>Description associated to the Rollouts toggle on the settings screen. %@ is the app name (for example "Firefox Focus" or "Firefox Klar").</note>
+      </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
         <source>%@ will send what you type in the address bar to your search engine.</source>
         <target>«%@» он чизеро, ки шумо дар навори нишонӣ менависед, ба низоми ҷустуҷӯии шумо мефиристад.</target>
@@ -679,12 +683,20 @@
       <trans-unit id="Settings.detailTextSendUsageData" xml:space="preserve">
         <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
         <target>«Mozilla» cаъю кӯшиш мекунад, ки танҳо он маълумотеро ҷамъоварӣ намояд, ки мо бояд барои фаъолият ва беҳтарсозии «%@» барои ҳар як кас таъмин намоем.</target>
-        <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
+        <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (for example "Firefox Focus" or "Firefox Klar").</note>
+      </trans-unit>
+      <trans-unit id="Settings.detailTextSendUsageData.v2" xml:space="preserve">
+        <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
+        <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (for example "Firefox Focus" or "Firefox Klar").</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextStudies" xml:space="preserve">
         <source>%@ may install and run studies from time to time.</source>
         <target>Баъзе вақт «%@» метавонад омӯзишҳоро насб ва иҷро намояд.</target>
-        <note>Description associated to the Studies toggle on the settings screen. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
+        <note>Description associated to the Studies toggle on the settings screen. %@ is the app name (for example "Firefox Focus" or "Firefox Klar").</note>
+      </trans-unit>
+      <trans-unit id="Settings.detailTextStudies.v2" xml:space="preserve">
+        <source>%@ randomly selects users to test features, which improves quality for everyone.</source>
+        <note>Description associated to the Studies toggle on the settings screen. %@ is the app name (for example "Firefox Focus" or "Firefox Klar").</note>
       </trans-unit>
       <trans-unit id="Settings.general" xml:space="preserve">
         <source>General</source>
@@ -816,6 +828,10 @@
         <target>Нишон додани маслиҳатҳо дар экрани асосӣ</target>
         <note>Show home screen tips toggle label on settings screen</note>
       </trans-unit>
+      <trans-unit id="Settings.toggleRollouts" xml:space="preserve">
+        <source>Allow Remote Improvements</source>
+        <note>Label for Rollouts toggle on the settings screen</note>
+      </trans-unit>
       <trans-unit id="Settings.toggleSafari" xml:space="preserve">
         <source>Safari</source>
         <target>Safari</target>
@@ -829,6 +845,10 @@
       <trans-unit id="Settings.toggleStudies" xml:space="preserve">
         <source>Studies</source>
         <target>Омӯзишҳо</target>
+        <note>Label for Studies toggle on the settings screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleStudies.v2" xml:space="preserve">
+        <source>Allow Feature Studies</source>
         <note>Label for Studies toggle on the settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleTouchID" xml:space="preserve">
