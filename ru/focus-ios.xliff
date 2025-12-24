@@ -1123,7 +1123,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.Privacy" xml:space="preserve">
         <source>These default settings offer strong protection. But it’s easy to tweak the settings to meet your specific needs.</source>
-        <target>Эти настройки по умолчанию обеспечивают надежную защиту. Но вы можете легко изменить их под ваши конкретные потребности.</target>
+        <target>Эти настройки по умолчанию обеспечивают надёжную защиту. Но вы можете легко изменить их под ваши конкретные потребности.</target>
         <note>This is the body text that is displayed for the Privacy tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.SearchBar" xml:space="preserve">
