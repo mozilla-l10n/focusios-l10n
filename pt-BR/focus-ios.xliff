@@ -193,7 +193,7 @@
       </trans-unit>
       <trans-unit id="AddPass.Error.Title" xml:space="preserve">
         <source>Failed to Add Pass</source>
-        <target>Falha ao adicionar senha</target>
+        <target>Falha ao adicionar passe</target>
         <note>Title of the 'Add Pass Failed' alert.</note>
       </trans-unit>
       <trans-unit id="Authentication.reason" xml:space="preserve">
