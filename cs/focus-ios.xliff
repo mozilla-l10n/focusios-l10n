@@ -698,6 +698,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextStudies.v2" xml:space="preserve">
         <source>%@ randomly selects users to test features, which improves quality for everyone.</source>
+        <target>%@ náhodně vybírá uživatele, aby otestoval nové funkce, s cílem zlepšit jeho kvalitu pro všechny.</target>
         <note>Description associated to the Studies toggle on the settings screen. %@ is the app name (for example "Firefox Focus" or "Firefox Klar").</note>
       </trans-unit>
       <trans-unit id="Settings.general" xml:space="preserve">
@@ -852,6 +853,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleStudies.v2" xml:space="preserve">
         <source>Allow Feature Studies</source>
+        <target>Povolit studie funkcí</target>
         <note>Label for Studies toggle on the settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleTouchID" xml:space="preserve">
