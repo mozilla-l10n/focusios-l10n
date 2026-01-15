@@ -833,7 +833,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleRollouts" xml:space="preserve">
         <source>Allow Remote Improvements</source>
-        <target>לאפשר שיפורים מרחוק</target>
+        <target>לאפשר שיפורים מרוחקים</target>
         <note>Label for Rollouts toggle on the settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSafari" xml:space="preserve">
