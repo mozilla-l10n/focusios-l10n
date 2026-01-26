@@ -278,7 +278,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.topSites" xml:space="preserve">
         <source>Top Sites</source>
-        <target>Популярные сайты</target>
+        <target>Любимые сайты</target>
         <note>Label for enabling or disabling top sites</note>
       </trans-unit>
       <trans-unit id="BiometricAuthentication.UnlockButton.Title" xml:space="preserve">
