@@ -218,7 +218,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlLabel" xml:space="preserve">
         <source>URL to add</source>
-        <target>URL adresa k přidání</target>
+        <target>Adresa URL k přidání</target>
         <note>Label for the input to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlPlaceholder" xml:space="preserve">
@@ -233,7 +233,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.customUrlAdded" xml:space="preserve">
         <source>New Custom URL added.</source>
-        <target>Vlastní URL adresa přidána.</target>
+        <target>Vlastní adresa URL přidána.</target>
         <note>Label for toast alerting a custom URL has been added</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin" xml:space="preserve">
@@ -248,7 +248,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.duplicateUrl" xml:space="preserve">
         <source>URL already exists</source>
-        <target>URL adresa už existuje</target>
+        <target>Adresa URL už existuje</target>
         <note>Label for toast alerting that the custom URL being added is a duplicate</note>
       </trans-unit>
       <trans-unit id="Autocomplete.emptyState" xml:space="preserve">
@@ -1223,7 +1223,7 @@
       </trans-unit>
       <trans-unit id="browser.copyAddressToast" xml:space="preserve">
         <source>URL Copied To Clipboard</source>
-        <target>URL adresa zkopírována do schránky</target>
+        <target>Adresa URL zkopírována do schránky</target>
         <note>Toast displayed after a URL has been copied to the clipboard</note>
       </trans-unit>
       <trans-unit id="browserShortcutDescription.selectLocationBar" xml:space="preserve">
