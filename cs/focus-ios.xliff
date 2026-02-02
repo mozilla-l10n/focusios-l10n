@@ -253,7 +253,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.emptyState" xml:space="preserve">
         <source>No Custom URLs to display</source>
-        <target>Žádné vlastní URL adresy k zobrazení</target>
+        <target>Žádné vlastní adresy URL k zobrazení</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.enabled" xml:space="preserve">
