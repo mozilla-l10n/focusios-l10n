@@ -673,6 +673,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextRollouts" xml:space="preserve">
         <source>%@ will improve features, performance, and stability between updates. Changes applied remotely.</source>
+        <target>%@ melhorará as funcionalidades, o desempenho e a estabilidade entre atualizações. As alterações são aplicadas remotamente.</target>
         <note>Description associated to the Rollouts toggle on the settings screen. %@ is the app name (for example "Firefox Focus" or "Firefox Klar").</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
@@ -687,6 +688,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData.v2" xml:space="preserve">
         <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
+        <target>A Mozilla esforça-se por recolher apenas o que precisamos para fornecer e melhorar o %@ para todos.</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (for example "Firefox Focus" or "Firefox Klar").</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextStudies" xml:space="preserve">
@@ -696,6 +698,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextStudies.v2" xml:space="preserve">
         <source>%@ randomly selects users to test features, which improves quality for everyone.</source>
+        <target>%@ seleciona utilizadores aleatoriamente para testar as funcionalidades, o que melhora a qualidade para todos.</target>
         <note>Description associated to the Studies toggle on the settings screen. %@ is the app name (for example "Firefox Focus" or "Firefox Klar").</note>
       </trans-unit>
       <trans-unit id="Settings.general" xml:space="preserve">
@@ -830,6 +833,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleRollouts" xml:space="preserve">
         <source>Allow Remote Improvements</source>
+        <target>Permitir melhorias remotas</target>
         <note>Label for Rollouts toggle on the settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSafari" xml:space="preserve">
