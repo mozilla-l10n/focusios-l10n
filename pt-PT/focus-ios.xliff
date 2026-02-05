@@ -853,6 +853,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleStudies.v2" xml:space="preserve">
         <source>Allow Feature Studies</source>
+        <target>Permitir estudos de funcionalidades</target>
         <note>Label for Studies toggle on the settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleTouchID" xml:space="preserve">
