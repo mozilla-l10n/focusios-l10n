@@ -953,12 +953,12 @@
       </trans-unit>
       <trans-unit id="ShortcutView.Rename" xml:space="preserve">
         <source>Rename Shortcut</source>
-        <target>Renominar via-breve</target>
+        <target>Renominar accesso directe</target>
         <note>Text for the long press on a shortcut rename option in context menu.</note>
       </trans-unit>
       <trans-unit id="ShortcutView.RenameShortcutAlertPlaceholder" xml:space="preserve">
         <source>Shortcut name</source>
-        <target>Nomine via-breve</target>
+        <target>Nomine del accesso directe</target>
         <note>Text for the placeholder textfield on rename shortcut alert.</note>
       </trans-unit>
       <trans-unit id="ShortcutView.RenameShortcutAlertPrimaryAction" xml:space="preserve">
@@ -1312,7 +1312,7 @@
     <body>
       <trans-unit id="TodayWidget.QuickActionGalleryDescription" xml:space="preserve">
         <source>Add a %@ shortcut to your Home screen. After adding the widget, touch and hold to edit it and select a different shortcut.</source>
-        <target>Adde un via-breve pro %@ a tu Pagina initial. Post le addition del widget, tocca e retene pro modificar lo e elige un differente via-breve.</target>
+        <target>Adde un accesso directe a %@ a tu Pagina initial. Post le addition del widget, tocca e retene pro modificar lo e seliger un altere accesso directe.</target>
         <note>Description for small size widget to add it to home screen. %@ is the name of the app(Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionGalleryDescriptionV2" xml:space="preserve">
