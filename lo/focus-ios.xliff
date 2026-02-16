@@ -673,6 +673,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextRollouts" xml:space="preserve">
         <source>%@ will improve features, performance, and stability between updates. Changes applied remotely.</source>
+        <target>%@ ຈະປັບປຸງຄຸນສົມບັດ, ປະສິດທິພາບ ແລະ ຄວາມໝັ້ນຄົງລະຫວ່າງການອັບເດດ. ການປ່ຽນແປງຈະຖືກນຳໃຊ້ຈາກໄລຍະໄກ.</target>
         <note>Description associated to the Rollouts toggle on the settings screen. %@ is the app name (for example "Firefox Focus" or "Firefox Klar").</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
@@ -687,6 +688,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData.v2" xml:space="preserve">
         <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
+        <target>Mozilla ພະຍາຍາມທີ່ຈະເກັບຮວບຮ່ວມສະເພາະສິ່ງທີ່ຈຳເປັນຕໍ່ການປັບປູງ %@ ສຳລັບທຸກໆຄົນ.</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (for example "Firefox Focus" or "Firefox Klar").</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextStudies" xml:space="preserve">
@@ -696,6 +698,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextStudies.v2" xml:space="preserve">
         <source>%@ randomly selects users to test features, which improves quality for everyone.</source>
+        <target>%@ ຈະເລືອກຜູ້ໃຊ້ແບບສຸ່ມເພື່ອທົດສອບຄຸນສົມບັດຕ່າງໆ, ເຊິ່ງຊ່ວຍປັບປຸງຄຸນນະພາບໃຫ້ກັບທຸກຄົນ.</target>
         <note>Description associated to the Studies toggle on the settings screen. %@ is the app name (for example "Firefox Focus" or "Firefox Klar").</note>
       </trans-unit>
       <trans-unit id="Settings.general" xml:space="preserve">
