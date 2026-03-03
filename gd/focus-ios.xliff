@@ -393,10 +393,12 @@
       </trans-unit>
       <trans-unit id="Network.Offline.ErrorMessage" xml:space="preserve">
         <source>The Internet connection appears to be offline.</source>
+        <target>Tha coltas nach eil ceangal ris an eadar-lìon.</target>
         <note>Error message shown when no internet connection is available</note>
       </trans-unit>
       <trans-unit id="Network.Offline.RetryButton" xml:space="preserve">
         <source>Try Again</source>
+        <target>Feuch ris a-rithist</target>
         <note>Button text for retrying network connection</note>
       </trans-unit>
       <trans-unit id="NewOnboarding.Button.Title.V2" xml:space="preserve">
@@ -491,6 +493,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.ButtonTextV2" xml:space="preserve">
         <source>Continue</source>
+        <target>Air adhart</target>
         <note>Label for the agreement button in the Terms of Use screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.Done.ButtonText" xml:space="preserve">
@@ -670,6 +673,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextRollouts" xml:space="preserve">
         <source>%@ will improve features, performance, and stability between updates. Changes applied remotely.</source>
+        <target>Bheir %@ piseach air gleusan, dèanadas is seasmhachd fiù eadar tionndaidhean ùra. Thèid na h-atharraichean seo a chur an sàs o chèin.</target>
         <note>Description associated to the Rollouts toggle on the settings screen. %@ is the app name (for example "Firefox Focus" or "Firefox Klar").</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
@@ -684,6 +688,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData.v2" xml:space="preserve">
         <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
+        <target>Tha Mozilla an dealas dìreach an dàta a chruinneachadh a dh’fheumas sinn airson %@ a sholar is a leasachadh dhan a h-uile duine.</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (for example "Firefox Focus" or "Firefox Klar").</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextStudies" xml:space="preserve">
@@ -693,6 +698,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextStudies.v2" xml:space="preserve">
         <source>%@ randomly selects users to test features, which improves quality for everyone.</source>
+        <target>Taghaidh %@ cleachdaichean air thuaiream is bheir e dhaibh cothrom gleusan a chur fo dheuchainn, rud a nì e nas fheàrr dhan a h-uile duine.</target>
         <note>Description associated to the Studies toggle on the settings screen. %@ is the app name (for example "Firefox Focus" or "Firefox Klar").</note>
       </trans-unit>
       <trans-unit id="Settings.general" xml:space="preserve">
@@ -827,6 +833,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleRollouts" xml:space="preserve">
         <source>Allow Remote Improvements</source>
+        <target>Ceadaich leasachadh cèin</target>
         <note>Label for Rollouts toggle on the settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSafari" xml:space="preserve">
@@ -846,6 +853,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleStudies.v2" xml:space="preserve">
         <source>Allow Feature Studies</source>
+        <target>Ceadaich obair-rannsachaidh air gleusan</target>
         <note>Label for Studies toggle on the settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleTouchID" xml:space="preserve">
