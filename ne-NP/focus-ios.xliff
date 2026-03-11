@@ -153,7 +153,7 @@
       </trans-unit>
       <trans-unit id="About.rowTerms" xml:space="preserve">
         <source>Terms of Use</source>
-        <target>प्रयोग सर्तहरू</target>
+        <target>प्रयोगका सर्तहरू</target>
         <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet1" xml:space="preserve">
@@ -478,7 +478,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Title" xml:space="preserve">
         <source>Protection at your own discretion</source>
-        <target>तपाईंको आफ्नै विवेकमा सुरक्षा</target>
+        <target>आफ्नै निर्णयअनुसार सुरक्षा</target>
         <note>Text for a label that indicates the title of protection section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Subtitle" xml:space="preserve">
@@ -488,12 +488,12 @@
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.ButtonText" xml:space="preserve">
         <source>Agree and Continue</source>
-        <target>सहमत हुनुहोस् र जारी राख्नुहोस्</target>
+        <target>सहमति जनाउनुहोस् र अगाडि बढ्नुहोस्</target>
         <note>Label for the agreement button in the Terms of Use screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.ButtonTextV2" xml:space="preserve">
         <source>Continue</source>
-        <target>जारी राख्नुहोस्</target>
+        <target>अगाडि बढ्नुहोस्</target>
         <note>Label for the agreement button in the Terms of Use screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.Done.ButtonText" xml:space="preserve">
@@ -503,12 +503,12 @@
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.LinkText" xml:space="preserve">
         <source>Firefox Terms of Use</source>
-        <target>Firefox प्रयोग सर्तहरू</target>
+        <target>Firefox प्रयोगका सर्तहरू</target>
         <note>Used as a text for the link in Onboarding.TermsOfUse.Text.</note>
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.Subtitle" xml:space="preserve">
         <source>Fast. Private. No distractions.</source>
-        <target>छिटो। निजी। कुनै अवरोधहरु।</target>
+        <target>छिटो। गोप्य। ध्यान बिथोल्ने कुराहरू छैनन्।</target>
         <note>Subtitle for the Terms of Use screen during onboarding.</note>
       </trans-unit>
       <trans-unit id="Onboarding.TermsOfUse.Text" xml:space="preserve">
@@ -538,7 +538,7 @@
       </trans-unit>
       <trans-unit id="Safari.instructionsExtentions" xml:space="preserve">
         <source>Select Safari, then select Extensions</source>
-        <target>सफारी चयन गर्नुहोस्, त्यसपछि विस्तार चयन गर्नुहोस्</target>
+        <target>सफारी छान्नुहोस्, त्यसपछि एक्सटेन्सनहरू छान्नुहोस्</target>
         <note>Label for instructions to enable extensions in Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsNotEnabled" xml:space="preserve">
@@ -553,7 +553,7 @@
       </trans-unit>
       <trans-unit id="Safari.openInstruction" xml:space="preserve">
         <source>Open device settings</source>
-        <target>यन्त्रको सेटिङहरू खोल्नुहोस्</target>
+        <target>उपकरणको सेटिङहरू खोल्नुहोस्</target>
         <note>Label for instructions to enable extensions in Safari, shown when enabling Safari Integration in Settings</note>
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
@@ -593,7 +593,7 @@
       </trans-unit>
       <trans-unit id="Settings.DailyUsagePing.Title" xml:space="preserve">
         <source>Daily Usage Ping</source>
-        <target>दैनिक उपयोग पिङ</target>
+        <target>दैनिक प्रयोग पिङ</target>
         <note>On the Settings screen, this is the title text for a toggle which controls automatically sending daily usage ping.</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton" xml:space="preserve">
