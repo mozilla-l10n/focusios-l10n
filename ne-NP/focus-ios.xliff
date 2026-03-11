@@ -833,7 +833,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleRollouts" xml:space="preserve">
         <source>Allow Remote Improvements</source>
-        <target>टाढाको सुधारहरूलाई अनुमति दिनुहोस्</target>
+        <target>टाढाबाट सुधार गर्न अनुमति दिनुहोस्</target>
         <note>Label for Rollouts toggle on the settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSafari" xml:space="preserve">
@@ -853,7 +853,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleStudies.v2" xml:space="preserve">
         <source>Allow Feature Studies</source>
-        <target>सुविधा अध्ययनलाई अनुमति दिनुहोस्</target>
+        <target>फिचर अध्ययनहरू गर्न अनुमति दिनुहोस्</target>
         <note>Label for Studies toggle on the settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleTouchID" xml:space="preserve">
@@ -978,7 +978,7 @@
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepOne.V2" xml:space="preserve">
         <source>Long press on the Home screen until the icons start to jiggle.</source>
-        <target>आइकनहरूले पल्टाउन सुरु नगरेसम्म गृह स्क्रिनमा थिच्नुहोस्।</target>
+        <target>गृह स्क्रिनमा आइकनहरू हल्लिन थाल्ने सम्म लामो समयसम्म थिचेर राख्नुहोस्।</target>
         <note>This is the subtitle text for step one that is displayed in the Show Me How Onboarding Screen</note>
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepThree.V2" xml:space="preserve">
@@ -1118,7 +1118,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.ContextMenu" xml:space="preserve">
         <source>Go to Settings to manage specific privacy &amp; security options.</source>
-        <target>विशिष्ट गोपनीयता &amp; सुरक्षा विकल्पहरू व्यवस्थापन गर्न सेटिङ्गहरूमा जानुहोस्।</target>
+        <target>विशेष गोपनीयता र सुरक्षा विकल्पहरू व्यवस्थापन गर्न सेटिङमा जानुहोस्।</target>
         <note>This is the body text that is displayed for the Context Menu icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.Privacy" xml:space="preserve">
@@ -1128,7 +1128,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.SearchBar" xml:space="preserve">
         <source>Start your private browsing session, and we’ll block trackers and other bad stuff as you go.</source>
-        <target>आफ्नो निजी ब्राउजिङ्ग सत्र सुरु गर्नुहोस्, र हामी तपाईँलाई जाँदा ट्र्याकरहरू र अन्य नराम्रो सामग्री रोक्नेछौं।</target>
+        <target>आफ्नो निजी ब्राउजिङ सत्र सुरु गर्नुहोस्, र तपाईं इन्टरनेट चलाउँदा हामी ट्रयाकरहरू र अन्य हानिकारक सामग्रीहरू रोक्नेछौं</target>
         <note>This is the body text that is displayed for the Search Bar tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.ShieldIcon" xml:space="preserve">
@@ -1138,7 +1138,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.ShieldIconTrackerBlocked.V2" xml:space="preserve">
         <source>Got ‘em! We stopped this site from spying on you. Tap the shield any time to see what we’re blocking.</source>
-        <target>तिनीहरूलाई बुझे! हामीले यो साइटलाई तपाईंको जासुसी गर्नबाट रोक्यौं। हामीले के रोक्दै छौँ भनेर हेर्न कुनै पनि समय शिल्डमा ट्याप गर्नुहोस्।</target>
+        <target>पक्र्यौं! हामीले यो साइटलाई तपाईंमाथि जासुसी गर्नबाट रोक्यौं। हामी के रोकिरहेका छौं भनेर हेर्न कहिल्यै पनि शिल्डमा ट्याप गर्नुहोस्!</target>
         <note>This is the body text that is displayed for the Shield icon tooltip when we block trackers for the first time on a website</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon" xml:space="preserve">
@@ -1148,7 +1148,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon.V2" xml:space="preserve">
         <source>Tap here to trash it all — history, cookies, everything — and start fresh on a new tab.</source>
-        <target>यो सबै रद्दी टोकरीमा गर्न यहाँ ट्याप गर्नुहोस् - इतिहास, कुकीहरू, सबै कुरा — र नयाँ ट्याबमा ताजा सुरु गर्नुहोस्।</target>
+        <target>यहाँ ट्याप गरेर इतिहास, कुकीहरू, सबै कुरा हटाउनुहोस् — अनि नयाँ ट्याबमा सफा रूपमा सुरु गर्नुहोस्</target>
         <note>This is the body text that is displayed for the Trash icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipTitleText.Privacy" xml:space="preserve">
@@ -1203,12 +1203,12 @@
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.ActionButton" xml:space="preserve">
         <source>Show Me How</source>
-        <target>कसरी देखाउनुहोस्</target>
+        <target>मलाई कसरी गर्ने भनेर देखाउनुहोस्</target>
         <note>Title for the action button shown on card view that will take the user to a tutorial explaining the user how to add an widget</note>
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.Subtitle" xml:space="preserve">
         <source>We’ll leave you to your private browsing, but get a quicker start next time with the %@ widget on your Home screen.</source>
-        <target>हामी तपाईंलाई तपाईंको निजी ब्राउजिङ्ग गर्न छोड्नेछौं, तर तपाईंको गृह स्क्रिनमा %@ विजेटको साथ अर्को पटक छिटो सुरुवात प्राप्त गर्नुहोस्।</target>
+        <target>हामी तपाईंलाई निजी ब्राउजिङ गर्न दिन्छौं, तर अर्को पटक आफ्नो गृह स्क्रिनमा %@ विजेट प्रयोग गरेर छिटो सुरु गर्नुहोस्।</target>
         <note>Subtitle shown on card view explaining the app has a widget option. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.Title" xml:space="preserve">
@@ -1317,7 +1317,7 @@
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionGalleryDescriptionV2" xml:space="preserve">
         <source>Start a private search in %@ with your default search engine.</source>
-        <target>आफ्नो पूर्वनिर्धारित खोज इन्जिनद्वारा %@मा निजी खोज सुरु गर्नुहोस्।</target>
+        <target>%@ मा आफ्नो डिफल्ट खोज इन्जिन प्रयोग गरेर निजी खोज आरम्भ गर्नुहोस्।</target>
         <note>Description for small size widget to add it to home screen. %@ is the name of the app(Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionsGalleryTitle" xml:space="preserve">
