@@ -698,7 +698,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextStudies.v2" xml:space="preserve">
         <source>%@ randomly selects users to test features, which improves quality for everyone.</source>
-        <target>%@ 将随机选择用户测试功能，以为全体用户改进质量。</target>
+        <target>%@ 会随机选择用户测试功能，以为全体用户改进质量。</target>
         <note>Description associated to the Studies toggle on the settings screen. %@ is the app name (for example "Firefox Focus" or "Firefox Klar").</note>
       </trans-unit>
       <trans-unit id="Settings.general" xml:space="preserve">
