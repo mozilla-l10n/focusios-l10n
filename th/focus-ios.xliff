@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="Intents.Erase.Description" xml:space="preserve">
         <source>Erase browsing session</source>
-        <target>ลบวาระการเรียกดูเว็บ</target>
+        <target>ลบเซสชันการเรียกดูเว็บ</target>
         <note/>
       </trans-unit>
       <trans-unit id="Intents.Erase.Title" xml:space="preserve">
@@ -61,7 +61,7 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description" xml:space="preserve">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
-        <target>ล้างประวัติ รหัสผ่าน และคุกกี้ในวาระการเรียกดูเว็บทั้งหมดของคุณได้ทุกเวลาด้วยเพียงแตะเดียว</target>
+        <target>ล้างประวัติ รหัสผ่าน และคุกกี้ในเซสชันการเรียกดูเว็บทั้งหมดของคุณได้ทุกเวลาด้วยเพียงแตะเดียว</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title" xml:space="preserve">
@@ -288,7 +288,7 @@
       </trans-unit>
       <trans-unit id="BiometricPrompt.newSession" xml:space="preserve">
         <source>New Session</source>
-        <target>วาระใหม่</target>
+        <target>เซสชันใหม่</target>
         <note>Create a new session after failing a biometric check</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel" xml:space="preserve">
@@ -1088,7 +1088,7 @@
       </trans-unit>
       <trans-unit id="Tip.SiriErase.Title" xml:space="preserve">
         <source>“Siri, erase my %@ session.”</source>
-        <target>“Siri ลบวาระ %@ ของฉัน”</target>
+        <target>“Siri ลบเซสชัน %@ ของฉัน”</target>
         <note>Text for a label that indicates the title for siri erase tip. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Tip.SiriFavorite.Description" xml:space="preserve">
@@ -1128,7 +1128,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.SearchBar" xml:space="preserve">
         <source>Start your private browsing session, and we’ll block trackers and other bad stuff as you go.</source>
-        <target>เริ่มวาระการท่องเว็บแบบส่วนตัว แล้วเราจะปิดกั้นตัวติดตามและสิ่งไม่พึงประสงค์ในขณะที่คุณใช้งาน</target>
+        <target>เริ่มเซสชันการท่องเว็บแบบส่วนตัว แล้วเราจะปิดกั้นตัวติดตามและสิ่งไม่พึงประสงค์ในขณะที่คุณใช้งาน</target>
         <note>This is the body text that is displayed for the Search Bar tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.ShieldIcon" xml:space="preserve">
@@ -1143,7 +1143,7 @@
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon" xml:space="preserve">
         <source>Tap the trash anytime to remove all traces of your current session.</source>
-        <target>แตะที่ถังขยะเมื่อใดก็ได้เพื่อลบร่องรอยการใช้งานทั้งหมดในวาระปัจจุบันของคุณออก</target>
+        <target>แตะที่ถังขยะเมื่อใดก็ได้เพื่อลบร่องรอยการใช้งานทั้งหมดในเซสชันปัจจุบันของคุณออก</target>
         <note>This is the body text that is displayed for the Trash icon tooltip</note>
       </trans-unit>
       <trans-unit id="TooltipBodyText.TrashIcon.V2" xml:space="preserve">
@@ -1268,12 +1268,12 @@
       </trans-unit>
       <trans-unit id="trackingProtection.statusOff" xml:space="preserve">
         <source>Protections are OFF for this session</source>
-        <target>การป้องกันถูก ปิด สำหรับวาระนี้</target>
+        <target>การป้องกันถูก ปิด สำหรับเซสชันนี้</target>
         <note>Text for the status off from Tracking Protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.statusOn" xml:space="preserve">
         <source>Protections are ON for this session</source>
-        <target>การป้องกันถูก เปิด สำหรับวาระนี้</target>
+        <target>การป้องกันถูก เปิด สำหรับเซสชันนี้</target>
         <note>Text for the status on from Tracking Protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel2" xml:space="preserve">
