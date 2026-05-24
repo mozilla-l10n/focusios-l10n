@@ -983,7 +983,7 @@
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepThree.V2" xml:space="preserve">
         <source>Search for %@. Then choose a widget.</source>
-        <target>Tìm kiếm %@. Sau đó chọn tiện ích hiển thị.</target>
+        <target>Tìm kiếm %@. Sau đó chọn widget.</target>
         <note>This is the subtitle text for step three that is displayed in the Show Me How onboarding screen. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.SubtitleStepTwo.V2" xml:space="preserve">
@@ -993,7 +993,7 @@
       </trans-unit>
       <trans-unit id="ShowMeHowOnboarding.Title.V2" xml:space="preserve">
         <source>Add a %@ Widget</source>
-        <target>Hiển thị thêm %@</target>
+        <target>Thêm widget %@</target>
         <note>This is the title text that is displayed in the Show Me How Onboarding Screen. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Siri.add" xml:space="preserve">
@@ -1208,7 +1208,7 @@
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.Subtitle" xml:space="preserve">
         <source>We’ll leave you to your private browsing, but get a quicker start next time with the %@ widget on your Home screen.</source>
-        <target>Chúng tôi sẽ để bạn ở chế độ duyệt web riêng tư, nhưng hãy bắt đầu nhanh hơn vào lần sau với tiện ích %@ trên màn hình chính của bạn.</target>
+        <target>Chúng tôi sẽ để bạn ở chế độ duyệt web riêng tư, nhưng hãy bắt đầu nhanh hơn vào lần sau với widget %@ trên màn hình chính của bạn.</target>
         <note>Subtitle shown on card view explaining the app has a widget option. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="WidgetOnboardingCard.Title" xml:space="preserve">
@@ -1312,7 +1312,7 @@
     <body>
       <trans-unit id="TodayWidget.QuickActionGalleryDescription" xml:space="preserve">
         <source>Add a %@ shortcut to your Home screen. After adding the widget, touch and hold to edit it and select a different shortcut.</source>
-        <target>Thêm lối tắt %@ vào màn hình chính của bạn. Sau khi thêm tiện ích, hãy nhấn và giữ để chỉnh sửa tiện ích và chọn một lối tắt khác.</target>
+        <target>Thêm lối tắt %@ vào màn hình chính của bạn. Sau khi thêm tiện ích, hãy chạm và giữ để chỉnh sửa widget và chọn một lối tắt khác.</target>
         <note>Description for small size widget to add it to home screen. %@ is the name of the app(Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionGalleryDescriptionV2" xml:space="preserve">
