@@ -583,7 +583,7 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptTitle" xml:space="preserve">
         <source>Show Search Suggestions?</source>
-        <target>Jelenítsen-e meg keresési javaslatokat?</target>
+        <target>Megjelenjenek a keresési javaslatok?</target>
         <note>Title for search suggestions prompt</note>
       </trans-unit>
       <trans-unit id="Settings.DailyUsagePing.Message" xml:space="preserve">
