@@ -773,7 +773,7 @@
       </trans-unit>
       <trans-unit id="Settings.systemTheme" xml:space="preserve">
         <source>System Theme</source>
-        <target>Мавзуи низомӣ</target>
+        <target>Мавзуи низоми компютерӣ</target>
         <note>System value for theme section in settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.theme" xml:space="preserve">
