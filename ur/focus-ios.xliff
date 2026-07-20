@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="Blockzilla/Base.lproj/Intents.intentdefinition" source-language="en" target-language="ur" datatype="plaintext">
+  <file original="Blockzilla/Base.lproj/Intents.intentdefinition" source-language="en" datatype="plaintext" target-language="ur">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
@@ -16,7 +16,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Blockzilla/en.lproj/InfoPlist.strings" source-language="en" target-language="ur" datatype="plaintext">
+  <file original="Blockzilla/en.lproj/InfoPlist.strings" source-language="en" datatype="plaintext" target-language="ur">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
@@ -53,7 +53,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Blockzilla/en.lproj/Intro.strings" source-language="en" target-language="ur" datatype="plaintext">
+  <file original="Blockzilla/en.lproj/Intro.strings" source-language="en" datatype="plaintext" target-language="ur">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
@@ -100,7 +100,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" target-language="ur" datatype="plaintext">
+  <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="ur">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
@@ -1195,7 +1195,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="ContentBlocker/en.lproj/InfoPlist.strings" source-language="en" target-language="ur" datatype="plaintext">
+  <file original="ContentBlocker/en.lproj/InfoPlist.strings" source-language="en" datatype="plaintext" target-language="ur">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
@@ -1206,7 +1206,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Widgets/en.lproj/Localizable.strings" source-language="en" target-language="ur" datatype="plaintext">
+  <file original="Widgets/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="ur">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
