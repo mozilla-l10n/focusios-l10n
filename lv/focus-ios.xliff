@@ -497,6 +497,7 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptMessage" xml:space="preserve">
         <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
+        <target>Lai iegūtu ieteikumus, %@ nepieciešams adreses joslā ievadīto nosūtīt meklētājam.</target>
         <note>%@ is the app name (for example “Firefox Focus” or ”Firefox Klar”). Label for search suggestions prompt message</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptTitle" xml:space="preserve">
@@ -581,6 +582,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
         <source>%@ will send what you type in the address bar to your search engine.</source>
+        <target>%@ adreses joslā ievadīto nosūtīs meklētājam.</target>
         <note>Description associated to the Search Suggestions toggle on main screen. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData" xml:space="preserve">
