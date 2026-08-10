@@ -703,6 +703,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleRollouts" xml:space="preserve">
         <source>Allow Remote Improvements</source>
+        <target>Atļaut attālos uzlabojumus</target>
         <note>Label for Rollouts toggle on the settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSafari" xml:space="preserve">
