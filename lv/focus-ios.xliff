@@ -7,10 +7,12 @@
     <body>
       <trans-unit id="Intents.Erase.Description" xml:space="preserve">
         <source>Erase browsing session</source>
+        <target>Izdzēst pārlūkošanas sesiju</target>
         <note/>
       </trans-unit>
       <trans-unit id="Intents.Erase.Title" xml:space="preserve">
         <source>Erase</source>
+        <target>Izdzēst</target>
         <note/>
       </trans-unit>
     </body>
@@ -47,6 +49,7 @@
       </trans-unit>
       <trans-unit id="UIApplicationShortcutItemTitle.EraseAndOpen" xml:space="preserve">
         <source>Erase and Open</source>
+        <target>Izdzēst un atvērt</target>
         <note>This is the menu item that appears when you long press the Focus icon on the phone home screen.</note>
       </trans-unit>
     </body>
@@ -134,10 +137,12 @@
       </trans-unit>
       <trans-unit id="About.rowRights" xml:space="preserve">
         <source>Your Rights</source>
+        <target>Tavas tiesības</target>
         <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.rowTerms" xml:space="preserve">
         <source>Terms of Use</source>
+        <target>Pakalpojuma izmantošanas nosacījumi</target>
         <note>Label for row in About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet1" xml:space="preserve">
@@ -156,6 +161,7 @@
       </trans-unit>
       <trans-unit id="About.title" xml:space="preserve">
         <source>About %@</source>
+        <target>Par %@</target>
         <note>%@ is the app name (for example “Firefox Focus” or ”Firefox Klar”). Title displayed in the settings screen that, when tapped, takes the user to a page with information about the product. Also displayed as a header for the About page.</note>
       </trans-unit>
       <trans-unit id="About.topLabel" xml:space="preserve">
@@ -164,14 +170,17 @@
       </trans-unit>
       <trans-unit id="AddPass.Error.Dismiss" xml:space="preserve">
         <source>Ok</source>
+        <target>Labi</target>
         <note>Button to dismiss the 'Add Pass Failed' alert.</note>
       </trans-unit>
       <trans-unit id="AddPass.Error.Message" xml:space="preserve">
         <source>An error occured while adding the pass to Wallet. Please try again later.</source>
+        <target>Atgadījās kļūda ar caurlaides pievienošanu Wallet. Lūgums vēlāk mēģināt vēlreiz.</target>
         <note>Message of the 'Add Pass Failed' alert.</note>
       </trans-unit>
       <trans-unit id="AddPass.Error.Title" xml:space="preserve">
         <source>Failed to Add Pass</source>
+        <target>Neizdevās pievienot caurlaidi</target>
         <note>Title of the 'Add Pass Failed' alert.</note>
       </trans-unit>
       <trans-unit id="Authentication.reason" xml:space="preserve">
@@ -180,30 +189,37 @@
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrl" xml:space="preserve">
         <source>Add Custom URL</source>
+        <target>Pievienot pielāgotu URL</target>
         <note>Label for button to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlError" xml:space="preserve">
         <source>Double-check the URL you entered.</source>
+        <target>Kārtīgi jāpārbauda ievadītais URL.</target>
         <note>Label for error state when entering an invalid URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlExample" xml:space="preserve">
         <source>Example: example.com</source>
+        <target>Piemērs: example.com</target>
         <note>A label displaying an example URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlLabel" xml:space="preserve">
         <source>URL to add</source>
+        <target>Pievienojamais URL</target>
         <note>Label for the input to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlPlaceholder" xml:space="preserve">
         <source>Paste or enter URL</source>
+        <target>Ielīmē vai ievadi URL</target>
         <note>Placeholder for the input field to add a custom URL</note>
       </trans-unit>
       <trans-unit id="Autocomplete.addCustomUrlWithPlus" xml:space="preserve">
         <source>+ Add Custom URL</source>
+        <target>+ Pievienot pielāgotu URL</target>
         <note>Label for button to add a custom URL with the + prefix</note>
       </trans-unit>
       <trans-unit id="Autocomplete.customUrlAdded" xml:space="preserve">
         <source>New Custom URL added.</source>
+        <target>Pievienots jauns pielāgotais URL.</target>
         <note>Label for toast alerting a custom URL has been added</note>
       </trans-unit>
       <trans-unit id="Autocomplete.defaultDescriptoin" xml:space="preserve">
