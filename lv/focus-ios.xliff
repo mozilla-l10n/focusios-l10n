@@ -362,7 +362,7 @@
       </trans-unit>
       <trans-unit id="Network.Offline.ErrorMessage" xml:space="preserve">
         <source>The Internet connection appears to be offline.</source>
-        <target>Izskatās, ka interneta savienojums ir bezsaistē.</target>
+        <target>Šķiet, ka interneta savienojums ir bezsaistē.</target>
         <note>Error message shown when no internet connection is available</note>
       </trans-unit>
       <trans-unit id="Network.Offline.RetryButton" xml:space="preserve">
