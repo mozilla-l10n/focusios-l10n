@@ -367,6 +367,7 @@
       </trans-unit>
       <trans-unit id="Network.Offline.RetryButton" xml:space="preserve">
         <source>Try Again</source>
+        <target>Mēģināt vēlreiz</target>
         <note>Button text for retrying network connection</note>
       </trans-unit>
       <trans-unit id="NewOnboarding.Button.Title.V2" xml:space="preserve">
