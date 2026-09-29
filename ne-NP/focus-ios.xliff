@@ -691,16 +691,6 @@
         <target>Mozilla सबैको लागि %@ प्रदान र सुधार गर्न आवश्यक कुरा मात्र संकलन गर्ने प्रयास गर्दछ ।</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (for example "Firefox Focus" or "Firefox Klar").</note>
       </trans-unit>
-      <trans-unit id="Settings.detailTextStudies" xml:space="preserve">
-        <source>%@ may install and run studies from time to time.</source>
-        <target>%@ ले समय-समयमा अध्ययनहरू स्थापना गर्न र चलाउन सक्छ।</target>
-        <note>Description associated to the Studies toggle on the settings screen. %@ is the app name (for example "Firefox Focus" or "Firefox Klar").</note>
-      </trans-unit>
-      <trans-unit id="Settings.detailTextStudies.v2" xml:space="preserve">
-        <source>%@ randomly selects users to test features, which improves quality for everyone.</source>
-        <target>%@ अनियमित रूपमा प्रयोगकर्ताहरूलाई सुविधाहरू परीक्षण गर्न छनौट गर्दछ, जसले सबैका लागि गुणस्तर सुधार गर्दछ।</target>
-        <note>Description associated to the Studies toggle on the settings screen. %@ is the app name (for example "Firefox Focus" or "Firefox Klar").</note>
-      </trans-unit>
       <trans-unit id="Settings.general" xml:space="preserve">
         <source>General</source>
         <target>सामान्य</target>
@@ -845,16 +835,6 @@
         <source>Send usage data</source>
         <target>उपयोग डाटा पठाउनुहोस्</target>
         <note>Label for Send Usage Data toggle on main screen</note>
-      </trans-unit>
-      <trans-unit id="Settings.toggleStudies" xml:space="preserve">
-        <source>Studies</source>
-        <target>अध्ययनहरु</target>
-        <note>Label for Studies toggle on the settings screen</note>
-      </trans-unit>
-      <trans-unit id="Settings.toggleStudies.v2" xml:space="preserve">
-        <source>Allow Feature Studies</source>
-        <target>फिचर अध्ययनहरू गर्न अनुमति दिनुहोस्</target>
-        <note>Label for Studies toggle on the settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleTouchID" xml:space="preserve">
         <source>Use Touch ID to unlock app</source>
