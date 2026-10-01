@@ -546,6 +546,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.InstalledSearchEngines" xml:space="preserve">
         <source>INSTALLED SEARCH ENGINES</source>
+        <target>UZSTĀDĪTIE MEKLĒTĀJI</target>
         <note>Header for rows of installed search engines</note>
       </trans-unit>
       <trans-unit id="Settings.Search.NameToDisplay" xml:space="preserve">
@@ -559,6 +560,7 @@
       </trans-unit>
       <trans-unit id="Settings.Search.RestoreEngine" xml:space="preserve">
         <source>Restore Default Search Engines</source>
+        <target>Atjaunot noklusējuma meklētājus</target>
         <note>Label for button to bring deleted default engines back</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchEngineName" xml:space="preserve">
