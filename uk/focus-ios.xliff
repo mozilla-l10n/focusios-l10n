@@ -688,6 +688,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData.v2" xml:space="preserve">
         <source>Mozilla strives to collect only what we need to provide and improve %@ for everyone.</source>
+        <target>Mozilla зобов'язується збирати лише ті дані, що необхідні для роботи та вдосконалення %@.</target>
         <note>Description associated to the Send Usage Data toggle on main screen. %@ is the app name (for example "Firefox Focus" or "Firefox Klar").</note>
       </trans-unit>
       <trans-unit id="Settings.general" xml:space="preserve">
@@ -822,6 +823,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleRollouts" xml:space="preserve">
         <source>Allow Remote Improvements</source>
+        <target>Дозволити віддалені вдосконалення</target>
         <note>Label for Rollouts toggle on the settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleSafari" xml:space="preserve">
