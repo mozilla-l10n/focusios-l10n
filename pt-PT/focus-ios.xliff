@@ -523,7 +523,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.Title" xml:space="preserve">
         <source>Welcome to Firefox %@!</source>
-        <target>Bem-vindo(a) ao Firefox %@!</target>
+        <target>Boas-vindas ao Firefox %@!</target>
         <note>Text for a label that indicates the title for onboarding screen. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers" xml:space="preserve">
