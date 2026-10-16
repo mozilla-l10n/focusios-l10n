@@ -61,7 +61,7 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description" xml:space="preserve">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
-        <target>আপনার সম্পূর্ণ ব্রাউজিং সেশনের ইতিহাস, পাসওয়ার্ডগুলি, কুকিকে একবার ট্যাপ করে যে কোনো সময় সাফ করুন।</target>
+        <target>আপনার সম্পূর্ণ ব্রাউজিং সেশনের ইতিহাস, পাসওয়ার্ড, কুকিজকে একবার ট্যাপ করে যেকোনো সময় ক্লিয়ার করুন।</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title" xml:space="preserve">
@@ -76,7 +76,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description" xml:space="preserve">
         <source>Searching for something different? Choose a different search engine.</source>
-        <target>ভিন্ন কিছু খোঁজ করছেন? একটি নতুন সার্চইঞ্জিন ব্যবহার করে দেখুন।</target>
+        <target>ভিন্ন কিছু খোঁজ করছেন? নতুন সার্চ ইঞ্জিন বাছাই করে দেখুন।</target>
         <note>Description for the 'Favorite Search Engine' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Title" xml:space="preserve">
@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="About.missionLabel" xml:space="preserve">
         <source>%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.</source>
-        <target>%@ Mozilla দ্বারা প্রস্তুতকৃত। আমাদের মিশন হচ্ছে, ইন্টারনেটকে উন্মুক্ত রাখা এবং সেটির গুণগত মান বজায় রাখতে উৎসাহ দেওয়া।</target>
+        <target>%@ Mozilla দ্বারা নির্মিত। আমাদের লক্ষ্য একটি সুস্থ ও উন্মুক্ত ইন্টারনেট গড়ে তোলা।</target>
         <note>Label on About screen. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="About.privateBullet1" xml:space="preserve">
@@ -123,7 +123,7 @@
       </trans-unit>
       <trans-unit id="About.privateBullet2" xml:space="preserve">
         <source>Block trackers (or update settings to allow trackers)</source>
-        <target>ট্রাকারদেরকে অবরুদ্ধ করুন(অথবা ট্রাকারদের অনুমতি দিতে সেটিংস আপডেট করুন)</target>
+        <target>ট্র্যাকার ব্লক করুন (অথবা ট্র্যাকার অনুমোদনের জন্য সেটিংস আপডেট করুন)</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.privateBullet3" xml:space="preserve">
@@ -277,11 +277,12 @@
       </trans-unit>
       <trans-unit id="Autocomplete.topSites" xml:space="preserve">
         <source>Top Sites</source>
-        <target>শীর্ষ সাইট</target>
+        <target>শীর্ষ সাইটগুলো</target>
         <note>Label for enabling or disabling top sites</note>
       </trans-unit>
       <trans-unit id="BiometricAuthentication.UnlockButton.Title" xml:space="preserve">
         <source>Unlock</source>
+        <target>আনলক করুন</target>
         <note>Title for the action button shown on the Splash Screen which gives the user the ability to log in with biometrics.</note>
       </trans-unit>
       <trans-unit id="BiometricPrompt.newSession" xml:space="preserve">
