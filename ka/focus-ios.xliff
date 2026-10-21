@@ -863,7 +863,7 @@
       </trans-unit>
       <trans-unit id="Settinsg.siriShortcutsTitle" xml:space="preserve">
         <source>SIRI SHORTCUTS</source>
-        <target>SIRI-ს მალსახმობები</target>
+        <target>SIRI - ᲛᲐᲚᲡᲐᲮᲛᲝᲑᲔᲑᲘ</target>
         <note>Title for settings section to enable different Siri Shortcuts.</note>
       </trans-unit>
       <trans-unit id="ShareMenu.AddToShortcuts" xml:space="preserve">
