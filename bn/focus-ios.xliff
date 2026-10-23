@@ -447,22 +447,27 @@
       </trans-unit>
       <trans-unit id="Onboarding.History.Title" xml:space="preserve">
         <source>Your history doesn’t follow you</source>
+        <target>তোমার ইতিহাস তোমাকে অনুসরণ করে না</target>
         <note>Text for a label that indicates the title of history section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Incognito.Description" xml:space="preserve">
         <source>%@ is a dedicated privacy browser with tracking protection and content blocking.</source>
+        <target>%@ হলো ট্র্যাকিং সুরক্ষা ও কনটেন্ট ব্লকিং সুবিধাযুক্ত একটি বিশেষ প্রাইভেসি ব্রাউজার।</target>
         <note>Text for a label that indicates the description of incognito section from onboarding screen. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Onboarding.Incognito.Title" xml:space="preserve">
         <source>More than just incognito</source>
+        <target>শুধু নকগনিটোর চেয়েও বেশি</target>
         <note>Text for a label that indicates the title of incognito section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.PrivacyNotice.LinkText" xml:space="preserve">
         <source>Privacy Notice</source>
+        <target>গোপনীয়তা সংক্রান্ত নোটিশ</target>
         <note>Used as a text for the link in Onboarding.PrivacyNotice.Text.</note>
       </trans-unit>
       <trans-unit id="Onboarding.PrivacyNotice.Text" xml:space="preserve">
         <source>Firefox cares about your privacy. Read more in %@.</source>
+        <target>ফায়ারফক্স আপনার গোপনীয়তার বিষয়ে যত্নশীল। %@ এ বিস্তারিত পড়ুন।</target>
         <note>Text that describes Firefox's commitment to privacy. %@ is a link using Onboarding.PrivacyNotice.LinkText as text.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Description" xml:space="preserve">
@@ -679,6 +684,7 @@
       </trans-unit>
       <trans-unit id="Settings.licenses" xml:space="preserve">
         <source>Licenses</source>
+        <target>লাইসেন্সেস</target>
         <note>Lincese option in settings menu. Tapping the cell will take the user to a list of licences for the 3rd parties used in the app.</note>
       </trans-unit>
       <trans-unit id="Settings.lightTheme" xml:space="preserve">
