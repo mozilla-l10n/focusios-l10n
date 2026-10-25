@@ -76,7 +76,7 @@
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Description" xml:space="preserve">
         <source>Searching for something different? Choose a different search engine.</source>
-        <target>Hľadáte niečo iné? Vyberte si iný vyhľadávací modul.</target>
+        <target>Hľadáte niečo iné? Vyberte iný vyhľadávač.</target>
         <note>Description for the 'Favorite Search Engine' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Search.Title" xml:space="preserve">
@@ -578,7 +578,7 @@
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptMessage" xml:space="preserve">
         <source>To get suggestions, %@ needs to send what you type in the address bar to the search engine.</source>
-        <target>Ak chcete získavať návrhy vyhľadávania, %@ bude odosielať vami písaný text vyhľadávaciemu modulu.</target>
+        <target>Ak chcete získavať návrhy vyhľadávania, %@ bude odosielať vami písaný text do vyhľadávača.</target>
         <note>%@ is the app name (for example “Firefox Focus” or ”Firefox Klar”). Label for search suggestions prompt message</note>
       </trans-unit>
       <trans-unit id="SearchSuggestions.promptTitle" xml:space="preserve">
@@ -598,17 +598,17 @@
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineButton" xml:space="preserve">
         <source>Add Another Search Engine</source>
-        <target>Pridať ďalší vyhľadávací modul</target>
+        <target>Pridať ďalší vyhľadávač</target>
         <note>Text for button to add another search engine in settings</note>
       </trans-unit>
       <trans-unit id="Settings.Search.AddSearchEngineTitle" xml:space="preserve">
         <source>Add Search Engine</source>
-        <target>Pridať vyhľadávací modul</target>
+        <target>Pridať vyhľadávač</target>
         <note>Title on add search engine settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.Search.InstalledSearchEngines" xml:space="preserve">
         <source>INSTALLED SEARCH ENGINES</source>
-        <target>NAINŠTALOVANÉ VYHĽADÁVACIE MODULY</target>
+        <target>NAINŠTALOVANÉ VYHĽADÁVAČE</target>
         <note>Header for rows of installed search engines</note>
       </trans-unit>
       <trans-unit id="Settings.Search.NameToDisplay" xml:space="preserve">
@@ -618,17 +618,17 @@
       </trans-unit>
       <trans-unit id="Settings.Search.NewSearchEngineAdded" xml:space="preserve">
         <source>New Search Engine Added.</source>
-        <target>Bol pridaný nový vyhľadávací modul.</target>
+        <target>Pridaný nový vyhľadávač.</target>
         <note>Toast displayed after adding a search engine</note>
       </trans-unit>
       <trans-unit id="Settings.Search.RestoreEngine" xml:space="preserve">
         <source>Restore Default Search Engines</source>
-        <target>Obnoviť predvolené vyhľadávacie moduly</target>
+        <target>Obnoviť predvolené vyhľadávače</target>
         <note>Label for button to bring deleted default engines back</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchEngineName" xml:space="preserve">
         <source>Search engine name</source>
-        <target>Názov vyhľadávacieho modulu</target>
+        <target>Názov vyhľadávača</target>
         <note>Placeholder text for input of new search engine name</note>
       </trans-unit>
       <trans-unit id="Settings.Search.SearchTemplate" xml:space="preserve">
@@ -678,7 +678,7 @@
       </trans-unit>
       <trans-unit id="Settings.detailTextSearchSuggestion" xml:space="preserve">
         <source>%@ will send what you type in the address bar to your search engine.</source>
-        <target>%@ bude odosielať vami písaný text vyhľadávaciemu modulu.</target>
+        <target>%@ bude odosielať vami písaný text do vyhľadávača.</target>
         <note>Description associated to the Search Suggestions toggle on main screen. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Settings.detailTextSendUsageData" xml:space="preserve">
@@ -728,7 +728,7 @@
       </trans-unit>
       <trans-unit id="Settings.searchLabel" xml:space="preserve">
         <source>Search Engine</source>
-        <target>Vyhľadávací modul</target>
+        <target>Vyhľadávač</target>
         <note>Label for the search engine in the search screen</note>
       </trans-unit>
       <trans-unit id="Settings.searchSuggestions" xml:space="preserve">
@@ -1297,7 +1297,7 @@
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionGalleryDescriptionV2" xml:space="preserve">
         <source>Start a private search in %@ with your default search engine.</source>
-        <target>Začnite súkromné vyhľadávanie v prehliadači %@ pomocou vášho predvoleného vyhľadávacieho modulu.</target>
+        <target>Spustite súkromné vyhľadávanie v prehliadači %@ pomocou vášho predvoleného vyhľadávača.</target>
         <note>Description for small size widget to add it to home screen. %@ is the name of the app(Focus/Klar).</note>
       </trans-unit>
       <trans-unit id="TodayWidget.QuickActionsGalleryTitle" xml:space="preserve">
