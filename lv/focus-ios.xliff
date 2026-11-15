@@ -431,6 +431,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Description" xml:space="preserve">
         <source>Configure settings so you can decide how much or how little you share.</source>
+        <target>Pielāgo iestatījumus, lai vari izvēlēties, cik daudz vai maz kopīgo!</target>
         <note>Text for a label that indicates the description of protection section from onboarding screen.</note>
       </trans-unit>
       <trans-unit id="Onboarding.Protection.Title" xml:space="preserve">
