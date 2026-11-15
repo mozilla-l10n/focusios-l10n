@@ -415,6 +415,7 @@
       </trans-unit>
       <trans-unit id="Onboarding.Incognito.Description" xml:space="preserve">
         <source>%@ is a dedicated privacy browser with tracking protection and content blocking.</source>
+        <target>%@ ir īpašs privātuma pārlūks ar aizsardzību pret izsekošanu un satura liegšanu.</target>
         <note>Text for a label that indicates the description of incognito section from onboarding screen. %@ is the app name (for example “Firefox Focus” or ”Firefox Klar”).</note>
       </trans-unit>
       <trans-unit id="Onboarding.Incognito.Title" xml:space="preserve">
@@ -1111,6 +1112,7 @@
     <body>
       <trans-unit id="NSHumanReadableDescription" xml:space="preserve">
         <source>Content blocking and tracking protection from Mozilla</source>
+        <target>Satura liegšana un aizsardzība pret izsekošanu no Mozilla</target>
         <note>Human readable description</note>
       </trans-unit>
     </body>
