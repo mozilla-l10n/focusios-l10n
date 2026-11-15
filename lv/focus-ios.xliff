@@ -61,6 +61,7 @@
     <body>
       <trans-unit id="Intro.Slides.History.Description" xml:space="preserve">
         <source>Clear your entire browsing session history, passwords, cookies anytime with a single tap.</source>
+        <target>Jebkurā brīdī ar vienu piesitienu notīri visu pārlūkošanas sesijas vēsturi, paroles, sīkdatnes!</target>
         <note>Description for the 'History' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.History.Title" xml:space="preserve">
