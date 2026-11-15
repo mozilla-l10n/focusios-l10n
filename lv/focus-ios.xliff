@@ -257,6 +257,7 @@
       </trans-unit>
       <trans-unit id="Autocomplete.topSites" xml:space="preserve">
         <source>Top Sites</source>
+        <target>Apmeklētākās vietnes</target>
         <note>Label for enabling or disabling top sites</note>
       </trans-unit>
       <trans-unit id="BiometricAuthentication.UnlockButton.Title" xml:space="preserve">
